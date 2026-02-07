@@ -1,0 +1,27 @@
+---
+id: ceng-xie-he-han-zi-wen-wu-shou-qi-wu
+title: 和韩子文五首  其五
+titlePinyin: he2 han2 zi3 wen2 wu3 shou3     qi2 wu3
+titleSlug: he-han-zi-wen-wu-shou-qi-wu
+author: 曾协
+authorPinyin: ceng2 xie2
+authorSlug: ceng-xie
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 寒浅定知春已至，意闲仍觉日初长。
+- 已谙荣谢如空幻，一室萧然且坐忘。
+
+## 拼音
+- han2 qian3 ding4 zhi1 chun1 yi3 zhi4 ， yi4 xian2 reng2 jue2 ri4 chu1 chang2 。
+- yi3 an1 rong2 xie4 ru2 kong1 huan4 ， yi2 shi4 xiao1 ran2 qie3 zuo4 wang4 。
+
+## 注释
+
+## 译文
+
+## 赏析

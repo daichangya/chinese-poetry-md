@@ -1,0 +1,27 @@
+---
+id: ceng-ji-li-tao-hua
+title: 桃花
+titlePinyin: tao2 hua1
+titleSlug: tao-hua
+author: 曾季貍
+authorPinyin: ceng2 ji4 li2
+authorSlug: ceng-ji-li
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 衣裁缃缬态纤秾，犹在瑶池午醉中。
+- 嫌近清明时节令，趁渠新火一番红。
+
+## 拼音
+- yi1 cai2 xiang1 xie2 tai4 xian1 nong2 ， you2 zai4 yao2 chi2 wu3 zui4 zhong1 。
+- xian2 jin4 qing1 ming2 shi2 jie2 ling4 ， chen4 qu2 xin1 huo3 yi4 fan1 hong2 。
+
+## 注释
+
+## 译文
+
+## 赏析

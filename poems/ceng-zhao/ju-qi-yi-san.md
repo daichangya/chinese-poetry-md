@@ -1,0 +1,25 @@
+---
+id: ceng-zhao-ju-qi-yi-san
+title: 句  其一三
+titlePinyin: ju4     qi2 yi1 san1
+titleSlug: ju-qi-yi-san
+author: 曾肇
+authorPinyin: ceng2 zhao4
+authorSlug: ceng-zhao
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 文园渴疾正如酲，谁念流涎向侧生。
+
+## 拼音
+- wen2 yuan2 ke3 ji2 zheng4 ru2 cheng2 ， shui2 nian4 liu2 xian2 xiang4 ce4 sheng1 。
+
+## 注释
+
+## 译文
+
+## 赏析
