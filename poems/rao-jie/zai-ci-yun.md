@@ -1,0 +1,31 @@
+---
+id: rao-jie-zai-ci-yun
+title: 再次韵
+titlePinyin: zai4 ci4 yun4
+titleSlug: zai-ci-yun
+author: 饶节
+authorPinyin: rao2 jie2
+authorSlug: rao-jie
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 四海班扬誉，平生支许游。
+- 芝兰端秀润，杨柳未风流。
+- 异日玉堂草，何年石室筹。
+- 愿公随处用，择地岂真休。
+
+## 拼音
+- si4 hai3 ban1 yang2 yu4 ， ping2 sheng1 zhi1 xu3 you2 。
+- zhi1 lan2 duan1 xiu4 run4 ， yang2 liu3 wei4 feng1 liu2 。
+- yi4 ri4 yu4 tang2 cao3 ， he2 nian2 shi2 shi4 chou2 。
+- yuan4 gong1 sui2 chu4 yong4 ， ze2 di4 qi3 zhen1 xiu1 。
+
+## 注释
+
+## 译文
+
+## 赏析

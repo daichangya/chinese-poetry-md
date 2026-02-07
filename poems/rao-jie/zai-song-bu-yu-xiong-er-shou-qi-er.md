@@ -1,0 +1,27 @@
+---
+id: rao-jie-zai-song-bu-yu-xiong-er-shou-qi-er
+title: 再送不愚兄二首  其二
+titlePinyin: zai4 song4 bu4 yu2 xiong1 er4 shou3     qi2 er4
+titleSlug: zai-song-bu-yu-xiong-er-shou-qi-er
+author: 饶节
+authorPinyin: rao2 jie2
+authorSlug: rao-jie
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 今代识真人已少，纷纷鱼目乱骊珠。
+- 兄持万古连城璧，只可深藏莫似渠。
+
+## 拼音
+- jin1 dai4 shi2 zhen1 ren2 yi3 shao3 ， fen1 fen1 yu2 mu4 luan4 li2 zhu1 。
+- xiong1 chi2 wan4 gu3 lian2 cheng2 bi4 ， zhi1 ke3 shen1 cang2 mo4 si4 qu2 。
+
+## 注释
+
+## 译文
+
+## 赏析
