@@ -1,0 +1,33 @@
+---
+id: wang-bo-song-du-shao-fu-zhi-ren-shu-zhou-song-du-shao-fu-zhi-ren-shu-zhou-song-d-e6385586
+title: 送杜少府之任蜀州·送杜少府之任蜀州 / 送杜少府之任蜀川
+titlePinyin: song4 du4 shao4 fu3 zhi1 ren4 shu3 zhou1 · song4 du4 shao4 fu3 zhi1 ren4 shu3 zhou1   /   song4 du4 shao4 fu3 zhi1 ren4 shu3 chuan1
+titleSlug: song-du-shao-fu-zhi-ren-shu-zhou-song-du-shao-fu-zhi-ren-shu-zhou-song-d-e6385586
+author: 王勃
+authorPinyin: wang2 bo2
+authorSlug: wang-bo
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 蒙学
+  - 唐诗三百首
+  - 五言律诗
+---
+## 正文
+- 城阙辅三秦，风烟望五津。
+- 与君离别意，同是宦游人。
+- 海内存知己，天涯若比邻。
+- 无为在歧路，儿女共沾巾。
+
+## 拼音
+- cheng2 que1 fu3 san1 qin2 ， feng1 yan1 wang4 wu3 jin1 。
+- yu3 jun1 li2 bie2 yi4 ， tong2 shi4 huan4 you2 ren2 。
+- hai3 nei4 cun2 zhi1 ji3 ， tian1 ya2 ruo4 bi3 lin2 。
+- wu2 wei2 zai4 qi2 lu4 ， er2 nü3 gong4 zhan1 jin1 。
+
+## 注释
+
+## 译文
+
+## 赏析
