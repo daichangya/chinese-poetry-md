@@ -1,0 +1,25 @@
+---
+id: shi-zhi-ren-ju-qi-yi
+title: 句  其一
+titlePinyin: ju4     qi2 yi1
+titleSlug: ju-qi-yi
+author: 释智仁
+authorPinyin: shi4 zhi4 ren2
+authorSlug: shi-zhi-ren
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 寒声病叶落，晓色冻云开。
+
+## 拼音
+- han2 sheng1 bing4 ye4 luo4 ， xiao3 se4 dong4 yun2 kai1 。
+
+## 注释
+
+## 译文
+
+## 赏析

@@ -1,0 +1,27 @@
+---
+id: shi-zu-qin-ji-song-yi-bai-er-shi-san-shou-qi-er-jiu
+title: 偈颂一百二十三首  其二九
+titlePinyin: ji4 song4 yi4 bai3 er4 shi2 san1 shou3     qi2 er4 jiu3
+titleSlug: ji-song-yi-bai-er-shi-san-shou-qi-er-jiu
+author: 释祖钦
+authorPinyin: shi4 zu3 qin1
+authorSlug: shi-zu-qin
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 夜月透灵犀，寒光吞老蚌。
+- 如是转法轮，平沉乎万象。
+
+## 拼音
+- ye4 yue4 tou4 ling2 xi1 ， han2 guang1 tun1 lao3 bang4 。
+- ru2 shi4 zhuan3 fa3 lun2 ， ping2 chen2 hu1 wan4 xiang4 。
+
+## 注释
+
+## 译文
+
+## 赏析
