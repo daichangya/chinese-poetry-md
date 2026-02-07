@@ -1,0 +1,27 @@
+---
+id: yang-wan-li-zhang-zi-yi-tai-she-zhe-song-qiu-ri-hai-tang-er-shou-qi-er
+title: 张子仪太社折送秋日海棠二首  其二
+titlePinyin: zhang1 zi3 yi2 tai4 she4 zhe2 song4 qiu1 ri4 hai3 tang2 er4 shou3     qi2 er4
+titleSlug: zhang-zi-yi-tai-she-zhe-song-qiu-ri-hai-tang-er-shou-qi-er
+author: 杨万里
+authorPinyin: yang2 wan4 li3
+authorSlug: yang-wan-li
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 木蕖篱菊总无光，秋色今年付海棠。
+- 为底夜深花不睡，翠纱袖上月和霜。
+
+## 拼音
+- mu4 qu2 li2 ju2 zong3 wu2 guang1 ， qiu1 se4 jin1 nian2 fu4 hai3 tang2 。
+- wei4 di3 ye4 shen1 hua1 bu2 shui4 ， cui4 sha1 xiu4 shang4 yue4 he2 shuang1 。
+
+## 注释
+
+## 译文
+
+## 赏析

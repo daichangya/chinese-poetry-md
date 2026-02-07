@@ -1,0 +1,27 @@
+---
+id: yang-wan-li-ti-chi-gu-tong-ting-guan
+title: 题赤孤同亭馆
+titlePinyin: ti2 chi4 gu1 tong2 ting2 guan3
+titleSlug: ti-chi-gu-tong-ting-guan
+author: 杨万里
+authorPinyin: yang2 wan4 li3
+authorSlug: yang-wan-li
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 数菊能令客眼明，三峰端为此堂横。
+- 仆夫不敢催侬去，只道长沙尚八程。
+
+## 拼音
+- shu4 ju2 neng2 ling4 ke4 yan3 ming2 ， san1 feng1 duan1 wei4 ci3 tang2 heng2 。
+- pu2 fu1 bu4 gan3 cui1 nong2 qu4 ， zhi1 dao4 zhang3 sha1 shang4 ba1 cheng2 。
+
+## 注释
+
+## 译文
+
+## 赏析

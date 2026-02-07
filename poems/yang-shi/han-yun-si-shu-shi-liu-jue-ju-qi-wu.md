@@ -1,0 +1,27 @@
+---
+id: yang-shi-han-yun-si-shu-shi-liu-jue-ju-qi-wu
+title: 含云寺书事六绝句  其五
+titlePinyin: han2 yun2 si4 shu1 shi4 liu4 jue2 ju4     qi2 wu3
+titleSlug: han-yun-si-shu-shi-liu-jue-ju-qi-wu
+author: 杨时
+authorPinyin: yang2 shi2
+authorSlug: yang-shi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 竹间幽径草成围，藜杖穿云翠满衣。
+- 石上坐忘惊觉晚，山前明月伴人归。
+
+## 拼音
+- zhu2 jian1 you1 jing4 cao3 cheng2 wei2 ， li2 zhang4 chuan1 yun2 cui4 man3 yi1 。
+- shi2 shang4 zuo4 wang4 jing1 jue2 wan3 ， shan1 qian2 ming2 yue4 ban4 ren2 gui1 。
+
+## 注释
+
+## 译文
+
+## 赏析

@@ -1,0 +1,27 @@
+---
+id: yang-quan-lin-zhong-ji
+title: 临终偈
+titlePinyin: lin2 zhong1 ji4
+titleSlug: lin-zhong-ji
+author: 杨权
+authorPinyin: yang2 quan2
+authorSlug: yang-quan
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 七十九年梦觉，五湖四海随缘。
+- 拨转云头归去，晓日东升赤然。
+
+## 拼音
+- qi1 shi2 jiu3 nian2 meng4 jue2 ， wu3 hu2 si4 hai3 sui2 yuan2 。
+- bo1 zhuan3 yun2 tou2 gui1 qu4 ， xiao3 ri4 dong1 sheng1 chi4 ran2 。
+
+## 注释
+
+## 译文
+
+## 赏析

@@ -1,0 +1,43 @@
+---
+id: yang-yi-jun-min-yi-sui-ren-xing-qing-xiang-shuai-wei-zhai-yi-bao-shan-zheng-yong-db3c1170
+title: 郡民以岁稔刑清相率为斋以报善政永嘉聂从事赋诗纪其事因依韵足成一百言以谢之
+titlePinyin: jun4 min2 yi3 sui4 ren3 xing2 qing1 xiang1 shuai4 wei4 zhai1 yi3 bao4 shan4 zheng4 yong3 jia1 nie4 cong2 shi4 fu4 shi1 ji4 qi2 shi4 yin1 yi1 yun4 zu2 cheng2 yi4 bai3 yan2 yi3 xie4 zhi1
+titleSlug: jun-min-yi-sui-ren-xing-qing-xiang-shuai-wei-zhai-yi-bao-shan-zheng-yong-db3c1170
+author: 杨亿
+authorPinyin: yang2 yi4
+authorSlug: yang-yi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 为郡临瓯越，云泉兴未乖。
+- 欢谣乏襦袴，归思满荆柴。
+- 偶遂丰年望，潜将乐土偕。
+- 流民争襁负，凶党绝椎埋。
+- 精力奸多露，清心政自谐。
+- 群生不疵疠，比屋已绥怀。
+- 輙诣金人宇，同修香积斋。
+- 漫劳歌邵父，方待拍洪崖。
+- 治行非尤异，传闻及等侪。
+- 雕章忽垂赠，属和愧淫哇。
+
+## 拼音
+- wei4 jun4 lin2 ou1 yue4 ， yun2 quan2 xing1 wei4 guai1 。
+- huan1 yao2 fa2 ru2 ku4 ， gui1 si1 man3 jing1 chai2 。
+- ou3 sui4 feng1 nian2 wang4 ， qian2 jiang1 le4 tu3 xie2 。
+- liu2 min2 zheng1 qiang3 fu4 ， xiong1 dang3 jue2 zhui1 mai2 。
+- jing1 li4 jian1 duo1 lu4 ， qing1 xin1 zheng4 zi4 xie2 。
+- qun2 sheng1 bu4 ci1 li4 ， bi3 wu1 yi3 sui2 huai2 。
+- zhe2 yi4 jin1 ren2 yu3 ， tong2 xiu1 xiang1 ji1 zhai1 。
+- man4 lao2 ge1 shao4 fu4 ， fang1 dai4 pai1 hong2 ya2 。
+- zhi4 xing2 fei1 you2 yi4 ， chuan2 wen2 ji2 deng3 chai2 。
+- diao1 zhang1 hu1 chui2 zeng4 ， shu3 he2 kui4 yin2 wa1 。
+
+## 注释
+
+## 译文
+
+## 赏析

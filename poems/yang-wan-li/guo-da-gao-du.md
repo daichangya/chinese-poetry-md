@@ -1,0 +1,27 @@
+---
+id: yang-wan-li-guo-da-gao-du
+title: 过大皋渡
+titlePinyin: guo4 da4 gao1 du4
+titleSlug: guo-da-gao-du
+author: 杨万里
+authorPinyin: yang2 wan4 li3
+authorSlug: yang-wan-li
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 隔岸横州十里青，黄牛无数放春晴。
+- 船行非与牛相背，何事黄牛却倒行。
+
+## 拼音
+- ge2 an4 heng2 zhou1 shi2 li3 qing1 ， huang2 niu2 wu2 shu4 fang4 chun1 qing2 。
+- chuan2 xing2 fei1 yu3 niu2 xiang1 bei4 ， he2 shi4 huang2 niu2 que4 dao3 xing2 。
+
+## 注释
+
+## 译文
+
+## 赏析

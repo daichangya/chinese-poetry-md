@@ -1,0 +1,27 @@
+---
+id: yang-shi-an-xi-wen-jie-qi-san
+title: 安西闻捷  其三
+titlePinyin: an1 xi1 wen2 jie2     qi2 san1
+titleSlug: an-xi-wen-jie-qi-san
+author: 杨时
+authorPinyin: yang2 shi2
+authorSlug: yang-shi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 雅歌不待来天马，谢质今应闭玉门。
+- 早勒勋名上彝鼎，放回春色满乾坤。
+
+## 拼音
+- ya3 ge1 bu2 dai4 lai2 tian1 ma3 ， xie4 zhi4 jin1 ying4 bi4 yu4 men2 。
+- zao3 le4 xun1 ming2 shang4 yi2 ding3 ， fang4 hui2 chun1 se4 man3 qian2 kun1 。
+
+## 注释
+
+## 译文
+
+## 赏析

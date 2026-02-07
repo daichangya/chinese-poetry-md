@@ -1,0 +1,27 @@
+---
+id: yang-wan-li-yu-hou-wan-bu-jun-pu-er-shou-qi-er
+title: 雨后晚步郡圃二首  其二
+titlePinyin: yu3 hou4 wan3 bu4 jun4 pu3 er4 shou3     qi2 er4
+titleSlug: yu-hou-wan-bu-jun-pu-er-shou-qi-er
+author: 杨万里
+authorPinyin: yang2 wan4 li3
+authorSlug: yang-wan-li
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 风勒归云带雨回，不容老子小徘徊。
+- 拨忙也到池亭上，昨日卷荷今尽开。
+
+## 拼音
+- feng1 le4 gui1 yun2 dai4 yu3 hui2 ， bu4 rong2 lao3 zi3 xiao3 pai2 huai2 。
+- bo1 mang2 ye3 dao4 chi2 ting2 shang4 ， zuo2 ri4 juan4 he2 jin1 jin4 kai1 。
+
+## 注释
+
+## 译文
+
+## 赏析
