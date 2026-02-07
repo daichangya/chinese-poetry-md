@@ -1,0 +1,27 @@
+---
+id: fan-cheng-da-si-shi-tian-yuan-za-xing-liu-shi-shou-wan-chun-tian-yuan-za-xing-shi-er--703b947d
+title: 四时田园杂兴六十首 晚春田园杂兴十二绝 其三
+titlePinyin: si4 shi2 tian2 yuan2 za2 xing1 liu4 shi2 shou3   wan3 chun1 tian2 yuan2 za2 xing1 shi2 er4 jue2   qi2 san1
+titleSlug: si-shi-tian-yuan-za-xing-liu-shi-shou-wan-chun-tian-yuan-za-xing-shi-er--703b947d
+author: 范成大
+authorPinyin: fan4 cheng2 da4
+authorSlug: fan-cheng-da
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 湔裙水满绿苹洲，上巳微寒懒出游。
+- 薄暮蛙声连晓閙，今年田稻十分秋。
+
+## 拼音
+- jian1 qun2 shui3 man3 lü4 ping2 zhou1 ， shang4 si4 wei1 han2 lan3 chu1 you2 。
+- bo2 mu4 wa1 sheng1 lian2 xiao3 nao4 ， jin1 nian2 tian2 dao4 shi2 fen1 qiu1 。
+
+## 注释
+
+## 译文
+
+## 赏析
