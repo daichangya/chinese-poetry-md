@@ -1,0 +1,46 @@
+---
+id: huang-ting-jian-yi-di-jing
+title: 忆帝京
+titlePinyin: yi4 di4 jing1
+titleSlug: yi-di-jing
+author: 黄庭坚
+authorPinyin: huang2 ting2 jian1
+authorSlug: huang-ting-jian
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+rhythmic: 忆帝京
+---
+## 正文
+- 银烛生花如红豆。
+- 占好事、而今有。
+- 人醉曲屏深，借宝瑟、轻招手。
+- 一阵白苹风，故灭烛、教相就。
+- 花带雨、冰肌香透。
+- 恨啼乌、辘轳声晓。
+- 岸柳微凉吹残酒。
+- 断肠时、至今依旧。
+- 镜中消瘦。
+- 那人知后。
+- 怕夯你来僝僽。
+
+## 拼音
+- yin2 zhu2 sheng1 hua1 ru2 hong2 dou4 。
+- zhan4 hao3 shi4 、 er2 jin1 you3 。
+- ren2 zui4 qu3 ping2 shen1 ， jie4 bao3 se4 、 qing1 zhao1 shou3 。
+- yi2 zhen4 bai2 ping2 feng1 ， gu4 mie4 zhu2 、 jiao4 xiang1 jiu4 。
+- hua1 dai4 yu3 、 bing1 ji1 xiang1 tou4 。
+- hen4 ti2 wu1 、 lu4 lu2 sheng1 xiao3 。
+- an4 liu3 wei1 liang2 chui1 can2 jiu3 。
+- duan4 chang2 shi2 、 zhi4 jin1 yi1 jiu4 。
+- jing4 zhong1 xiao1 shou4 。
+- na4 ren2 zhi1 hou4 。
+- pa4 hang1 ni3 lai2 chan2 zhou4 。
+
+## 注释
+
+## 译文
+
+## 赏析

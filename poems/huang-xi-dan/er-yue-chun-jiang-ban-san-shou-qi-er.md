@@ -1,0 +1,27 @@
+---
+id: huang-xi-dan-er-yue-chun-jiang-ban-san-shou-qi-er
+title: 二月春将半三首  其二
+titlePinyin: er4 yue4 chun1 jiang1 ban4 san1 shou3     qi2 er4
+titleSlug: er-yue-chun-jiang-ban-san-shou-qi-er
+author: 黄希旦
+authorPinyin: huang2 xi1 dan4
+authorSlug: huang-xi-dan
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 二月春将半，农耕细雨中。
+- 花前轻薄子，醉倒笑春风。
+
+## 拼音
+- er4 yue4 chun1 jiang1 ban4 ， nong2 geng1 xi4 yu3 zhong1 。
+- hua1 qian2 qing1 bo2 zi3 ， zui4 dao3 xiao4 chun1 feng1 。
+
+## 注释
+
+## 译文
+
+## 赏析

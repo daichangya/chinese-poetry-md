@@ -1,0 +1,27 @@
+---
+id: huang-ting-jian-yun-ju-you-chan-shi-shao-xiang-song
+title: 云居祐禅师烧香颂
+titlePinyin: yun2 ju1 you4 chan2 shi1 shao1 xiang1 song4
+titleSlug: yun-ju-you-chan-shi-shao-xiang-song
+author: 黄庭坚
+authorPinyin: huang2 ting2 jian1
+authorSlug: huang-ting-jian
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 一身入定千身出，云居不打这鼓笛。
+- 虎驮太华入高丽，波斯鼻孔撑白日。
+
+## 拼音
+- yi4 shen1 ru4 ding4 qian1 shen1 chu1 ， yun2 ju1 bu4 da3 zhe4 gu3 di2 。
+- hu3 tuo2 tai4 hua2 ru4 gao1 li2 ， bo1 si1 bi2 kong3 cheng1 bai2 ri4 。
+
+## 注释
+
+## 译文
+
+## 赏析

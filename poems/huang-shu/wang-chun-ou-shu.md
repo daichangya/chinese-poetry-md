@@ -1,0 +1,27 @@
+---
+id: huang-shu-wang-chun-ou-shu
+title: 望春偶书
+titlePinyin: wang4 chun1 ou3 shu1
+titleSlug: wang-chun-ou-shu
+author: 黄庶
+authorPinyin: huang2 shu4
+authorSlug: huang-shu
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 信马寻春上古原，天工一幅绣平川。
+- 花应笑我将诗句，便当游人费万钱。
+
+## 拼音
+- xin4 ma3 xun2 chun1 shang4 gu3 yuan2 ， tian1 gong1 yi4 fu2 xiu4 ping2 chuan1 。
+- hua1 ying4 xiao4 wo3 jiang1 shi1 ju4 ， bian4 dang1 you2 ren2 fei4 wan4 qian2 。
+
+## 注释
+
+## 译文
+
+## 赏析
