@@ -1,0 +1,31 @@
+---
+id: yu-chou-zhu-gong-he-shi-er-ju-kai-zhu-bo-wo-tong-nian-nai-you-bao-fu-zhi-yu-yong-638eec18
+title: 诸公和诗而菊开主簿沃同年乃有褒拂之语用韵谢之
+titlePinyin: zhu1 gong1 he2 shi1 er2 ju2 kai1 zhu3 bo2 wo4 tong2 nian2 nai3 you3 bao1 fu2 zhi1 yu3 yong4 yun4 xie4 zhi1
+titleSlug: zhu-gong-he-shi-er-ju-kai-zhu-bo-wo-tong-nian-nai-you-bao-fu-zhi-yu-yong-638eec18
+author: 虞俦
+authorPinyin: yu2 chou2
+authorSlug: yu-chou
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 怪底花心转，知从笔力回。
+- 不嫌嘲我廋，良是为君开。
+- 白雪词何有，黄鸡曲漫催。
+- 待牵重九兴，篱下醉徘徊。
+
+## 拼音
+- guai4 di3 hua1 xin1 zhuan3 ， zhi1 cong2 bi3 li4 hui2 。
+- bu4 xian2 chao2 wo3 sou1 ， liang2 shi4 wei4 jun1 kai1 。
+- bai2 xue3 ci2 he2 you3 ， huang2 ji1 qu3 man4 cui1 。
+- dai4 qian1 chong2 jiu3 xing1 ， li2 xia4 zui4 pai2 huai2 。
+
+## 注释
+
+## 译文
+
+## 赏析

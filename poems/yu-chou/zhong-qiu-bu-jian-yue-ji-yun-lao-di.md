@@ -1,0 +1,31 @@
+---
+id: yu-chou-zhong-qiu-bu-jian-yue-ji-yun-lao-di
+title: 中秋不见月寄耘老弟
+titlePinyin: zhong1 qiu1 bu2 jian4 yue4 ji4 yun2 lao3 di4
+titleSlug: zhong-qiu-bu-jian-yue-ji-yun-lao-di
+author: 虞俦
+authorPinyin: yu2 chou2
+authorSlug: yu-chou
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 举杯邀月且留残，覆雨翻云意未阑。
+- 自是阴晴难准拟，莫将怀抱逐悲欢。
+- 灯前白发惊秋半，镜里清光有岁寒。
+- 玉斧祇应修未就，素娥宁许等闲看。
+
+## 拼音
+- ju3 bei1 yao1 yue4 qie3 liu2 can2 ， fu4 yu3 fan1 yun2 yi4 wei4 lan2 。
+- zi4 shi4 yin1 qing2 nan2 zhun3 ni3 ， mo4 jiang1 huai2 bao4 zhu2 bei1 huan1 。
+- deng1 qian2 bai2 fa4 jing1 qiu1 ban4 ， jing4 li3 qing1 guang1 you3 sui4 han2 。
+- yu4 fu3 qi2 ying4 xiu1 wei4 jiu4 ， su4 e2 ning2 xu3 deng3 xian2 kan4 。
+
+## 注释
+
+## 译文
+
+## 赏析

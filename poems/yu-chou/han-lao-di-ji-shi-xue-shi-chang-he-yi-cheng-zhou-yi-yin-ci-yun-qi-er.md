@@ -1,0 +1,31 @@
+---
+id: yu-chou-han-lao-di-ji-shi-xue-shi-chang-he-yi-cheng-zhou-yi-yin-ci-yun-qi-er
+title: 汉老弟寄示雪诗倡和已成轴矣因次韵  其二
+titlePinyin: han4 lao3 di4 ji4 shi4 xue3 shi1 chang4 he2 yi3 cheng2 zhou2 yi3 yin1 ci4 yun4     qi2 er4
+titleSlug: han-lao-di-ji-shi-xue-shi-chang-he-yi-cheng-zhou-yi-yin-ci-yun-qi-er
+author: 虞俦
+authorPinyin: yu2 chou2
+authorSlug: yu-chou
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 衡门虽设昼常关，人在琼楼玉宇间。
+- 一笑眼青余老桧，相看头白祇高山。
+- 携壶索共梅花醉，著屐扶行竹杖斑。
+- 此兴此时吾不忘，倦飞深羡鸟知还。
+
+## 拼音
+- heng2 men2 sui1 she4 zhou4 chang2 guan1 ， ren2 zai4 qiong2 lou2 yu4 yu3 jian1 。
+- yi2 xiao4 yan3 qing1 yu2 lao3 gui4 ， xiang1 kan4 tou0 bai2 qi2 gao1 shan1 。
+- xie2 hu2 suo3 gong4 mei2 hua1 zui4 ， zhu4 ji1 fu2 xing2 zhu2 zhang4 ban1 。
+- ci3 xing1 ci3 shi2 wu2 bu2 wang4 ， juan4 fei1 shen1 xian4 niao3 zhi1 hai2 。
+
+## 注释
+
+## 译文
+
+## 赏析
