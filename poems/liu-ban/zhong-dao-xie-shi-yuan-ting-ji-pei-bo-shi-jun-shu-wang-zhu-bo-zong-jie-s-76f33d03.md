@@ -1,0 +1,31 @@
+---
+id: liu-ban-zhong-dao-xie-shi-yuan-ting-ji-pei-bo-shi-jun-shu-wang-zhu-bo-zong-jie-s-76f33d03
+title: 重到谢氏园亭寄裴博士俊叔王主簿宗杰时裴往淮南王出京师
+titlePinyin: zhong4 dao4 xie4 shi4 yuan2 ting2 ji4 pei2 bo2 shi4 jun4 shu1 wang2 zhu3 bo2 zong1 jie2 shi2 pei2 wang3 huai2 nan2 wang2 chu1 jing1 shi1
+titleSlug: zhong-dao-xie-shi-yuan-ting-ji-pei-bo-shi-jun-shu-wang-zhu-bo-zong-jie-s-76f33d03
+author: 刘攽
+authorPinyin: liu2 ban1
+authorSlug: liu-ban
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 徘徊远林下，幽草为谁芳。
+- 前日同游客，今朝俱异乡。
+- 东风虽淡荡，陈迹似凄凉。
+- 何用江千里，春心故易伤。
+
+## 拼音
+- pai2 huai2 yuan3 lin2 xia4 ， you1 cao3 wei4 shui2 fang1 。
+- qian2 ri4 tong2 you2 ke4 ， jin1 chao2 ju4 yi4 xiang1 。
+- dong1 feng1 sui1 dan4 dang4 ， chen2 ji4 si4 qi1 liang2 。
+- he2 yong4 jiang1 qian1 li3 ， chun1 xin1 gu4 yi4 shang1 。
+
+## 注释
+
+## 译文
+
+## 赏析

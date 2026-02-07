@@ -1,0 +1,27 @@
+---
+id: lin-tong-zong-yuan-qing
+title: 宗元卿
+titlePinyin: zong1 yuan2 qing1
+titleSlug: zong-yuan-qing
+author: 林同
+authorPinyin: lin2 tong2
+authorSlug: lin-tong
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 异哉宗子孝，亲疾远关心。
+- 每验痛大小，因知疾浅深。
+
+## 拼音
+- yi4 zai1 zong1 zi3 xiao4 ， qin1 ji2 yuan3 guan1 xin1 。
+- mei3 yan4 tong4 da4 xiao3 ， yin1 zhi1 ji2 qian3 shen1 。
+
+## 注释
+
+## 译文
+
+## 赏析

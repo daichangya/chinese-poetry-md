@@ -1,0 +1,31 @@
+---
+id: liu-ban-deng-xi-dou-xia
+title: 灯夕都下
+titlePinyin: deng1 xi1 dou1 xia4
+titleSlug: deng-xi-dou-xia
+author: 刘攽
+authorPinyin: liu2 ban1
+authorSlug: liu-ban
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 元夕灯光岁益新，羁游四十五年春。
+- 垂髫已识东西事，回首宛如前后身。
+- 绣毂雕鞍驱不顾，丹台绛阙到无因。
+- 清霜著屋风吹面，素月满庭吾故人。
+
+## 拼音
+- yuan2 xi1 deng1 guang1 sui4 yi4 xin1 ， ji1 you2 si4 shi2 wu3 nian2 chun1 。
+- chui2 tiao2 yi3 shi2 dong1 xi1 shi4 ， hui2 shou3 wan3 ru2 qian2 hou4 shen1 。
+- xiu4 gu1 diao1 an1 qu1 bu2 gu4 ， dan1 tai2 jiang4 que1 dao4 wu2 yin1 。
+- qing1 shuang1 zhu4 wu1 feng1 chui1 mian4 ， su4 yue4 man3 ting2 wu2 gu4 ren2 。
+
+## 注释
+
+## 译文
+
+## 赏析

@@ -1,0 +1,27 @@
+---
+id: lin-xi-yi-dai-huai-an-wang-lin-cheng-shang-yang-an-fu-shi-shi-qi-ba
+title: 代怀安王林丞上杨安抚十诗  其八
+titlePinyin: dai4 huai2 an1 wang2 lin2 cheng2 shang4 yang2 an1 fu3 shi2 shi1     qi2 ba1
+titleSlug: dai-huai-an-wang-lin-cheng-shang-yang-an-fu-shi-shi-qi-ba
+author: 林希逸
+authorPinyin: lin2 xi1 yi4
+authorSlug: lin-xi-yi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 篇篇浑不费安排，霁月光风自满怀。
+- 岭海声名谁得似，一家句法老诚斋。
+
+## 拼音
+- pian1 pian1 hun2 bu2 fei4 an1 pai2 ， ji4 yue4 guang1 feng1 zi4 man3 huai2 。
+- ling3 hai3 sheng1 ming2 shui2 de2 si4 ， yi4 jia1 ju4 fa3 lao3 cheng2 zhai1 。
+
+## 注释
+
+## 译文
+
+## 赏析

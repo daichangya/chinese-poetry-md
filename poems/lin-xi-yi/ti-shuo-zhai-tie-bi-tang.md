@@ -1,0 +1,31 @@
+---
+id: lin-xi-yi-ti-shuo-zhai-tie-bi-tang
+title: 题朔斋铁壁堂
+titlePinyin: ti2 shuo4 zhai1 tie3 bi4 tang2
+titleSlug: ti-shuo-zhai-tie-bi-tang
+author: 林希逸
+authorPinyin: lin2 xi1 yi4
+authorSlug: lin-xi-yi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 耐久声名参古柏，绝清词翰赋薇花。
+- 几闻人似南都老，再有公生朔党家。
+- 题扁不渐名铁壁，持荷更合侍金华。
+- 元城志业须翁了，推美还看入制麻。
+
+## 拼音
+- nai4 jiu3 sheng1 ming2 can1 gu3 bai3 ， jue2 qing1 ci2 han4 fu4 wei1 hua1 。
+- ji3 wen2 ren2 si4 nan2 dou1 lao3 ， zai4 you3 gong1 sheng1 shuo4 dang3 jia1 。
+- ti2 bian3 bu2 jian4 ming2 tie3 bi4 ， chi2 he2 geng4 he2 shi4 jin1 hua2 。
+- yuan2 cheng2 zhi4 ye4 xu1 weng1 le0 ， tui1 mei3 hai2 kan4 ru4 zhi4 ma2 。
+
+## 注释
+
+## 译文
+
+## 赏析

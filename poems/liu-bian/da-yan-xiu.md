@@ -1,0 +1,27 @@
+---
+id: liu-bian-da-yan-xiu
+title: 答彦修
+titlePinyin: da2 yan4 xiu1
+titleSlug: da-yan-xiu
+author: 刘边
+authorPinyin: liu2 bian1
+authorSlug: liu-bian
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 九曲溪边玉女峰，年年独倚落花风。
+- 何因不驾青鸾去，伫立空山皓月中。
+
+## 拼音
+- jiu3 qu1 xi1 bian1 yu4 nü3 feng1 ， nian2 nian2 du2 yi3 luo4 hua1 feng1 。
+- he2 yin1 bu2 jia4 qing1 luan2 qu4 ， zhu4 li4 kong1 shan1 hao4 yue4 zhong1 。
+
+## 注释
+
+## 译文
+
+## 赏析

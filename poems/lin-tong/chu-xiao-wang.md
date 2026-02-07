@@ -1,0 +1,27 @@
+---
+id: lin-tong-chu-xiao-wang
+title: 楚孝王
+titlePinyin: chu3 xiao4 wang2
+titleSlug: chu-xiao-wang
+author: 林同
+authorPinyin: lin2 tong2
+authorSlug: lin-tong
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 一自王之国，于今二十年。
+- 了无纤芥过，都是孝慈然。
+
+## 拼音
+- yi2 zi4 wang2 zhi1 guo2 ， yu2 jin1 er4 shi2 nian2 。
+- liao3 wu2 xian1 jie4 guo4 ， dou1 shi4 xiao4 ci2 ran2 。
+
+## 注释
+
+## 译文
+
+## 赏析

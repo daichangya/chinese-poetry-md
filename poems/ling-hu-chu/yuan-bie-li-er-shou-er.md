@@ -1,0 +1,27 @@
+---
+id: ling-hu-chu-yuan-bie-li-er-shou-er
+title: 远别离二首 二
+titlePinyin: yuan3 bie2 li2 er4 shou3   er4
+titleSlug: yuan-bie-li-er-shou-er
+author: 令狐楚
+authorPinyin: ling2 hu2 chu3
+authorSlug: ling-hu-chu
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 玳织鸳鸯履，金装翡翠𥮾。
+- 畏人相问著，不拟到城南。
+
+## 拼音
+- dai4 zhi1 yuan1 yang1 lü3 ， jin1 zhuang1 fei3 cui4 𥮾 。
+- wei4 ren2 xiang1 wen4 zhu4 ， bu4 ni3 dao4 cheng2 nan2 。
+
+## 注释
+
+## 译文
+
+## 赏析
