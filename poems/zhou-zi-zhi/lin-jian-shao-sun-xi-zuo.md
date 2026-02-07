@@ -1,0 +1,27 @@
+---
+id: zhou-zi-zhi-lin-jian-shao-sun-xi-zuo
+title: 林间烧笋戏作
+titlePinyin: lin2 jian1 shao1 sun3 xi4 zuo4
+titleSlug: lin-jian-shao-sun-xi-zuo
+author: 周紫芝
+authorPinyin: zhou1 zi3 zhi1
+authorSlug: zhou-zi-zhi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 满山稚子欲翻篱，莫管春风上番时。
+- 来伴野僧参玉版，不知今日已茶毗。
+
+## 拼音
+- man3 shan1 zhi4 zi3 yu4 fan1 li2 ， mo4 guan3 chun1 feng1 shang4 fan1 shi2 。
+- lai2 ban4 ye3 seng1 can1 yu4 ban3 ， bu4 zhi1 jin1 ri4 yi3 cha2 pi2 。
+
+## 注释
+
+## 译文
+
+## 赏析

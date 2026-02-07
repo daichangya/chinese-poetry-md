@@ -1,0 +1,27 @@
+---
+id: zhu-jing-xuan-su-xin-an-cun-bu
+title: 宿新安村步
+titlePinyin: su4 xin1 an1 cun1 bu4
+titleSlug: su-xin-an-cun-bu
+author: 朱景玄
+authorPinyin: zhu1 jing3 xuan2
+authorSlug: zhu-jing-xuan
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 淅淅寒流涨浅沙，月明空渚遍芦花。
+- 离人偶宿孤村下，永夜闻砧一两家。
+
+## 拼音
+- xi1 xi1 han2 liu2 zhang3 qian3 sha1 ， yue4 ming2 kong1 zhu3 bian4 lu2 hua1 。
+- li2 ren2 ou3 su4 gu1 cun1 xia4 ， yong3 ye4 wen2 zhen1 yi4 liang3 jia1 。
+
+## 注释
+
+## 译文
+
+## 赏析

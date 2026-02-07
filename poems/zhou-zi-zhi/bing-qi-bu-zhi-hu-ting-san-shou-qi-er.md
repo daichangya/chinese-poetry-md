@@ -1,0 +1,27 @@
+---
+id: zhou-zi-zhi-bing-qi-bu-zhi-hu-ting-san-shou-qi-er
+title: 病起步至湖亭三首  其二
+titlePinyin: bing4 qi3 bu4 zhi4 hu2 ting2 san1 shou3     qi2 er4
+titleSlug: bing-qi-bu-zhi-hu-ting-san-shou-qi-er
+author: 周紫芝
+authorPinyin: zhou1 zi3 zhi1
+authorSlug: zhou-zi-zhi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 薄罗初欲换单衣，社肉裁分燕又归。
+- 唤得春来却催去，满庭红雨杏花飞。
+
+## 拼音
+- bao2 luo2 chu1 yu4 huan4 dan1 yi1 ， she4 rou4 cai2 fen1 yan4 you4 gui1 。
+- huan4 de2 chun1 lai2 que4 cui1 qu4 ， man3 ting2 hong2 yu3 xing4 hua1 fei1 。
+
+## 注释
+
+## 译文
+
+## 赏析
