@@ -1,0 +1,27 @@
+---
+id: qian-xu-jiang-xing-wu-ti-yi-bai-shou-jiu-shi-ba
+title: 江行无题一百首 九十八
+titlePinyin: jiang1 xing2 wu2 ti2 yi4 bai3 shou3   jiu3 shi2 ba1
+titleSlug: jiang-xing-wu-ti-yi-bai-shou-jiu-shi-ba
+author: 钱珝
+authorPinyin: qian2 xu3
+authorSlug: qian-xu
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 万木已清霜，江边村事忙。
+- 故溪黄稻熟，一夜梦中香。
+
+## 拼音
+- wan4 mu4 yi3 qing1 shuang1 ， jiang1 bian1 cun1 shi4 mang2 。
+- gu4 xi1 huang2 dao4 shu2 ， yi2 ye4 meng4 zhong1 xiang1 。
+
+## 注释
+
+## 译文
+
+## 赏析

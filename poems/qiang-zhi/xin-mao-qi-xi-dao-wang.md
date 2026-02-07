@@ -1,0 +1,27 @@
+---
+id: qiang-zhi-xin-mao-qi-xi-dao-wang
+title: 辛卯七夕悼往
+titlePinyin: xin1 mao3 qi1 xi1 dao4 wang3
+titleSlug: xin-mao-qi-xi-dao-wang
+author: 强至
+authorPinyin: qiang2 zhi4
+authorSlug: qiang-zhi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 忆共佳人曝绣衣，余香如昨旧欢非。
+- 鹊桥虽别年年在，犹胜娇魂去不归。
+
+## 拼音
+- yi4 gong4 jia1 ren2 pu4 xiu4 yi1 ， yu2 xiang1 ru2 zuo2 jiu4 huan1 fei1 。
+- que4 qiao2 sui1 bie2 nian2 nian2 zai4 ， you2 sheng4 jiao1 hun2 qu4 bu4 gui1 。
+
+## 注释
+
+## 译文
+
+## 赏析

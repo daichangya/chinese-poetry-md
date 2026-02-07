@@ -1,0 +1,37 @@
+---
+id: qin-guan-xu-de-zhi-xian-xuan
+title: 徐得之闲轩
+titlePinyin: xu2 de2 zhi1 xian2 xuan1
+titleSlug: xu-de-zhi-xian-xuan
+author: 秦观
+authorPinyin: qin2 guan1
+authorSlug: qin-guan
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 建安自古多俊髦，徐子磊落尤其豪。
+- 论兵说剑走湖海，身勤事左无所遭。
+- 绿林五校已屠脍，黑衣三卫羞徒劳。
+- 归来故山便卜筑，脱弃万事轻鸿毛。
+- 横前涧水漱哀玉，傍舍老枥藏飞猱。
+- 山蔬何用媿粱肉，鹤氅未必输青袍。
+- 追寒弄月有真意，慎勿轻语传儿曹。
+
+## 拼音
+- jian4 an1 zi4 gu3 duo1 jun4 mao2 ， xu2 zi3 lei3 luo4 you2 qi2 hao2 。
+- lun4 bing1 shuo1 jian4 zou3 hu2 hai3 ， shen1 qin2 shi4 zuo3 wu2 suo3 zao1 。
+- lu4 lin2 wu3 xiao4 yi3 tu2 kuai4 ， hei1 yi1 san1 wei4 xiu1 tu2 lao2 。
+- gui1 lai2 gu4 shan1 bian4 bu3 zhu4 ， tuo1 qi4 wan4 shi4 qing1 hong2 mao2 。
+- heng2 qian2 jian4 shui3 shu4 ai1 yu4 ， bang4 she4 lao3 li4 cang2 fei1 nao2 。
+- shan1 shu1 he2 yong4 kui4 liang2 rou4 ， he4 chang3 wei4 bi4 shu1 qing1 pao2 。
+- zhui1 han2 nong4 yue4 you3 zhen1 yi4 ， shen4 wu4 qing1 yu3 chuan2 er2 cao2 。
+
+## 注释
+
+## 译文
+
+## 赏析

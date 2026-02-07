@@ -1,0 +1,31 @@
+---
+id: qian-wei-yan-song-chan-zhao-da-shi-gui-yue
+title: 送禅照大师归越
+titlePinyin: song4 chan2 zhao4 da4 shi1 gui1 yue4
+titleSlug: song-chan-zhao-da-shi-gui-yue
+author: 钱惟演
+authorPinyin: qian2 wei2 yan3
+authorSlug: qian-wei-yan
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 金刹杳霞扃，南风漾彩舲。
+- 吴天六幕远，越岫万螺青。
+- 龙篆霏雕像，鲸涛注浄瓶。
+- 上方堪逈望，支策见春溟。
+
+## 拼音
+- jin1 cha4 yao3 xia2 jiong1 ， nan2 feng1 yang4 cai3 ling2 。
+- wu2 tian1 liu4 mu4 yuan3 ， yue4 xiu4 wan4 luo2 qing1 。
+- long2 zhuan4 fei1 diao1 xiang4 ， jing1 tao1 zhu4 jing4 ping2 。
+- shang4 fang1 kan1 jiong3 wang4 ， zhi1 ce4 jian4 chun1 ming2 。
+
+## 注释
+
+## 译文
+
+## 赏析

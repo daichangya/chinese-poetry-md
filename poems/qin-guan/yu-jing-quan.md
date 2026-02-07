@@ -1,0 +1,27 @@
+---
+id: qin-guan-yu-jing-quan
+title: 玉井泉
+titlePinyin: yu4 jing3 quan2
+titleSlug: yu-jing-quan
+author: 秦观
+authorPinyin: qin2 guan1
+authorSlug: qin-guan
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 云蒸昆山液，月浸蓝田英。
+- 临风咽沆瀣，满腹珠玑鸣。
+
+## 拼音
+- yun2 zheng1 kun1 shan1 ye4 ， yue4 jin4 lan2 tian2 ying1 。
+- lin2 feng1 yan4 hang4 xie4 ， man3 fu4 zhu1 ji1 ming2 。
+
+## 注释
+
+## 译文
+
+## 赏析
