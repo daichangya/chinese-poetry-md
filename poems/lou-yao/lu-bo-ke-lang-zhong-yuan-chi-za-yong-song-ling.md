@@ -1,0 +1,27 @@
+---
+id: lou-yao-lu-bo-ke-lang-zhong-yuan-chi-za-yong-song-ling
+title: 鹿伯可郎中园池杂咏 松岭
+titlePinyin: lu4 bo2 ke3 lang2 zhong1 yuan2 chi2 za2 yong3   song1 ling3
+titleSlug: lu-bo-ke-lang-zhong-yuan-chi-za-yong-song-ling
+author: 楼钥
+authorPinyin: lou2 yao4
+authorSlug: lou-yao
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 翠云深处曳枯筇，插碧堂堂十八公。
+- 全似华阳隠君子，挂冠归去听松风。
+
+## 拼音
+- cui4 yun2 shen1 chu4 ye4 ku1 qiong2 ， cha1 bi4 tang2 tang2 shi2 ba1 gong1 。
+- quan2 si4 hua2 yang2 yin3 jun1 zi3 ， gua4 guan1 gui1 qu4 ting1 song1 feng1 。
+
+## 注释
+
+## 译文
+
+## 赏析

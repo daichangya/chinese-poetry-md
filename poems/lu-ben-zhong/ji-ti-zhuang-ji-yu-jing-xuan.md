@@ -1,0 +1,27 @@
+---
+id: lu-ben-zhong-ji-ti-zhuang-ji-yu-jing-xuan
+title: 寄题庄季裕静轩
+titlePinyin: ji4 ti2 zhuang1 ji4 yu4 jing4 xuan1
+titleSlug: ji-ti-zhuang-ji-yu-jing-xuan
+author: 吕本中
+authorPinyin: lü3 ben3 zhong1
+authorSlug: lu-ben-zhong
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 云静天如水，风停海不波。
+- 请观如是相，夫子意如何。
+
+## 拼音
+- yun2 jing4 tian1 ru2 shui3 ， feng1 ting2 hai3 bu4 bo1 。
+- qing3 guan1 ru2 shi4 xiang1 ， fu1 zi3 yi4 ru2 he2 。
+
+## 注释
+
+## 译文
+
+## 赏析

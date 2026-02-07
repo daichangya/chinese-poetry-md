@@ -1,0 +1,27 @@
+---
+id: lu-gui-meng-zi-ye-jing-ge-er-shou-er
+title: 子夜警歌二首 二
+titlePinyin: zi3 ye4 jing3 ge1 er4 shou3   er4
+titleSlug: zi-ye-jing-ge-er-shou-er
+author: 陆龟蒙
+authorPinyin: lu4 gui1 meng2
+authorSlug: lu-gui-meng
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 恃爱如欲进，含羞出不前。
+- 朱口发艳歌，玉指弄娇弦。
+
+## 拼音
+- shi4 ai4 ru2 yu4 jin4 ， han2 xiu1 chu1 bu4 qian2 。
+- zhu1 kou3 fa1 yan4 ge1 ， yu4 zhi3 nong4 jiao1 xian2 。
+
+## 注释
+
+## 译文
+
+## 赏析

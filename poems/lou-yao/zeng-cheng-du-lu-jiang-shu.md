@@ -1,0 +1,67 @@
+---
+id: lou-yao-zeng-cheng-du-lu-jiang-shu
+title: 赠成都鲁讲书
+titlePinyin: zeng4 cheng2 du1 lu3 jiang3 shu1
+titleSlug: zeng-cheng-du-lu-jiang-shu
+author: 楼钥
+authorPinyin: lou2 yao4
+authorSlug: lou-yao
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 君家江发源，我生瀛之壖。
+- 相望万里外，中间几山川。
+- 近闻今子敬，文价惊鸾鹓。
+- 何由梦见之，失喜瞻在前。
+- 幅巾耸英标，衔袖出文编。
+- 倒屣平生欢，剧谈河汉悬。
+- 老我三入朝，广识两蜀贤。
+- 相与论诸公，与君最周旋。
+- 自言隠太城，读书三十年。
+- 城中竹谿居，肥遯远市廛。
+- 清谿拥屋后，绿树环前轩。
+- 一舟号横雪，可溯复可沿。
+- 拂衣下三峡，非为名利牵。
+- 滟滪追古作，海潮赋新篇。
+- 旧依槹闲公，来乘甬东船。
+- 顾我何所取，有怀俱尽言。
+- 老亲苦多病，尝药冀少痊。
+- 佳客不容留，欲著归骖鞭。
+- 间为恶草具，愿君少留连。
+- 报无锦绣段，赠有朱丝弦。
+- 一别无复会，掺袪意茫然。
+- 蜀山渺何许，同声惟杜鹃。
+
+## 拼音
+- jun1 jia1 jiang1 fa1 yuan2 ， wo3 sheng1 ying2 zhi1 ruan2 。
+- xiang1 wang4 wan4 li3 wai4 ， zhong1 jian1 ji3 shan1 chuan1 。
+- jin4 wen2 jin1 zi3 jing4 ， wen2 jia4 jing1 luan2 yuan1 。
+- he2 you2 meng4 jian4 zhi1 ， shi1 xi3 zhan1 zai4 qian2 。
+- fu2 jin1 song3 ying1 biao1 ， xian2 xiu4 chu1 wen2 bian1 。
+- dao3 xi3 ping2 sheng1 huan1 ， ju4 tan2 he2 han4 xuan2 。
+- lao3 wo3 san1 ru4 chao2 ， guang3 shi2 liang3 shu3 xian2 。
+- xiang1 yu3 lun4 zhu1 gong1 ， yu3 jun1 zui4 zhou1 xuan2 。
+- zi4 yan2 yin3 tai4 cheng2 ， du2 shu1 san1 shi2 nian2 。
+- cheng2 zhong1 zhu2 xi1 ju1 ， fei2 dun4 yuan3 shi4 chan2 。
+- qing1 xi1 yong1 wu1 hou4 ， lü4 shu4 huan2 qian2 xuan1 。
+- yi4 zhou1 hao4 heng2 xue3 ， ke3 su4 fu4 ke3 yan2 。
+- fu2 yi1 xia4 san1 xia2 ， fei1 wei4 ming2 li4 qian1 。
+- yan4 yu4 zhui1 gu3 zuo4 ， hai3 chao2 fu4 xin1 pian1 。
+- jiu4 yi1 gao1 xian2 gong1 ， lai2 cheng2 yong3 dong1 chuan2 。
+- gu4 wo3 he2 suo3 qu3 ， you3 huai2 ju4 jin4 yan2 。
+- lao3 qin1 ku3 duo1 bing4 ， chang2 yao4 ji4 shao3 quan2 。
+- jia1 ke4 bu4 rong2 liu2 ， yu4 zhu4 gui1 can1 bian1 。
+- jian1 wei4 e4 cao3 ju4 ， yuan4 jun1 shao3 liu2 lian2 。
+- bao4 wu2 jin3 xiu4 duan4 ， zeng4 you3 zhu1 si1 xian2 。
+- yi4 bie2 wu2 fu4 hui4 ， chan1 qu1 yi4 mang2 ran2 。
+- shu3 shan1 miao3 he2 xu3 ， tong2 sheng1 wei2 du4 juan1 。
+
+## 注释
+
+## 译文
+
+## 赏析

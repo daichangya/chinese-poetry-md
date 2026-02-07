@@ -1,0 +1,31 @@
+---
+id: lou-yao-an-gong-huang-hou-wan-ci-qi-san
+title: 安恭皇后挽词  其三
+titlePinyin: an1 gong1 huang2 hou4 wan3 ci2     qi2 san1
+titleSlug: an-gong-huang-hou-wan-ci-qi-san
+author: 楼钥
+authorPinyin: lou2 yao4
+authorSlug: lou-yao
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 玉胜标祥兆，祎衣配至尊。
+- 柔仪高马邓，盛德迈娀嫄。
+- 鸾掖空陈迹，霓轩服厚恩。
+- 伤心临七夕，素柰已花繁。
+
+## 拼音
+- yu4 sheng4 biao1 xiang2 zhao4 ， yi1 yi1 pei4 zhi4 zun1 。
+- rou2 yi2 gao1 ma3 deng4 ， sheng4 de2 mai4 song1 yuan2 。
+- luan2 ye4 kong1 chen2 ji4 ， ni2 xuan1 fu2 hou4 en1 。
+- shang1 xin1 lin2 qi1 xi1 ， su4 nai4 yi3 hua1 fan2 。
+
+## 注释
+
+## 译文
+
+## 赏析

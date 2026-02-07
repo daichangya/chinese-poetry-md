@@ -1,0 +1,31 @@
+---
+id: lou-yao-qi-an-jun-fu-ren-jin-shi-wan-ci-qi-yi
+title: 齐安郡夫人金氏挽词  其一
+titlePinyin: qi2 an1 jun4 fu1 ren2 jin1 shi4 wan3 ci2     qi2 yi1
+titleSlug: qi-an-jun-fu-ren-jin-shi-wan-ci-qi-yi
+author: 楼钥
+authorPinyin: lou2 yao4
+authorSlug: lou-yao
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 避地供汤餠，当筵接缟衣。
+- 仓皇奉神版，岩险逊征𬴂。
+- 遇事智尤敏，相夫家寖肥。
+- 考终无可憾，蝶梦遶芳菲。
+
+## 拼音
+- bi4 di4 gong4 tang1 bing3 ， dang1 yan2 jie1 gao3 yi1 。
+- cang1 huang2 feng4 shen2 ban3 ， yan2 xian3 xun4 zheng1 fei1 。
+- yu4 shi4 zhi4 you2 min3 ， xiang1 fu1 jia1 jin4 fei2 。
+- kao3 zhong1 wu2 ke3 han4 ， die2 meng4 rao4 fang1 fei1 。
+
+## 注释
+
+## 译文
+
+## 赏析
