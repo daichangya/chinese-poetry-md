@@ -1,0 +1,25 @@
+---
+id: zhang-tang-qing-ju
+title: 句
+titlePinyin: ju4
+titleSlug: ju
+author: 张唐卿
+authorPinyin: zhang1 tang2 qing1
+authorSlug: zhang-tang-qing
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 一举首登龙虎榜，十年身到凤凰池。
+
+## 拼音
+- yi4 ju3 shou3 deng1 long2 hu3 bang3 ， shi2 nian2 shen1 dao4 feng4 huang2 chi2 。
+
+## 注释
+
+## 译文
+
+## 赏析

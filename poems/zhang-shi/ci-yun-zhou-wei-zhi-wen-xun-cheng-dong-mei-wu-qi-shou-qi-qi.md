@@ -1,0 +1,27 @@
+---
+id: zhang-shi-ci-yun-zhou-wei-zhi-wen-xun-cheng-dong-mei-wu-qi-shou-qi-qi
+title: 次韵周畏知问讯城东梅坞七首  其七
+titlePinyin: ci4 yun4 zhou1 wei4 zhi1 wen4 xun4 cheng2 dong1 mei2 wu4 qi1 shou3     qi2 qi1
+titleSlug: ci-yun-zhou-wei-zhi-wen-xun-cheng-dong-mei-wu-qi-shou-qi-qi
+author: 张栻
+authorPinyin: zhang1 shi4
+authorSlug: zhang-shi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 短筇遍历溪山，款段时寻邻里。
+- 遇酒聊一中之，得句亦偶然耳。
+
+## 拼音
+- duan3 qiong2 bian4 li4 xi1 shan1 ， kuan3 duan4 shi2 xun2 lin2 li3 。
+- yu4 jiu3 liao2 yi4 zhong1 zhi1 ， de2 ju4 yi4 ou3 ran2 er3 。
+
+## 注释
+
+## 译文
+
+## 赏析

@@ -1,0 +1,27 @@
+---
+id: zhang-shi-cheng-nan-za-yong-er-shi-shou-na-hu
+title: 城南杂咏二十首 纳湖
+titlePinyin: cheng2 nan2 za2 yong3 er4 shi2 shou3   na4 hu2
+titleSlug: cheng-nan-za-yong-er-shi-shou-na-hu
+author: 张栻
+authorPinyin: zhang1 shi4
+authorSlug: zhang-shi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 原原锡潭水，汇此南城阴。
+- 岸花有开落，水盈无浅深。
+
+## 拼音
+- yuan2 yuan2 xi1 tan2 shui3 ， hui4 ci3 nan2 cheng2 yin1 。
+- an4 hua1 you3 kai1 luo4 ， shui3 ying2 wu2 qian3 shen1 。
+
+## 注释
+
+## 译文
+
+## 赏析
