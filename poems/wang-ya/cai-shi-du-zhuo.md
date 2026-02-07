@@ -1,0 +1,31 @@
+---
+id: wang-ya-cai-shi-du-zhuo
+title: 采石独酌
+titlePinyin: cai3 shi2 du2 zhuo2
+titleSlug: cai-shi-du-zhuo
+author: 汪涯
+authorPinyin: wang1 ya2
+authorSlug: wang-ya
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 欲落不落月在手，百年几何持钓纶。
+- 不知春色万象表，绿烟漠漠入江滨。
+- 天翻地覆有今夕，酒熟诗温无可人。
+- 向来谈笑成黄土，堕泪未了鸡司晨。
+
+## 拼音
+- yu4 luo4 bu0 luo4 yue4 zai4 shou3 ， bai3 nian2 ji3 he2 chi2 diao4 lun2 。
+- bu4 zhi1 chun1 se4 wan4 xiang4 biao3 ， lü4 yan1 mo4 mo4 ru4 jiang1 bin1 。
+- tian1 fan1 di4 fu4 you3 jin1 xi1 ， jiu3 shu2 shi1 wen1 wu2 ke3 ren2 。
+- xiang4 lai2 tan2 xiao4 cheng2 huang2 tu3 ， duo4 lei4 wei4 liao3 ji1 si1 chen2 。
+
+## 注释
+
+## 译文
+
+## 赏析

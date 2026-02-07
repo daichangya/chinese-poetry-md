@@ -1,0 +1,27 @@
+---
+id: wang-ya-qin-qu-ge-ci-qiu-si-er-shou-yi
+title: 琴曲歌辞  秋思二首 一
+titlePinyin: qin2 qu3 ge1 ci2     qiu1 si1 er4 shou3   yi1
+titleSlug: qin-qu-ge-ci-qiu-si-er-shou-yi
+author: 王涯
+authorPinyin: wang2 ya2
+authorSlug: wang-ya
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 网轩凉吹动轻衣，夜听更长玉漏稀。
+- 月渡天河光转湿，鹊惊秋树叶频飞。
+
+## 拼音
+- wang3 xuan1 liang2 chui1 dong4 qing1 yi1 ， ye4 ting1 geng4 chang2 yu4 lou4 xi1 。
+- yue4 du4 tian1 he2 guang1 zhuan3 shi1 ， que4 jing1 qiu1 shu4 ye4 pin2 fei1 。
+
+## 注释
+
+## 译文
+
+## 赏析

@@ -1,0 +1,25 @@
+---
+id: wang-wei-zheng-ju
+title: 句
+titlePinyin: ju4
+titleSlug: ju
+author: 王惟正
+authorPinyin: wang2 wei2 zheng4
+authorSlug: wang-wei-zheng
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 云谿水云乡。
+
+## 拼音
+- yun2 xi1 shui3 yun2 xiang1 。
+
+## 注释
+
+## 译文
+
+## 赏析

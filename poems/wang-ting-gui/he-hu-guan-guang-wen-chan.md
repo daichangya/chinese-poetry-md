@@ -1,0 +1,31 @@
+---
+id: wang-ting-gui-he-hu-guan-guang-wen-chan
+title: 和胡观光闻蝉
+titlePinyin: he2 hu2 guan1 guang1 wen2 chan2
+titleSlug: he-hu-guan-guang-wen-chan
+author: 王庭珪
+authorPinyin: wang2 ting2 gui1
+authorSlug: wang-ting-gui
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 地僻林逾静，山幽鸟不惊。
+- 日高帘影重，蝉噪柳阴轻。
+- 鬓学风前翼，琴传叶下声。
+- 士龙能作赋，为尔特留情。
+
+## 拼音
+- di4 pi4 lin2 yu2 jing4 ， shan1 you1 niao3 bu4 jing1 。
+- ri4 gao1 lian2 ying3 zhong4 ， chan2 zao4 liu3 yin1 qing1 。
+- bin4 xue2 feng1 qian2 yi4 ， qin2 chuan2 ye4 xia4 sheng1 。
+- shi4 long2 neng2 zuo4 fu4 ， wei4 er3 te4 liu2 qing2 。
+
+## 注释
+
+## 译文
+
+## 赏析
