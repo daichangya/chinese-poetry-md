@@ -1,0 +1,27 @@
+---
+id: zhang-hu-hu-wei-zhou
+title: 胡渭州
+titlePinyin: hu2 wei4 zhou1
+titleSlug: hu-wei-zhou
+author: 张祜
+authorPinyin: zhang1 hu4
+authorSlug: zhang-hu
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 亭亭孤月照行舟，寂寂长江万里流。
+- 乡国不知何处是，云山漫漫使人愁。
+
+## 拼音
+- ting2 ting2 gu1 yue4 zhao4 xing2 zhou1 ， ji4 ji4 chang2 jiang1 wan4 li3 liu2 。
+- xiang1 guo2 bu4 zhi1 he2 chu4 shi4 ， yun2 shan1 man4 man4 shi3 ren2 chou2 。
+
+## 注释
+
+## 译文
+
+## 赏析

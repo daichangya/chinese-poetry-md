@@ -1,0 +1,31 @@
+---
+id: zhang-cheng-xiao-yi-si
+title: 孝义寺
+titlePinyin: xiao4 yi4 si4
+titleSlug: xiao-yi-si
+author: 张澂
+authorPinyin: zhang1 cheng2
+authorSlug: zhang-cheng
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 城东孝义寺，仍说卧冰池。
+- 虽赝犹堪训，前贤况可师。
+- 香销春殿冷，楼压暮钟嘶。
+- 末俗逾偷薄，哀怀欲涕洟。
+
+## 拼音
+- cheng2 dong1 xiao4 yi4 si4 ， reng2 shuo1 wo4 bing1 chi2 。
+- sui1 yan4 you2 kan1 xun4 ， qian2 xian2 kuang4 ke3 shi1 。
+- xiang1 xiao1 chun1 dian4 leng3 ， lou2 ya1 mu4 zhong1 si1 。
+- mo4 su2 yu2 tou1 bao2 ， ai1 huai2 yu4 ti4 yi2 。
+
+## 注释
+
+## 译文
+
+## 赏析

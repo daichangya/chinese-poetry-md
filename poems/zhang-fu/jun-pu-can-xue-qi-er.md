@@ -1,0 +1,27 @@
+---
+id: zhang-fu-jun-pu-can-xue-qi-er
+title: 郡圃残雪  其二
+titlePinyin: jun4 pu3 can2 xue3     qi2 er4
+titleSlug: jun-pu-can-xue-qi-er
+author: 章甫
+authorPinyin: zhang1 fu3
+authorSlug: zhang-fu
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 南风融雪北风凝，晚日城头已可登。
+- 莫道雪融便无迹，雪融成水水成冰。
+
+## 拼音
+- nan2 feng1 rong2 xue3 bei3 feng1 ning2 ， wan3 ri4 cheng2 tou2 yi3 ke3 deng1 。
+- mo4 dao4 xue3 rong2 bian4 wu2 ji4 ， xue3 rong2 cheng2 shui3 shui3 cheng2 bing1 。
+
+## 注释
+
+## 译文
+
+## 赏析
