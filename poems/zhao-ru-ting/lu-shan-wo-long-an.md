@@ -1,0 +1,27 @@
+---
+id: zhao-ru-ting-lu-shan-wo-long-an
+title: 庐山卧龙庵
+titlePinyin: lu2 shan1 wo4 long2 an1
+titleSlug: lu-shan-wo-long-an
+author: 赵汝铤
+authorPinyin: zhao4 ru3 ting3
+authorSlug: zhao-ru-ting
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 一线飞泉遶碧萝，白云来往暗山阿。
+- 雨中贪共樵人语，行过庵前路忽多。
+
+## 拼音
+- yi2 xian4 fei1 quan2 rao4 bi4 luo2 ， bai2 yun2 lai2 wang3 an4 shan1 a1 。
+- yu3 zhong1 tan1 gong4 qiao2 ren2 yu3 ， xing2 guo4 an1 qian2 lu4 hu1 duo1 。
+
+## 注释
+
+## 译文
+
+## 赏析
