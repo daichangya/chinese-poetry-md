@@ -1,0 +1,27 @@
+---
+id: pei-yao-he-lu-cheng-huai-gu
+title: 阖闾城怀古
+titlePinyin: he2 lü2 cheng2 huai2 gu3
+titleSlug: he-lu-cheng-huai-gu
+author: 裴瑶
+authorPinyin: pei2 yao2
+authorSlug: pei-yao
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 五湖春水接遥天，国破君亡不记年。
+- 惟有妖娥曾舞处，古台寂寞起愁烟。
+
+## 拼音
+- wu3 hu2 chun1 shui3 jie1 yao2 tian1 ， guo2 po4 jun1 wang2 bu2 ji4 nian2 。
+- wei2 you3 yao1 e2 ceng2 wu3 chu4 ， gu3 tai2 ji4 mo4 qi3 chou2 yan1 。
+
+## 注释
+
+## 译文
+
+## 赏析

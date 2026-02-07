@@ -1,0 +1,27 @@
+---
+id: peng-ru-li-zai-he-zi-yu
+title: 再和子育
+titlePinyin: zai4 he2 zi3 yu4
+titleSlug: zai-he-zi-yu
+author: 彭汝砺
+authorPinyin: peng2 ru3 li4
+authorSlug: peng-ru-li
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 殊方无处问平安，怅望衡阳雁未还。
+- 归马不知山远近，北山未尽过南山。
+
+## 拼音
+- shu1 fang1 wu2 chu4 wen4 ping2 an1 ， chang4 wang4 heng2 yang2 yan4 wei4 hai2 。
+- gui1 ma3 bu4 zhi1 shan1 yuan3 jin4 ， bei3 shan1 wei4 jin4 guo4 nan2 shan1 。
+
+## 注释
+
+## 译文
+
+## 赏析

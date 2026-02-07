@@ -1,0 +1,31 @@
+---
+id: peng-ru-li-song-chi-xu-wen-zhang-guan
+title: 送池须文长官
+titlePinyin: song4 chi2 xu1 wen2 zhang3 guan1
+titleSlug: song-chi-xu-wen-zhang-guan
+author: 彭汝砺
+authorPinyin: peng2 ru3 li4
+authorSlug: peng-ru-li
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 龙渊虎穴少穷探，老大生涯一剑镡。
+- 曲沼鸳鸯多白发，雕笼鹦鹉久青衫。
+- 能知令尹三无愠，正似嵇康七不堪。
+- 见说明朝好天色，鹏程从此稳图南。
+
+## 拼音
+- long2 yuan1 hu3 xue2 shao3 qiong2 tan4 ， lao3 da4 sheng1 ya2 yi2 jian4 tan2 。
+- qu3 zhao3 yuan1 yang1 duo1 bai2 fa4 ， diao1 long2 ying1 wu3 jiu3 qing1 shan1 。
+- neng2 zhi1 ling4 yin3 san1 wu2 yun4 ， zheng4 si4 ji1 kang1 qi1 bu4 kan1 。
+- jian4 shuo1 ming2 chao2 hao3 tian1 se4 ， peng2 cheng2 cong2 ci3 wen3 tu2 nan2 。
+
+## 注释
+
+## 译文
+
+## 赏析

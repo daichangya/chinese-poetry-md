@@ -1,0 +1,31 @@
+---
+id: peng-ru-li-song-zheng-si-cheng-guo-hong-zhou-qi-er
+title: 送郑寺丞过洪州  其二
+titlePinyin: song4 zheng4 si4 cheng2 guo4 hong2 zhou1     qi2 er4
+titleSlug: song-zheng-si-cheng-guo-hong-zhou-qi-er
+author: 彭汝砺
+authorPinyin: peng2 ru3 li4
+authorSlug: peng-ru-li
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 清风不可近，碎璧缀圆规。
+- 翰墨传家学，风流蕴素资。
+- 龙孙藏旧节，蟾桂毓新枝。
+- 愿听功名起，青云慰所思。
+
+## 拼音
+- qing1 feng1 bu4 ke3 jin4 ， sui4 bi4 zhui4 yuan2 gui1 。
+- han4 mo4 chuan2 jia1 xue2 ， feng1 liu2 yun4 su4 zi1 。
+- long2 sun1 cang2 jiu4 jie2 ， chan2 gui4 yu4 xin1 zhi1 。
+- yuan4 ting1 gong1 ming2 qi3 ， qing1 yun2 wei4 suo3 si1 。
+
+## 注释
+
+## 译文
+
+## 赏析

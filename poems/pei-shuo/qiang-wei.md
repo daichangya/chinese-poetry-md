@@ -1,0 +1,27 @@
+---
+id: pei-shuo-qiang-wei
+title: 蔷薇
+titlePinyin: qiang2 wei1
+titleSlug: qiang-wei
+author: 裴说
+authorPinyin: pei2 shuo1
+authorSlug: pei-shuo
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 一架长条万朵春，嫩红深绿小窠匀。
+- 只应根下千年土，曾葬西川织锦人。
+
+## 拼音
+- yi2 jia4 chang2 tiao2 wan4 duo3 chun1 ， nen4 hong2 shen1 lü4 xiao3 ke1 yun2 。
+- zhi1 ying4 gen1 xia4 qian1 nian2 tu3 ， ceng2 zang4 xi1 chuan1 zhi1 jin3 ren2 。
+
+## 注释
+
+## 译文
+
+## 赏析

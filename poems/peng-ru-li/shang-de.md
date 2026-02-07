@@ -1,0 +1,31 @@
+---
+id: peng-ru-li-shang-de
+title: 尚德
+titlePinyin: shang4 de2
+titleSlug: shang-de
+author: 彭汝砺
+authorPinyin: peng2 ru3 li4
+authorSlug: peng-ru-li
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 万里沙陀险且遥，雪霜尘土共萧条。
+- 草莱长大牛羊众，窟穴阻深豺虎骄。
+- 往日御夷谁似宋，今时尚德莫如尧。
+- 试看虞舜岩廊上，何羡呼韩渭水朝。
+
+## 拼音
+- wan4 li3 sha1 tuo2 xian3 qie3 yao2 ， xue3 shuang1 chen2 tu3 gong4 xiao1 tiao2 。
+- cao3 lai2 zhang3 da4 niu2 yang2 zhong4 ， ku1 xue2 zu3 shen1 chai2 hu3 jiao1 。
+- wang3 ri4 yu4 yi2 shui2 si4 song4 ， jin1 shi2 shang4 de2 mo4 ru2 yao2 。
+- shi4 kan4 yu2 shun4 yan2 lang2 shang4 ， he2 xian4 hu1 han2 wei4 shui3 chao2 。
+
+## 注释
+
+## 译文
+
+## 赏析

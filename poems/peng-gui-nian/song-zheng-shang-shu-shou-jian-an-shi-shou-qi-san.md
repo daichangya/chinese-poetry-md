@@ -1,0 +1,27 @@
+---
+id: peng-gui-nian-song-zheng-shang-shu-shou-jian-an-shi-shou-qi-san
+title: 送郑尚书守建安十首  其三
+titlePinyin: song4 zheng4 shang4 shu1 shou3 jian4 an1 shi2 shou3     qi2 san1
+titleSlug: song-zheng-shang-shu-shou-jian-an-shi-shou-qi-san
+author: 彭龟年
+authorPinyin: peng2 gui1 nian2
+authorSlug: peng-gui-nian
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 闻上金华劝讲班，启心长是片言间。
+- 一从元祐诸公后，得此渊源自玉山。
+
+## 拼音
+- wen2 shang4 jin1 hua2 quan4 jiang3 ban1 ， qi3 xin1 chang2 shi4 pian4 yan2 jian1 。
+- yi4 cong2 yuan2 you4 zhu1 gong1 hou4 ， de2 ci3 yuan1 yuan2 zi4 yu4 shan1 。
+
+## 注释
+
+## 译文
+
+## 赏析
