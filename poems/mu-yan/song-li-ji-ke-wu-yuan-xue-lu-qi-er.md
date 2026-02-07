@@ -1,0 +1,27 @@
+---
+id: mu-yan-song-li-ji-ke-wu-yuan-xue-lu-qi-er
+title: 送李际可婺源学录  其二
+titlePinyin: song4 li3 ji4 ke3 wu4 yuan2 xue2 lu4     qi2 er4
+titleSlug: song-li-ji-ke-wu-yuan-xue-lu-qi-er
+author: "牟\U0002AA58"
+authorPinyin: mu4 yan3
+authorSlug: mu-yan
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 乃祖当年洗日功，特书頼有紫阳翁。
+- 此邦况是渊源地，好玩遗编振绪风。
+
+## 拼音
+- nai3 zu3 dang1 nian2 xi3 ri4 gong1 ， te4 shu1 lai4 you3 zi3 yang2 weng1 。
+- ci3 bang1 kuang4 shi4 yuan1 yuan2 di4 ， hao3 wan2 yi2 bian1 zhen4 xu4 feng1 。
+
+## 注释
+
+## 译文
+
+## 赏析
