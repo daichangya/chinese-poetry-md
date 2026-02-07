@@ -1,0 +1,27 @@
+---
+id: shen-liao-qi-shan-ou-ti-san-shou-qi-er
+title: 齐山偶题三首  其二
+titlePinyin: qi2 shan1 ou3 ti2 san1 shou3     qi2 er4
+titleSlug: qi-shan-ou-ti-san-shou-qi-er
+author: 沈辽
+authorPinyin: shen3 liao2
+authorSlug: shen-liao
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 朝云未散白笴陂，落日已过铜陵西。
+- 不向人间生皓髪，直寻仙客上青谿。
+
+## 拼音
+- chao2 yun2 wei4 san4 bai2 gan3 bei1 ， luo4 ri4 yi3 guo4 tong2 ling2 xi1 。
+- bu2 xiang4 ren2 jian1 sheng1 hao4 fa4 ， zhi2 xun2 xian1 ke4 shang4 qing1 xi1 。
+
+## 注释
+
+## 译文
+
+## 赏析

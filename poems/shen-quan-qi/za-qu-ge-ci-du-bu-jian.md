@@ -1,0 +1,27 @@
+---
+id: shen-quan-qi-za-qu-ge-ci-du-bu-jian
+title: 杂曲歌辞：独不见
+titlePinyin: za2 qu3 ge1 ci2 ： du2 bu2 jian4
+titleSlug: za-qu-ge-ci-du-bu-jian
+author: 沈佺期
+authorPinyin: shen3 quan2 qi1
+authorSlug: shen-quan-qi
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 卢家小妇郁金堂，海燕双栖玳瑁梁。九月寒砧催下叶，
+- 谁知含愁独不见，使妾明月照流黄。
+
+## 拼音
+- lu2 jia1 xiao3 fu4 yu4 jin1 tang2 ， hai3 yan4 shuang1 qi1 dai4 mao4 liang2 。 jiu3 yue4 han2 zhen1 cui1 xia4 ye4 ，
+- shui2 zhi1 han2 chou2 du2 bu2 jian4 ， shi3 qie4 ming2 yue4 zhao4 liu2 huang2 。
+
+## 注释
+
+## 译文
+
+## 赏析
