@@ -1,0 +1,31 @@
+---
+id: chen-pu-wen-gong-shu-chu-chu-ci-mo-xun
+title: 文公书厨 出此谟训
+titlePinyin: wen2 gong1 shu1 chu2   chu1 ci3 mo2 xun4
+titleSlug: wen-gong-shu-chu-chu-ci-mo-xun
+author: 陈普
+authorPinyin: chen2 pu3
+authorSlug: chen-pu
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 仁心忧万世，出语岂能无。
+- 拟之而后言，一字一明珠。
+- 万化必有成，大中在方策。
+- 渊泉端有自，聪明达天德。
+
+## 拼音
+- ren2 xin1 you1 wan4 shi4 ， chu1 yu3 qi3 neng2 wu2 。
+- ni3 zhi1 er2 hou4 yan2 ， yi2 zi4 yi4 ming2 zhu1 。
+- wan4 hua4 bi4 you3 cheng2 ， da4 zhong1 zai4 fang1 ce4 。
+- yuan1 quan2 duan1 you3 zi4 ， cong1 ming0 da2 tian1 de2 。
+
+## 注释
+
+## 译文
+
+## 赏析

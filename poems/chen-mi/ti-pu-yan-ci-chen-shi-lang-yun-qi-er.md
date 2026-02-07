@@ -1,0 +1,27 @@
+---
+id: chen-mi-ti-pu-yan-ci-chen-shi-lang-yun-qi-er
+title: 题蒲岩次陈侍郎韵  其二
+titlePinyin: ti2 pu2 yan2 ci4 chen2 shi4 lang2 yun4     qi2 er4
+titleSlug: ti-pu-yan-ci-chen-shi-lang-yun-qi-er
+author: 陈宓
+authorPinyin: chen2 mi4
+authorSlug: chen-mi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 我亦年来养气工，黄茅丹鼎欲生茸。
+- 蓬莱咫尺真堪玩，底恨三年弱水风。
+
+## 拼音
+- wo3 yi4 nian2 lai2 yang3 qi4 gong1 ， huang2 mao2 dan1 ding3 yu4 sheng1 rong2 。
+- peng2 lai2 zhi3 chi3 zhen1 kan1 wan2 ， di3 hen4 san1 nian2 ruo4 shui3 feng1 。
+
+## 注释
+
+## 译文
+
+## 赏析

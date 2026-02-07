@@ -1,0 +1,27 @@
+---
+id: chen-nan-jin-dan-shi-jue-qi-er-yi
+title: 金丹诗诀  其二一
+titlePinyin: jin1 dan1 shi1 jue2     qi2 er4 yi1
+titleSlug: jin-dan-shi-jue-qi-er-yi
+author: 陈楠
+authorPinyin: chen2 nan2
+authorSlug: chen-nan
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 室宜向木对朝阳，兑有明窗对夕光。
+- 照顾有名人莫晓，暮阴不得闭金墙。
+
+## 拼音
+- shi4 yi2 xiang4 mu4 dui4 chao2 yang2 ， dui4 you3 ming2 chuang1 dui4 xi1 guang1 。
+- zhao4 gu4 you3 ming2 ren2 mo4 xiao3 ， mu4 yin1 bu4 de2 bi4 jin1 qiang2 。
+
+## 注释
+
+## 译文
+
+## 赏析

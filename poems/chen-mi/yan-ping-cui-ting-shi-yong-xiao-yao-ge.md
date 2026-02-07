@@ -1,0 +1,27 @@
+---
+id: chen-mi-yan-ping-cui-ting-shi-yong-xiao-yao-ge
+title: 延平倅厅十咏 逍遥阁
+titlePinyin: yan2 ping2 cui4 ting1 shi2 yong3   xiao1 yao2 ge2
+titleSlug: yan-ping-cui-ting-shi-yong-xiao-yao-ge
+author: 陈宓
+authorPinyin: chen2 mi4
+authorSlug: chen-mi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 山水有余静，都忘城市嚣。
+- 朱黝本自省，时焉此逍遥。
+
+## 拼音
+- shan1 shui3 you3 yu2 jing4 ， dou1 wang4 cheng2 shi4 ao2 。
+- zhu1 you3 ben3 zi4 xing3 ， shi2 yan1 ci3 xiao1 yao2 。
+
+## 注释
+
+## 译文
+
+## 赏析

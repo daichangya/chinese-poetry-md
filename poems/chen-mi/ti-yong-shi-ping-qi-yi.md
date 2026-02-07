@@ -1,0 +1,27 @@
+---
+id: chen-mi-ti-yong-shi-ping-qi-yi
+title: 题永石屏  其一
+titlePinyin: ti2 yong3 shi2 ping2     qi2 yi1
+titleSlug: ti-yong-shi-ping-qi-yi
+author: 陈宓
+authorPinyin: chen2 mi4
+authorSlug: chen-mi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 琅玕三尺重南金，风韵仍同绿绮琴。
+- 胸次便如斯壁立，千年不受一尘侵。
+
+## 拼音
+- lang2 gan1 san1 chi3 zhong4 nan2 jin1 ， feng1 yun4 reng2 tong2 lü4 qi3 qin2 。
+- xiong1 ci4 bian4 ru2 si1 bi4 li4 ， qian1 nian2 bu2 shou4 yi4 chen2 qin1 。
+
+## 注释
+
+## 译文
+
+## 赏析

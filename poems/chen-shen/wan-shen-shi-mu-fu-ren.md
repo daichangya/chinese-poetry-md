@@ -1,0 +1,31 @@
+---
+id: chen-shen-wan-shen-shi-mu-fu-ren
+title: 挽沈氏母夫人
+titlePinyin: wan3 shen3 shi4 mu3 fu1 ren2
+titleSlug: wan-shen-shi-mu-fu-ren
+author: 陈深
+authorPinyin: chen2 shen1
+authorSlug: chen-shen
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 允矣夫人德，传家庆有余。
+- 生存黄鹄操，死葬白龙居。
+- 落月沉沧海，浮云散太虚。
+- 曾为陶侃客，酹酒重欷歔。
+
+## 拼音
+- yun3 yi3 fu1 ren2 de2 ， chuan2 jia1 qing4 you3 yu2 。
+- sheng1 cun2 huang2 hu2 cao1 ， si3 zang4 bai2 long2 ju1 。
+- luo4 yue4 chen2 cang1 hai3 ， fu2 yun2 san4 tai4 xu1 。
+- ceng2 wei4 tao2 kan3 ke4 ， lei4 jiu3 zhong4 xi1 xu1 。
+
+## 注释
+
+## 译文
+
+## 赏析
