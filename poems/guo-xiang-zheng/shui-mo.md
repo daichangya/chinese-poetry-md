@@ -1,0 +1,43 @@
+---
+id: guo-xiang-zheng-shui-mo
+title: 水磨
+titlePinyin: shui3 mo2
+titleSlug: shui-mo
+author: 郭祥正
+authorPinyin: guo1 xiang2 zheng4
+authorSlug: guo-xiang-zheng
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 盘石琢深齿，贯轮激清陂。
+- 运动无昼夜，柄任谁与持。
+- 霹雳驾飞雪，盛夏移冬威。
+- 功成给众食，势转随圆机。
+- 翻思兵家言，千仞俯可窥。
+- 又想对明月，大壑投珠玑。
+- 睥睨巧匠手，不使差毫厘。
+- 牛驴免穿领，僮仆逃胼胝。
+- 利用固已博，沉吟岂虚辞。
+- 愿将水磨篇，荐之调鼎司。
+
+## 拼音
+- pan2 shi2 zhuo2 shen1 chi3 ， guan4 lun2 ji1 qing1 bei1 。
+- yun4 dong4 wu2 zhou4 ye4 ， bing3 ren4 shui2 yu3 chi2 。
+- pi1 li4 jia4 fei1 xue3 ， sheng4 xia4 yi2 dong1 wei1 。
+- gong1 cheng2 gei3 zhong4 shi2 ， shi4 zhuan3 sui2 yuan2 ji1 。
+- fan1 si1 bing1 jia1 yan2 ， qian1 ren4 fu3 ke3 kui1 。
+- you4 xiang3 dui4 ming2 yue4 ， da4 he4 tou2 zhu1 ji1 。
+- pi4 ni4 qiao3 jiang4 shou3 ， bu4 shi3 cha4 hao2 li2 。
+- niu2 lü2 mian3 chuan1 ling3 ， tong2 pu2 tao2 pian2 zhi1 。
+- li4 yong4 gu4 yi3 bo2 ， chen2 yin2 qi3 xu1 ci2 。
+- yuan4 jiang1 shui3 mo2 pian1 ， jian4 zhi1 tiao2 ding3 si1 。
+
+## 注释
+
+## 译文
+
+## 赏析

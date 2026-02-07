@@ -1,0 +1,45 @@
+---
+id: guo-xiang-zheng-zhang-nan-wang-yuan-le-quan-ting-xi-shang-cheng-tong-you-zhu-jun-zuo-ke--eb2576a4
+title: 漳南王园乐全亭席上呈同游诸君坐客刘公曰有水一池有竹千竿可以赋诗浪士勇起索笔即其言缀成长调文不加点
+titlePinyin: zhang1 nan2 wang2 yuan2 le4 quan2 ting2 xi2 shang4 cheng2 tong2 you2 zhu1 jun1 zuo4 ke4 liu2 gong1 yue1 you3 shui3 yi4 chi2 you3 zhu2 qian1 gan1 ke3 yi3 fu4 shi1 lang4 shi4 yong3 qi3 suo3 bi3 ji2 qi2 yan2 zhui4 cheng2 chang2 diao4 wen2 bu4 jia1 dian3
+titleSlug: zhang-nan-wang-yuan-le-quan-ting-xi-shang-cheng-tong-you-zhu-jun-zuo-ke--eb2576a4
+author: 郭祥正
+authorPinyin: guo1 xiang2 zheng4
+authorSlug: guo-xiang-zheng
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 乐全有水一池，有竹千竿。
+- 池通两潮信，密竹四时寒。
+- 引子黄鹂弄语，探鱼碧鸟忘还。
+- 复有佳宾命酌，水晶交错觥船。
+- 空中闻玉箫，王母想乘鸾。
+- 问君不醉当何适，百岁忧愁今夕欢。
+- 嫦娥痴姑理冰盘，绛龙蜡泪痴不干。
+- 孰知大海腾波澜，自有人世藏仙源。
+- 刘公八十精神全，留子造古风义全。
+- 蔡阮名家文学全，王氏世医阴骘全。
+- 兀兀浪士天机全，乐全乎，且饮酒，独醒怀沙亦何有。
+
+## 拼音
+- le4 quan2 you3 shui3 yi4 chi2 ， you3 zhu2 qian1 gan1 。
+- chi2 tong1 liang3 chao2 xin4 ， mi4 zhu2 si4 shi2 han2 。
+- yin3 zi3 huang2 li2 nong4 yu3 ， tan4 yu2 bi4 niao3 wang4 hai2 。
+- fu4 you3 jia1 bin1 ming4 zhuo2 ， shui3 jing1 jiao1 cuo4 gong1 chuan2 。
+- kong1 zhong1 wen2 yu4 xiao1 ， wang2 mu3 xiang3 cheng2 luan2 。
+- wen4 jun1 bu2 zui4 dang1 he2 shi4 ， bai3 sui4 you1 chou2 jin1 xi1 huan1 。
+- chang2 e2 chi1 gu1 li3 bing1 pan2 ， jiang4 long2 la4 lei4 chi1 bu4 gan1 。
+- shu2 zhi1 da4 hai3 teng2 bo1 lan2 ， zi4 you3 ren2 shi4 cang2 xian1 yuan2 。
+- liu2 gong1 ba1 shi2 jing1 shen2 quan2 ， liu2 zi3 zao4 gu3 feng1 yi4 quan2 。
+- cai4 ruan3 ming2 jia1 wen2 xue2 quan2 ， wang2 shi4 shi4 yi1 yin1 zhi4 quan2 。
+- wu4 wu4 lang4 shi4 tian1 ji1 quan2 ， le4 quan2 hu1 ， qie3 yin3 jiu3 ， du2 xing3 huai2 sha1 yi4 he2 you3 。
+
+## 注释
+
+## 译文
+
+## 赏析
