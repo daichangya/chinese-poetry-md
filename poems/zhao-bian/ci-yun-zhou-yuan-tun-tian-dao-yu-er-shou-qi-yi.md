@@ -1,0 +1,31 @@
+---
+id: zhao-bian-ci-yun-zhou-yuan-tun-tian-dao-yu-er-shou-qi-yi
+title: 次韵周源屯田祷雨二首  其一
+titlePinyin: ci4 yun4 zhou1 yuan2 tun2 tian2 dao3 yu3 er4 shou3     qi2 yi1
+titleSlug: ci-yun-zhou-yuan-tun-tian-dao-yu-er-shou-qi-yi
+author: 赵抃
+authorPinyin: zhao4 bian4
+authorSlug: zhao-bian
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 城东野老告予知，四载凶荒语益悲。
+- 远水又成千里涸，阔天无复寸云垂。
+- 仓箱势绝丰登望，道路人为殍死期。
+- 刺史至诚天若应，愿留遗爱入生祠。
+
+## 拼音
+- cheng2 dong1 ye3 lao3 gao4 yu3 zhi1 ， si4 zai3 xiong1 huang1 yu3 yi4 bei1 。
+- yuan3 shui3 you4 cheng2 qian1 li3 he2 ， kuo4 tian1 wu2 fu4 cun4 yun2 chui2 。
+- cang1 xiang1 shi4 jue2 feng1 deng1 wang4 ， dao4 lu4 ren2 wei2 piao3 si3 qi1 。
+- ci4 shi3 zhi4 cheng2 tian1 ruo4 ying4 ， yuan4 liu2 yi2 ai4 ru4 sheng1 ci2 。
+
+## 注释
+
+## 译文
+
+## 赏析
