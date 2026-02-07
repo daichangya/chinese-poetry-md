@@ -1,0 +1,31 @@
+---
+id: gu-feng-luo-hua
+title: 落花
+titlePinyin: luo4 hua1
+titleSlug: luo-hua
+author: 顾逢
+authorPinyin: gu4 feng2
+authorSlug: gu-feng
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 树底飞红雨，园林一望空。
+- 寂寥春去路，狼籍晓来风。
+- 乱影斜阳里，余香流水中。
+- 可怜衰谢日，不与乍开同。
+
+## 拼音
+- shu4 di3 fei1 hong2 yu3 ， yuan2 lin2 yi2 wang4 kong1 。
+- ji4 liao2 chun1 qu4 lu4 ， lang2 ji2 xiao3 lai2 feng1 。
+- luan4 ying3 xie2 yang2 li3 ， yu2 xiang1 liu2 shui3 zhong1 。
+- ke3 lian2 shuai1 xie4 ri4 ， bu4 yu3 zha4 kai1 tong2 。
+
+## 注释
+
+## 译文
+
+## 赏析

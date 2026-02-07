@@ -1,0 +1,31 @@
+---
+id: guan-xiu-shao-nian-xing
+title: 少年行
+titlePinyin: shao4 nian2 xing2
+titleSlug: shao-nian-xing
+author: 贯休
+authorPinyin: guan4 xiu1
+authorSlug: guan-xiu
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 锦衣鲜华手擎鹘，闲行气貌多轻忽。
+- 稼穑艰难总不知，五帝三皇是何物。
+- 自拳五色裘，迸入他人宅。却捉苍头奴，玉鞭打一百。
+- 面白如削玉，倡狂曲江曲。马上黄金鞍，适来新赌得。
+
+## 拼音
+- jin3 yi1 xian1 hua2 shou3 qing2 hu2 ， xian2 xing2 qi4 mao4 duo1 qing1 hu1 。
+- jia4 se4 jian1 nan2 zong3 bu4 zhi1 ， wu3 di4 san1 huang2 shi4 he2 wu4 。
+- zi4 quan2 wu3 se4 qiu2 ， beng4 ru4 ta1 ren2 zhai2 。 que4 zhuo1 cang1 tou2 nu2 ， yu4 bian1 da3 yi4 bai3 。
+- mian4 bai2 ru2 xiao1 yu4 ， chang4 kuang2 qu3 jiang1 qu3 。 ma3 shang4 huang2 jin1 an1 ， shi4 lai2 xin1 du3 de2 。
+
+## 注释
+
+## 译文
+
+## 赏析

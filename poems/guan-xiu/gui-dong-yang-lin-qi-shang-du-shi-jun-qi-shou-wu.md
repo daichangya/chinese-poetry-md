@@ -1,0 +1,27 @@
+---
+id: guan-xiu-gui-dong-yang-lin-qi-shang-du-shi-jun-qi-shou-wu
+title: 归东阳临岐上杜使君七首 五
+titlePinyin: gui1 dong1 yang2 lin2 qi2 shang4 du4 shi3 jun1 qi1 shou3   wu3
+titleSlug: gui-dong-yang-lin-qi-shang-du-shi-jun-qi-shou-wu
+author: 贯休
+authorPinyin: guan4 xiu1
+authorSlug: guan-xiu
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 方恐狱中桃树出，忽闻枯木却生烟。
+- 褚祥为郡曾如此，却恐当时是偶然。
+
+## 拼音
+- fang1 kong3 yu4 zhong1 tao2 shu4 chu1 ， hu1 wen2 ku1 mu4 que4 sheng1 yan1 。
+- chu3 xiang2 wei4 jun4 ceng2 ru2 ci3 ， que4 kong3 dang1 shi2 shi4 ou3 ran2 。
+
+## 注释
+
+## 译文
+
+## 赏析
