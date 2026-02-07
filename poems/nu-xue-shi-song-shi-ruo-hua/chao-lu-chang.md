@@ -1,0 +1,27 @@
+---
+id: nu-xue-shi-song-shi-ruo-hua-chao-lu-chang
+title: 嘲陆畅
+titlePinyin: chao2 lu4 chang4
+titleSlug: chao-lu-chang
+author: 女学士宋氏若华
+authorPinyin: nü3 xue2 shi4 song4 shi4 ruo4 hua2
+authorSlug: nu-xue-shi-song-shi-ruo-hua
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 十二层楼倚翠空，凤鸾相对立梧桐。
+- 双成走报监门卫，莫使吴歈入汉宫。
+
+## 拼音
+- shi2 er4 ceng2 lou2 yi3 cui4 kong1 ， feng4 luan2 xiang1 dui4 li4 wu2 tong2 。
+- shuang1 cheng2 zou3 bao4 jian1 men2 wei4 ， mo4 shi3 wu2 yu2 ru4 han4 gong1 。
+
+## 注释
+
+## 译文
+
+## 赏析

@@ -1,0 +1,27 @@
+---
+id: nan-yang-yi-fu-ren-ti-bi
+title: 题壁
+titlePinyin: ti2 bi4
+titleSlug: ti-bi
+author: 南阳驿妇人
+authorPinyin: nan2 yang2 yi4 fu4 ren2
+authorSlug: nan-yang-yi-fu-ren
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 流落南来自可嗟，避人不敢御铅华。
+- 却怜当日莺莺事，独立春风雾鬓斜。
+
+## 拼音
+- liu2 luo4 nan2 lai2 zi4 ke3 jie1 ， bi4 ren2 bu4 gan3 yu4 qian1 hua2 。
+- que4 lian2 dang1 ri4 ying1 ying1 shi4 ， du2 li4 chun1 feng1 wu4 bin4 xie2 。
+
+## 注释
+
+## 译文
+
+## 赏析
