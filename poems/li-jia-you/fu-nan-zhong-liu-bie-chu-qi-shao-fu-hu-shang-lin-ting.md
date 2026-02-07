@@ -1,0 +1,27 @@
+---
+id: li-jia-you-fu-nan-zhong-liu-bie-chu-qi-shao-fu-hu-shang-lin-ting
+title: 赴南中留别褚七少府湖上林亭
+titlePinyin: fu4 nan2 zhong1 liu2 bie2 chu3 qi1 shao4 fu3 hu2 shang4 lin2 ting2
+titleSlug: fu-nan-zhong-liu-bie-chu-qi-shao-fu-hu-shang-lin-ting
+author: 李嘉佑
+authorPinyin: li3 jia1 you4
+authorSlug: li-jia-you
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 种田东郭傍春陂，万事无情把钓丝。绿竹放侵行径里，
+- 从此别君千万里，白云流水忆佳期。
+
+## 拼音
+- zhong3 tian2 dong1 guo1 bang4 chun1 bei1 ， wan4 shi4 wu2 qing2 ba3 diao4 si1 。 lü4 zhu2 fang4 qin1 xing2 jing4 li3 ，
+- cong2 ci3 bie2 jun1 qian1 wan4 li3 ， bai2 yun2 liu2 shui3 yi4 jia1 qi1 。
+
+## 注释
+
+## 译文
+
+## 赏析

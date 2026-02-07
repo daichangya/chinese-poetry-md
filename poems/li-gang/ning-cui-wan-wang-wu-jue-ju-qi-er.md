@@ -1,0 +1,27 @@
+---
+id: li-gang-ning-cui-wan-wang-wu-jue-ju-qi-er
+title: 凝翠晚望五绝句  其二
+titlePinyin: ning2 cui4 wan3 wang4 wu3 jue2 ju4     qi2 er4
+titleSlug: ning-cui-wan-wang-wu-jue-ju-qi-er
+author: 李纲
+authorPinyin: li3 gang1
+authorSlug: li-gang
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 桂香泛泛满秋风，十里沙溪一望中。
+- 景物随时慰牢落，羁臣那解感飘蓬。
+
+## 拼音
+- gui4 xiang1 fan4 fan4 man3 qiu1 feng1 ， shi2 li3 sha1 xi1 yi2 wang4 zhong1 。
+- jing3 wu4 sui2 shi2 wei4 lao2 luo4 ， ji1 chen2 na4 jie3 gan3 piao1 peng2 。
+
+## 注释
+
+## 译文
+
+## 赏析

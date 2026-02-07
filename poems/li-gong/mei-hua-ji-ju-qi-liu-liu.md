@@ -1,0 +1,27 @@
+---
+id: li-gong-mei-hua-ji-ju-qi-liu-liu
+title: 梅花集句  其六六
+titlePinyin: mei2 hua1 ji2 ju4     qi2 liu4 liu4
+titleSlug: mei-hua-ji-ju-qi-liu-liu
+author: 李龏
+authorPinyin: li3 gong1
+authorSlug: li-gong
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 冰棹风船雪满篷，年年长策探花功。
+- 可怜几许怀春意，尽在疏枝冷蘂中。
+
+## 拼音
+- bing1 zhao4 feng1 chuan2 xue3 man3 peng2 ， nian2 nian2 zhang3 ce4 tan4 hua1 gong1 。
+- ke3 lian2 ji3 xu3 huai2 chun1 yi4 ， jin4 zai4 shu1 zhi1 leng3 rui3 zhong1 。
+
+## 注释
+
+## 译文
+
+## 赏析

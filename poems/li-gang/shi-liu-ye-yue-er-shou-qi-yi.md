@@ -1,0 +1,31 @@
+---
+id: li-gang-shi-liu-ye-yue-er-shou-qi-yi
+title: 十六夜月二首  其一
+titlePinyin: shi2 liu4 ye4 yue4 er4 shou3     qi2 yi1
+titleSlug: shi-liu-ye-yue-er-shou-qi-yi
+author: 李纲
+authorPinyin: li3 gang1
+authorSlug: li-gang
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 清光殊未减，碧落绝纤尘。
+- 綘阙飞金镜，银潢渡玉轮。
+- 霏霏烟霭灭，湛湛露华新。
+- 倚幌人千里，遥知翠黛颦。
+
+## 拼音
+- qing1 guang1 shu1 wei4 jian3 ， bi4 luo4 jue2 xian1 chen2 。
+- feng2 que1 fei1 jin1 jing4 ， yin2 huang2 du4 yu4 lun2 。
+- fei1 fei1 yan1 ai3 mie4 ， zhan4 zhan4 lu4 hua2 xin1 。
+- yi3 huang3 ren2 qian1 li3 ， yao2 zhi1 cui4 dai4 pin2 。
+
+## 注释
+
+## 译文
+
+## 赏析

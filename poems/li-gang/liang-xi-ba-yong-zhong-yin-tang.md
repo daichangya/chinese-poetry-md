@@ -1,0 +1,27 @@
+---
+id: li-gang-liang-xi-ba-yong-zhong-yin-tang
+title: 梁谿八咏 中隐堂
+titlePinyin: liang2 xi1 ba1 yong3   zhong1 yin3 tang2
+titleSlug: liang-xi-ba-yong-zhong-yin-tang
+author: 李纲
+authorPinyin: li3 gang1
+authorSlug: li-gang
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 不在山林不市朝，且将图史当渔樵。
+- 桂花想见秋来盛，香满西风取次飘。
+
+## 拼音
+- bu2 zai4 shan1 lin2 bu2 shi4 chao2 ， qie3 jiang1 tu2 shi3 dang1 yu2 qiao2 。
+- gui4 hua1 xiang3 jian4 qiu1 lai2 sheng4 ， xiang1 man3 xi1 feng1 qu3 ci4 piao1 。
+
+## 注释
+
+## 译文
+
+## 赏析

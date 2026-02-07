@@ -1,0 +1,31 @@
+---
+id: li-hong-shen-shi-xiao-ling-long-er-shou-qi-er
+title: 沈氏小玲珑二首  其二
+titlePinyin: shen3 shi4 xiao3 ling2 long2 er4 shou3     qi2 er4
+titleSlug: shen-shi-xiao-ling-long-er-shou-qi-er
+author: 李洪
+authorPinyin: li3 hong2
+authorSlug: li-hong
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 十载经行旧，松扉静不关。
+- 岩空觑天巧，心达觉身闲。
+- 古洞无扃锁，飞泉杂珮环。
+- 何须采芝去，此地似商颜。
+
+## 拼音
+- shi2 zai3 jing1 xing2 jiu4 ， song1 fei1 jing4 bu4 guan1 。
+- yan2 kong1 qu4 tian1 qiao3 ， xin1 da2 jue2 shen1 xian2 。
+- gu3 dong4 wu2 jiong1 suo3 ， fei1 quan2 za2 pei4 huan2 。
+- he2 xu1 cai3 zhi1 qu4 ， ci3 di4 si4 shang1 yan2 。
+
+## 注释
+
+## 译文
+
+## 赏析

@@ -1,0 +1,29 @@
+---
+id: li-jia-you-ju
+title: 句
+titlePinyin: ju4
+titleSlug: ju
+author: 李嘉佑
+authorPinyin: li3 jia1 you4
+authorSlug: li-jia-you
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 水田飞白鹭，夏木啭黄鹂。（李肇称嘉佑有此句，
+- 白马撼金珂，纷纷侍从多。身居骠骑幕，家住滹沱河。
+- 溪北映初星。
+
+## 拼音
+- shui3 tian2 fei1 bai2 lu4 ， xia4 mu4 zhuan4 huang2 li2 。 （ li3 zhao4 cheng1 jia1 you4 you3 ci3 ju4 ，
+- bai2 ma3 han4 jin1 ke1 ， fen1 fen1 shi4 cong2 duo1 。 shen1 ju1 piao4 qi2 mu4 ， jia1 zhu4 hu1 tuo2 he2 。
+- xi1 bei3 ying4 chu1 xing1 。
+
+## 注释
+
+## 译文
+
+## 赏析
