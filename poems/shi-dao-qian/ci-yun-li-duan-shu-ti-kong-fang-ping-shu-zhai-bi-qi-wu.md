@@ -1,0 +1,27 @@
+---
+id: shi-dao-qian-ci-yun-li-duan-shu-ti-kong-fang-ping-shu-zhai-bi-qi-wu
+title: 次韵李端叔题孔方平书斋壁  其五
+titlePinyin: ci4 yun4 li3 duan1 shu1 ti2 kong3 fang1 ping2 shu1 zhai1 bi4     qi2 wu3
+titleSlug: ci-yun-li-duan-shu-ti-kong-fang-ping-shu-zhai-bi-qi-wu
+author: 释道潜
+authorPinyin: shi4 dao4 qian2
+authorSlug: shi-dao-qian
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 马蹄逐逐走埃尘，官府宁容自在身。
+- 夜宿南溪孔居士，青灯相对话悲辛。
+
+## 拼音
+- ma3 ti2 zhu2 zhu2 zou3 ai1 chen2 ， guan1 fu3 ning2 rong2 zi4 zai4 shen1 。
+- ye4 su4 nan2 xi1 kong3 ju1 shi4 ， qing1 deng1 xiang1 dui4 hua4 bei1 xin1 。
+
+## 注释
+
+## 译文
+
+## 赏析

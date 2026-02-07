@@ -1,0 +1,27 @@
+---
+id: shi-de-hong-ji-dao-fu-san-shou-qi-san
+title: 寄道夫三首  其三
+titlePinyin: ji4 dao4 fu1 san1 shou3     qi2 san1
+titleSlug: ji-dao-fu-san-shou-qi-san
+author: 释德洪
+authorPinyin: shi4 de2 hong2
+authorSlug: shi-de-hong
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 昭默老禅最高遁，孤风闻说不容攀。
+- 烦君倒用彭泽印，折简招之应出山。
+
+## 拼音
+- zhao1 mo4 lao3 chan2 zui4 gao1 dun4 ， gu1 feng1 wen2 shuo1 bu4 rong2 pan1 。
+- fan2 jun1 dao3 yong4 peng2 ze2 yin4 ， zhe2 jian3 zhao1 zhi1 ying4 chu1 shan1 。
+
+## 注释
+
+## 译文
+
+## 赏析

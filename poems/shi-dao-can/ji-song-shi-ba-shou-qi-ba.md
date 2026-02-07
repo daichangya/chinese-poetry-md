@@ -1,0 +1,29 @@
+---
+id: shi-dao-can-ji-song-shi-ba-shou-qi-ba
+title: 偈颂十八首  其八
+titlePinyin: ji4 song4 shi2 ba1 shou3     qi2 ba1
+titleSlug: ji-song-shi-ba-shou-qi-ba
+author: 释道璨
+authorPinyin: shi4 dao4 can4
+authorSlug: shi-dao-can
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 临济处一杓，末山处半杓。
+- 玉本无暇，妄自雕琢。
+- 有年无德老睦州，无端拶折云门脚。
+
+## 拼音
+- lin2 ji4 chu4 yi4 shao2 ， mo4 shan1 chu4 ban4 shao2 。
+- yu4 ben3 wu2 xia2 ， wang4 zi4 diao1 zhuo2 。
+- you3 nian2 wu2 de2 lao3 mu4 zhou1 ， wu2 duan1 za1 zhe2 yun2 men2 jiao3 。
+
+## 注释
+
+## 译文
+
+## 赏析
