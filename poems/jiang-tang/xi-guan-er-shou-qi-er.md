@@ -1,0 +1,31 @@
+---
+id: jiang-tang-xi-guan-er-shou-qi-er
+title: 溪馆二首  其二
+titlePinyin: xi1 guan3 er4 shou3     qi2 er4
+titleSlug: xi-guan-er-shou-qi-er
+author: 蒋堂
+authorPinyin: jiang3 tang2
+authorSlug: jiang-tang
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 野意本自遂，兹溪称独醒。
+- 云萝环静室，水石照疏櫺。
+- 杀竹编书古，纫兰作佩声。
+- 王通昔不遇，时亦坐汾亭。
+
+## 拼音
+- ye3 yi4 ben3 zi4 sui4 ， zi1 xi1 cheng1 du2 xing3 。
+- yun2 luo2 huan2 jing4 shi4 ， shui3 shi2 zhao4 shu1 ling2 。
+- sha1 zhu2 bian1 shu1 gu3 ， ren4 lan2 zuo4 pei4 sheng1 。
+- wang2 tong1 xi1 bu2 yu4 ， shi2 yi4 zuo4 fen2 ting2 。
+
+## 注释
+
+## 译文
+
+## 赏析

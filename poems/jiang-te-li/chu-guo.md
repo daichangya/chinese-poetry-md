@@ -1,0 +1,27 @@
+---
+id: jiang-te-li-chu-guo
+title: 出郭
+titlePinyin: chu1 guo1
+titleSlug: chu-guo
+author: 姜特立
+authorPinyin: jiang1 te4 li4
+authorSlug: jiang-te-li
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 岁暮偶出郭，斜阳带远村。
+- 雪松含腊意，沙水动春痕。
+
+## 拼音
+- sui4 mu4 ou3 chu1 guo1 ， xie2 yang2 dai4 yuan3 cun1 。
+- xue3 song1 han2 la4 yi4 ， sha1 shui3 dong4 chun1 hen2 。
+
+## 注释
+
+## 译文
+
+## 赏析

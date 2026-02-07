@@ -1,0 +1,27 @@
+---
+id: jiang-xi-long-chi-pian
+title: 龙池篇
+titlePinyin: long2 chi2 pian1
+titleSlug: long-chi-pian
+author: 姜晞
+authorPinyin: jiang1 xi1
+authorSlug: jiang-xi
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 灵沼萦回邸第前，浴日涵春写曙天。始见龙台升凤阙，
+- 欲化帝图从此受，正同河变一千年。
+
+## 拼音
+- ling2 zhao3 ying2 hui2 di3 di4 qian2 ， yu4 ri4 han2 chun1 xie3 shu3 tian1 。 shi3 jian4 long2 tai2 sheng1 feng4 que1 ，
+- yu4 hua4 di4 tu2 cong2 ci3 shou4 ， zheng4 tong2 he2 bian4 yi4 qian1 nian2 。
+
+## 注释
+
+## 译文
+
+## 赏析

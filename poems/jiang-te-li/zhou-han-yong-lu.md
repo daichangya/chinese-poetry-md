@@ -1,0 +1,27 @@
+---
+id: jiang-te-li-zhou-han-yong-lu
+title: 骤寒拥炉
+titlePinyin: zhou4 han2 yong1 lu2
+titleSlug: zhou-han-yong-lu
+author: 姜特立
+authorPinyin: jiang1 te4 li4
+authorSlug: jiang-te-li
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 雪霰晓漫漫，天公剩作寒。
+- 林梢栖白凤，炉焰舞红鸾。
+
+## 拼音
+- xue3 xian4 xiao3 man4 man4 ， tian1 gong1 sheng4 zuo4 han2 。
+- lin2 shao1 qi1 bai2 feng4 ， lu2 yan4 wu3 hong2 luan2 。
+
+## 注释
+
+## 译文
+
+## 赏析

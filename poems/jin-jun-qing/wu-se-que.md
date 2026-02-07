@@ -1,0 +1,27 @@
+---
+id: jin-jun-qing-wu-se-que
+title: 五色雀
+titlePinyin: wu3 se4 que4
+titleSlug: wu-se-que
+author: 金君卿
+authorPinyin: jin1 jun1 qing1
+authorSlug: jin-jun-qing
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 晨氛澄霁海风调，彩绚珍禽入绛霄。
+- 闻说舜庭方作乐，可容飞舞听箫韶。
+
+## 拼音
+- chen2 fen1 cheng2 ji4 hai3 feng1 tiao2 ， cai3 xuan4 zhen1 qin2 ru4 jiang4 xiao1 。
+- wen2 shuo1 shun4 ting2 fang1 zuo4 le4 ， ke3 rong2 fei1 wu3 ting1 xiao1 shao2 。
+
+## 注释
+
+## 译文
+
+## 赏析

@@ -1,0 +1,27 @@
+---
+id: jiao-miao-chao-hui-ge-ci-jian-long-jiao-si-ba-shou-song-shen-yong-gao-an
+title: 建隆郊祀八首 送神用《高安》。
+titlePinyin: jian4 long2 jiao1 si4 ba1 shou3   song4 shen2 yong4 《 gao1 an1 》 。
+titleSlug: jian-long-jiao-si-ba-shou-song-shen-yong-gao-an
+author: 郊庙朝会歌辞
+authorPinyin: jiao1 miao4 chao2 hui4 ge1 ci2
+authorSlug: jiao-miao-chao-hui-ge-ci
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 倏兮而来，忽兮而回。
+- 云驭杳邈，天门洞开。
+
+## 拼音
+- shu1 xi1 er2 lai2 ， hu1 xi1 er2 hui2 。
+- yun2 yu4 yao3 miao3 ， tian1 men2 dong4 kai1 。
+
+## 注释
+
+## 译文
+
+## 赏析
