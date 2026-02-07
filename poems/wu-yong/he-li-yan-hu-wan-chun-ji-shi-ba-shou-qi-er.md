@@ -1,0 +1,27 @@
+---
+id: wu-yong-he-li-yan-hu-wan-chun-ji-shi-ba-shou-qi-er
+title: 和李雁湖晚春即事八首  其二
+titlePinyin: he2 li3 yan4 hu2 wan3 chun1 ji2 shi4 ba1 shou3     qi2 er4
+titleSlug: he-li-yan-hu-wan-chun-ji-shi-ba-shou-qi-er
+author: 吴泳
+authorPinyin: wu2 yong3
+authorSlug: wu-yong
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 纷纷花片落车茵，点点苔钱衬屐痕。
+- 造化生机浑不尽，又将新绿转春温。
+
+## 拼音
+- fen1 fen1 hua1 pian4 luo4 che1 yin1 ， dian3 dian3 tai2 qian2 chen4 ji1 hen2 。
+- zao4 hua4 sheng1 ji1 hun2 bu2 jin4 ， you4 jiang1 xin1 lü4 zhuan3 chun1 wen1 。
+
+## 注释
+
+## 译文
+
+## 赏析
