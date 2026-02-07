@@ -1,0 +1,33 @@
+---
+id: wang-jian-wu-qu-ge-ci-bai-zhu-ge-er-shou-er
+title: 舞曲歌辞 白纻歌二首 二
+titlePinyin: wu3 qu3 ge1 ci2   bai2 zhu4 ge1 er4 shou3   er4
+titleSlug: wu-qu-ge-ci-bai-zhu-ge-er-shou-er
+author: 王建
+authorPinyin: wang2 jian4
+authorSlug: wang-jian
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 馆娃宫中春日暮，荔枝木瓜花满树。
+- 城头乌栖休击鼓，青娥弹瑟白纻舞。
+- 夜天燑燑不见星，宫中火照西江明。
+- 美人醉起无次第，堕钗遗佩满中庭。
+- 此时但愿可君意，回昼为宵亦不寐，年年奉君君莫弃。
+
+## 拼音
+- guan3 wa2 gong1 zhong1 chun1 ri4 mu4 ， li4 zhi1 mu4 gua1 hua1 man3 shu4 。
+- cheng2 tou2 wu1 qi1 xiu1 ji1 gu3 ， qing1 e2 tan2 se4 bai2 zhu4 wu3 。
+- ye4 tian1 tong2 tong2 bu2 jian4 xing1 ， gong1 zhong1 huo3 zhao4 xi1 jiang1 ming2 。
+- mei3 ren2 zui4 qi3 wu2 ci4 di4 ， duo4 chai1 yi2 pei4 man3 zhong1 ting2 。
+- ci3 shi2 dan4 yuan4 ke3 jun1 yi4 ， hui2 zhou4 wei4 xiao1 yi4 bu2 mei4 ， nian2 nian2 feng4 jun1 jun1 mo4 qi4 。
+
+## 注释
+
+## 译文
+
+## 赏析

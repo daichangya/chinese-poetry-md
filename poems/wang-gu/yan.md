@@ -1,0 +1,27 @@
+---
+id: wang-gu-yan
+title: 燕
+titlePinyin: yan4
+titleSlug: yan
+author: 王毂
+authorPinyin: wang2 gu1
+authorSlug: wang-gu
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 海燕双飞意若何，曲梁呕嘎语声多。
+- 茅簷不必嫌卑陋，犹胜吴宫𦶟尔窠。
+
+## 拼音
+- hai3 yan4 shuang1 fei1 yi4 ruo4 he2 ， qu3 liang2 ou3 ga3 yu3 sheng1 duo1 。
+- mao2 yan2 bu2 bi4 xian2 bei1 lou4 ， you2 sheng4 wu2 gong1 𦶟 er3 ke1 。
+
+## 注释
+
+## 译文
+
+## 赏析
