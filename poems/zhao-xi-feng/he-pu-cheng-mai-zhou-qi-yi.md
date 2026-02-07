@@ -1,0 +1,31 @@
+---
+id: zhao-xi-feng-he-pu-cheng-mai-zhou-qi-yi
+title: 和浦城买舟  其一
+titlePinyin: he2 pu3 cheng2 mai3 zhou1     qi2 yi1
+titleSlug: he-pu-cheng-mai-zhou-qi-yi
+author: 赵希逢
+authorPinyin: zhao4 xi1 feng2
+authorSlug: zhao-xi-feng
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 倦客逢萸节，生涯寄叶舟。
+- 穷途危不顾，飞棹去难留。
+- 旧菊重阳日，寒芦两岸秋。
+- 多情惟破帽，犹恐老人头。
+
+## 拼音
+- juan4 ke4 feng2 yu2 jie2 ， sheng1 ya2 ji4 ye4 zhou1 。
+- qiong2 tu2 wei1 bu2 gu4 ， fei1 zhao4 qu4 nan2 liu2 。
+- jiu4 ju2 chong2 yang2 ri4 ， han2 lu2 liang3 an4 qiu1 。
+- duo1 qing2 wei2 po4 mao4 ， you2 kong3 lao3 ren2 tou2 。
+
+## 注释
+
+## 译文
+
+## 赏析
