@@ -1,0 +1,43 @@
+---
+id: gao-shi-za-qu-ge-ci-ji-men-xing-wu-shou
+title: 杂曲歌辞：蓟门行五首
+titlePinyin: za2 qu3 ge1 ci2 ： ji4 men2 xing2 wu3 shou3
+titleSlug: za-qu-ge-ci-ji-men-xing-wu-shou
+author: 高适
+authorPinyin: gao1 shi4
+authorSlug: gao-shi
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 边城十一月，雨雪乱霏霏。元戎号令严，人马亦轻肥。
+- 羌胡无尽日，征战几人归。
+- 幽州多骑射，结发重横行。一朝事将军，出入有声名。
+- 纷纷猎秋草，相向角弓鸣。
+- 蓟门逢古老，独立思氛氲。一身既零丁，头鬓白纷纷。
+- 勋庸今已矣，不识霍将军。
+- 茫茫长城外，日没更烟尘。胡骑虽凭陵，汉兵不顾身。
+- 古树满空塞，黄云愁杀人。
+- 汉家能用武，开拓穷异域。戍卒厌糠核，降胡饱衣食。
+- 开亭试一望，吾欲涕沾臆。
+
+## 拼音
+- bian1 cheng2 shi2 yi1 yue4 ， yu3 xue3 luan4 fei1 fei1 。 yuan2 rong2 hao4 ling4 yan2 ， ren2 ma3 yi4 qing1 fei2 。
+- qiang1 hu2 wu2 jin4 ri4 ， zheng1 zhan4 ji3 ren2 gui1 。
+- you1 zhou1 duo1 qi2 she4 ， jie2 fa4 zhong4 heng2 xing2 。 yi4 chao2 shi4 jiang1 jun1 ， chu1 ru4 you3 sheng1 ming2 。
+- fen1 fen1 lie4 qiu1 cao3 ， xiang1 xiang4 jiao3 gong1 ming2 。
+- ji4 men2 feng2 gu3 lao3 ， du2 li4 si1 fen1 yun1 。 yi4 shen1 ji4 ling2 ding1 ， tou2 bin4 bai2 fen1 fen1 。
+- xun1 yong1 jin1 yi3 yi3 ， bu4 shi2 huo4 jiang1 jun1 。
+- mang2 mang2 chang2 cheng2 wai4 ， ri4 mei2 geng4 yan1 chen2 。 hu2 qi2 sui1 ping2 ling2 ， han4 bing1 bu2 gu4 shen1 。
+- gu3 shu4 man3 kong1 sai1 ， huang2 yun2 chou2 sha1 ren2 。
+- han4 jia1 neng2 yong4 wu3 ， kai1 tuo4 qiong2 yi4 yu4 。 shu4 zu2 yan4 kang1 he2 ， jiang4 hu2 bao3 yi1 shi2 。
+- kai1 ting2 shi4 yi2 wang4 ， wu2 yu4 ti4 zhan1 yi4 。
+
+## 注释
+
+## 译文
+
+## 赏析
