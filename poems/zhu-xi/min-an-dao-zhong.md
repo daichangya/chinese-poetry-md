@@ -1,0 +1,31 @@
+---
+id: zhu-xi-min-an-dao-zhong
+title: 民安道中
+titlePinyin: min2 an1 dao4 zhong1
+titleSlug: min-an-dao-zhong
+author: 朱熹
+authorPinyin: zhu1 xi1
+authorSlug: zhu-xi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 祗役东原路，长风海气阴。
+- 苍茫生远思，憭栗起寒襟。
+- 午泊僧寮静，昏投县郭深。
+- 拙勤终不补，谁使漫劳心。
+
+## 拼音
+- zhi1 yi4 dong1 yuan2 lu4 ， chang2 feng1 hai3 qi4 yin1 。
+- cang1 mang2 sheng1 yuan3 si1 ， liao2 li4 qi3 han2 jin1 。
+- wu3 bo2 seng1 liao2 jing4 ， hun1 tou2 xian4 guo1 shen1 。
+- zhuo1 qin2 zhong1 bu4 bu3 ， shui2 shi3 man4 lao2 xin1 。
+
+## 注释
+
+## 译文
+
+## 赏析

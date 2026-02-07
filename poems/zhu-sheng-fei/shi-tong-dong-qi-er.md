@@ -1,0 +1,27 @@
+---
+id: zhu-sheng-fei-shi-tong-dong-qi-er
+title: 石通洞  其二
+titlePinyin: shi2 tong1 dong4     qi2 er4
+titleSlug: shi-tong-dong-qi-er
+author: 朱胜非
+authorPinyin: zhu1 sheng4 fei1
+authorSlug: zhu-sheng-fei
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 咫尺天湖号堵坪，先贤曾此劝农耕。
+- 若教一日归豪右，敢向黄公庙下行。
+
+## 拼音
+- zhi3 chi3 tian1 hu2 hao4 du3 ping2 ， xian1 xian2 ceng2 ci3 quan4 nong2 geng1 。
+- ruo4 jiao4 yi2 ri4 gui1 hao2 you4 ， gan3 xiang4 huang2 gong1 miao4 xia4 xing2 。
+
+## 注释
+
+## 译文
+
+## 赏析

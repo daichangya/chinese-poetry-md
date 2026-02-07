@@ -1,0 +1,27 @@
+---
+id: zhu-xi-bai-zhang-shan-liu-yong-shan-men
+title: 百丈山六咏 山门
+titlePinyin: bai3 zhang4 shan1 liu4 yong3   shan1 men2
+titleSlug: bai-zhang-shan-liu-yong-shan-men
+author: 朱熹
+authorPinyin: zhu1 xi1
+authorSlug: zhu-xi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 置屋两山间，巧当奇绝处。
+- 峡束百泉倾，涧激回风度。
+
+## 拼音
+- zhi4 wu1 liang3 shan1 jian1 ， qiao3 dang1 qi2 jue2 chu4 。
+- xia2 shu4 bai3 quan2 qing1 ， jian4 ji1 hui2 feng1 du4 。
+
+## 注释
+
+## 译文
+
+## 赏析

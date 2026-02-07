@@ -1,0 +1,27 @@
+---
+id: zhu-xi-ti-liu-ping-fu-ding-an-wu-yong-shan-tai
+title: 题刘平甫定庵五咏 山台
+titlePinyin: ti2 liu2 ping2 fu3 ding4 an1 wu3 yong3   shan1 tai2
+titleSlug: ti-liu-ping-fu-ding-an-wu-yong-shan-tai
+author: 朱熹
+authorPinyin: zhu1 xi1
+authorSlug: zhu-xi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 林居厌栖迷，山顶幸清旷。
+- 无事一登临，却愁心浩荡。
+
+## 拼音
+- lin2 ju1 yan4 qi1 mi2 ， shan1 ding3 xing4 qing1 kuang4 。
+- wu2 shi4 yi4 deng1 lin2 ， que4 chou2 xin1 hao4 dang4 。
+
+## 注释
+
+## 译文
+
+## 赏析

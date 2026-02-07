@@ -1,0 +1,31 @@
+---
+id: zhu-song-mu-dan-tu-mi-ge-yi-shou-cheng-zhou-zai-qi-yi
+title: 牡丹酴醿各一首呈周宰  其一
+titlePinyin: mu3 dan1 tu2 mi2 ge4 yi4 shou3 cheng2 zhou1 zai3     qi2 yi1
+titleSlug: mu-dan-tu-mi-ge-yi-shou-cheng-zhou-zai-qi-yi
+author: 朱松
+authorPinyin: zhu1 song1
+authorSlug: zhu-song
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 珍藂压朝露，无人羞欲欹。
+- 春风醉香骨，绰约不自持。
+- 谁怜曲肱人，一笑遣秾姿。
+- 不言意可了，君醉当勿疑。
+
+## 拼音
+- zhen1 cong2 ya1 chao2 lu4 ， wu2 ren2 xiu1 yu4 qi1 。
+- chun1 feng1 zui4 xiang1 gu3 ， chuo4 yue1 bu2 zi4 chi2 。
+- shui2 lian2 qu1 gong1 ren2 ， yi2 xiao4 qian3 nong2 zi1 。
+- bu4 yan2 yi4 ke3 le0 ， jun1 zui4 dang1 wu4 yi2 。
+
+## 注释
+
+## 译文
+
+## 赏析

@@ -1,0 +1,31 @@
+---
+id: zhu-xi-an-xi-shu-shi
+title: 安溪书事
+titlePinyin: an1 xi1 shu1 shi4
+titleSlug: an-xi-shu-shi
+author: 朱熹
+authorPinyin: zhu1 xi1
+authorSlug: zhu-xi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 清溪流不极，夕雾起岚阴。
+- 虚邑带寒水，悲风号远林。
+- 涵山日欲晦，窥阁景方沉。
+- 极目无遗眺，空令愁寸心。
+
+## 拼音
+- qing1 xi1 liu2 bu4 ji2 ， xi1 wu4 qi3 lan2 yin1 。
+- xu1 yi4 dai4 han2 shui3 ， bei1 feng1 hao4 yuan3 lin2 。
+- han2 shan1 ri4 yu4 hui4 ， kui1 ge2 jing3 fang1 chen2 。
+- ji2 mu4 wu2 yi2 tiao4 ， kong1 ling4 chou2 cun4 xin1 。
+
+## 注释
+
+## 译文
+
+## 赏析
