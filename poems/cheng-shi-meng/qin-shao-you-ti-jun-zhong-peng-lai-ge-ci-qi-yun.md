@@ -1,0 +1,31 @@
+---
+id: cheng-shi-meng-qin-shao-you-ti-jun-zhong-peng-lai-ge-ci-qi-yun
+title: 秦少游题郡中蓬莱阁次其韵
+titlePinyin: qin2 shao3 you2 ti2 jun4 zhong1 peng2 lai2 ge2 ci4 qi2 yun4
+titleSlug: qin-shao-you-ti-jun-zhong-peng-lai-ge-ci-qi-yun
+author: 程师孟
+authorPinyin: cheng2 shi1 meng4
+authorSlug: cheng-shi-meng
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 半天钟鼓宴峥嵘，早晚阴晴景旋生。
+- 湖暖水香春载酒，月寒云白夜闻笙。
+- 金鼇破海头争出，玉鹭排烟阵自横。
+- 我是蓬莱东道主，倚栏长占日初明。
+
+## 拼音
+- ban4 tian1 zhong1 gu3 yan4 zheng1 rong2 ， zao3 wan3 yin1 qing2 jing3 xuan2 sheng1 。
+- hu2 nuan3 shui3 xiang1 chun1 zai3 jiu3 ， yue4 han2 yun2 bai2 ye4 wen2 sheng1 。
+- jin1 ao2 po4 hai3 tou2 zheng1 chu1 ， yu4 lu4 pai2 yan1 zhen4 zi4 heng2 。
+- wo3 shi4 peng2 lai2 dong1 dao4 zhu3 ， yi3 lan2 chang2 zhan4 ri4 chu1 ming2 。
+
+## 注释
+
+## 译文
+
+## 赏析

@@ -1,0 +1,27 @@
+---
+id: cheng-gong-xu-shang-yuan-ji-shi-si-shou-qi-yi
+title: 上元即事四首  其一
+titlePinyin: shang4 yuan2 ji2 shi4 si4 shou3     qi2 yi1
+titleSlug: shang-yuan-ji-shi-si-shou-qi-yi
+author: 程公许
+authorPinyin: cheng2 gong1 xu3
+authorSlug: cheng-gong-xu
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 放灯时节快晴天，红杏梢头璧月圆。
+- 物色似嫌人意懒，故撩吟思着风烟。
+
+## 拼音
+- fang4 deng1 shi2 jie2 kuai4 qing2 tian1 ， hong2 xing4 shao1 tou2 bi4 yue4 yuan2 。
+- wu4 se4 si4 xian2 ren2 yi4 lan3 ， gu4 liao2 yin2 si1 zhe0 feng1 yan1 。
+
+## 注释
+
+## 译文
+
+## 赏析
