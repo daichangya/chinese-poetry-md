@@ -1,0 +1,27 @@
+---
+id: qi-ji-shan-zai-xing
+title: 善哉行
+titlePinyin: shan4 zai1 xing2
+titleSlug: shan-zai-xing
+author: 齐己
+authorPinyin: qi2 ji3
+authorSlug: qi-ji
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 大鹏刷翮谢溟渤，青云万层高突出。下视秋涛空渺弥，
+- 愿除嗜欲待身轻，携手同寻列仙事。
+
+## 拼音
+- da4 peng2 shua1 he2 xie4 ming2 bo2 ， qing1 yun2 wan4 ceng2 gao1 tu1 chu1 。 xia4 shi4 qiu1 tao1 kong1 miao3 mi2 ，
+- yuan4 chu2 shi4 yu4 dai4 shen1 qing1 ， xie2 shou3 tong2 xun2 lie4 xian1 shi4 。
+
+## 注释
+
+## 译文
+
+## 赏析

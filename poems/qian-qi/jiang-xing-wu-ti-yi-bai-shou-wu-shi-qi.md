@@ -1,0 +1,27 @@
+---
+id: qian-qi-jiang-xing-wu-ti-yi-bai-shou-wu-shi-qi
+title: 江行无题一百首 五十七
+titlePinyin: jiang1 xing2 wu2 ti2 yi4 bai3 shou3   wu3 shi2 qi1
+titleSlug: jiang-xing-wu-ti-yi-bai-shou-wu-shi-qi
+author: 钱起
+authorPinyin: qian2 qi3
+authorSlug: qian-qi
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 舟航依浦定，星斗满江寒。
+- 若比阴霾日，何妨夜未阑。
+
+## 拼音
+- zhou1 hang2 yi1 pu3 ding4 ， xing1 dou4 man3 jiang1 han2 。
+- ruo4 bi3 yin1 mai2 ri4 ， he2 fang2 ye4 wei4 lan2 。
+
+## 注释
+
+## 译文
+
+## 赏析

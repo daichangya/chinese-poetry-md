@@ -1,0 +1,27 @@
+---
+id: qian-qi-song-li-ming-fu-qu-guan
+title: 送李明府去官
+titlePinyin: song4 li3 ming2 fu3 qu4 guan1
+titleSlug: song-li-ming-fu-qu-guan
+author: 钱起
+authorPinyin: qian2 qi3
+authorSlug: qian-qi
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 谤言三至后，直道叹何如。
+- 今日蓝溪水，无人不夜鱼。
+
+## 拼音
+- bang4 yan2 san1 zhi4 hou4 ， zhi2 dao4 tan4 he2 ru2 。
+- jin1 ri4 lan2 xi1 shui3 ， wu2 ren2 bu2 ye4 yu2 。
+
+## 注释
+
+## 译文
+
+## 赏析

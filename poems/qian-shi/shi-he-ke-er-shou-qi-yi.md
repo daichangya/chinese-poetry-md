@@ -1,0 +1,27 @@
+---
+id: qian-shi-shi-he-ke-er-shou-qi-yi
+title: 示贺客二首  其一
+titlePinyin: shi4 he4 ke4 er4 shou3     qi2 yi1
+titleSlug: shi-he-ke-er-shou-qi-yi
+author: 钱时
+authorPinyin: qian2 shi2
+authorSlug: qian-shi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 得便宜是落便宜，几万人中有个知。
+- 此日冬窝无事客，埋头更学十分痴。
+
+## 拼音
+- de2 pian2 yi0 shi4 luo4 pian2 yi0 ， ji3 wan4 ren2 zhong1 you3 ge4 zhi1 。
+- ci3 ri4 dong1 wo1 wu2 shi4 ke4 ， mai2 tou2 geng4 xue2 shi2 fen1 chi1 。
+
+## 注释
+
+## 译文
+
+## 赏析

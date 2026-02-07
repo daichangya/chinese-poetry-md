@@ -1,0 +1,27 @@
+---
+id: qian-qi-jiang-xing-wu-ti-yi-bai-shou-jiu-shi
+title: 江行无题一百首 九十
+titlePinyin: jiang1 xing2 wu2 ti2 yi4 bai3 shou3   jiu3 shi2
+titleSlug: jiang-xing-wu-ti-yi-bai-shou-jiu-shi
+author: 钱起
+authorPinyin: qian2 qi3
+authorSlug: qian-qi
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 一湾斜照水，三版顺风船。
+- 未敢相邀约，劳生秖自怜。
+
+## 拼音
+- yi4 wan1 xie2 zhao4 shui3 ， san1 ban3 shun4 feng1 chuan2 。
+- wei4 gan3 xiang1 yao1 yue1 ， lao2 sheng1 zhi3 zi4 lian2 。
+
+## 注释
+
+## 译文
+
+## 赏析

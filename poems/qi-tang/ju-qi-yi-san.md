@@ -1,0 +1,25 @@
+---
+id: qi-tang-ju-qi-yi-san
+title: 句  其一三
+titlePinyin: ju4     qi2 yi1 san1
+titleSlug: ju-qi-yi-san
+author: 齐唐
+authorPinyin: qi2 tang2
+authorSlug: qi-tang
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 春波池上搘琴荐，秋月桐阴把蟹螯。
+
+## 拼音
+- chun1 bo1 chi2 shang4 zhi1 qin2 jian4 ， qiu1 yue4 tong2 yin1 ba3 xie4 ao2 。
+
+## 注释
+
+## 译文
+
+## 赏析

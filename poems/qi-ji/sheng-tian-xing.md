@@ -1,0 +1,27 @@
+---
+id: qi-ji-sheng-tian-xing
+title: 升天行
+titlePinyin: sheng1 tian1 xing2
+titleSlug: sheng-tian-xing
+author: 齐己
+authorPinyin: qi2 ji3
+authorSlug: qi-ji
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 身不沉，骨不重。驱青鸾，驾白凤。幢盖飘摇入冷空，
+- 三五仙子乘龙车，堂前碾烂蟠桃花。回头却顾蓬莱顶，
+
+## 拼音
+- shen1 bu4 chen2 ， gu3 bu2 zhong4 。 qu1 qing1 luan2 ， jia4 bai2 feng4 。 zhuang4 gai4 piao1 yao2 ru4 leng3 kong1 ，
+- san1 wu3 xian1 zi3 cheng2 long2 che1 ， tang2 qian2 nian3 lan4 pan2 tao2 hua1 。 hui2 tou2 que4 gu4 peng2 lai2 ding3 ，
+
+## 注释
+
+## 译文
+
+## 赏析
