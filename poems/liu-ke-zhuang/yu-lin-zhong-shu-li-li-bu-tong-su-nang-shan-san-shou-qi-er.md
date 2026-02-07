@@ -1,0 +1,31 @@
+---
+id: liu-ke-zhuang-yu-lin-zhong-shu-li-li-bu-tong-su-nang-shan-san-shou-qi-er
+title: 与林中书李礼部同宿囊山三首  其二
+titlePinyin: yu3 lin2 zhong1 shu1 li3 li3 bu4 tong2 su4 nang2 shan1 san1 shou3     qi2 er4
+titleSlug: yu-lin-zhong-shu-li-li-bu-tong-su-nang-shan-san-shou-qi-er
+author: 刘克庄
+authorPinyin: liu2 ke4 zhuang1
+authorSlug: liu-ke-zhuang
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 三儒夜话俱忘寝，户外纵横卧仆夫。
+- 椰腹拈来即书簏，芋头煨熟当行厨。
+- 谪仙岂是无诗种，处士相传有句图。
+- 师服何曾能把笔，短章吟就改还涂。
+
+## 拼音
+- san1 ru2 ye4 hua4 ju4 wang4 qin3 ， hu4 wai4 zong4 heng2 wo4 pu2 fu1 。
+- ye1 fu4 nian1 lai2 ji2 shu1 lu4 ， yu4 tou0 wei1 shu2 dang1 xing2 chu2 。
+- zhe2 xian1 qi3 shi4 wu2 shi1 zhong3 ， chu3 shi4 xiang1 chuan2 you3 ju4 tu2 。
+- shi1 fu2 he2 ceng2 neng2 ba3 bi3 ， duan3 zhang1 yin2 jiu4 gai3 hai2 tu2 。
+
+## 注释
+
+## 译文
+
+## 赏析

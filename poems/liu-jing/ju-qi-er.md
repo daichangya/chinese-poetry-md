@@ -1,0 +1,25 @@
+---
+id: liu-jing-ju-qi-er
+title: 句  其二
+titlePinyin: ju4     qi2 er4
+titleSlug: ju-qi-er
+author: 刘泾
+authorPinyin: liu2 jing1
+authorSlug: liu-jing
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 晓来风入万花动，零落满头飞下时。
+
+## 拼音
+- xiao3 lai2 feng1 ru4 wan4 hua1 dong4 ， ling2 luo4 man3 tou2 fei1 xia4 shi2 。
+
+## 注释
+
+## 译文
+
+## 赏析

@@ -1,0 +1,27 @@
+---
+id: liu-ke-zhuang-xi-an-fang-yan-shi-shou-qi-san
+title: 溪庵放言十首  其三
+titlePinyin: xi1 an1 fang4 yan2 shi2 shou3     qi2 san1
+titleSlug: xi-an-fang-yan-shi-shou-qi-san
+author: 刘克庄
+authorPinyin: liu2 ke4 zhuang1
+authorSlug: liu-ke-zhuang
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 拟拉陶潜入社，不消王翰卜邻。
+- 有梦通华胥国，无德薰晋鄙人。
+
+## 拼音
+- ni3 la1 tao2 qian2 ru4 she4 ， bu4 xiao1 wang2 han4 bu3 lin2 。
+- you3 meng4 tong1 hua2 xu1 guo2 ， wu2 de2 xun1 jin4 bi3 ren2 。
+
+## 注释
+
+## 译文
+
+## 赏析

@@ -1,0 +1,31 @@
+---
+id: liu-jian-meng-gui-gu-yuan-yi
+title: 梦归故园 一
+titlePinyin: meng4 gui1 gu4 yuan2   yi1
+titleSlug: meng-gui-gu-yuan-yi
+author: 刘兼
+authorPinyin: liu2 jian1
+authorSlug: liu-jian
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 桐叶飞霜落井栏，菱花藏雪助衰颜。
+- 夜窗飒飒摇寒竹，秋枕迢迢梦故山。
+- 临水钓舟横荻岸，隔溪禅侣启柴关。
+- 觉来依旧三更月，离绪乡心起万端。
+
+## 拼音
+- tong2 ye4 fei1 shuang1 luo4 jing3 lan2 ， ling2 hua1 cang2 xue3 zhu4 shuai1 yan2 。
+- ye4 chuang1 sa4 sa4 yao2 han2 zhu2 ， qiu1 zhen3 tiao2 tiao2 meng4 gu4 shan1 。
+- lin2 shui3 diao4 zhou1 heng2 di2 an4 ， ge2 xi1 chan2 lü3 qi3 chai2 guan1 。
+- jue2 lai2 yi1 jiu4 san1 geng1 yue4 ， li2 xu4 xiang1 xin1 qi3 wan4 duan1 。
+
+## 注释
+
+## 译文
+
+## 赏析

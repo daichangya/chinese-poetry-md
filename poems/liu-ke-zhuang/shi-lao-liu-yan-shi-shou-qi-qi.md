@@ -1,0 +1,27 @@
+---
+id: liu-ke-zhuang-shi-lao-liu-yan-shi-shou-qi-qi
+title: 释老六言十首  其七
+titlePinyin: shi4 lao3 liu4 yan2 shi2 shou3     qi2 qi1
+titleSlug: shi-lao-liu-yan-shi-shou-qi-qi
+author: 刘克庄
+authorPinyin: liu2 ke4 zhuang1
+authorSlug: liu-ke-zhuang
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 今无寻师重趼，古有求人宿舂。
+- 道在青牛关外，经来白马寺中。
+
+## 拼音
+- jin1 wu2 xun2 shi1 zhong4 jian3 ， gu3 you3 qiu2 ren2 su4 chong1 。
+- dao4 zai4 qing1 niu2 guan1 wai4 ， jing1 lai2 bai2 ma3 si4 zhong1 。
+
+## 注释
+
+## 译文
+
+## 赏析

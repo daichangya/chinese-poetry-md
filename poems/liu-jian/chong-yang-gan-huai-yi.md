@@ -1,0 +1,31 @@
+---
+id: liu-jian-chong-yang-gan-huai-yi
+title: 重阳感怀 一
+titlePinyin: chong2 yang2 gan3 huai2   yi1
+titleSlug: chong-yang-gan-huai-yi
+author: 刘兼
+authorPinyin: liu2 jian1
+authorSlug: liu-jian
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 重阳不忍上高楼，寒菊年年照暮秋。
+- 万叠故山云总隔，两行乡泪血和流。
+- 黄茅莽莽连边郡，红叶纷纷落钓舟。
+- 归计未成年渐老，茱萸羞戴雪霜头。
+
+## 拼音
+- chong2 yang2 bu4 ren3 shang4 gao1 lou2 ， han2 ju2 nian2 nian2 zhao4 mu4 qiu1 。
+- wan4 die2 gu4 shan1 yun2 zong3 ge2 ， liang3 hang2 xiang1 lei4 xue4 he2 liu2 。
+- huang2 mao2 mang3 mang3 lian2 bian1 jun4 ， hong2 ye4 fen1 fen1 luo4 diao4 zhou1 。
+- gui1 ji4 wei4 cheng2 nian2 jian4 lao3 ， zhu1 yu2 xiu1 dai4 xue3 shuang1 tou2 。
+
+## 注释
+
+## 译文
+
+## 赏析

@@ -1,0 +1,27 @@
+---
+id: liu-ke-zhuang-cang-bu-di-he-qian-yun-zai-de-wu-shou-qi-er
+title: 仓部弟和前韵再得五首  其二
+titlePinyin: cang1 bu4 di4 he2 qian2 yun4 zai4 de2 wu3 shou3     qi2 er4
+titleSlug: cang-bu-di-he-qian-yun-zai-de-wu-shou-qi-er
+author: 刘克庄
+authorPinyin: liu2 ke4 zhuang1
+authorSlug: liu-ke-zhuang
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 莫放双眉皱，休嗟两鬓蓬。
+- 耆英图里看，若个弟兄同。
+
+## 拼音
+- mo4 fang4 shuang1 mei2 zhou4 ， xiu1 jie1 liang3 bin4 peng2 。
+- qi2 ying1 tu2 li3 kan4 ， ruo4 ge4 di4 xiong0 tong2 。
+
+## 注释
+
+## 译文
+
+## 赏析

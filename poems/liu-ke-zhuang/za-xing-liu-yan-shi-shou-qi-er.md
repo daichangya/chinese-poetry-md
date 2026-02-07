@@ -1,0 +1,27 @@
+---
+id: liu-ke-zhuang-za-xing-liu-yan-shi-shou-qi-er
+title: 杂兴六言十首  其二
+titlePinyin: za2 xing1 liu4 yan2 shi2 shou3     qi2 er4
+titleSlug: za-xing-liu-yan-shi-shou-qi-er
+author: 刘克庄
+authorPinyin: liu2 ke4 zhuang1
+authorSlug: liu-ke-zhuang
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 史事十羊九牧，古音百鸟孤凰。
+- 前召南塘视草，后起秀岩提纲。
+
+## 拼音
+- shi3 shi4 shi2 yang2 jiu3 mu4 ， gu3 yin1 bai3 niao3 gu1 huang2 。
+- qian2 zhao4 nan2 tang2 shi4 cao3 ， hou4 qi3 xiu4 yan2 ti2 gang1 。
+
+## 注释
+
+## 译文
+
+## 赏析

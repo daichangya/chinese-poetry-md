@@ -1,0 +1,27 @@
+---
+id: liu-ke-zhuang-feng-hu-san-shou-qi-san
+title: 丰湖三首  其三
+titlePinyin: feng1 hu2 san1 shou3     qi2 san1
+titleSlug: feng-hu-san-shou-qi-san
+author: 刘克庄
+authorPinyin: liu2 ke4 zhuang1
+authorSlug: liu-ke-zhuang
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 作桥聊结众生缘，不计全家落瘴烟。
+- 内翰翻身脱犀带，黄门劝妇助金钱。
+
+## 拼音
+- zuo4 qiao2 liao2 jie2 zhong4 sheng1 yuan2 ， bu2 ji4 quan2 jia1 luo4 zhang4 yan1 。
+- nei4 han4 fan1 shen1 tuo1 xi1 dai4 ， huang2 men2 quan4 fu4 zhu4 jin1 qian2 。
+
+## 注释
+
+## 译文
+
+## 赏析

@@ -1,0 +1,31 @@
+---
+id: liu-jian-he-lu-zhai-wang-lian-shi-san-shou-qi-er
+title: 和率斋王廉使三首  其二
+titlePinyin: he2 lü4 zhai1 wang2 lian2 shi3 san1 shou3     qi2 er4
+titleSlug: he-lu-zhai-wang-lian-shi-san-shou-qi-er
+author: 刘鉴
+authorPinyin: liu2 jian4
+authorSlug: liu-jian
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 试手东风第一杯，南冠久挂市门梅。
+- 贤遣在野时曾闭，道大如天运复开。
+- 江左人传茂弘相，河汾士喜仲淹来。
+- 深衣增重逾貂暖，立到天花雨满台。
+
+## 拼音
+- shi4 shou3 dong1 feng1 di4 yi1 bei1 ， nan2 guan1 jiu3 gua4 shi4 men2 mei2 。
+- xian2 qian3 zai4 ye3 shi2 ceng2 bi4 ， dao4 da4 ru2 tian1 yun4 fu4 kai1 。
+- jiang1 zuo3 ren2 chuan2 mao4 hong2 xiang1 ， he2 fen2 shi4 xi3 zhong4 yan1 lai2 。
+- shen1 yi1 zeng1 zhong4 yu2 diao1 nuan3 ， li4 dao4 tian1 hua1 yu3 man3 tai2 。
+
+## 注释
+
+## 译文
+
+## 赏析

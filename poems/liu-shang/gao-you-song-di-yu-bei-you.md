@@ -1,0 +1,27 @@
+---
+id: liu-shang-gao-you-song-di-yu-bei-you
+title: 高邮送弟遇北游
+titlePinyin: gao1 you2 song4 di4 yu4 bei3 you2
+titleSlug: gao-you-song-di-yu-bei-you
+author: 刘商
+authorPinyin: liu2 shang1
+authorSlug: liu-shang
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 门临楚国舟船路，易见行人易别离。
+- 今日送君心最恨，孤帆水下又风吹。
+
+## 拼音
+- men2 lin2 chu3 guo2 zhou1 chuan2 lu4 ， yi4 jian4 xing2 ren2 yi4 bie2 li2 。
+- jin1 ri4 song4 jun1 xin1 zui4 hen4 ， gu1 fan1 shui3 xia4 you4 feng1 chui1 。
+
+## 注释
+
+## 译文
+
+## 赏析

@@ -1,0 +1,27 @@
+---
+id: liu-ke-zhuang-han-ru-er-shou-qi-er
+title: 汉儒二首  其二
+titlePinyin: han4 ru2 er4 shou3     qi2 er4
+titleSlug: han-ru-er-shou-qi-er
+author: 刘克庄
+authorPinyin: liu2 ke4 zhuang1
+authorSlug: liu-ke-zhuang
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 卖赋长安偶遇知，后车归载远山眉。
+- 可怜犬子真穷相，不见刘郎过沛时。
+
+## 拼音
+- mai4 fu4 chang2 an1 ou3 yu4 zhi1 ， hou4 che1 gui1 zai3 yuan3 shan1 mei2 。
+- ke3 lian2 quan3 zi3 zhen1 qiong2 xiang1 ， bu2 jian4 liu2 lang2 guo4 pei4 shi2 。
+
+## 注释
+
+## 译文
+
+## 赏析

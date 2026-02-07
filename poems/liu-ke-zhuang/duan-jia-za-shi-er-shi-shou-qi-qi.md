@@ -1,0 +1,27 @@
+---
+id: liu-ke-zhuang-duan-jia-za-shi-er-shi-shou-qi-qi
+title: 端嘉杂诗二十首  其七
+titlePinyin: duan1 jia1 za2 shi1 er4 shi2 shou3     qi2 qi1
+titleSlug: duan-jia-za-shi-er-shi-shou-qi-qi
+author: 刘克庄
+authorPinyin: liu2 ke4 zhuang1
+authorSlug: liu-ke-zhuang
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 苌尤桀点于坚者，勒固奸雄奈虎何。
+- 剩制赭袍添曲盖，中原假帝不胜多。
+
+## 拼音
+- chang2 you2 jie2 dian3 yu2 jian1 zhe3 ， le4 gu4 jian1 xiong2 nai4 hu3 he2 。
+- sheng4 zhi4 zhe3 pao2 tian1 qu3 gai4 ， zhong1 yuan2 jia3 di4 bu2 sheng4 duo1 。
+
+## 注释
+
+## 译文
+
+## 赏析
