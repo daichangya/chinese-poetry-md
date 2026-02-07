@@ -1,0 +1,27 @@
+---
+id: zhen-shan-min-shui-mo-hai-tang
+title: 水墨海棠
+titlePinyin: shui3 mo4 hai3 tang2
+titleSlug: shui-mo-hai-tang
+author: 真山民
+authorPinyin: zhen1 shan1 min2
+authorSlug: zhen-shan-min
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 不将翠袖卷纱红，怪得陈玄夺化工。
+- 想是太真春睡足，梦魂正在黑甜中。
+
+## 拼音
+- bu4 jiang1 cui4 xiu4 juan4 sha1 hong2 ， guai4 de2 chen2 xuan2 duo2 hua4 gong1 。
+- xiang3 shi4 tai4 zhen1 chun1 shui4 zu2 ， meng4 hun2 zheng4 zai4 hei1 tian2 zhong1 。
+
+## 注释
+
+## 译文
+
+## 赏析
