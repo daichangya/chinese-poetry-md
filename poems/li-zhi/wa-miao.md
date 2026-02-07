@@ -1,0 +1,27 @@
+---
+id: li-zhi-wa-miao
+title: 瓦庙
+titlePinyin: wa3 miao4
+titleSlug: wa-miao
+author: 李廌
+authorPinyin: li3 zhi4
+authorSlug: li-zhi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 柱侧簷欹瓦欲飘，断垣苔涩树萧萧。
+- 满庭荒草无香火，惟有禽声伴寂寥。
+
+## 拼音
+- zhu4 ce4 yan2 qi1 wa3 yu4 piao1 ， duan4 yuan2 tai2 se4 shu4 xiao1 xiao1 。
+- man3 ting2 huang1 cao3 wu2 xiang1 huo3 ， wei2 you3 qin2 sheng1 ban4 ji4 liao2 。
+
+## 注释
+
+## 译文
+
+## 赏析

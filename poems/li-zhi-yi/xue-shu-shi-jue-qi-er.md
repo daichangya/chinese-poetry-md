@@ -1,0 +1,27 @@
+---
+id: li-zhi-yi-xue-shu-shi-jue-qi-er
+title: 学书十绝  其二
+titlePinyin: xue2 shu1 shi2 jue2     qi2 er4
+titleSlug: xue-shu-shi-jue-qi-er
+author: 李之仪
+authorPinyin: li3 zhi1 yi2
+authorSlug: li-zhi-yi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 帘波不动地无尘，久与相亲燕雀驯。
+- 似怪衰翁长静坐，时时回眼辄疑人。
+
+## 拼音
+- lian2 bo1 bu2 dong4 di4 wu2 chen2 ， jiu3 yu3 xiang1 qin1 yan4 que4 xun4 。
+- si4 guai4 shuai1 weng1 chang2 jing4 zuo4 ， shi2 shi2 hui2 yan3 zhe2 yi2 ren2 。
+
+## 注释
+
+## 译文
+
+## 赏析

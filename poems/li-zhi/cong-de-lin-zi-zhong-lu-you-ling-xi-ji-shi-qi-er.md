@@ -1,0 +1,27 @@
+---
+id: li-zhi-cong-de-lin-zi-zhong-lu-you-ling-xi-ji-shi-qi-er
+title: 从德麟自中卢游灵溪记事  其二
+titlePinyin: cong2 de2 lin2 zi4 zhong1 lu2 you2 ling2 xi1 ji4 shi4     qi2 er4
+titleSlug: cong-de-lin-zi-zhong-lu-you-ling-xi-ji-shi-qi-er
+author: 李廌
+authorPinyin: li3 zhi4
+authorSlug: li-zhi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 青溪翠壁泻琮琤，洞府犹传鬼谷名。
+- 幸有六经堪送老，不思唇舌慕从横。
+
+## 拼音
+- qing1 xi1 cui4 bi4 xie4 cong2 cheng1 ， dong4 fu3 you2 chuan2 gui3 gu3 ming2 。
+- xing4 you3 liu4 jing1 kan1 song4 lao3 ， bu4 si1 chun2 she2 mu4 cong2 heng2 。
+
+## 注释
+
+## 译文
+
+## 赏析
