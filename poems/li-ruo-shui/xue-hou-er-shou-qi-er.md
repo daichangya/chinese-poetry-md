@@ -1,0 +1,27 @@
+---
+id: li-ruo-shui-xue-hou-er-shou-qi-er
+title: 雪后二首  其二
+titlePinyin: xue3 hou4 er4 shou3     qi2 er4
+titleSlug: xue-hou-er-shou-qi-er
+author: 李若水
+authorPinyin: li3 ruo4 shui3
+authorSlug: li-ruo-shui
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 玉霙著砌晓斑斑，天惜丰年特地悭。
+- 爽气一屏山倚碧，冷光千叠水回环。
+
+## 拼音
+- yu4 ying1 zhu4 qi4 xiao3 ban1 ban1 ， tian1 xi1 feng1 nian2 te4 di4 qian1 。
+- shuang3 qi4 yi4 ping2 shan1 yi3 bi4 ， leng3 guang1 qian1 die2 shui3 hui2 huan2 。
+
+## 注释
+
+## 译文
+
+## 赏析

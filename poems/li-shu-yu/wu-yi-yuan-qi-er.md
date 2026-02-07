@@ -1,0 +1,27 @@
+---
+id: li-shu-yu-wu-yi-yuan-qi-er
+title: 乌衣园  其二
+titlePinyin: wu1 yi1 yuan2     qi2 er4
+titleSlug: wu-yi-yuan-qi-er
+author: 李叔与
+authorPinyin: li3 shu1 yu3
+authorSlug: li-shu-yu
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 乌衣三径去年开，庭树幽阴绿作堆。
+- 胡蝶不知人是客，双双飞入矮墙来。
+
+## 拼音
+- wu1 yi1 san1 jing4 qu4 nian2 kai1 ， ting2 shu4 you1 yin1 lü4 zuo4 dui1 。
+- hu2 die2 bu4 zhi1 ren2 shi4 ke4 ， shuang1 shuang1 fei1 ru4 ai3 qiang2 lai2 。
+
+## 注释
+
+## 译文
+
+## 赏析

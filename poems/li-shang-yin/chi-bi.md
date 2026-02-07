@@ -1,0 +1,27 @@
+---
+id: li-shang-yin-chi-bi
+title: 赤壁
+titlePinyin: chi4 bi4
+titleSlug: chi-bi
+author: 李商隐
+authorPinyin: li3 shang1 yin3
+authorSlug: li-shang-yin
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 折戟沈沙铁未销，自将磨洗认前朝。
+- 东风不与周郎便，铜雀春深锁二乔。
+
+## 拼音
+- zhe2 ji3 shen3 sha1 tie3 wei4 xiao1 ， zi4 jiang1 mo2 xi3 ren4 qian2 chao2 。
+- dong1 feng1 bu4 yu3 zhou1 lang2 bian4 ， tong2 que4 chun1 shen1 suo3 er4 qiao2 。
+
+## 注释
+
+## 译文
+
+## 赏析

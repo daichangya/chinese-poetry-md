@@ -1,0 +1,25 @@
+---
+id: li-shi-min-liao-dong-shan-ye-lin-qiu
+title: 辽东山夜临秋
+titlePinyin: liao2 dong1 shan1 ye4 lin2 qiu1
+titleSlug: liao-dong-shan-ye-lin-qiu
+author: 李世民
+authorPinyin: li3 shi4 min2
+authorSlug: li-shi-min
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 烟生遥岸隐，月落半崖阴。连山惊鸟乱，隔岫断猿吟。
+
+## 拼音
+- yan1 sheng1 yao2 an4 yin3 ， yue4 luo4 ban4 ya2 yin1 。 lian2 shan1 jing1 niao3 luan4 ， ge2 xiu4 duan4 yuan2 yin2 。
+
+## 注释
+
+## 译文
+
+## 赏析
