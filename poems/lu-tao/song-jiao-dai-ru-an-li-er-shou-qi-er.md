@@ -1,0 +1,31 @@
+---
+id: lu-tao-song-jiao-dai-ru-an-li-er-shou-qi-er
+title: 送交代茹安礼二首  其二
+titlePinyin: song4 jiao1 dai4 ru2 an1 li3 er4 shou3     qi2 er4
+titleSlug: song-jiao-dai-ru-an-li-er-shou-qi-er
+author: 吕陶
+authorPinyin: lü3 tao2
+authorSlug: lu-tao
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 越溪春水碧迢迢，岷岫晴岚翠欲飘。
+- 故国风光频梦断，殊乡景物易魂销。
+- 何时执友无暌索，此日长亭倍寂寥。
+- 把酒送君同一醉，羡君东去客心摇。
+
+## 拼音
+- yue4 xi1 chun1 shui3 bi4 tiao2 tiao2 ， min2 xiu4 qing2 lan2 cui4 yu4 piao1 。
+- gu4 guo2 feng1 guang1 pin2 meng4 duan4 ， shu1 xiang1 jing3 wu4 yi4 hun2 xiao1 。
+- he2 shi2 zhi2 you3 wu2 kui2 suo3 ， ci3 ri4 chang2 ting2 bei4 ji4 liao2 。
+- ba3 jiu3 song4 jun1 tong2 yi2 zui4 ， xian4 jun1 dong1 qu4 ke4 xin1 yao2 。
+
+## 注释
+
+## 译文
+
+## 赏析

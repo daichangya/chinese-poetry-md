@@ -1,0 +1,31 @@
+---
+id: lu-tao-ci-yun-song-ren-you-gan
+title: 次韵送人有感
+titlePinyin: ci4 yun4 song4 ren2 you3 gan3
+titleSlug: ci-yun-song-ren-you-gan
+author: 吕陶
+authorPinyin: lü3 tao2
+authorSlug: lu-tao
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 三月山城送客时，山头芳草又离离。
+- 红尘道路今犹古，清酒罇罍乐胜悲。
+- 乡外忽摇怀远意，坐中聊赋惜春诗。
+- 洛阳风景别来久，应属少年游侠儿。
+
+## 拼音
+- san1 yue4 shan1 cheng2 song4 ke4 shi2 ， shan1 tou2 fang1 cao3 you4 li2 li2 。
+- hong2 chen2 dao4 lu4 jin1 you2 gu3 ， qing1 jiu3 zun1 lei2 le4 sheng4 bei1 。
+- xiang1 wai4 hu1 yao2 huai2 yuan3 yi4 ， zuo4 zhong1 liao2 fu4 xi1 chun1 shi1 。
+- luo4 yang2 feng1 jing3 bie2 lai2 jiu3 ， ying4 shu3 shao4 nian2 you2 xia2 er2 。
+
+## 注释
+
+## 译文
+
+## 赏析

@@ -1,0 +1,27 @@
+---
+id: lu-wen-gui-he-zhang-zhong-shi-jue-ju-si-shou-qi-san
+title: 和张仲实绝句四首  其三
+titlePinyin: he2 zhang1 zhong4 shi2 jue2 ju4 si4 shou3     qi2 san1
+titleSlug: he-zhang-zhong-shi-jue-ju-si-shou-qi-san
+author: 陆文圭
+authorPinyin: lu4 wen2 gui1
+authorSlug: lu-wen-gui
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 十年讲席坐无毡，尽把行藏付与天。
+- 策马已甘之反后，著鞭莫竞祖生先。
+
+## 拼音
+- shi2 nian2 jiang3 xi2 zuo4 wu2 zhan1 ， jin4 ba3 xing2 cang2 fu4 yu3 tian1 。
+- ce4 ma3 yi3 gan1 zhi1 fan3 hou4 ， zhu4 bian1 mo4 jing4 zu3 sheng1 xian1 。
+
+## 注释
+
+## 译文
+
+## 赏析

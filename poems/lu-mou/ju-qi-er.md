@@ -1,0 +1,25 @@
+---
+id: lu-mou-ju-qi-er
+title: 句  其二
+titlePinyin: ju4     qi2 er4
+titleSlug: ju-qi-er
+author: 鲁某
+authorPinyin: lu3 mou3
+authorSlug: lu-mou
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 万仞青崖碧玉寒，岩萝相引彻仙坛。
+
+## 拼音
+- wan4 ren4 qing1 ya2 bi4 yu4 han2 ， yan2 luo2 xiang1 yin3 che4 xian1 tan2 。
+
+## 注释
+
+## 译文
+
+## 赏析

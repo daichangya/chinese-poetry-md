@@ -1,0 +1,31 @@
+---
+id: lu-wen-gui-shou-chang-zhou-lu-da-lu-ga-qi
+title: 寿常州路达噜噶齐
+titlePinyin: shou4 chang2 zhou1 lu4 da2 lu1 ga2 qi2
+titleSlug: shou-chang-zhou-lu-da-lu-ga-qi
+author: 陆文圭
+authorPinyin: lu4 wen2 gui1
+authorSlug: lu-wen-gui
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 蓬山阁上冠群贤，出拥朱旛浙水边。
+- 但看两州歌善政，宜膺多福享遐年。
+- 当生自是长生佛，未老应为不老仙。
+- 欲就瓣香称寿去，梅林一夕涨江天。
+
+## 拼音
+- peng2 shan1 ge2 shang4 guan1 qun2 xian2 ， chu1 yong1 zhu1 fan1 zhe4 shui3 bian1 。
+- dan4 kan4 liang3 zhou1 ge1 shan4 zheng4 ， yi2 ying1 duo1 fu2 xiang3 xia2 nian2 。
+- dang1 sheng1 zi4 shi4 chang2 sheng1 fo2 ， wei4 lao3 ying4 wei4 bu4 lao3 xian1 。
+- yu4 jiu4 ban4 xiang1 cheng1 shou4 qu4 ， mei2 lin2 yi4 xi1 zhang3 jiang1 tian1 。
+
+## 注释
+
+## 译文
+
+## 赏析

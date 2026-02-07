@@ -1,0 +1,27 @@
+---
+id: lu-lun-chun-ri-deng-lou-you-huai
+title: 春日登楼有怀
+titlePinyin: chun1 ri4 deng1 lou2 you3 huai2
+titleSlug: chun-ri-deng-lou-you-huai
+author: 卢纶
+authorPinyin: lu2 lun2
+authorSlug: lu-lun
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 花正浓时人正愁，逢花却欲替花羞。
+- 年来笑伴皆归去，今日晴明独上楼。
+
+## 拼音
+- hua1 zheng4 nong2 shi2 ren2 zheng4 chou2 ， feng2 hua1 que4 yu4 ti4 hua1 xiu1 。
+- nian2 lai2 xiao4 ban4 jie1 gui1 qu4 ， jin1 ri4 qing2 ming2 du2 shang4 lou2 。
+
+## 注释
+
+## 译文
+
+## 赏析
