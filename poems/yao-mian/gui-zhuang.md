@@ -1,0 +1,27 @@
+---
+id: yao-mian-gui-zhuang
+title: 桂庄
+titlePinyin: gui4 zhuang1
+titleSlug: gui-zhuang
+author: 姚勉
+authorPinyin: yao2 mian3
+authorSlug: yao-mian
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 不求田二顷，只种桂为庄。
+- 秋满黄金粟，饱餐风露香。
+
+## 拼音
+- bu4 qiu2 tian2 er4 qing3 ， zhi1 zhong3 gui4 wei4 zhuang1 。
+- qiu1 man3 huang2 jin1 su4 ， bao3 can1 feng1 lu4 xiang1 。
+
+## 注释
+
+## 译文
+
+## 赏析

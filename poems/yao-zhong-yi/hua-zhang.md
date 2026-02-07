@@ -1,0 +1,27 @@
+---
+id: yao-zhong-yi-hua-zhang
+title: 花障
+titlePinyin: hua1 zhang4
+titleSlug: hua-zhang
+author: 姚中一
+authorPinyin: yao2 zhong1 yi1
+authorSlug: yao-zhong-yi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 绿外秾黄白外红，一屏香锦立春风。
+- 天真步障豪难敌，借与王家赛石崇。
+
+## 拼音
+- lü4 wai4 nong2 huang2 bai2 wai4 hong2 ， yi4 ping2 xiang1 jin3 li4 chun1 feng1 。
+- tian1 zhen1 bu4 zhang4 hao2 nan2 di2 ， jie4 yu3 wang2 jia1 sai4 shi2 chong2 。
+
+## 注释
+
+## 译文
+
+## 赏析

@@ -1,0 +1,27 @@
+---
+id: yao-mian-song-ou-yang
+title: 送欧阳
+titlePinyin: song4 ou1 yang2
+titleSlug: song-ou-yang
+author: 姚勉
+authorPinyin: yao2 mian3
+authorSlug: yao-mian
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 祠宇重修复旧观，喜知家世未灰寒。
+- 祇今陛下如仁祖，安得先生作谏官。
+
+## 拼音
+- ci2 yu3 chong2 xiu1 fu4 jiu4 guan1 ， xi3 zhi1 jia1 shi4 wei4 hui1 han2 。
+- qi2 jin1 bi4 xia4 ru2 ren2 zu3 ， an1 de2 xian1 sheng1 zuo4 jian4 guan1 。
+
+## 注释
+
+## 译文
+
+## 赏析
