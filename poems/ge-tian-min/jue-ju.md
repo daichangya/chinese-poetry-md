@@ -1,0 +1,27 @@
+---
+id: ge-tian-min-jue-ju
+title: 绝句
+titlePinyin: jue2 ju4
+titleSlug: jue-ju
+author: 葛天民
+authorPinyin: ge3 tian1 min2
+authorSlug: ge-tian-min
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 二十四友金谷宴，千三百里锦帆游。
+- 人间无此春风乐，乐极人间无此愁。
+
+## 拼音
+- er4 shi2 si4 you3 jin1 gu3 yan4 ， qian1 san1 bai3 li3 jin3 fan1 you2 。
+- ren2 jian1 wu2 ci3 chun1 feng1 le4 ， le4 ji2 ren2 jian1 wu2 ci3 chou2 。
+
+## 注释
+
+## 译文
+
+## 赏析

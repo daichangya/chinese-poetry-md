@@ -1,0 +1,27 @@
+---
+id: ge-sheng-zhong-ju-qi-yi
+title: 句  其一
+titlePinyin: ju4     qi2 yi1
+titleSlug: ju-qi-yi
+author: 葛胜仲
+authorPinyin: ge3 sheng4 zhong4
+authorSlug: ge-sheng-zhong
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 空翠沾我襟，溟蒙认堂奥。
+- 兼乃张公超，五里方术妙。
+
+## 拼音
+- kong1 cui4 zhan1 wo3 jin1 ， ming2 meng2 ren4 tang2 ao4 。
+- jian1 nai3 zhang1 gong1 chao1 ， wu3 li3 fang1 shu4 miao4 。
+
+## 注释
+
+## 译文
+
+## 赏析

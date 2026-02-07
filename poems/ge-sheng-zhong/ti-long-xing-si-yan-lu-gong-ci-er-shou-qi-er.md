@@ -1,0 +1,27 @@
+---
+id: ge-sheng-zhong-ti-long-xing-si-yan-lu-gong-ci-er-shou-qi-er
+title: 题龙兴寺颜鲁公祠二首  其二
+titlePinyin: ti2 long2 xing1 si4 yan2 lu3 gong1 ci2 er4 shou3     qi2 er4
+titleSlug: ti-long-xing-si-yan-lu-gong-ci-er-shou-qi-er
+author: 葛胜仲
+authorPinyin: ge3 sheng4 zhong4
+authorSlug: ge-sheng-zhong
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 平原高节映常山，生死兴亡本自天。
+- 莫道排墙为鬼录，请看裂铁作形仙。
+
+## 拼音
+- ping2 yuan2 gao1 jie2 ying4 chang2 shan1 ， sheng1 si3 xing1 wang2 ben3 zi4 tian1 。
+- mo4 dao4 pai2 qiang2 wei4 gui3 lu4 ， qing3 kan4 lie4 tie3 zuo4 xing2 xian1 。
+
+## 注释
+
+## 译文
+
+## 赏析

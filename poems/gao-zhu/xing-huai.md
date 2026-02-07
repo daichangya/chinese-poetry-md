@@ -1,0 +1,27 @@
+---
+id: gao-zhu-xing-huai
+title: 行淮
+titlePinyin: xing2 huai2
+titleSlug: xing-huai
+author: 高翥
+authorPinyin: gao1 zhu4
+authorSlug: gao-zhu
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 老翁八十鬓如丝，手缚黄芦作短篱。
+- 劝客莫嗔无凳坐，去年今日是流移。
+
+## 拼音
+- lao3 weng1 ba1 shi2 bin4 ru2 si1 ， shou3 fu4 huang2 lu2 zuo4 duan3 li2 。
+- quan4 ke4 mo4 chen1 wu2 deng4 zuo4 ， qu4 nian2 jin1 ri4 shi4 liu2 yi2 。
+
+## 注释
+
+## 译文
+
+## 赏析

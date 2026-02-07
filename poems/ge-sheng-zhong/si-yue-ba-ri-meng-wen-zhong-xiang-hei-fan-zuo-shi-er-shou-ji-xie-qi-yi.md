@@ -1,0 +1,27 @@
+---
+id: ge-sheng-zhong-si-yue-ba-ri-meng-wen-zhong-xiang-hei-fan-zuo-shi-er-shou-ji-xie-qi-yi
+title: 四月八日蒙文中饷黑饭作诗二首纪谢  其一
+titlePinyin: si4 yue4 ba1 ri4 meng2 wen2 zhong1 xiang3 hei1 fan4 zuo4 shi1 er4 shou3 ji4 xie4     qi2 yi1
+titleSlug: si-yue-ba-ri-meng-wen-zhong-xiang-hei-fan-zuo-shi-er-shou-ji-xie-qi-yi
+author: 葛胜仲
+authorPinyin: ge3 sheng4 zhong4
+authorSlug: ge-sheng-zhong
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 热际初经四月八，磨香灌佛晓泉寒。
+- 丞公忽致槃游饭，儿辈惊看欢喜丸。
+
+## 拼音
+- re4 ji4 chu1 jing1 si4 yue4 ba1 ， mo2 xiang1 guan4 fo2 xiao3 quan2 han2 。
+- cheng2 gong1 hu1 zhi4 pan2 you2 fan4 ， er2 bei4 jing1 kan4 huan1 xi3 wan2 。
+
+## 注释
+
+## 译文
+
+## 赏析
