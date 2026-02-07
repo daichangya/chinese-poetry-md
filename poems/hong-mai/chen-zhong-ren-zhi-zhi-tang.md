@@ -1,0 +1,51 @@
+---
+id: hong-mai-chen-zhong-ren-zhi-zhi-tang
+title: 陈仲仁止止堂
+titlePinyin: chen2 zhong4 ren2 zhi3 zhi3 tang2
+titleSlug: chen-zhong-ren-zhi-zhi-tang
+author: 洪迈
+authorPinyin: hong2 mai4
+authorSlug: hong-mai
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 以我有限景，逐彼无涯知。
+- 失足践畏途，投身试危机。
+- 舟车日奔覆，定无丘与夷。
+- 万古践此辙，嗟我与谁归。
+- 仲仁古静者，怀璧照褐衣。
+- 名途尝一戏，回首羞前非。
+- 心如得坎水，不受狂风吹。
+- 功名忧不免，当复定何之。
+- 请观本无作，今复止者谁。
+- 筑堂市门侧，著书园不窥。
+- 蓬藋深一丈，图书周四围。
+- 时有好事人，载酒问所疑。
+- 攫金奋敏手，倚市夸妍姿。
+- 回光时自照，何者非吾师。
+
+## 拼音
+- yi3 wo3 you3 xian4 jing3 ， zhu2 bi3 wu2 ya2 zhi1 。
+- shi1 zu2 jian4 wei4 tu2 ， tou2 shen1 shi4 wei1 ji1 。
+- zhou1 che1 ri4 ben1 fu4 ， ding4 wu2 qiu1 yu3 yi2 。
+- wan4 gu3 jian4 ci3 zhe2 ， jie1 wo3 yu3 shui2 gui1 。
+- zhong4 ren2 gu3 jing4 zhe3 ， huai2 bi4 zhao4 he4 yi1 。
+- ming2 tu2 chang2 yi2 xi4 ， hui2 shou3 xiu1 qian2 fei1 。
+- xin1 ru2 de2 kan3 shui3 ， bu2 shou4 kuang2 feng1 chui1 。
+- gong1 ming2 you1 bu4 mian3 ， dang1 fu4 ding4 he2 zhi1 。
+- qing3 guan1 ben3 wu2 zuo4 ， jin1 fu4 zhi3 zhe3 shui2 。
+- zhu4 tang2 shi4 men2 ce4 ， zhu4 shu1 yuan2 bu4 kui1 。
+- peng2 diao4 shen1 yi2 zhang4 ， tu2 shu1 zhou1 si4 wei2 。
+- shi2 you3 hao3 shi4 ren2 ， zai3 jiu3 wen4 suo3 yi2 。
+- jue2 jin1 fen4 min3 shou3 ， yi3 shi4 kua1 yan2 zi1 。
+- hui2 guang1 shi2 zi4 zhao4 ， he2 zhe3 fei1 wu2 shi1 。
+
+## 注释
+
+## 译文
+
+## 赏析

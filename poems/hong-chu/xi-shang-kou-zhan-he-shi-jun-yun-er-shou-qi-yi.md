@@ -1,0 +1,27 @@
+---
+id: hong-chu-xi-shang-kou-zhan-he-shi-jun-yun-er-shou-qi-yi
+title: 席上口占和使君韵二首  其一
+titlePinyin: xi2 shang4 kou3 zhan4 he2 shi3 jun1 yun4 er4 shou3     qi2 yi1
+titleSlug: xi-shang-kou-zhan-he-shi-jun-yun-er-shou-qi-yi
+author: 洪刍
+authorPinyin: hong2 chu2
+authorSlug: hong-chu
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 皂盖朱轓驻水滨，芳菲虽晚景犹新。
+- 何妨绮席三千履，不负阳春十二旬。
+
+## 拼音
+- zao4 gai4 zhu1 fan1 zhu4 shui3 bin1 ， fang1 fei1 sui1 wan3 jing3 you2 xin1 。
+- he2 fang2 qi3 xi2 san1 qian1 lü3 ， bu2 fu4 yang2 chun1 shi2 er4 xun2 。
+
+## 注释
+
+## 译文
+
+## 赏析
