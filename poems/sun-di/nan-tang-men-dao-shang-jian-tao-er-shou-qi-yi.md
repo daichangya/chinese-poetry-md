@@ -1,0 +1,27 @@
+---
+id: sun-di-nan-tang-men-dao-shang-jian-tao-er-shou-qi-yi
+title: 南唐门道上见桃二首  其一
+titlePinyin: nan2 tang2 men2 dao4 shang4 jian4 tao2 er4 shou3     qi2 yi1
+titleSlug: nan-tang-men-dao-shang-jian-tao-er-shou-qi-yi
+author: 孙觌
+authorPinyin: sun1 di2
+authorSlug: sun-di
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 一迳青苔短短篱，小桃竹外两三枝。
+- 殷勤待得黄昏月，正见斜红卧酒卮。
+
+## 拼音
+- yi2 jing4 qing1 tai2 duan3 duan3 li2 ， xiao3 tao2 zhu2 wai4 liang3 san1 zhi1 。
+- yin1 qin2 dai4 de2 huang2 hun1 yue4 ， zheng4 jian4 xie2 hong2 wo4 jiu3 zhi1 。
+
+## 注释
+
+## 译文
+
+## 赏析

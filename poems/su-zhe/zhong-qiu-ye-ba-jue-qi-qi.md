@@ -1,0 +1,27 @@
+---
+id: su-zhe-zhong-qiu-ye-ba-jue-qi-qi
+title: 中秋夜八绝  其七
+titlePinyin: zhong1 qiu1 ye4 ba1 jue2     qi2 qi1
+titleSlug: zhong-qiu-ye-ba-jue-qi-qi
+author: 苏辙
+authorPinyin: su1 zhe2
+authorSlug: su-zhe
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 猿狖号枯木，鱼龙泣夜潭。
+- 行人已天北，思妇隔江南。
+
+## 拼音
+- yuan2 you4 hao4 ku1 mu4 ， yu2 long2 qi4 ye4 tan2 。
+- xing2 ren2 yi3 tian1 bei3 ， si1 fu4 ge2 jiang1 nan2 。
+
+## 注释
+
+## 译文
+
+## 赏析

@@ -1,0 +1,25 @@
+---
+id: sun-jue-ju-qi-yi
+title: 句  其一
+titlePinyin: ju4     qi2 yi1
+titleSlug: ju-qi-yi
+author: 孙觉
+authorPinyin: sun1 jue2
+authorSlug: sun-jue
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 千里暮山横紫翠，一钩新月破黄昏。
+
+## 拼音
+- qian1 li3 mu4 shan1 heng2 zi3 cui4 ， yi4 gou1 xin1 yue4 po4 huang2 hun1 。
+
+## 注释
+
+## 译文
+
+## 赏析

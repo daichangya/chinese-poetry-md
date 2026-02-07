@@ -1,0 +1,27 @@
+---
+id: su-zhe-ji-long-jing-bian-cai-fa-shi-san-jue-qi-er
+title: 寄龙井辩才法师三绝  其二
+titlePinyin: ji4 long2 jing3 bian4 cai2 fa3 shi1 san1 jue2     qi2 er4
+titleSlug: ji-long-jing-bian-cai-fa-shi-san-jue-qi-er
+author: 苏辙
+authorPinyin: su1 zhe2
+authorSlug: su-zhe
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 山色青冥叶未红，湖光凝碧晓无风。
+- 行穷上下两天竺，望断南山龙井龙。
+
+## 拼音
+- shan1 se4 qing1 ming2 ye4 wei4 hong2 ， hu2 guang1 ning2 bi4 xiao3 wu2 feng1 。
+- xing2 qiong2 shang4 xia4 liang3 tian1 zhu2 ， wang4 duan4 nan2 shan1 long2 jing3 long2 。
+
+## 注释
+
+## 译文
+
+## 赏析

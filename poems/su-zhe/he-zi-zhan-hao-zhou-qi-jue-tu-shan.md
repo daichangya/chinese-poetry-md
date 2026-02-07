@@ -1,0 +1,27 @@
+---
+id: su-zhe-he-zi-zhan-hao-zhou-qi-jue-tu-shan
+title: 和子瞻濠州七绝 涂山
+titlePinyin: he2 zi3 zhan1 hao2 zhou1 qi1 jue2   tu2 shan1
+titleSlug: he-zi-zhan-hao-zhou-qi-jue-tu-shan
+author: 苏辙
+authorPinyin: su1 zhe2
+authorSlug: su-zhe
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 娶妇山中不肯留，会朝山下万诸侯。
+- 古人辛苦今谁信，只见清淮入海流。
+
+## 拼音
+- qu3 fu4 shan1 zhong1 bu4 ken3 liu2 ， hui4 chao2 shan1 xia4 wan4 zhu1 hou2 。
+- gu3 ren2 xin1 ku3 jin1 shui2 xin4 ， zhi3 jian4 qing1 huai2 ru4 hai3 liu2 。
+
+## 注释
+
+## 译文
+
+## 赏析
