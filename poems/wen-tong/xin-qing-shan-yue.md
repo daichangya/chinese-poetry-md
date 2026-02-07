@@ -1,0 +1,31 @@
+---
+id: wen-tong-xin-qing-shan-yue
+title: 新晴山月
+titlePinyin: xin1 qing2 shan1 yue4
+titleSlug: xin-qing-shan-yue
+author: 文同
+authorPinyin: wen2 tong2
+authorSlug: wen-tong
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 高松漏疏月，落影如画地。
+- 徘徊爱其下，及久不能寐。
+- 怯风池荷卷，病雨山果坠。
+- 谁伴予苦吟，满林啼络纬。
+
+## 拼音
+- gao1 song1 lou4 shu1 yue4 ， luo4 ying3 ru2 hua4 di4 。
+- pai2 huai2 ai4 qi2 xia4 ， ji2 jiu3 bu4 neng2 mei4 。
+- qie4 feng1 chi2 he2 juan4 ， bing4 yu3 shan1 guo3 zhui4 。
+- shui2 ban4 yu3 ku3 yin2 ， man3 lin2 ti2 luo4 wei3 。
+
+## 注释
+
+## 译文
+
+## 赏析

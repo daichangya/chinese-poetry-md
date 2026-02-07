@@ -1,0 +1,27 @@
+---
+id: wei-ye-song-yu-tai-zhong-shan-ren-gui-zhong-nan
+title: 送俞太中山人归终南
+titlePinyin: song4 yu2 tai4 zhong1 shan1 ren2 gui1 zhong1 nan2
+titleSlug: song-yu-tai-zhong-shan-ren-gui-zhong-nan
+author: 魏野
+authorPinyin: wei4 ye3
+authorSlug: wei-ye
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 俞贯之辞魏仲先，终南归去落花天。
+- 如何相见还相别，早晚溪云一处眠。
+
+## 拼音
+- yu2 guan4 zhi1 ci2 wei4 zhong4 xian1 ， zhong1 nan2 gui1 qu4 luo4 hua1 tian1 。
+- ru2 he2 xiang1 jian4 hai2 xiang1 bie2 ， zao3 wan3 xi1 yun2 yi2 chu4 mian2 。
+
+## 注释
+
+## 译文
+
+## 赏析

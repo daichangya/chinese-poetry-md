@@ -1,0 +1,27 @@
+---
+id: wen-tong-shan-tang-qian-ting-you-qi-shi-shu-zhong-qi-zhuang-jie-yu-wu-xing-xiang--42663586
+title: 山堂前庭有奇石数种其状皆与物形相类在此久矣自余始名而诗之 狻猊石
+titlePinyin: shan1 tang2 qian2 ting2 you3 qi2 shi2 shu4 zhong3 qi2 zhuang4 jie1 yu3 wu4 xing2 xiang1 lei4 zai4 ci3 jiu3 yi3 zi4 yu2 shi3 ming2 er2 shi1 zhi1   suan1 ni2 shi2
+titleSlug: shan-tang-qian-ting-you-qi-shi-shu-zhong-qi-zhuang-jie-yu-wu-xing-xiang--42663586
+author: 文同
+authorPinyin: wen2 tong2
+authorSlug: wen-tong
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 巨尾蟠深草，丰毛覆古苔。
+- 雕栏临绮席，长欲上香台。
+
+## 拼音
+- ju4 wei3 pan2 shen1 cao3 ， feng1 mao2 fu4 gu3 tai2 。
+- diao1 lan2 lin2 qi3 xi2 ， chang2 yu4 shang4 xiang1 tai2 。
+
+## 注释
+
+## 译文
+
+## 赏析

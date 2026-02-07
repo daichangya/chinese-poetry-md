@@ -1,0 +1,31 @@
+---
+id: wei-xiang-gong-shu-chao-qing-de-fu-shou-suo-ji-li-zi-jia-pin-er-er-yong-yi-er-shi--fd95199f
+title: 公舒朝请得福守所寄荔子佳品二而咏以二诗乃以为示輙次韵奉和  其二
+titlePinyin: gong1 shu1 chao2 qing3 de2 fu2 shou3 suo3 ji4 li4 zi3 jia1 pin3 er4 er2 yong3 yi3 er4 shi1 nai3 yi3 wei2 shi4 zhe2 ci4 yun4 feng4 he2     qi2 er4
+titleSlug: gong-shu-chao-qing-de-fu-shou-suo-ji-li-zi-jia-pin-er-er-yong-yi-er-shi--fd95199f
+author: 韦骧
+authorPinyin: wei2 xiang1
+authorSlug: wei-xiang
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 佛宫奇品号磂黄，黄縠笼珠径寸光。
+- 种异却轻萍有实，味甘全胜蔗为浆。
+- 南人拭目惊稀见，北客流涎试一尝。
+- 翻笑洞庭霜后橘，岂能当暑侑持觞。
+
+## 拼音
+- fo2 gong1 qi2 pin3 hao4 liu2 huang2 ， huang2 hu2 long2 zhu1 jing4 cun4 guang1 。
+- zhong3 yi4 que4 qing1 ping2 you3 shi2 ， wei4 gan1 quan2 sheng4 zhe4 wei4 jiang1 。
+- nan2 ren2 shi4 mu4 jing1 xi1 jian4 ， bei3 ke4 liu2 xian2 shi4 yi4 chang2 。
+- fan1 xiao4 dong4 ting2 shuang1 hou4 ju2 ， qi3 neng2 dang1 shu3 you4 chi2 shang1 。
+
+## 注释
+
+## 译文
+
+## 赏析

@@ -1,0 +1,31 @@
+---
+id: wen-tong-nong-zhu-ting-chun-wang
+title: 弄珠亭春望
+titlePinyin: nong4 zhu1 ting2 chun1 wang4
+titleSlug: nong-zhu-ting-chun-wang
+author: 文同
+authorPinyin: wen2 tong2
+authorSlug: wen-tong
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 岸柳舞毵毵，春𬪩物象酣。
+- 烟云分极浦，舟楫聚回潭。
+- 上水鱼千万，眠沙雁两三。
+- 遥怀无可奈，长是寄城南。
+
+## 拼音
+- an4 liu3 wu3 san1 san1 ， chun1 nong2 wu4 xiang4 han1 。
+- yan1 yun2 fen1 ji2 pu3 ， zhou1 ji2 ju4 hui2 tan2 。
+- shang4 shui3 yu2 qian1 wan4 ， mian2 sha1 yan4 liang3 san1 。
+- yao2 huai2 wu2 ke3 nai4 ， chang2 shi4 ji4 cheng2 nan2 。
+
+## 注释
+
+## 译文
+
+## 赏析

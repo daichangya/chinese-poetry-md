@@ -1,0 +1,27 @@
+---
+id: wen-yan-bo-ti-han-xi-shi-qi-yi
+title: 题韩溪诗  其一
+titlePinyin: ti2 han2 xi1 shi1     qi2 yi1
+titleSlug: ti-han-xi-shi-qi-yi
+author: 文彦博
+authorPinyin: wen2 yan4 bo2
+authorSlug: wen-yan-bo
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 韩信未遭面主顾，萧何亲至此中追。
+- 君王有意争天下，不得斯人未可知。
+
+## 拼音
+- han2 xin4 wei4 zao1 mian4 zhu3 gu4 ， xiao1 he2 qin1 zhi4 ci3 zhong1 zhui1 。
+- jun1 wang2 you3 yi4 zheng1 tian1 xia4 ， bu4 de2 si1 ren2 wei4 ke3 zhi1 。
+
+## 注释
+
+## 译文
+
+## 赏析

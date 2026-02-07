@@ -1,0 +1,27 @@
+---
+id: wei-zhuang-jiang-shang-bie-li-xiu-cai
+title: 江上别李秀才
+titlePinyin: jiang1 shang4 bie2 li3 xiu4 cai2
+titleSlug: jiang-shang-bie-li-xiu-cai
+author: 韦庄
+authorPinyin: wei2 zhuang1
+authorSlug: wei-zhuang
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 前年相送灞陵春，今日天涯各避秦。
+- 莫向尊前惜沈醉，与君俱是异乡人。
+
+## 拼音
+- qian2 nian2 xiang1 song4 ba4 ling2 chun1 ， jin1 ri4 tian1 ya2 ge4 bi4 qin2 。
+- mo4 xiang4 zun1 qian2 xi1 shen3 zui4 ， yu3 jun1 ju4 shi4 yi4 xiang1 ren2 。
+
+## 注释
+
+## 译文
+
+## 赏析

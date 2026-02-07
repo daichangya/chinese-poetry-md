@@ -1,0 +1,27 @@
+---
+id: wen-ting-yun-han-shi-ri-zuo
+title: 寒食日作
+titlePinyin: han2 shi2 ri4 zuo4
+titleSlug: han-shi-ri-zuo
+author: 温庭筠
+authorPinyin: wen1 ting2 yun2
+authorSlug: wen-ting-yun
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 红深绿暗径相交，抱暖含芳披紫袍。彩索平时墙婉娩，
+- 自有玉楼春意在，不能骑马度烟郊。
+
+## 拼音
+- hong2 shen1 lü4 an4 jing4 xiang1 jiao1 ， bao4 nuan3 han2 fang1 pi1 zi3 pao2 。 cai3 suo3 ping2 shi2 qiang2 wan3 mian3 ，
+- zi4 you3 yu4 lou2 chun1 yi4 zai4 ， bu4 neng2 qi2 ma3 du4 yan1 jiao1 。
+
+## 注释
+
+## 译文
+
+## 赏析

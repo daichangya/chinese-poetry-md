@@ -1,0 +1,27 @@
+---
+id: wen-tian-xiang-ti-mao-ting-fu-shi-ji-qi-er
+title: 题毛霆甫诗集  其二
+titlePinyin: ti2 mao2 ting2 fu3 shi1 ji2     qi2 er4
+titleSlug: ti-mao-ting-fu-shi-ji-qi-er
+author: 文天祥
+authorPinyin: wen2 tian1 xiang2
+authorSlug: wen-tian-xiang
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 英英白云，在涧之阿。
+- 彼美人兮，其思孔多。
+
+## 拼音
+- ying1 ying1 bai2 yun2 ， zai4 jian4 zhi1 a1 。
+- bi3 mei3 ren2 xi1 ， qi2 si1 kong3 duo1 。
+
+## 注释
+
+## 译文
+
+## 赏析
