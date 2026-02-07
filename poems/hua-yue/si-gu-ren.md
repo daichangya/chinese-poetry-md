@@ -1,0 +1,27 @@
+---
+id: hua-yue-si-gu-ren
+title: 思故人
+titlePinyin: si1 gu4 ren2
+titleSlug: si-gu-ren
+author: 华岳
+authorPinyin: hua2 yue4
+authorSlug: hua-yue
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 芳酒一樽虽甚□，故人千里奈思何。
+- 柳挼池阁条偏细，花近簷楹香更多。
+
+## 拼音
+- fang1 jiu3 yi4 zun1 sui1 shen4 □ ， gu4 ren2 qian1 li3 nai4 si1 he2 。
+- liu3 ruo2 chi2 ge2 tiao2 pian1 xi4 ， hua1 jin4 yan2 ying2 xiang1 geng4 duo1 。
+
+## 注释
+
+## 译文
+
+## 赏析

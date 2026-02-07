@@ -1,0 +1,27 @@
+---
+id: hua-zhen-zai-jing-xi-chan-si-er-jue-ju-qi-yi
+title: 再经西禅寺二绝句  其一
+titlePinyin: zai4 jing1 xi1 chan2 si4 er4 jue2 ju4     qi2 yi1
+titleSlug: zai-jing-xi-chan-si-er-jue-ju-qi-yi
+author: 华镇
+authorPinyin: hua2 zhen4
+authorSlug: hua-zhen
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 我为人役走尘寰，僧老空门不出关。
+- 身世也知皆梦幻，到头忙者不如闲。
+
+## 拼音
+- wo3 wei4 ren2 yi4 zou3 chen2 huan2 ， seng1 lao3 kong1 men2 bu4 chu1 guan1 。
+- shen1 shi4 ye3 zhi1 jie1 meng4 huan4 ， dao4 tou2 mang2 zhe3 bu4 ru2 xian2 。
+
+## 注释
+
+## 译文
+
+## 赏析
