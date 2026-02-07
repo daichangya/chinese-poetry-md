@@ -1,0 +1,27 @@
+---
+id: zhang-yao-tong-jia-he-bai-yong-jing-xiang-jia-li
+title: 嘉禾百咏 浄相佳李
+titlePinyin: jia1 he2 bai3 yong3   jing4 xiang1 jia1 li3
+titleSlug: jia-he-bai-yong-jing-xiang-jia-li
+author: 张尧同
+authorPinyin: zhang1 yao2 tong2
+authorSlug: zhang-yao-tong
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 地重因名果，如分沆瀣浆。
+- 伤心吴越战，未敢尽情尝。
+
+## 拼音
+- di4 zhong4 yin1 ming2 guo3 ， ru2 fen1 hang4 xie4 jiang1 。
+- shang1 xin1 wu2 yue4 zhan4 ， wei4 gan3 jin4 qing2 chang2 。
+
+## 注释
+
+## 译文
+
+## 赏析

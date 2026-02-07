@@ -1,0 +1,31 @@
+---
+id: zhang-xiao-xiang-he-qin-fu-xi-yu
+title: 和钦夫喜雨
+titlePinyin: he2 qin1 fu1 xi3 yu3
+titleSlug: he-qin-fu-xi-yu
+author: 张孝祥
+authorPinyin: zhang1 xiao4 xiang2
+authorSlug: zhang-xiao-xiang
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 佛刹起香云，高低一雨均。
+- 使君心未已，阁老句还新。
+- 喜入村乡乐，凉生瓮盎春。
+- 莫嫌知稼穑，我是种田人。
+
+## 拼音
+- fo2 cha4 qi3 xiang1 yun2 ， gao1 di1 yi4 yu3 jun1 。
+- shi3 jun1 xin1 wei4 yi3 ， ge2 lao3 ju4 hai2 xin1 。
+- xi3 ru4 cun1 xiang1 le4 ， liang2 sheng1 weng4 ang4 chun1 。
+- mo4 xian2 zhi1 jia4 se4 ， wo3 shi4 zhong3 tian2 ren2 。
+
+## 注释
+
+## 译文
+
+## 赏析

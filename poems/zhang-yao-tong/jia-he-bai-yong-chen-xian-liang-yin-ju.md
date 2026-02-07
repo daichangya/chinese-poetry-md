@@ -1,0 +1,27 @@
+---
+id: zhang-yao-tong-jia-he-bai-yong-chen-xian-liang-yin-ju
+title: 嘉禾百咏 陈贤良隠居
+titlePinyin: jia1 he2 bai3 yong3   chen2 xian2 liang2 yin3 ju1
+titleSlug: jia-he-bai-yong-chen-xian-liang-yin-ju
+author: 张尧同
+authorPinyin: zhang1 yao2 tong2
+authorSlug: zhang-yao-tong
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 发策名犹在，回头事已非。
+- 池塘春草绿，空忆谢公归。
+
+## 拼音
+- fa1 ce4 ming2 you2 zai4 ， hui2 tou2 shi4 yi3 fei1 。
+- chi2 tang2 chun1 cao3 lü4 ， kong1 yi4 xie4 gong1 gui1 。
+
+## 注释
+
+## 译文
+
+## 赏析

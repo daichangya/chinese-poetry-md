@@ -1,0 +1,27 @@
+---
+id: zhang-yong-mu-chun-yi-you-ren
+title: 暮春忆友人
+titlePinyin: mu4 chun1 yi4 you3 ren2
+titleSlug: mu-chun-yi-you-ren
+author: 张咏
+authorPinyin: zhang1 yong3
+authorSlug: zhang-yong
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 杨花零落暮春风，醉起南轩夕照红。
+- 闲倚焦桐坐无语，故人相隔海门东。
+
+## 拼音
+- yang2 hua1 ling2 luo4 mu4 chun1 feng1 ， zui4 qi3 nan2 xuan1 xi1 zhao4 hong2 。
+- xian2 yi3 jiao1 tong2 zuo4 wu2 yu3 ， gu4 ren2 xiang1 ge2 hai3 men2 dong1 。
+
+## 注释
+
+## 译文
+
+## 赏析
