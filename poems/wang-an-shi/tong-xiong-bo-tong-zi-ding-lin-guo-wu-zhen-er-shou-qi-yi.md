@@ -1,0 +1,27 @@
+---
+id: wang-an-shi-tong-xiong-bo-tong-zi-ding-lin-guo-wu-zhen-er-shou-qi-yi
+title: 同熊伯通自定林过悟真二首  其一
+titlePinyin: tong2 xiong2 bo2 tong1 zi4 ding4 lin2 guo4 wu4 zhen1 er4 shou3     qi2 yi1
+titleSlug: tong-xiong-bo-tong-zi-ding-lin-guo-wu-zhen-er-shou-qi-yi
+author: 王安石
+authorPinyin: wang2 an1 shi2
+authorSlug: wang-an-shi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 与客东来欲试茶，倦投松石坐欹斜。
+- 暗香一阵连风起，知有蔷薇涧底花。
+
+## 拼音
+- yu3 ke4 dong1 lai2 yu4 shi4 cha2 ， juan4 tou2 song1 shi2 zuo4 qi1 xie2 。
+- an4 xiang1 yi2 zhen4 lian2 feng1 qi3 ， zhi1 you3 qiang2 wei1 jian4 di3 hua1 。
+
+## 注释
+
+## 译文
+
+## 赏析

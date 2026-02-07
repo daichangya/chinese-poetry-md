@@ -1,0 +1,27 @@
+---
+id: wang-an-shi-zi-qian
+title: 自遣
+titlePinyin: zi4 qian3
+titleSlug: zi-qian
+author: 王安石
+authorPinyin: wang2 an1 shi2
+authorSlug: wang-an-shi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 闭户欲推愁，愁终不肯去。
+- 底事春风来，留愁愁不住。
+
+## 拼音
+- bi4 hu4 yu4 tui1 chou2 ， chou2 zhong1 bu4 ken3 qu4 。
+- di3 shi4 chun1 feng1 lai2 ， liu2 chou2 chou2 bu2 zhu4 。
+
+## 注释
+
+## 译文
+
+## 赏析

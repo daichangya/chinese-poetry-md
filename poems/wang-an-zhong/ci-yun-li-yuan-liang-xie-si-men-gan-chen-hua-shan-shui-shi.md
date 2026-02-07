@@ -1,0 +1,27 @@
+---
+id: wang-an-zhong-ci-yun-li-yuan-liang-xie-si-men-gan-chen-hua-shan-shui-shi
+title: 次韵李元量谢司门干臣画山水诗
+titlePinyin: ci4 yun4 li3 yuan2 liang2 xie4 si1 men2 gan1 chen2 hua4 shan1 shui3 shi1
+titleSlug: ci-yun-li-yuan-liang-xie-si-men-gan-chen-hua-shan-shui-shi
+author: 王安中
+authorPinyin: wang2 an1 zhong1
+authorSlug: wang-an-zhong
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 江上家山晚翠浓，画痴端复觅诗穷。
+- 李侯卷去亦亡赖，却对吴侬赋北风。
+
+## 拼音
+- jiang1 shang4 jia1 shan1 wan3 cui4 nong2 ， hua4 chi1 duan1 fu4 mi4 shi1 qiong2 。
+- li3 hou2 juan4 qu4 yi4 wang2 lai4 ， que4 dui4 wu2 nong2 fu4 bei3 feng1 。
+
+## 注释
+
+## 译文
+
+## 赏析
