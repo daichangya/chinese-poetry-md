@@ -1,0 +1,27 @@
+---
+id: yang-fang-qu-tang-xia-qi-er
+title: 瞿唐峡  其二
+titlePinyin: qu2 tang2 xia2     qi2 er4
+titleSlug: qu-tang-xia-qi-er
+author: 阳枋
+authorPinyin: yang2 fang1
+authorSlug: yang-fang
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 万丈危屏水墨图，江流带窄映云衢。
+- 莫怪波平澜不倒，回狂滟滪一峰孤。
+
+## 拼音
+- wan4 zhang4 wei1 ping2 shui3 mo4 tu2 ， jiang1 liu2 dai4 zhai3 ying4 yun2 qu2 。
+- mo4 guai4 bo1 ping2 lan2 bu4 dao3 ， hui2 kuang2 yan4 yu4 yi4 feng1 gu1 。
+
+## 注释
+
+## 译文
+
+## 赏析

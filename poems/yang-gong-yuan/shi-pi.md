@@ -1,0 +1,27 @@
+---
+id: yang-gong-yuan-shi-pi
+title: 诗癖
+titlePinyin: shi1 pi3
+titleSlug: shi-pi
+author: 杨公远
+authorPinyin: yang2 gong1 yuan3
+authorSlug: yang-gong-yuan
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 生来性癖耽佳句，吟得诗成似有神。
+- 险语岂惟惊鬼胆，直须字字要惊人。
+
+## 拼音
+- sheng1 lai2 xing4 pi3 dan1 jia1 ju4 ， yin2 de2 shi1 cheng2 si4 you3 shen2 。
+- xian3 yu3 qi3 wei2 jing1 gui3 dan3 ， zhi2 xu1 zi4 zi4 yao4 jing1 ren2 。
+
+## 注释
+
+## 译文
+
+## 赏析

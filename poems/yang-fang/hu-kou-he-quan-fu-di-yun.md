@@ -1,0 +1,27 @@
+---
+id: yang-fang-hu-kou-he-quan-fu-di-yun
+title: 湖口和全父弟韵
+titlePinyin: hu2 kou3 he2 quan2 fu4 di4 yun4
+titleSlug: hu-kou-he-quan-fu-di-yun
+author: 阳枋
+authorPinyin: yang2 fang1
+authorSlug: yang-fang
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 鄱阳湖口县，山合锁人烟。
+- 石壁排屏翠，临江障百川。
+
+## 拼音
+- po2 yang2 hu2 kou3 xian4 ， shan1 he2 suo3 ren2 yan1 。
+- shi2 bi4 pai2 ping2 cui4 ， lin2 jiang1 zhang4 bai3 chuan1 。
+
+## 注释
+
+## 译文
+
+## 赏析
