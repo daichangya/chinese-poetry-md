@@ -1,0 +1,25 @@
+---
+id: liao-rong-ju-qi-san
+title: 句  其三
+titlePinyin: ju4     qi2 san1
+titleSlug: ju-qi-san
+author: 廖融
+authorPinyin: liao4 rong2
+authorSlug: liao-rong
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 圭窦先知晓，盆池别见天。
+
+## 拼音
+- gui1 dou4 xian1 zhi1 xiao3 ， pen2 chi2 bie2 jian4 tian1 。
+
+## 注释
+
+## 译文
+
+## 赏析

@@ -1,0 +1,27 @@
+---
+id: liao-xing-zhi-shou-hu-nan-wang-cang-shi-shou-qi-liu
+title: 寿湖南汪仓十首  其六
+titlePinyin: shou4 hu2 nan2 wang1 cang1 shi2 shou3     qi2 liu4
+titleSlug: shou-hu-nan-wang-cang-shi-shou-qi-liu
+author: 廖行之
+authorPinyin: liao4 xing2 zhi1
+authorSlug: liao-xing-zhi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 百万喁喁日苦饥，左餐右粥转欢嬉。
+- 也知振廪非私惠，端为皇家爱本基。
+
+## 拼音
+- bai3 wan4 yong2 yong2 ri4 ku3 ji1 ， zuo3 can1 you4 zhou1 zhuan3 huan1 xi1 。
+- ye3 zhi1 zhen4 lin3 fei1 si1 hui4 ， duan1 wei4 huang2 jia1 ai4 ben3 ji1 。
+
+## 注释
+
+## 译文
+
+## 赏析
