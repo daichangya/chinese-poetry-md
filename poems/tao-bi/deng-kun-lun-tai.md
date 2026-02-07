@@ -1,0 +1,31 @@
+---
+id: tao-bi-deng-kun-lun-tai
+title: 登昆仑台
+titlePinyin: deng1 kun1 lun2 tai2
+titleSlug: deng-kun-lun-tai
+author: 陶弼
+authorPinyin: tao2 bi4
+authorSlug: tao-bi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 落照古城隅，边风动隼旟。
+- 久闲忘战略，多病熟医书。
+- 白髪随年短，新情与世疏。
+- 桃花春水起，还钓旧溪渔。
+
+## 拼音
+- luo4 zhao4 gu3 cheng2 yu2 ， bian1 feng1 dong4 sun3 yu2 。
+- jiu3 xian2 wang4 zhan4 lüe4 ， duo1 bing4 shu2 yi1 shu1 。
+- bai2 fa4 sui2 nian2 duan3 ， xin1 qing2 yu3 shi4 shu1 。
+- tao2 hua1 chun1 shui3 qi3 ， hai2 diao4 jiu4 xi1 yu2 。
+
+## 注释
+
+## 译文
+
+## 赏析

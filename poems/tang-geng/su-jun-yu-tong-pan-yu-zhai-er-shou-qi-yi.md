@@ -1,0 +1,27 @@
+---
+id: tang-geng-su-jun-yu-tong-pan-yu-zhai-er-shou-qi-yi
+title: 苏君俞通判愚斋二首  其一
+titlePinyin: su1 jun1 yu2 tong1 pan4 yu2 zhai1 er4 shou3     qi2 yi1
+titleSlug: su-jun-yu-tong-pan-yu-zhai-er-shou-qi-yi
+author: 唐庚
+authorPinyin: tang2 geng1
+authorSlug: tang-geng
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 人间争以智相高，底事纷纷祗自劳。
+- 顿觉朱愚真有味，莫将佳处语儿曹。
+
+## 拼音
+- ren2 jian1 zheng1 yi3 zhi4 xiang1 gao1 ， di3 shi4 fen1 fen1 zhi1 zi4 lao2 。
+- dun4 jue2 zhu1 yu2 zhen1 you3 wei4 ， mo4 jiang1 jia1 chu4 yu3 er2 cao2 。
+
+## 注释
+
+## 译文
+
+## 赏析

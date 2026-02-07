@@ -1,0 +1,31 @@
+---
+id: tao-bi-yin-shi
+title: 吟石
+titlePinyin: yin2 shi2
+titleSlug: yin-shi
+author: 陶弼
+authorPinyin: tao2 bi4
+authorSlug: tao-bi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 守边无一事，江上得闲吟。
+- 醉呓歌微出，狂书墨不深。
+- 潮痕没高岸，月色透疏林。
+- 此意无人解，宵分泪满襟。
+
+## 拼音
+- shou3 bian1 wu2 yi2 shi4 ， jiang1 shang4 de2 xian2 yin2 。
+- zui4 yi4 ge1 wei1 chu1 ， kuang2 shu1 mo4 bu4 shen1 。
+- chao2 hen2 mei2 gao1 an4 ， yue4 se4 tou4 shu1 lin2 。
+- ci3 yi4 wu2 ren2 jie3 ， xiao1 fen1 lei4 man3 jin1 。
+
+## 注释
+
+## 译文
+
+## 赏析
