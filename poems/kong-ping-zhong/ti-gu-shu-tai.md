@@ -1,0 +1,27 @@
+---
+id: kong-ping-zhong-ti-gu-shu-tai
+title: 题姑孰台
+titlePinyin: ti2 gu1 shu2 tai2
+titleSlug: ti-gu-shu-tai
+author: 孔平仲
+authorPinyin: kong3 ping2 zhong4
+authorSlug: kong-ping-zhong
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 青山便是玄晖宅，采石相传李白坟。
+- 谁使浪仙来此住，姓名辉映少知闻。
+
+## 拼音
+- qing1 shan1 bian4 shi4 xuan2 hui1 zhai2 ， cai3 shi2 xiang1 chuan2 li3 bai2 fen2 。
+- shui2 shi3 lang4 xian1 lai2 ci3 zhu4 ， xing4 ming2 hui1 ying4 shao3 zhi1 wen2 。
+
+## 注释
+
+## 译文
+
+## 赏析

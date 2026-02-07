@@ -1,0 +1,27 @@
+---
+id: kong-ping-zhong-xi-ning-kou-hao-qi-san
+title: 熙宁口号  其三
+titlePinyin: xi1 ning2 kou3 hao4     qi2 san1
+titleSlug: xi-ning-kou-hao-qi-san
+author: 孔平仲
+authorPinyin: kong3 ping2 zhong4
+authorSlug: kong-ping-zhong
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 祇因铜落久纷纷，砥砺廉隅自圣君。
+- 能使普天无贿赂，此风旷古未尝闻。
+
+## 拼音
+- qi2 yin1 tong2 luo4 jiu3 fen1 fen1 ， di3 li4 lian2 yu2 zi4 sheng4 jun1 。
+- neng2 shi3 pu3 tian1 wu2 hui4 lu4 ， ci3 feng1 kuang4 gu3 wei4 chang2 wen2 。
+
+## 注释
+
+## 译文
+
+## 赏析

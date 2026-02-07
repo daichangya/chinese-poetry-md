@@ -1,0 +1,29 @@
+---
+id: li-bai-za-qu-ge-ci-kong-cheng-que
+title: 杂曲歌辞：空城雀
+titlePinyin: za2 qu3 ge1 ci2 ： kong1 cheng2 que4
+titleSlug: za-qu-ge-ci-kong-cheng-que
+author: 李白
+authorPinyin: li3 bai2
+authorSlug: li-bai
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 嗷嗷空城雀，身计何戚促。本与鹪鹩群，不随凤凰族。
+- 提携四黄口，饮乳未尝足。食君糠秕余，常恐乌鸢逐。
+- 耻涉太行险，羞营覆车粟。天命有定端，守分绝所欲。
+
+## 拼音
+- ao2 ao2 kong1 cheng2 que4 ， shen1 ji4 he2 qi1 cu4 。 ben3 yu3 jiao1 liao2 qun2 ， bu4 sui2 feng4 huang2 zu2 。
+- ti2 xie2 si4 huang2 kou3 ， yin3 ru3 wei4 chang2 zu2 。 shi2 jun1 kang1 bi3 yu2 ， chang2 kong3 wu1 yuan1 zhu2 。
+- chi3 she4 tai4 hang2 xian3 ， xiu1 ying2 fu4 che1 su4 。 tian1 ming4 you3 ding4 duan1 ， shou3 fen1 jue2 suo3 yu4 。
+
+## 注释
+
+## 译文
+
+## 赏析

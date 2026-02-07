@@ -1,0 +1,27 @@
+---
+id: li-bai-xiang-he-ge-ci-chang-men-yuan-er-shou-yi
+title: 相和歌辞 长门怨二首 一
+titlePinyin: xiang1 he2 ge1 ci2   chang2 men2 yuan4 er4 shou3   yi1
+titleSlug: xiang-he-ge-ci-chang-men-yuan-er-shou-yi
+author: 李白
+authorPinyin: li3 bai2
+authorSlug: li-bai
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 天回北斗挂西楼，金屋无人萤火流。
+- 月光欲到长门殿，别作深宫一段愁。
+
+## 拼音
+- tian1 hui2 bei3 dou4 gua4 xi1 lou2 ， jin1 wu1 wu2 ren2 ying2 huo3 liu2 。
+- yue4 guang1 yu4 dao4 chang2 men2 dian4 ， bie2 zuo4 shen1 gong1 yi2 duan4 chou2 。
+
+## 注释
+
+## 译文
+
+## 赏析
