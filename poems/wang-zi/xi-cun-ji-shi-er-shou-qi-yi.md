@@ -1,0 +1,27 @@
+---
+id: wang-zi-xi-cun-ji-shi-er-shou-qi-yi
+title: 溪村即事二首  其一
+titlePinyin: xi1 cun1 ji2 shi4 er4 shou3     qi2 yi1
+titleSlug: xi-cun-ji-shi-er-shou-qi-yi
+author: 王镃
+authorPinyin: wang2 zi1
+authorSlug: wang-zi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 村村绿树起青烟，隔岸行人叫渡船。
+- 昨夜不知何处雨，水推枯叶出溪边。
+
+## 拼音
+- cun1 cun1 lü4 shu4 qi3 qing1 yan1 ， ge2 an4 xing2 ren2 jiao4 du4 chuan2 。
+- zuo2 ye4 bu4 zhi1 he2 chu4 yu3 ， shui3 tui1 ku1 ye4 chu1 xi1 bian1 。
+
+## 注释
+
+## 译文
+
+## 赏析

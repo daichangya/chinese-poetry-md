@@ -1,0 +1,27 @@
+---
+id: wang-zong-chen-wan-wang
+title: 晚望
+titlePinyin: wan3 wang4
+titleSlug: wan-wang
+author: 汪宗臣
+authorPinyin: wang1 zong1 chen2
+authorSlug: wang-zong-chen
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 野岸松杉暝色沉，渔翁收钓碧潭深。
+- 冲云点点鹭飞疾，何处呼牛尚远林。
+
+## 拼音
+- ye3 an4 song1 shan1 ming2 se4 chen2 ， yu2 weng1 shou1 diao4 bi4 tan2 shen1 。
+- chong1 yun2 dian3 dian3 lu4 fei1 ji2 ， he2 chu4 hu1 niu2 shang4 yuan3 lin2 。
+
+## 注释
+
+## 译文
+
+## 赏析
