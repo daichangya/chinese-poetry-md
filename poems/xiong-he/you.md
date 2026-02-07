@@ -1,0 +1,27 @@
+---
+id: xiong-he-you
+title: 又
+titlePinyin: you4
+titleSlug: you
+author: 熊禾
+authorPinyin: xiong2 he2
+authorSlug: xiong-he
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 柳绿花红别一天，新来人物旧山川。
+- 若为唤起尧夫梦，再整三千六百年。
+
+## 拼音
+- liu3 lü4 hua1 hong2 bie2 yi4 tian1 ， xin1 lai2 ren2 wu4 jiu4 shan1 chuan1 。
+- ruo4 wei4 huan4 qi3 yao2 fu1 meng4 ， zai4 zheng3 san1 qian1 liu4 bai3 nian2 。
+
+## 注释
+
+## 译文
+
+## 赏析
