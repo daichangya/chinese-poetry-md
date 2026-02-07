@@ -1,0 +1,31 @@
+---
+id: si-ma-guang-qiu-yu-xin-ji-you-shui-bei-ma-shang-ou-cheng
+title: 秋雨新霁游水北马上偶成
+titlePinyin: qiu1 yu3 xin1 ji4 you2 shui3 bei3 ma3 shang4 ou3 cheng2
+titleSlug: qiu-yu-xin-ji-you-shui-bei-ma-shang-ou-cheng
+author: 司马光
+authorPinyin: si1 ma3 guang1
+authorSlug: si-ma-guang
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 秋色与秋声，萧然满洛城。
+- 未霜林叶赤，新雨野风清。
+- 水气侵肌冷，岚光刮眼明。
+- 谁云景如画，但恐画难成。
+
+## 拼音
+- qiu1 se4 yu3 qiu1 sheng1 ， xiao1 ran2 man3 luo4 cheng2 。
+- wei4 shuang1 lin2 ye4 chi4 ， xin1 yu3 ye3 feng1 qing1 。
+- shui3 qi4 qin1 ji1 leng3 ， lan2 guang1 gua1 yan3 ming2 。
+- shui2 yun2 jing3 ru2 hua4 ， dan4 kong3 hua4 nan2 cheng2 。
+
+## 注释
+
+## 译文
+
+## 赏析

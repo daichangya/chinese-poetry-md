@@ -1,0 +1,27 @@
+---
+id: song-bai-jia-zhou
+title: 嘉州
+titlePinyin: jia1 zhou1
+titleSlug: jia-zhou
+author: 宋白
+authorPinyin: song4 bai2
+authorSlug: song-bai
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 嘉阳信美郡，风物眷多奇。
+- 有湖题明月，有楼名荔枝。
+
+## 拼音
+- jia1 yang2 xin4 mei3 jun4 ， feng1 wu4 juan4 duo1 qi2 。
+- you3 hu2 ti2 ming2 yue4 ， you3 lou2 ming2 li4 zhi1 。
+
+## 注释
+
+## 译文
+
+## 赏析

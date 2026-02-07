@@ -1,0 +1,25 @@
+---
+id: song-bai-ju-qi-liu
+title: 句  其六
+titlePinyin: ju4     qi2 liu4
+titleSlug: ju-qi-liu
+author: 宋白
+authorPinyin: song4 bai2
+authorSlug: song-bai
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 竹底衙人吏，花间押簿书。
+
+## 拼音
+- zhu2 di3 ya2 ren2 li4 ， hua1 jian1 ya1 bo2 shu1 。
+
+## 注释
+
+## 译文
+
+## 赏析

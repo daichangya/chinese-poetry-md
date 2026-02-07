@@ -1,0 +1,27 @@
+---
+id: si-kong-tu-xie-xian-lu-jiu-shou-er
+title: 携仙箓九首 二
+titlePinyin: xie2 xian1 lu4 jiu3 shou3   er4
+titleSlug: xie-xian-lu-jiu-shou-er
+author: 司空图
+authorPinyin: si1 kong1 tu2
+authorSlug: si-kong-tu
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 一半晴空一半云，远笼仙掌日初曛。
+- 洞天有路不知处，绝顶异香难更闻。
+
+## 拼音
+- yi2 ban4 qing2 kong1 yi2 ban4 yun2 ， yuan3 long2 xian1 zhang3 ri4 chu1 xun1 。
+- dong4 tian1 you3 lu4 bu4 zhi1 chu4 ， jue2 ding3 yi4 xiang1 nan2 geng4 wen2 。
+
+## 注释
+
+## 译文
+
+## 赏析

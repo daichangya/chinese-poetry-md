@@ -1,0 +1,27 @@
+---
+id: si-ma-guang-shang-jun-nan-san-shi-li-you-xiang-si-ting-zai-tai-shan-zhi-lu-er-shui-s-4d4d86a9
+title: 上郡南三十里有相思亭在太山之麓二水所交平臯之上往来者徒习其名莫详其义庆历甲申歳余适延安过于其下于时夏虏梗边征戍未息窃感东山采薇之义叙其情而愍其劳因作五诗庶几不违周公之指且以释亭之名尔  其二
+titlePinyin: shang4 jun4 nan2 san1 shi2 li3 you3 xiang1 si1 ting2 zai4 tai4 shan1 zhi1 lu4 er4 shui3 suo3 jiao1 ping2 gao1 zhi1 shang4 wang3 lai2 zhe3 tu2 xi2 qi2 ming2 mo4 xiang2 qi2 yi4 qing4 li4 jia3 shen1 sui4 yu2 shi4 yan2 an1 guo4 yu2 qi2 xia4 yu2 shi2 xia4 lu3 geng3 bian1 zheng1 shu4 wei4 xi1 qie4 gan3 dong1 shan1 cai3 wei1 zhi1 yi4 xu4 qi2 qing2 er2 min3 qi2 lao2 yin1 zuo4 wu3 shi1 shu4 ji1 bu4 wei2 zhou1 gong1 zhi1 zhi3 qie3 yi3 shi4 ting2 zhi1 ming2 er3     qi2 er4
+titleSlug: shang-jun-nan-san-shi-li-you-xiang-si-ting-zai-tai-shan-zhi-lu-er-shui-s-4d4d86a9
+author: 司马光
+authorPinyin: si1 ma3 guang1
+authorSlug: si-ma-guang
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 偃蹇登修阪，高侵云日间。
+- 几人征戍客，跋马望家山。
+
+## 拼音
+- yan3 jian3 deng1 xiu1 ban3 ， gao1 qin1 yun2 ri4 jian1 。
+- ji3 ren2 zheng1 shu4 ke4 ， ba2 ma3 wang4 jia1 shan1 。
+
+## 注释
+
+## 译文
+
+## 赏析
