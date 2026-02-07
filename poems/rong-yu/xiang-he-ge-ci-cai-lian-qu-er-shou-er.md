@@ -1,0 +1,27 @@
+---
+id: rong-yu-xiang-he-ge-ci-cai-lian-qu-er-shou-er
+title: 相和歌辞 采莲曲二首 二
+titlePinyin: xiang1 he2 ge1 ci2   cai3 lian2 qu3 er4 shou3   er4
+titleSlug: xiang-he-ge-ci-cai-lian-qu-er-shou-er
+author: 戎昱
+authorPinyin: rong2 yu4
+authorSlug: rong-yu
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 涔阳女儿花满头，毵毵同泛木兰舟。
+- 春风日暮南湖里，争唱菱歌不肯休。
+
+## 拼音
+- cen2 yang2 nü3 er2 hua1 man3 tou2 ， san1 san1 tong2 fan4 mu4 lan2 zhou1 。
+- chun1 feng1 ri4 mu4 nan2 hu2 li3 ， zheng1 chang4 ling2 ge1 bu4 ken3 xiu1 。
+
+## 注释
+
+## 译文
+
+## 赏析
