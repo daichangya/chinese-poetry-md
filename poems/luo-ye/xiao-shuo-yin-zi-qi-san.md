@@ -1,0 +1,27 @@
+---
+id: luo-ye-xiao-shuo-yin-zi-qi-san
+title: 小说引子  其三
+titlePinyin: xiao3 shuo1 yin3 zi3     qi2 san1
+titleSlug: xiao-shuo-yin-zi-qi-san
+author: 罗烨
+authorPinyin: luo2 ye4
+authorSlug: luo-ye
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 破尽诗书泣鬼神，发扬义士显忠臣。
+- 试开戛玉敲金口，说与东西南北人。
+
+## 拼音
+- po4 jin4 shi1 shu1 qi4 gui3 shen2 ， fa1 yang2 yi4 shi4 xian3 zhong1 chen2 。
+- shi4 kai1 jia2 yu4 qiao1 jin1 kou3 ， shuo1 yu3 dong1 xi1 nan2 bei3 ren2 。
+
+## 注释
+
+## 译文
+
+## 赏析
