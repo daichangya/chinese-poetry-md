@@ -1,0 +1,40 @@
+---
+id: tan-xuan-zi-ye-jin-men
+title: 谒金门
+titlePinyin: ye4 jin1 men2
+titleSlug: ye-jin-men
+author: 谭宣子
+authorPinyin: tan2 xuan1 zi3
+authorSlug: tan-xuan-zi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+rhythmic: 谒金门
+---
+## 正文
+- 人病酒。
+- 生怕日高催绣。
+- 昨夜新翻花样瘦。
+- 旋描双蝶凑。
+- 闲凭绣床呵手。
+- 却说春愁还又。
+- 门外东风吹绽柳。
+- 海棠花厮勾。
+
+## 拼音
+- ren2 bing4 jiu3 。
+- sheng1 pa4 ri4 gao1 cui1 xiu4 。
+- zuo2 ye4 xin1 fan1 hua1 yang4 shou4 。
+- xuan2 miao2 shuang1 die2 cou4 。
+- xian2 ping2 xiu4 chuang2 he1 shou3 。
+- que4 shuo1 chun1 chou2 hai2 you4 。
+- men2 wai4 dong1 feng1 chui1 zhan4 liu3 。
+- hai3 tang2 hua1 si1 gou1 。
+
+## 注释
+
+## 译文
+
+## 赏析
