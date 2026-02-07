@@ -1,0 +1,27 @@
+---
+id: yan-shu-li-chun-si-tai-yi-qi-yi
+title: 立春祀太乙  其一
+titlePinyin: li4 chun1 si4 tai4 yi3     qi2 yi1
+titleSlug: li-chun-si-tai-yi-qi-yi
+author: 晏殊
+authorPinyin: yan4 shu1
+authorSlug: yan-shu
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 紫毛双节引青童，一片空歌韵晓风。
+- 太昊兹辰授春令，莺旗应在矞云中。
+
+## 拼音
+- zi3 mao2 shuang1 jie2 yin3 qing1 tong2 ， yi2 pian4 kong1 ge1 yun4 xiao3 feng1 。
+- tai4 hao4 zi1 chen2 shou4 chun1 ling4 ， ying1 qi2 ying4 zai4 yu4 yun2 zhong1 。
+
+## 注释
+
+## 译文
+
+## 赏析
