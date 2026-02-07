@@ -1,0 +1,27 @@
+---
+id: zhao-chong-fu-yue-yan
+title: 月岩
+titlePinyin: yue4 yan2
+titleSlug: yue-yan
+author: 赵崇鉘
+authorPinyin: zhao4 chong2 fu2
+authorSlug: zhao-chong-fu
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 玉丹仙蜕驭飞翰，便作琉璃世界看。
+- 大地山河浑忘却，谩依桂树舞青鸾。
+
+## 拼音
+- yu4 dan1 xian1 tui4 yu4 fei1 han4 ， bian4 zuo4 liu2 li2 shi4 jie4 kan4 。
+- da4 di4 shan1 he2 hun2 wang4 que4 ， man4 yi1 gui4 shu4 wu3 qing1 luan2 。
+
+## 注释
+
+## 译文
+
+## 赏析

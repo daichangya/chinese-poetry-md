@@ -1,0 +1,31 @@
+---
+id: zhao-ding-chen-fan-zhou-xi-shang-ci-yun-zu-wu-wen-di
+title: 泛舟席上次韵祖武闻笛
+titlePinyin: fan4 zhou1 xi2 shang4 ci4 yun4 zu3 wu3 wen2 di2
+titleSlug: fan-zhou-xi-shang-ci-yun-zu-wu-wen-di
+author: 赵鼎臣
+authorPinyin: zhao4 ding3 chen2
+authorSlug: zhao-ding-chen
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 虎槛留春色，龙吟入酒杯。
+- 响从天外去，妙向曲中来。
+- 但可金罇满，何劳暮鼓催。
+- 独怜羁旅客，愁绝正徘徊。
+
+## 拼音
+- hu3 kan3 liu2 chun1 se4 ， long2 yin2 ru4 jiu3 bei1 。
+- xiang3 cong2 tian1 wai4 qu4 ， miao4 xiang4 qu3 zhong1 lai2 。
+- dan4 ke3 jin1 zun1 man3 ， he2 lao2 mu4 gu3 cui1 。
+- du2 lian2 ji1 lü3 ke4 ， chou2 jue2 zheng4 pai2 huai2 。
+
+## 注释
+
+## 译文
+
+## 赏析

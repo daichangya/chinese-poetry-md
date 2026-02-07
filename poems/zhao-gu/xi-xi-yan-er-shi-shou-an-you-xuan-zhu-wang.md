@@ -1,0 +1,27 @@
+---
+id: zhao-gu-xi-xi-yan-er-shi-shou-an-you-xuan-zhu-wang
+title: 昔昔盐二十首：暗牖悬蛛网
+titlePinyin: xi1 xi1 yan2 er4 shi2 shou3 ： an4 you3 xuan2 zhu1 wang3
+titleSlug: xi-xi-yan-er-shi-shou-an-you-xuan-zhu-wang
+author: 赵嘏
+authorPinyin: zhao4 gu3
+authorSlug: zhao-gu
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 暗中蛛网织，历乱绮窗前。万里终无信，一条徒自悬。
+- 分从珠露滴，愁见隙风牵。妾意何聊赖，看看剧断弦。
+
+## 拼音
+- an4 zhong1 zhu1 wang3 zhi1 ， li4 luan4 qi3 chuang1 qian2 。 wan4 li3 zhong1 wu2 xin4 ， yi4 tiao2 tu2 zi4 xuan2 。
+- fen1 cong2 zhu1 lu4 di1 ， chou2 jian4 xi4 feng1 qian1 。 qie4 yi4 he2 liao2 lai4 ， kan4 kan4 ju4 duan4 xian2 。
+
+## 注释
+
+## 译文
+
+## 赏析

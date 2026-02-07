@@ -1,0 +1,27 @@
+---
+id: zhao-fan-wei-yu-san-shou-qi-er
+title: 微雨三首  其二
+titlePinyin: wei1 yu3 san1 shou3     qi2 er4
+titleSlug: wei-yu-san-shou-qi-er
+author: 赵蕃
+authorPinyin: zhao4 fan1
+authorSlug: zhao-fan
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 大雨若盆倾，小雨如丝乱。
+- 盆覆几时收，丝长何日断。
+
+## 拼音
+- da4 yu3 ruo4 pen2 qing1 ， xiao3 yu3 ru2 si1 luan4 。
+- pen2 fu4 ji3 shi2 shou1 ， si1 chang2 he2 ri4 duan4 。
+
+## 注释
+
+## 译文
+
+## 赏析

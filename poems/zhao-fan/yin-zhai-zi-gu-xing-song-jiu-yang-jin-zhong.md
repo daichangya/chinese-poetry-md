@@ -1,0 +1,27 @@
+---
+id: zhao-fan-yin-zhai-zi-gu-xing-song-jiu-yang-jin-zhong
+title: 因翟子固行送酒杨谨仲
+titlePinyin: yin1 zhai2 zi3 gu4 xing2 song4 jiu3 yang2 jin3 zhong4
+titleSlug: yin-zhai-zi-gu-xing-song-jiu-yang-jin-zhong
+author: 赵蕃
+authorPinyin: zhao4 fan1
+authorSlug: zhao-fan
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 君行为觅清江宅，水竹依依自作邻。
+- 问字未能从好事，一壶聊为乞诗陈。
+
+## 拼音
+- jun1 xing2 wei2 mi4 qing1 jiang1 zhai2 ， shui3 zhu2 yi1 yi1 zi4 zuo4 lin2 。
+- wen4 zi4 wei4 neng2 cong2 hao3 shi4 ， yi4 hu2 liao2 wei4 qi3 shi1 chen2 。
+
+## 注释
+
+## 译文
+
+## 赏析
