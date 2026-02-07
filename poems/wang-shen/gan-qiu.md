@@ -1,0 +1,27 @@
+---
+id: wang-shen-gan-qiu
+title: 感秋
+titlePinyin: gan3 qiu1
+titleSlug: gan-qiu
+author: 汪莘
+authorPinyin: wang1 shen1
+authorSlug: wang-shen
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 年年不是要悲秋，秋气愁人不自由。
+- 谁见江南魂断处，潇湘帝子在眉头。
+
+## 拼音
+- nian2 nian2 bu2 shi4 yao4 bei1 qiu1 ， qiu1 qi4 chou2 ren2 bu2 zi4 you2 。
+- shui2 jian4 jiang1 nan2 hun2 duan4 chu4 ， xiao1 xiang1 di4 zi3 zai4 mei2 tou2 。
+
+## 注释
+
+## 译文
+
+## 赏析

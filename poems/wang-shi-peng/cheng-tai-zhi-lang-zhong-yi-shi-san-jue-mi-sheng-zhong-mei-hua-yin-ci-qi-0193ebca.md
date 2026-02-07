@@ -1,0 +1,27 @@
+---
+id: wang-shi-peng-cheng-tai-zhi-lang-zhong-yi-shi-san-jue-mi-sheng-zhong-mei-hua-yin-ci-qi-0193ebca
+title: 程泰之郎中以诗三绝觅省中梅花因次其韵  其三
+titlePinyin: cheng2 tai4 zhi1 lang2 zhong1 yi3 shi1 san1 jue2 mi4 sheng3 zhong1 mei2 hua1 yin1 ci4 qi2 yun4     qi2 san1
+titleSlug: cheng-tai-zhi-lang-zhong-yi-shi-san-jue-mi-sheng-zhong-mei-hua-yin-ci-qi-0193ebca
+author: 王十朋
+authorPinyin: wang2 shi2 peng2
+authorSlug: wang-shi-peng
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 竹亭不到几经时，来徃逢梅似退之。
+- 遥想吾庐溪上好，十分乡思又关眉。
+
+## 拼音
+- zhu2 ting2 bu2 dao4 ji3 jing1 shi2 ， lai2 wang3 feng2 mei2 si4 tui4 zhi1 。
+- yao2 xiang3 wu2 lu2 xi1 shang4 hao3 ， shi2 fen1 xiang1 si1 you4 guan1 mei2 。
+
+## 注释
+
+## 译文
+
+## 赏析

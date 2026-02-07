@@ -1,0 +1,27 @@
+---
+id: wang-ren-xi-xi-ting
+title: 熙熙亭
+titlePinyin: xi1 xi1 ting2
+titleSlug: xi-xi-ting
+author: 汪任
+authorPinyin: wang1 ren4
+authorSlug: wang-ren
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 中天未复旧山河，春日同民强一过。
+- 草草杯盘等闲置，愁多易觉醉颜酡。
+
+## 拼音
+- zhong1 tian1 wei4 fu4 jiu4 shan1 he2 ， chun1 ri4 tong2 min2 qiang2 yi2 guo4 。
+- cao3 cao3 bei1 pan2 deng3 xian2 zhi4 ， chou2 duo1 yi4 jue2 zui4 yan2 tuo2 。
+
+## 注释
+
+## 译文
+
+## 赏析

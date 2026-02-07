@@ -1,0 +1,27 @@
+---
+id: wang-shi-peng-su-fan-xi-yi-qi-yi
+title: 宿饭溪驿  其一
+titlePinyin: su4 fan4 xi1 yi4     qi2 yi1
+titleSlug: su-fan-xi-yi-qi-yi
+author: 王十朋
+authorPinyin: wang2 shi2 peng2
+authorSlug: wang-shi-peng
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 甑屿饱曾见，饭溪名始闻。
+- 老怀如子美，到处不忘君。
+
+## 拼音
+- zeng4 yu3 bao3 ceng2 jian4 ， fan4 xi1 ming2 shi3 wen2 。
+- lao3 huai2 ru2 zi3 mei3 ， dao4 chu4 bu2 wang4 jun1 。
+
+## 注释
+
+## 译文
+
+## 赏析

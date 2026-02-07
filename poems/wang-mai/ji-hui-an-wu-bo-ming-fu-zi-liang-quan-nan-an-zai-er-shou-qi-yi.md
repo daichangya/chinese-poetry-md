@@ -1,0 +1,31 @@
+---
+id: wang-mai-ji-hui-an-wu-bo-ming-fu-zi-liang-quan-nan-an-zai-er-shou-qi-yi
+title: 寄惠安吴簿明辅子良权南安宰二首  其一
+titlePinyin: ji4 hui4 an1 wu2 bo2 ming2 fu3 zi3 liang2 quan2 nan2 an1 zai3 er4 shou3     qi2 yi1
+titleSlug: ji-hui-an-wu-bo-ming-fu-zi-liang-quan-nan-an-zai-er-shou-qi-yi
+author: 王迈
+authorPinyin: wang2 mai4
+authorSlug: wang-mai
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 南安只是旧南安，敏手为之便好看。
+- 事办要先心肯办，才难须信县无难。
+- 锦遭伤后从新制，琴不调时改旧弹。
+- 见说笑谈理繁剧，公余何惜筑诗坛。
+
+## 拼音
+- nan2 an1 zhi3 shi4 jiu4 nan2 an1 ， min3 shou3 wei4 zhi1 bian4 hao3 kan4 。
+- shi4 ban4 yao4 xian1 xin1 ken3 ban4 ， cai2 nan2 xu1 xin4 xian4 wu2 nan2 。
+- jin3 zao1 shang1 hou4 cong2 xin1 zhi4 ， qin2 bu4 tiao2 shi2 gai3 jiu4 tan2 。
+- jian4 shuo1 xiao4 tan2 li3 fan2 ju4 ， gong1 yu2 he2 xi1 zhu4 shi1 tan2 。
+
+## 注释
+
+## 译文
+
+## 赏析

@@ -1,0 +1,63 @@
+---
+id: wang-shi-peng-yu-xiang-nian-shao-bu-zi-liang-yin-du-han-shi-zhe-he-shu-pian-wei-chang--3e064831
+title: 予向年少不自量因读韩诗辄和数篇未尝敢出以示人盖二十年矣近因嘉叟见之不能自掩且赠以长篇蒙景卢继和用韵以谢
+titlePinyin: yu3 xiang4 nian2 shao3 bu2 zi4 liang4 yin1 du2 han2 shi1 zhe2 he2 shu4 pian1 wei4 chang2 gan3 chu1 yi3 shi4 ren2 gai4 er4 shi2 nian2 yi3 jin4 yin1 jia1 sou3 jian4 zhi1 bu4 neng2 zi4 yan3 qie3 zeng4 yi3 chang2 pian1 meng2 jing3 lu2 ji4 he2 yong4 yun4 yi3 xie4
+titleSlug: yu-xiang-nian-shao-bu-zi-liang-yin-du-han-shi-zhe-he-shu-pian-wei-chang--3e064831
+author: 王十朋
+authorPinyin: wang2 shi2 peng2
+authorSlug: wang-shi-peng
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 少小思尚奇，薰风琴欲和。
+- 规模与时背，场屋屡摧挫。
+- 大道窥五原，高论读二过。
+- 神游京城南，思渺蒸水左。
+- 竹看金影碎，菊撷霜风破。
+- 论文摩巨刃，荐士躬彊笴。
+- 萧兰发秋怀，木雁吟齿堕。
+- 飞飞双鸟鸣，不数鹂两个。
+- 幽幽十琴操，可仆兰台些。
+- 光余万丈长，照我一床卧。
+- 未终三百篇，正坐短檠课。
+- 不敢示友朋，惧遭泥滓唾。
+- 文章吉太守，臭味夙相荷。
+- 索我旧诗案，赠以千金货。
+- 郡斋哦好句，艳艳月照坐。
+- 端如陈琳檄，快读痊𫐘轲。
+- 滥把江湖麾，谬声惭日播。
+- 祈寒兼苦雨，怨嗟吾岂奈。
+- 窃效衡山祷，因思鉴湖贺。
+- 鹏鷃各逍遥，溟蓬无巨么。
+
+## 拼音
+- shao3 xiao3 si1 shang4 qi2 ， xun1 feng1 qin2 yu4 he2 。
+- gui1 mo2 yu3 shi2 bei4 ， chang3 wu1 lü3 cui1 cuo4 。
+- da4 dao4 kui1 wu3 yuan2 ， gao1 lun4 du2 er4 guo4 。
+- shen2 you2 jing1 cheng2 nan2 ， si1 miao3 zheng1 shui3 zuo3 。
+- zhu2 kan4 jin1 ying3 sui4 ， ju2 xie2 shuang1 feng1 po4 。
+- lun4 wen2 mo2 ju4 ren4 ， jian4 shi4 gong1 qiang2 gan3 。
+- xiao1 lan2 fa1 qiu1 huai2 ， mu4 yan4 yin2 chi3 duo4 。
+- fei1 fei1 shuang1 niao3 ming2 ， bu2 shu4 li2 liang3 ge4 。
+- you1 you1 shi2 qin2 cao1 ， ke3 pu2 lan2 tai2 xie1 。
+- guang1 yu2 wan4 zhang4 chang2 ， zhao4 wo3 yi4 chuang2 wo4 。
+- wei4 zhong1 san1 bai3 pian1 ， zheng4 zuo4 duan3 qing2 ke4 。
+- bu4 gan3 shi4 you3 peng2 ， ju4 zao1 ni2 zi3 tuo4 。
+- wen2 zhang1 ji2 tai4 shou3 ， chou4 wei4 su4 xiang1 he2 。
+- suo3 wo3 jiu4 shi1 an4 ， zeng4 yi3 qian1 jin1 huo4 。
+- jun4 zhai1 o4 hao3 ju4 ， yan4 yan4 yue4 zhao4 zuo4 。
+- duan1 ru2 chen2 lin2 xi2 ， kuai4 du2 quan2 𫐘 ke1 。
+- lan4 ba3 jiang1 hu2 hui1 ， miu4 sheng1 can2 ri4 bo1 。
+- qi2 han2 jian1 ku3 yu3 ， yuan4 jie1 wu2 qi3 nai4 。
+- qie4 xiao4 heng2 shan1 dao3 ， yin1 si1 jian4 hu2 he4 。
+- peng2 yan4 ge4 xiao1 yao2 ， ming2 peng2 wu2 ju4 me0 。
+
+## 注释
+
+## 译文
+
+## 赏析

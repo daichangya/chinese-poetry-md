@@ -1,0 +1,27 @@
+---
+id: wang-shen-gan-qiu-qi-san
+title: 感秋  其三
+titlePinyin: gan3 qiu1     qi2 san1
+titleSlug: gan-qiu-qi-san
+author: 汪莘
+authorPinyin: wang1 shen1
+authorSlug: wang-shen
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 行到篱边菊已黄，相逢不改旧时香。
+- 自怜失意秋风后，犹为寒花一举觞。
+
+## 拼音
+- xing2 dao4 li2 bian1 ju2 yi3 huang2 ， xiang1 feng2 bu4 gai3 jiu4 shi2 xiang1 。
+- zi4 lian2 shi1 yi4 qiu1 feng1 hou4 ， you2 wei4 han2 hua1 yi4 ju3 shang1 。
+
+## 注释
+
+## 译文
+
+## 赏析

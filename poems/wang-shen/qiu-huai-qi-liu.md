@@ -1,0 +1,27 @@
+---
+id: wang-shen-qiu-huai-qi-liu
+title: 秋怀  其六
+titlePinyin: qiu1 huai2     qi2 liu4
+titleSlug: qiu-huai-qi-liu
+author: 汪莘
+authorPinyin: wang1 shen1
+authorSlug: wang-shen
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 曾向潇湘遇水仙，倏来如月去如烟。
+- 深林一笑闻山鬼，余处幽篁不见天。
+
+## 拼音
+- ceng2 xiang4 xiao1 xiang1 yu4 shui3 xian1 ， shu1 lai2 ru2 yue4 qu4 ru2 yan1 。
+- shen1 lin2 yi2 xiao4 wen2 shan1 gui3 ， yu2 chu4 you1 huang2 bu2 jian4 tian1 。
+
+## 注释
+
+## 译文
+
+## 赏析

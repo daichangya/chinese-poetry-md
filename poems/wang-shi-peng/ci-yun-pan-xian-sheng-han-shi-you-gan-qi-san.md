@@ -1,0 +1,27 @@
+---
+id: wang-shi-peng-ci-yun-pan-xian-sheng-han-shi-you-gan-qi-san
+title: 次韵潘先生寒食有感  其三
+titlePinyin: ci4 yun4 pan1 xian1 sheng1 han2 shi2 you3 gan3     qi2 san1
+titleSlug: ci-yun-pan-xian-sheng-han-shi-you-gan-qi-san
+author: 王十朋
+authorPinyin: wang2 shi2 peng2
+authorSlug: wang-shi-peng
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 人间寒食几经年，甲子谁能记后先。
+- 且尽一杯蓝尾酒，莫将身事恼生前。
+
+## 拼音
+- ren2 jian1 han2 shi2 ji3 jing1 nian2 ， jia3 zi3 shui2 neng2 ji4 hou4 xian1 。
+- qie3 jin4 yi4 bei1 lan2 wei3 jiu3 ， mo4 jiang1 shen1 shi4 nao3 sheng1 qian2 。
+
+## 注释
+
+## 译文
+
+## 赏析
