@@ -1,0 +1,27 @@
+---
+id: yi-ming-hui-chang-zhong-chang-an-ren-yu
+title: 会昌中长安人语
+titlePinyin: hui4 chang1 zhong1 chang2 an1 ren2 yu3
+titleSlug: hui-chang-zhong-chang-an-ren-yu
+author: 佚名
+authorPinyin: yi4 ming2
+authorSlug: yi-ming
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 今年长安人吃人。
+- （《入唐求法巡礼行记》卷四）。
+
+## 拼音
+- jin1 nian2 zhang3 an1 ren2 chi1 ren2 。
+- （ 《 ru4 tang2 qiu2 fa3 xun2 li3 xing2 ji4 》 juan4 si4 ） 。
+
+## 注释
+
+## 译文
+
+## 赏析
