@@ -1,0 +1,239 @@
+---
+id: fan-zhi-jie-er-zhi-ba-bai-zi
+title: 诫儿姪八百字
+titlePinyin: jie4 er2 zhi2 ba1 bai3 zi4
+titleSlug: jie-er-zhi-ba-bai-zi
+author: 范质
+authorPinyin: fan4 zhi4
+authorSlug: fan-zhi
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- （昨得谢课书，希于京秩之中更与迁转。
+- 余以诸儿姪辈生长以来，未谙外事，艰难损益，懵然莫知，因抒古诗一章晓之。
+- ）去年初释褐，一命列蓬丘。
+- （谓谢课。
+- ）青袍春草色，白纻弃如仇。
+- 适会龙飞庆，王泽天下流。
+- 尔得六品阶，无乃太为优。
+- 凡登进士第，四选升校讐。
+- 历官十五考，叙阶与尔俦。
+- 如何志未满，意欲陵（《纪事》「陵」作「凌」。
+- ）云游。
+- 若言品位卑，寄书来我求。
+- 省之再三叹，不觉泪盈眸。
+- 吾家本寒素，门地寡公侯。
+- 先子有令德，乐道尚忧游。
+- 生逢世多僻，委任信沉浮。
+- 仕宦不喜达，吏隐同庄周。
+- 积善有余庆，清白为贻谋。
+- 伊余奉家训，孜孜务进修。
+- 夙夜事勤肃，言行思悔尤。
+- 出门择交友，防慎畏薰莸。
+- 省躬常惧玷，恐掇庭闱羞。
+- 童年志于学，不堕（《纪事》「堕」作「惰」。
+- ）为箕裘。
+- 二十中甲科，頳尾化为虬。
+- （二十三进士及第，今举全数。
+- ）三十入翰苑（时三十三，），步武向瀛州。
+- 四十登宰辅（年四十一），貂冠侍冕旒。
+- 备位行一纪，将何助帝猷。
+- 既非救旱雨，岂是济川舟。
+- 天子未遐弃，日益素餐忧。
+- 黄河润千里，草木皆浸渍。
+- 吾宗凡九人，继踵升官次。
+- 门内无白丁，森森朱绿紫。
+- 鹓行洎内职，亚尹州从事。
+- 府掾监省官，高低皆清美。
+- 悉田侥幸升，不因资考至。
+- 朝廷悬爵秩，命之曰公器。
+- 才者禄及身，功者赏于世。
+- 非才及非功。
+- 安得专（《纪事》「专」作「沾」。
+- ）厚利。
+- 寒衣内府帛，饥食太仓米。
+- 不蚕复不穑，未尝勤四体。
+- 虽然一家荣，岂塞众人议。
+- 颙颙十目窥，龊龊千人指。
+- （曾参云：「十目所视。
+- 」古人云：「千人所指。
+- 」言可畏。
+- ）借问尔与吾，如何不自媿？
+- 戒尔学立身，莫若先孝悌。
+- 怡怡奉亲长，不敢生骄易。
+- 战战复兢兢，造次必于是。
+- 戒尔学干禄，莫若勤道艺。
+- 尝闻诸格言，学而优则仕。
+- 不患人不知，惟患学不至。
+- 戒尔远耻辱，恭则近乎礼。
+- 自卑而尊人，先彼而后己。
+- 《相鼠》与《茅鸱》，宜鉴诗人剌。
+- （《毛诗》：「《相鼠》，刺无礼。
+- 」《左传》：「茅鸱」，刺不恭。
+- ）戒尔勿放旷，放旷非端士。
+- 周孔垂名教，齐梁尚清议。
+- 南朝称八达，千载秽青史。
+- 戒尔勿嗜酒，狂药非佳味。
+- 能移谨厚性。
+- 化为凶险（《纪事》「险」作「暴」。
+- ）类。
+- 古今倾败者，历历皆可记。
+- 戒尔勿多言，多言者众（《纪事》「者众」作「众所」。
+- ）忌。
+- 苟不慎枢机，灾危从此始。
+- 是非毁誉间，适足为身累。
+- 举世重交游，拟结金兰契。
+- 忿怨容易（《纪事》「容易」作「从是」。
+- ）生，风波当时起。
+- 所以公君子心，汪汪淡如水。
+- 举世好承奉，昂昂增意气。
+- 不知承奉者，以尔为玩戏。
+- 所以古人疾，籧篨与戚施。
+- 举世重任侠，（《史记》：「轻死重义曰侠。
+- 」）呼俗（《纪事》「呼俗」作「俗呼」。
+- ）为气义。
+- （《纪事》「气义」作「义士」。
+- ）为人赴急难，往往陷刑死。
+- 所以马援书，殷勤戒诸子。
+- （马援告儿孙书，甚非此事。
+- ）举世贱清素，奉身好华侈。
+- 肥马衣轻裘，扬扬过闾里。
+- 虽得巿童怜，还为识者鄙。
+- 我本羁旅臣，遭逢尧舜理。
+- 位重才不充，戚戚怀忧畏。
+- 深渊与薄冰，蹈之唯恐坠。
+- 尔曹非悯我，勿使著罪戾。
+- 闭门敛踪迹，缩首避名势。
+- 名势不久居，毕竟何足恃。
+- 物盛必有衰，有隆还有替。
+- 速成不坚牢，亟走多颠踬。
+- 灼灼园中花，早发还先萎。
+- 迟迟涧畔松，郁郁含晚翠。
+- 赋命有疾徐，青云难力致。
+- 寄语谢诸郎，躁进徒为耳。
+- （见《宋文鉴》卷十四。
+- 以《宋诗纪事》校之。
+- ）（此诗疑作于入宋后。
+- ）（〖1〗《宋史》卷二四九《范质传》：「从子校书郎杲求奏迁秩，质作诗晓之。
+- 时人传诵，以为劝戒。
+- 」）。
+
+## 拼音
+- （ zuo2 de2 xie4 ke4 shu1 ， xi1 yu2 jing1 zhi4 zhi1 zhong1 geng4 yu3 qian1 zhuan3 。
+- yu2 yi3 zhu1 er2 zhi2 bei4 sheng1 zhang3 yi3 lai2 ， wei4 an1 wai4 shi4 ， jian1 nan2 sun3 yi4 ， meng3 ran2 mo4 zhi1 ， yin1 shu1 gu3 shi1 yi4 zhang1 xiao3 zhi1 。
+- ） qu4 nian2 chu1 shi4 he4 ， yi2 ming4 lie4 peng2 qiu1 。
+- （ wei4 xie4 ke4 。
+- ） qing1 pao2 chun1 cao3 se4 ， bai2 zhu4 qi4 ru2 chou2 。
+- shi4 hui4 long2 fei1 qing4 ， wang2 ze2 tian1 xia4 liu2 。
+- er3 de2 liu4 pin3 jie1 ， wu2 nai3 tai4 wei4 you1 。
+- fan2 deng1 jin4 shi4 di4 ， si4 xuan3 sheng1 xiao4 chou2 。
+- li4 guan1 shi2 wu3 kao3 ， xu4 jie1 yu3 er3 chou2 。
+- ru2 he2 zhi4 wei4 man3 ， yi4 yu4 ling2 （ 《 ji4 shi4 》 「 ling2 」 zuo4 「 ling2 」 。
+- ） yun2 you2 。
+- ruo4 yan2 pin3 wei4 bei1 ， ji4 shu1 lai2 wo3 qiu2 。
+- sheng3 zhi1 zai4 san1 tan4 ， bu4 jue2 lei4 ying2 mou2 。
+- wu2 jia1 ben3 han2 su4 ， men2 di4 gua3 gong1 hou2 。
+- xian1 zi3 you3 ling4 de2 ， le4 dao4 shang4 you1 you2 。
+- sheng1 feng2 shi4 duo1 pi4 ， wei3 ren4 xin4 chen2 fu2 。
+- shi4 huan4 bu4 xi3 da2 ， li4 yin3 tong2 zhuang1 zhou1 。
+- ji1 shan4 you3 yu2 qing4 ， qing1 bai2 wei4 yi2 mou2 。
+- yi1 yu2 feng4 jia1 xun4 ， zi1 zi1 wu4 jin4 xiu1 。
+- su4 ye4 shi4 qin2 su4 ， yan2 xing2 si1 hui3 you2 。
+- chu1 men2 ze2 jiao1 you3 ， fang2 shen4 wei4 xun1 you2 。
+- sheng3 gong1 chang2 ju4 dian4 ， kong3 duo1 ting2 wei2 xiu1 。
+- tong2 nian2 zhi4 yu2 xue2 ， bu2 duo4 （ 《 ji4 shi4 》 「 duo4 」 zuo4 「 duo4 」 。
+- ） wei4 ji1 qiu2 。
+- er4 shi2 zhong1 jia3 ke1 ， cheng1 wei3 hua4 wei2 qiu2 。
+- （ er4 shi2 san1 jin4 shi4 ji2 di4 ， jin1 ju3 quan2 shu4 。
+- ） san1 shi2 ru4 han4 yuan4 （ shi2 san1 shi2 san1 ， ） ， bu4 wu3 xiang4 ying2 zhou1 。
+- si4 shi2 deng1 zai3 fu3 （ nian2 si4 shi2 yi1 ） ， diao1 guan1 shi4 mian3 liu2 。
+- bei4 wei4 xing2 yi2 ji4 ， jiang1 he2 zhu4 di4 you2 。
+- ji4 fei1 jiu4 han4 yu3 ， qi3 shi4 ji4 chuan1 zhou1 。
+- tian1 zi3 wei4 xia2 qi4 ， ri4 yi4 su4 can1 you1 。
+- huang2 he2 run4 qian1 li3 ， cao3 mu4 jie1 jin4 zi4 。
+- wu2 zong1 fan2 jiu3 ren2 ， ji4 zhong3 sheng1 guan1 ci4 。
+- men2 nei4 wu2 bai2 ding1 ， sen1 sen1 zhu1 lü4 zi3 。
+- yuan1 xing2 ji4 nei4 zhi2 ， ya4 yin3 zhou1 cong2 shi4 。
+- fu3 yuan4 jian1 sheng3 guan1 ， gao1 di1 jie1 qing1 mei3 。
+- xi1 tian2 jiao3 xing4 sheng1 ， bu4 yin1 zi1 kao3 zhi4 。
+- chao2 ting2 xuan2 jue2 zhi4 ， ming4 zhi1 yue1 gong1 qi4 。
+- cai2 zhe3 lu4 ji2 shen1 ， gong1 zhe3 shang3 yu2 shi4 。
+- fei1 cai2 ji2 fei1 gong1 。
+- an1 de2 zhuan1 （ 《 ji4 shi4 》 「 zhuan1 」 zuo4 「 zhan1 」 。
+- ） hou4 li4 。
+- han2 yi1 nei4 fu3 bo2 ， ji1 shi2 tai4 cang1 mi3 。
+- bu4 can2 fu4 bu2 se4 ， wei4 chang2 qin2 si4 ti3 。
+- sui1 ran2 yi4 jia1 rong2 ， qi3 sai1 zhong4 ren2 yi4 。
+- yong2 yong2 shi2 mu4 kui1 ， chuo4 chuo4 qian1 ren2 zhi3 。
+- （ ceng2 can1 yun2 ： 「 shi2 mu4 suo3 shi4 。
+- 」 gu3 ren2 yun2 ： 「 qian1 ren2 suo3 zhi3 。
+- 」 yan2 ke3 wei4 。
+- ） jie4 wen4 er3 yu3 wu2 ， ru2 he2 bu2 zi4 kui4 ？
+- jie4 er3 xue2 li4 shen1 ， mo4 ruo4 xian1 xiao4 ti4 。
+- yi2 yi2 feng4 qin1 chang2 ， bu4 gan3 sheng1 jiao1 yi4 。
+- zhan4 zhan4 fu4 jing1 jing1 ， zao4 ci4 bi4 yu2 shi4 。
+- jie4 er3 xue2 gan1 lu4 ， mo4 ruo4 qin2 dao4 yi4 。
+- chang2 wen2 zhu1 ge2 yan2 ， xue2 er2 you1 ze2 shi4 。
+- bu2 huan4 ren2 bu4 zhi1 ， wei2 huan4 xue2 bu2 zhi4 。
+- jie4 er3 yuan3 chi3 ru3 ， gong1 ze2 jin4 hu1 li3 。
+- zi4 bei1 er2 zun1 ren2 ， xian1 bi3 er2 hou4 ji3 。
+- 《 xiang1 shu3 》 yu3 《 mao2 chi1 》 ， yi2 jian4 shi1 ren2 la4 。
+- （ 《 mao2 shi1 》 ： 「 《 xiang1 shu3 》 ， ci4 wu2 li3 。
+- 」 《 zuo3 chuan2 》 ： 「 mao2 chi1 」 ， ci4 bu4 gong1 。
+- ） jie4 er3 wu4 fang4 kuang4 ， fang4 kuang4 fei1 duan1 shi4 。
+- zhou1 kong3 chui2 ming2 jiao4 ， qi2 liang2 shang4 qing1 yi4 。
+- nan2 chao2 cheng1 ba1 da2 ， qian1 zai3 hui4 qing1 shi3 。
+- jie4 er3 wu4 shi4 jiu3 ， kuang2 yao4 fei1 jia1 wei4 。
+- neng2 yi2 jin3 hou4 xing4 。
+- hua4 wei2 xiong1 xian3 （ 《 ji4 shi4 》 「 xian3 」 zuo4 「 bao4 」 。
+- ） lei4 。
+- gu3 jin1 qing1 bai4 zhe3 ， li4 li4 jie1 ke3 ji4 。
+- jie4 er3 wu4 duo1 yan2 ， duo1 yan2 zhe3 zhong4 （ 《 ji4 shi4 》 「 zhe3 zhong4 」 zuo4 「 zhong4 suo3 」 。
+- ） ji4 。
+- gou3 bu2 shen4 shu1 ji1 ， zai1 wei1 cong2 ci3 shi3 。
+- shi4 fei1 hui3 yu4 jian1 ， shi4 zu2 wei4 shen1 lei4 。
+- ju3 shi4 zhong4 jiao1 you2 ， ni3 jie2 jin1 lan2 qi4 。
+- fen4 yuan4 rong2 yi4 （ 《 ji4 shi4 》 「 rong2 yi4 」 zuo4 「 cong2 shi4 」 。
+- ） sheng1 ， feng1 bo1 dang1 shi2 qi3 。
+- suo3 yi3 gong1 jun1 zi3 xin1 ， wang1 wang1 dan4 ru2 shui3 。
+- ju3 shi4 hao3 cheng2 feng4 ， ang2 ang2 zeng1 yi4 qi4 。
+- bu4 zhi1 cheng2 feng4 zhe3 ， yi3 er3 wei4 wan2 xi4 。
+- suo3 yi3 gu3 ren2 ji2 ， qu2 chu2 yu3 qi1 shi1 。
+- ju3 shi4 zhong4 ren4 xia2 ， （ 《 shi3 ji4 》 ： 「 qing1 si3 zhong4 yi4 yue1 xia2 。
+- 」 ） hu1 su2 （ 《 ji4 shi4 》 「 hu1 su2 」 zuo4 「 su2 hu1 」 。
+- ） wei4 qi4 yi4 。
+- （ 《 ji4 shi4 》 「 qi4 yi4 」 zuo4 「 yi4 shi4 」 。
+- ） wei4 ren2 fu4 ji2 nan2 ， wang3 wang3 xian4 xing2 si3 。
+- suo3 yi3 ma3 yuan2 shu1 ， yin1 qin2 jie4 zhu1 zi3 。
+- （ ma3 yuan2 gao4 er2 sun1 shu1 ， shen4 fei1 ci3 shi4 。
+- ） ju3 shi4 jian4 qing1 su4 ， feng4 shen1 hao3 hua2 chi3 。
+- fei2 ma3 yi1 qing1 qiu2 ， yang2 yang2 guo4 lü2 li3 。
+- sui1 de2 fu2 tong2 lian2 ， hai2 wei4 shi2 zhe3 bi3 。
+- wo3 ben3 ji1 lü3 chen2 ， zao1 feng2 yao2 shun4 li3 。
+- wei4 zhong4 cai2 bu4 chong1 ， qi1 qi1 huai2 you1 wei4 。
+- shen1 yuan1 yu3 bao2 bing1 ， dao3 zhi1 wei2 kong3 zhui4 。
+- er3 cao2 fei1 min3 wo3 ， wu4 shi3 zhu4 zui4 li4 。
+- bi4 men2 lian3 zong1 ji4 ， suo1 shou3 bi4 ming2 shi4 。
+- ming2 shi4 bu4 jiu3 ju1 ， bi4 jing4 he2 zu2 shi4 。
+- wu4 sheng4 bi4 you3 shuai1 ， you3 long2 hai2 you3 ti4 。
+- su4 cheng2 bu4 jian1 lao2 ， ji2 zou3 duo1 dian1 zhi4 。
+- zhuo2 zhuo2 yuan2 zhong1 hua1 ， zao3 fa1 huan2 xian1 wei3 。
+- chi2 chi2 jian4 pan4 song1 ， yu4 yu4 han2 wan3 cui4 。
+- fu4 ming4 you3 ji2 xu2 ， qing1 yun2 nan2 li4 zhi4 。
+- ji4 yu3 xie4 zhu1 lang2 ， zao4 jin4 tu2 wei4 er3 。
+- （ jian4 《 song4 wen2 jian4 》 juan4 shi2 si4 。
+- yi3 《 song4 shi1 ji4 shi4 》 xiao4 zhi1 。
+- ） （ ci3 shi1 yi2 zuo4 yu2 ru4 song4 hou4 。
+- ） （ 〖 1 〗 《 song4 shi3 》 juan4 er4 si4 jiu3 《 fan4 zhi4 chuan2 》 ： 「 cong2 zi3 xiao4 shu1 lang2 gao3 qiu2 zou4 qian1 zhi4 ， zhi4 zuo4 shi1 xiao3 zhi1 。
+- shi2 ren2 chuan2 song4 ， yi3 wei2 quan4 jie4 。
+- 」 ） 。
+
+## 注释
+
+## 译文
+
+## 赏析
