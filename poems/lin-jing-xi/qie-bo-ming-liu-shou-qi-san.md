@@ -1,0 +1,35 @@
+---
+id: lin-jing-xi-qie-bo-ming-liu-shou-qi-san
+title: 妾薄命六首  其三
+titlePinyin: qie4 bo2 ming4 liu4 shou3     qi2 san1
+titleSlug: qie-bo-ming-liu-shou-qi-san
+author: 林景熙
+authorPinyin: lin2 jing3 xi1
+authorSlug: lin-jing-xi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 二八入宫掖，一笑空三千。
+- 云阶渺何许，步步生金莲。
+- 绣鸳不胜春，飘若凌波仙。
+- 荣华一回首，荆棘森我前。
+- 君恩花上露，妾心井中泉。
+- 井泉誓不波，下照青青天。
+
+## 拼音
+- er4 ba1 ru4 gong1 ye4 ， yi2 xiao4 kong1 san1 qian1 。
+- yun2 jie1 miao3 he2 xu3 ， bu4 bu4 sheng1 jin1 lian2 。
+- xiu4 yuan1 bu2 sheng4 chun1 ， piao1 ruo4 ling2 bo1 xian1 。
+- rong2 hua2 yi4 hui2 shou3 ， jing1 ji2 sen1 wo3 qian2 。
+- jun1 en1 hua1 shang4 lu4 ， qie4 xin1 jing3 zhong1 quan2 。
+- jing3 quan2 shi4 bu4 bo1 ， xia4 zhao4 qing1 qing1 tian1 。
+
+## 注释
+
+## 译文
+
+## 赏析
