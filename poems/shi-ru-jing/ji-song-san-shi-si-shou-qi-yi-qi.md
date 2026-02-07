@@ -1,0 +1,29 @@
+---
+id: shi-ru-jing-ji-song-san-shi-si-shou-qi-yi-qi
+title: 偈颂三十四首  其一七
+titlePinyin: ji4 song4 san1 shi2 si4 shou3     qi2 yi1 qi1
+titleSlug: ji-song-san-shi-si-shou-qi-yi-qi
+author: 释如净
+authorPinyin: shi4 ru2 jing4
+authorSlug: shi-ru-jing
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 今朝正月初一，一举上上大吉。
+- 吉无不利，春风和气。
+- 散入花梢百草头，尘尘刹刹转风流。
+
+## 拼音
+- jin1 chao2 zheng1 yue4 chu1 yi1 ， yi4 ju3 shang4 shang4 da4 ji2 。
+- ji2 wu2 bu2 li4 ， chun1 feng1 he2 qi4 。
+- san4 ru4 hua1 shao1 bai3 cao3 tou2 ， chen2 chen2 cha4 cha4 zhuan3 feng1 liu2 。
+
+## 注释
+
+## 译文
+
+## 赏析
