@@ -1,0 +1,27 @@
+---
+id: li-peng-ji-shi-qi-wu
+title: 即事  其五
+titlePinyin: ji2 shi4     qi2 wu3
+titleSlug: ji-shi-qi-wu
+author: 李彭
+authorPinyin: li3 peng2
+authorSlug: li-peng
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 眼看花雾共衣霏，已有群莺窗上飞。
+- 心事但随春事尽，钟声更伴鸟声微。
+
+## 拼音
+- yan3 kan4 hua1 wu4 gong4 yi1 fei1 ， yi3 you3 qun2 ying1 chuang1 shang4 fei1 。
+- xin1 shi4 dan4 sui2 chun1 shi4 jin4 ， zhong1 sheng1 geng4 ban4 niao3 sheng1 wei1 。
+
+## 注释
+
+## 译文
+
+## 赏析

@@ -1,0 +1,27 @@
+---
+id: li-mi-xun-ti-da-ru-liao-xiao-ge
+title: 题大儒寮小阁
+titlePinyin: ti2 da4 ru2 liao2 xiao3 ge2
+titleSlug: ti-da-ru-liao-xiao-ge
+author: 李弥逊
+authorPinyin: li3 mi2 xun4
+authorSlug: li-mi-xun
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 青鞋踏尽剑铓山，借枕僧房落照间。
+- 髙屋凭虚听泉语，岭云应似我身闲。
+
+## 拼音
+- qing1 xie2 ta4 jin4 jian4 mang2 shan1 ， jie4 zhen3 seng1 fang2 luo4 zhao4 jian1 。
+- gao1 wu1 ping2 xu1 ting1 quan2 yu3 ， ling3 yun2 ying4 si4 wo3 shen1 xian2 。
+
+## 注释
+
+## 译文
+
+## 赏析

@@ -1,0 +1,27 @@
+---
+id: li-peng-zai-ci-yun-qi-er
+title: 再次韵  其二
+titlePinyin: zai4 ci4 yun4     qi2 er4
+titleSlug: zai-ci-yun-qi-er
+author: 李彭
+authorPinyin: li3 peng2
+authorSlug: li-peng
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 陈恬老作中州客，少室晓猿声念群。
+- 通籍金闺成底事，看取九原冥漠君。
+
+## 拼音
+- chen2 tian2 lao3 zuo4 zhong1 zhou1 ke4 ， shao3 shi4 xiao3 yuan2 sheng1 nian4 qun2 。
+- tong1 ji2 jin1 gui1 cheng2 di3 shi4 ， kan4 qu3 jiu3 yuan2 ming2 mo4 jun1 。
+
+## 注释
+
+## 译文
+
+## 赏析

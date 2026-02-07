@@ -1,0 +1,27 @@
+---
+id: li-long-ji-ti-mei-fei-hua-zhen
+title: 题梅妃画真
+titlePinyin: ti2 mei2 fei1 hua4 zhen1
+titleSlug: ti-mei-fei-hua-zhen
+author: 李隆基
+authorPinyin: li3 long2 ji1
+authorSlug: li-long-ji
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 忆昔娇妃在紫宸，铅华不御得天真。
+- 霜绡虽似当时态，争奈娇波不顾人。
+
+## 拼音
+- yi4 xi1 jiao1 fei1 zai4 zi3 chen2 ， qian1 hua2 bu2 yu4 de2 tian1 zhen1 。
+- shuang1 xiao1 sui1 si4 dang1 shi2 tai4 ， zheng1 nai4 jiao1 bo1 bu2 gu4 ren2 。
+
+## 注释
+
+## 译文
+
+## 赏析

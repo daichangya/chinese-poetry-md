@@ -1,0 +1,27 @@
+---
+id: li-lu-ying-xin-quan
+title: 莹心泉
+titlePinyin: ying2 xin1 quan2
+titleSlug: ying-xin-quan
+author: 李吕
+authorPinyin: li3 lü3
+authorSlug: li-lu
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 修绠何妨汲，羸瓶不自任。
+- 从渠清彻底，伴我岁寒心。
+
+## 拼音
+- xiu1 geng3 he2 fang2 ji2 ， lei2 ping2 bu2 zi4 ren4 。
+- cong2 qu2 qing1 che4 di3 ， ban4 wo3 sui4 han2 xin1 。
+
+## 注释
+
+## 译文
+
+## 赏析
