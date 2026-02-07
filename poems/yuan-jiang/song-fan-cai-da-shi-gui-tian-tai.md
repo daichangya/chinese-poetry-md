@@ -1,0 +1,27 @@
+---
+id: yuan-jiang-song-fan-cai-da-shi-gui-tian-tai
+title: 送梵才大师归天台
+titlePinyin: song4 fan4 cai2 da4 shi1 gui1 tian1 tai2
+titleSlug: song-fan-cai-da-shi-gui-tian-tai
+author: 元绛
+authorPinyin: yuan2 jiang4
+authorSlug: yuan-jiang
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 责重忧多两鬓斑，十年长梦赤城山。
+- 何时得似净名子，潄石眠云恣意闲。
+
+## 拼音
+- ze2 zhong4 you1 duo1 liang3 bin4 ban1 ， shi2 nian2 zhang3 meng4 chi4 cheng2 shan1 。
+- he2 shi2 de2 si4 jing4 ming2 zi3 ， shu4 shi2 mian2 yun2 zi4 yi4 xian2 。
+
+## 注释
+
+## 译文
+
+## 赏析

@@ -1,0 +1,27 @@
+---
+id: yuan-jie-ai-nai-qu-wu-shou-si
+title: 欸乃曲五首 四
+titlePinyin: ai3 nai3 qu3 wu3 shou3   si4
+titleSlug: ai-nai-qu-wu-shou-si
+author: 元结
+authorPinyin: yuan2 jie2
+authorSlug: yuan-jie
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 零陵郡北湘水东，浯溪形胜满湘中。
+- 溪口石颠堪自逸，谁能相伴作渔翁。
+
+## 拼音
+- ling2 ling2 jun4 bei3 xiang1 shui3 dong1 ， wu2 xi1 xing2 sheng4 man3 xiang1 zhong1 。
+- xi1 kou3 shi2 dian1 kan1 zi4 yi4 ， shui2 neng2 xiang1 ban4 zuo4 yu2 weng1 。
+
+## 注释
+
+## 译文
+
+## 赏析

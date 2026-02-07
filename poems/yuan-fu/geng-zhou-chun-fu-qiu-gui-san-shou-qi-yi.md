@@ -1,0 +1,27 @@
+---
+id: yuan-fu-geng-zhou-chun-fu-qiu-gui-san-shou-qi-yi
+title: 赓周纯甫求归三首  其一
+titlePinyin: geng1 zhou1 chun2 fu3 qiu2 gui1 san1 shou3     qi2 yi1
+titleSlug: geng-zhou-chun-fu-qiu-gui-san-shou-qi-yi
+author: 袁甫
+authorPinyin: yuan2 fu3
+authorSlug: yuan-fu
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 秋风一夜簸清波，我自思亲奈客何。
+- 远地少书消息好，书多愁闷转添多。
+
+## 拼音
+- qiu1 feng1 yi2 ye4 bo4 qing1 bo1 ， wo3 zi4 si1 qin1 nai4 ke4 he2 。
+- yuan3 di4 shao3 shu1 xiao1 xi1 hao3 ， shu1 duo1 chou2 men4 zhuan3 tian1 duo1 。
+
+## 注释
+
+## 译文
+
+## 赏析
