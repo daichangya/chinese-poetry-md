@@ -1,0 +1,27 @@
+---
+id: chen-yuan-he-zi-jing-san-jue-ting-zhu-er-shou-qi-er
+title: 和子静三绝 亭竹二首 其二
+titlePinyin: he2 zi3 jing4 san1 jue2   ting2 zhu2 er4 shou3   qi2 er4
+titleSlug: he-zi-jing-san-jue-ting-zhu-er-shou-qi-er
+author: 陈渊
+authorPinyin: chen2 yuan1
+authorSlug: chen-yuan
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 霜雪岂能摧劲节，埃尘无复入虚怀。
+- 故应淡薄无人管，不是子猷谁复来。
+
+## 拼音
+- shuang1 xue3 qi3 neng2 cui1 jin4 jie2 ， ai1 chen2 wu2 fu4 ru4 xu1 huai2 。
+- gu4 ying4 dan4 bao2 wu2 ren2 guan3 ， bu2 shi4 zi3 you2 shui2 fu4 lai2 。
+
+## 注释
+
+## 译文
+
+## 赏析

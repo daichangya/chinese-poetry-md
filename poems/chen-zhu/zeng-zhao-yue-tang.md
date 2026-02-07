@@ -1,0 +1,27 @@
+---
+id: chen-zhu-zeng-zhao-yue-tang
+title: 赠赵月堂
+titlePinyin: zeng4 zhao4 yue4 tang2
+titleSlug: zeng-zhao-yue-tang
+author: 陈著
+authorPinyin: chen2 zhu4
+authorSlug: chen-zhu
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 乾坤惨淡真愁绝，民物伤残欲活难。
+- 说相说医当及此，区区衰病不须看。
+
+## 拼音
+- qian2 kun1 can3 dan4 zhen1 chou2 jue2 ， min2 wu4 shang1 can2 yu4 huo2 nan2 。
+- shuo1 xiang1 shuo1 yi1 dang1 ji2 ci3 ， qu1 qu1 shuai1 bing4 bu4 xu1 kan4 。
+
+## 注释
+
+## 译文
+
+## 赏析

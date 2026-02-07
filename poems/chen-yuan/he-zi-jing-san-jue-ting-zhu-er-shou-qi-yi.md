@@ -1,0 +1,27 @@
+---
+id: chen-yuan-he-zi-jing-san-jue-ting-zhu-er-shou-qi-yi
+title: 和子静三绝 亭竹二首 其一
+titlePinyin: he2 zi3 jing4 san1 jue2   ting2 zhu2 er4 shou3   qi2 yi1
+titleSlug: he-zi-jing-san-jue-ting-zhu-er-shou-qi-yi
+author: 陈渊
+authorPinyin: chen2 yuan1
+authorSlug: chen-yuan
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 窗外度声风宛转，庭前舒影月分明。
+- 参横斗转情无尽，骨冷魂清梦不成。
+
+## 拼音
+- chuang1 wai4 du4 sheng1 feng1 wan3 zhuan3 ， ting2 qian2 shu1 ying3 yue4 fen1 ming2 。
+- can1 heng2 dou4 zhuan3 qing2 wu2 jin4 ， gu3 leng3 hun2 qing1 meng4 bu4 cheng2 。
+
+## 注释
+
+## 译文
+
+## 赏析

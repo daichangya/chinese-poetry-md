@@ -1,0 +1,27 @@
+---
+id: chen-yuan-ci-yun-li-guang-zu-nan-shan-si-ji-qi-er
+title: 次韵李光祖南山四偈  其二
+titlePinyin: ci4 yun4 li3 guang1 zu3 nan2 shan1 si4 ji4     qi2 er4
+titleSlug: ci-yun-li-guang-zu-nan-shan-si-ji-qi-er
+author: 陈渊
+authorPinyin: chen2 yuan1
+authorSlug: chen-yuan
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 腊穷春到不须臾，霜下陈根岂用耡。
+- 若信雕荣如转毂，故应摇落有扶疏。
+
+## 拼音
+- la4 qiong2 chun1 dao4 bu4 xu1 yu2 ， shuang1 xia4 chen2 gen1 qi3 yong4 chu2 。
+- ruo4 xin4 diao1 rong2 ru2 zhuan3 gu1 ， gu4 ying4 yao2 luo4 you3 fu2 shu1 。
+
+## 注释
+
+## 译文
+
+## 赏析

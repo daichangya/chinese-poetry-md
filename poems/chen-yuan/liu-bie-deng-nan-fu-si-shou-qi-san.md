@@ -1,0 +1,27 @@
+---
+id: chen-yuan-liu-bie-deng-nan-fu-si-shou-qi-san
+title: 留别邓南夫四首  其三
+titlePinyin: liu2 bie2 deng4 nan2 fu1 si4 shou3     qi2 san1
+titleSlug: liu-bie-deng-nan-fu-si-shou-qi-san
+author: 陈渊
+authorPinyin: chen2 yuan1
+authorSlug: chen-yuan
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 有子才如汗血驹，新门高大可容车。
+- 故应袖手藏深渺，怜我冰霜涉畏途。
+
+## 拼音
+- you3 zi3 cai2 ru2 han4 xue4 ju1 ， xin1 men2 gao1 da4 ke3 rong2 che1 。
+- gu4 ying4 xiu4 shou3 cang2 shen1 miao3 ， lian2 wo3 bing1 shuang1 she4 wei4 tu2 。
+
+## 注释
+
+## 译文
+
+## 赏析

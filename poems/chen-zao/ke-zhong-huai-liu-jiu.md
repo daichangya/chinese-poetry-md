@@ -1,0 +1,27 @@
+---
+id: chen-zao-ke-zhong-huai-liu-jiu
+title: 客中怀刘九
+titlePinyin: ke4 zhong1 huai2 liu2 jiu3
+titleSlug: ke-zhong-huai-liu-jiu
+author: 陈藻
+authorPinyin: chen2 zao3
+authorSlug: chen-zao
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 丘嫂贫中出骂言，途穷非负昔时恩。
+- 柴炉夜雨思君处，归共柴垆笑语喧。
+
+## 拼音
+- qiu1 sao3 pin2 zhong1 chu1 ma4 yan2 ， tu2 qiong2 fei1 fu4 xi1 shi2 en1 。
+- chai2 lu2 ye4 yu3 si1 jun1 chu4 ， gui1 gong4 chai2 lu2 xiao4 yu3 xuan1 。
+
+## 注释
+
+## 译文
+
+## 赏析

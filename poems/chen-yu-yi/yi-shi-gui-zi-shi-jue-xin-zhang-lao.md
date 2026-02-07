@@ -1,0 +1,33 @@
+---
+id: chen-yu-yi-yi-shi-gui-zi-shi-jue-xin-zhang-lao
+title: 以石龟子施觉心长老
+titlePinyin: yi3 shi2 gui1 zi3 shi1 jue2 xin1 zhang3 lao3
+titleSlug: yi-shi-gui-zi-shi-jue-xin-zhang-lao
+author: 陈与义
+authorPinyin: chen2 yu3 yi4
+authorSlug: chen-yu-yi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 老龟千年作一息，天地并入支床力。
+- 何年生此石肠儿，非皮裹骨骨裹皮。
+- 君家元绪不慎口，遂与老桑同一朽。
+- 知君游世磨不磷，往作道人之石友。
+- 道人莫欺此龟无六眸，试与话禅当点头。
+
+## 拼音
+- lao3 gui1 qian1 nian2 zuo4 yi4 xi1 ， tian1 di4 bing4 ru4 zhi1 chuang2 li4 。
+- he2 nian2 sheng1 ci3 shi2 chang2 er2 ， fei1 pi2 guo3 gu3 gu3 guo3 pi2 。
+- jun1 jia1 yuan2 xu4 bu2 shen4 kou3 ， sui4 yu3 lao3 sang1 tong2 yi4 xiu3 。
+- zhi1 jun1 you2 shi4 mo2 bu4 lin2 ， wang3 zuo4 dao4 ren2 zhi1 shi2 you3 。
+- dao4 ren2 mo4 qi1 ci3 gui1 wu2 liu4 mou2 ， shi4 yu3 hua4 chan2 dang1 dian3 tou2 。
+
+## 注释
+
+## 译文
+
+## 赏析

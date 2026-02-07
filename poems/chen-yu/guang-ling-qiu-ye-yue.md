@@ -1,0 +1,27 @@
+---
+id: chen-yu-guang-ling-qiu-ye-yue
+title: 广陵秋夜月
+titlePinyin: guang3 ling2 qiu1 ye4 yue4
+titleSlug: guang-ling-qiu-ye-yue
+author: 陈羽
+authorPinyin: chen2 yu3
+authorSlug: chen-yu
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 霜落寒空月上楼，月中歌吹满扬州。
+- 相看醉舞倡楼月，不觉隋家陵树秋。
+
+## 拼音
+- shuang1 luo4 han2 kong1 yue4 shang4 lou2 ， yue4 zhong1 ge1 chui1 man3 yang2 zhou1 。
+- xiang1 kan4 zui4 wu3 chang4 lou2 yue4 ， bu4 jue2 sui2 jia1 ling2 shu4 qiu1 。
+
+## 注释
+
+## 译文
+
+## 赏析

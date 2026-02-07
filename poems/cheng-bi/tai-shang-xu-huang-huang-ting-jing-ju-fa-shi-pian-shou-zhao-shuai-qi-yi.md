@@ -1,0 +1,27 @@
+---
+id: cheng-bi-tai-shang-xu-huang-huang-ting-jing-ju-fa-shi-pian-shou-zhao-shuai-qi-yi
+title: 太上虚皇黄庭经句法十篇寿赵帅  其一
+titlePinyin: tai4 shang4 xu1 huang2 huang2 ting2 jing1 ju4 fa3 shi2 pian1 shou4 zhao4 shuai4     qi2 yi1
+titleSlug: tai-shang-xu-huang-huang-ting-jing-ju-fa-shi-pian-shou-zhao-shuai-qi-yi
+author: 程珌
+authorPinyin: cheng2 bi4
+authorSlug: cheng-bi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 太史告春才五日，东风昨夜传消息，斗边一星下南极。
+- 饰以貂蝉扶社稷，更昌斯文开民则。
+
+## 拼音
+- tai4 shi3 gao4 chun1 cai2 wu3 ri4 ， dong1 feng1 zuo2 ye4 chuan2 xiao1 xi1 ， dou4 bian1 yi4 xing1 xia4 nan2 ji2 。
+- shi4 yi3 diao1 chan2 fu2 she4 ji4 ， geng4 chang1 si1 wen2 kai1 min2 ze2 。
+
+## 注释
+
+## 译文
+
+## 赏析
