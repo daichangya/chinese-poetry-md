@@ -1,0 +1,27 @@
+---
+id: fang-yue-yue-xia-qi-er
+title: 月下  其二
+titlePinyin: yue4 xia4     qi2 er4
+titleSlug: yue-xia-qi-er
+author: 方岳
+authorPinyin: fang1 yue4
+authorSlug: fang-yue
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 春风不到莓苔石，山月自随烟水身。
+- 穷是世间常事耳，不知颠倒几多人。
+
+## 拼音
+- chun1 feng1 bu2 dao4 mei2 tai2 shi2 ， shan1 yue4 zi4 sui2 yan1 shui3 shen1 。
+- qiong2 shi4 shi4 jian1 chang2 shi4 er3 ， bu4 zhi1 dian1 dao3 ji3 duo1 ren2 。
+
+## 注释
+
+## 译文
+
+## 赏析

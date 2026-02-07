@@ -1,0 +1,33 @@
+---
+id: fang-yue-ci-yun-chou-ji-xiong-qi-er
+title: 次韵酬季兄  其二
+titlePinyin: ci4 yun4 chou2 ji4 xiong1     qi2 er4
+titleSlug: ci-yun-chou-ji-xiong-qi-er
+author: 方岳
+authorPinyin: fang1 yue4
+authorSlug: fang-yue
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 嗟哉蠹书鱼，生死文字中。
+- 向来阿房赋，谁奏明光宫。
+- 长江一帆雨，半世双鬓蓬。
+- 酒边得吾子，擘蟹谈秋风。
+- 江南有茅庐，山色相迎逢。
+
+## 拼音
+- jie1 zai1 du4 shu1 yu2 ， sheng1 si3 wen2 zi4 zhong1 。
+- xiang4 lai2 a1 fang2 fu4 ， shui2 zou4 ming2 guang1 gong1 。
+- chang2 jiang1 yi4 fan1 yu3 ， ban4 shi4 shuang1 bin4 peng2 。
+- jiu3 bian1 de2 wu2 zi3 ， bo4 xie4 tan2 qiu1 feng1 。
+- jiang1 nan2 you3 mao2 lu2 ， shan1 se4 xiang4 ying2 feng2 。
+
+## 注释
+
+## 译文
+
+## 赏析
