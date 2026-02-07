@@ -1,0 +1,27 @@
+---
+id: yu-liang-neng-ci-yun-wang-dai-zhi-ti-yu-lu-shan-ji-hou-er-jue-qi-er
+title: 次韵王待制题予庐山记后二绝  其二
+titlePinyin: ci4 yun4 wang2 dai4 zhi4 ti2 yu3 lu2 shan1 ji4 hou4 er4 jue2     qi2 er4
+titleSlug: ci-yun-wang-dai-zhi-ti-yu-lu-shan-ji-hou-er-jue-qi-er
+author: 喻良能
+authorPinyin: yu4 liang2 neng2
+authorSlug: yu-liang-neng
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 山阿诗刻照云松，到处逢人问我公。
+- 白傅苏仙名不灭，公名今在两贤中。
+
+## 拼音
+- shan1 a1 shi1 ke4 zhao4 yun2 song1 ， dao4 chu4 feng2 ren2 wen4 wo3 gong1 。
+- bai2 fu4 su1 xian1 ming2 bu2 mie4 ， gong1 ming2 jin1 zai4 liang3 xian2 zhong1 。
+
+## 注释
+
+## 译文
+
+## 赏析

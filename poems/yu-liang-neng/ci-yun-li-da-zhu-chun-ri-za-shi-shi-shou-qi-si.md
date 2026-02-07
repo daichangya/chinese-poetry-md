@@ -1,0 +1,31 @@
+---
+id: yu-liang-neng-ci-yun-li-da-zhu-chun-ri-za-shi-shi-shou-qi-si
+title: 次韵李大著春日杂诗十首  其四
+titlePinyin: ci4 yun4 li3 da4 zhu4 chun1 ri4 za2 shi1 shi2 shou3     qi2 si4
+titleSlug: ci-yun-li-da-zhu-chun-ri-za-shi-shi-shou-qi-si
+author: 喻良能
+authorPinyin: yu4 liang2 neng2
+authorSlug: yu-liang-neng
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 偏亲须寸禄，匠院敢辞留。
+- 颇媿花经眼，还应草唤愁。
+- 身唯亲布被，交已绝牙筹。
+- 诗兴抽毫足，无劳入海求。
+
+## 拼音
+- pian1 qin1 xu1 cun4 lu4 ， jiang4 yuan4 gan3 ci2 liu2 。
+- po1 kui4 hua1 jing1 yan3 ， hai2 ying4 cao3 huan4 chou2 。
+- shen1 wei2 qin1 bu4 bei4 ， jiao1 yi3 jue2 ya2 chou2 。
+- shi1 xing4 chou1 hao2 zu2 ， wu2 lao2 ru4 hai3 qiu2 。
+
+## 注释
+
+## 译文
+
+## 赏析

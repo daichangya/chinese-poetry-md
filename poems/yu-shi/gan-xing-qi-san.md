@@ -1,0 +1,31 @@
+---
+id: yu-shi-gan-xing-qi-san
+title: 感兴  其三
+titlePinyin: gan3 xing1     qi2 san1
+titleSlug: gan-xing-qi-san
+author: 于石
+authorPinyin: yu2 shi2
+authorSlug: yu-shi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 卫人将授甲，鹤有乘轩宠。
+- 爱人不如禽，士固不为用。
+- 唐人竞朝梁，怒杀孙供奉。
+- 兽犹知有君，人胡不愧悚。
+
+## 拼音
+- wei4 ren2 jiang1 shou4 jia3 ， he4 you3 cheng2 xuan1 chong3 。
+- ai4 ren2 bu4 ru2 qin2 ， shi4 gu4 bu2 wei4 yong4 。
+- tang2 ren2 jing4 chao2 liang2 ， nu4 sha1 sun1 gong4 feng4 。
+- shou4 you2 zhi1 you3 jun1 ， ren2 hu2 bu2 kui4 song3 。
+
+## 注释
+
+## 译文
+
+## 赏析
