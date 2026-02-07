@@ -1,0 +1,25 @@
+---
+id: zheng-wen-bao-ju-qi-yi-liu
+title: 句  其一六
+titlePinyin: ju4     qi2 yi1 liu4
+titleSlug: ju-qi-yi-liu
+author: 郑文宝
+authorPinyin: zheng4 wen2 bao3
+authorSlug: zheng-wen-bao
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 登临虽未立。
+
+## 拼音
+- deng1 lin2 sui1 wei4 li4 。
+
+## 注释
+
+## 译文
+
+## 赏析

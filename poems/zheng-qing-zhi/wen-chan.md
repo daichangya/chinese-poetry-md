@@ -1,0 +1,27 @@
+---
+id: zheng-qing-zhi-wen-chan
+title: 闻蝉
+titlePinyin: wen2 chan2
+titleSlug: wen-chan
+author: 郑清之
+authorPinyin: zheng4 qing1 zhi1
+authorSlug: zheng-qing-zhi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 人行沌口三程路，蝉作阳关第四声。
+- 待到日夕蝉歇处，无端促织替渠鸣。
+
+## 拼音
+- ren2 xing2 dun4 kou3 san1 cheng2 lu4 ， chan2 zuo4 yang2 guan1 di4 si4 sheng1 。
+- dai4 dao4 ri4 xi1 chan2 xie1 chu4 ， wu2 duan1 cu4 zhi1 ti4 qu2 ming2 。
+
+## 注释
+
+## 译文
+
+## 赏析

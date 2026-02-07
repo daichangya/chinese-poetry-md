@@ -1,0 +1,27 @@
+---
+id: zheng-si-xiao-nan-ke-yi-meng-tu
+title: 南柯蚁梦图
+titlePinyin: nan2 ke1 yi3 meng4 tu2
+titleSlug: nan-ke-yi-meng-tu
+author: 郑思肖
+authorPinyin: zheng4 si1 xiao4
+authorSlug: zheng-si-xiao
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 忘了堂堂六尺身，鬼花生艳幻微春。
+- 绝怜蚁窟无分晓，迷尽古今多少人。
+
+## 拼音
+- wang4 le0 tang2 tang2 liu4 chi3 shen1 ， gui3 hua1 sheng1 yan4 huan4 wei1 chun1 。
+- jue2 lian2 yi3 ku1 wu2 fen1 xiao3 ， mi2 jin4 gu3 jin1 duo1 shao3 ren2 。
+
+## 注释
+
+## 译文
+
+## 赏析
