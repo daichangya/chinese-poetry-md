@@ -1,0 +1,27 @@
+---
+id: wu-min-ti-shan-guang-si-bi-shang-mo-zhu
+title: 题山光寺壁上墨竹
+titlePinyin: ti2 shan1 guang1 si4 bi4 shang4 mo4 zhu2
+titleSlug: ti-shan-guang-si-bi-shang-mo-zhu
+author: 吴敏
+authorPinyin: wu2 min3
+authorSlug: wu-min
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 绿髪青衫旧竹君，墨卿挥拂更清新。
+- 断枝活叶风萧瑟，想见凌云百尺身。
+
+## 拼音
+- lü4 fa4 qing1 shan1 jiu4 zhu2 jun1 ， mo4 qing1 hui1 fu2 geng4 qing1 xin1 。
+- duan4 zhi1 huo2 ye4 feng1 xiao1 se4 ， xiang3 jian4 ling2 yun2 bai3 chi3 shen1 。
+
+## 注释
+
+## 译文
+
+## 赏析

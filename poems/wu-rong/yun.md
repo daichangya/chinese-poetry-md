@@ -1,0 +1,27 @@
+---
+id: wu-rong-yun
+title: 云
+titlePinyin: yun2
+titleSlug: yun
+author: 吴融
+authorPinyin: wu2 rong2
+authorSlug: wu-rong
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 南北东西似客身，远峰高鸟自为邻。
+- 清歌一曲犹能住，莫道无心胜得人。
+
+## 拼音
+- nan2 bei3 dong1 xi1 si4 ke4 shen1 ， yuan3 feng1 gao1 niao3 zi4 wei4 lin2 。
+- qing1 ge1 yi4 qu3 you2 neng2 zhu4 ， mo4 dao4 wu2 xin1 sheng4 de2 ren2 。
+
+## 注释
+
+## 译文
+
+## 赏析

@@ -1,0 +1,27 @@
+---
+id: wu-qian-seng-ruo-gui-qiu-duan-ji
+title: 僧若珪求短偈
+titlePinyin: seng1 ruo4 gui1 qiu2 duan3 ji4
+titleSlug: seng-ruo-gui-qiu-duan-ji
+author: 吴潜
+authorPinyin: wu2 qian2
+authorSlug: wu-qian
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 黄连甜兮甘草苦，这些滋味许谁知。
+- 宰官具足端严相，毕竟元无病可医。
+
+## 拼音
+- huang2 lian2 tian2 xi1 gan1 cao3 ku3 ， zhe4 xie1 zi1 wei4 xu3 shui2 zhi1 。
+- zai3 guan1 ju4 zu2 duan1 yan2 xiang1 ， bi4 jing4 yuan2 wu2 bing4 ke3 yi1 。
+
+## 注释
+
+## 译文
+
+## 赏析

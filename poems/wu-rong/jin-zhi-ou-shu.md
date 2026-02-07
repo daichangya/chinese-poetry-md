@@ -1,0 +1,27 @@
+---
+id: wu-rong-jin-zhi-ou-shu
+title: 禁直偶书
+titlePinyin: jin4 zhi2 ou3 shu1
+titleSlug: jin-zhi-ou-shu
+author: 吴融
+authorPinyin: wu2 rong2
+authorSlug: wu-rong
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 玉皇新复五城居，仙馆词臣在碧虚。锦砌渐看翻芍药，
+- 争奈沧洲频入梦，白波无际落红蕖。
+
+## 拼音
+- yu4 huang2 xin1 fu4 wu3 cheng2 ju1 ， xian1 guan3 ci2 chen2 zai4 bi4 xu1 。 jin3 qi4 jian4 kan4 fan1 shao2 yao4 ，
+- zheng1 nai4 cang1 zhou1 pin2 ru4 meng4 ， bai2 bo1 wu2 ji4 luo4 hong2 qu2 。
+
+## 注释
+
+## 译文
+
+## 赏析

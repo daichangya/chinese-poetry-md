@@ -1,0 +1,27 @@
+---
+id: wu-jing-ni-cai-sang-qu
+title: 拟采桑曲
+titlePinyin: ni3 cai3 sang1 qu3
+titleSlug: ni-cai-sang-qu
+author: 吴兢
+authorPinyin: wu2 jing1
+authorSlug: wu-jing
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 罗敷十五六，采桑城南道。
+- （见宋陈元龙《片玉集注》卷十《早梅芳》之二注引）。
+
+## 拼音
+- luo2 fu1 shi2 wu3 liu4 ， cai3 sang1 cheng2 nan2 dao4 。
+- （ jian4 song4 chen2 yuan2 long2 《 pian4 yu4 ji2 zhu4 》 juan4 shi2 《 zao3 mei2 fang1 》 zhi1 er4 zhu4 yin3 ） 。
+
+## 注释
+
+## 译文
+
+## 赏析
