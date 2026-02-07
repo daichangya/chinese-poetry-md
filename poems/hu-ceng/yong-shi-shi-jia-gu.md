@@ -1,0 +1,27 @@
+---
+id: hu-ceng-yong-shi-shi-jia-gu
+title: 咏史诗 夹谷
+titlePinyin: yong3 shi3 shi1   jia2 gu3
+titleSlug: yong-shi-shi-jia-gu
+author: 胡曾
+authorPinyin: hu2 ceng2
+authorSlug: hu-ceng
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 夹谷莺啼三月天，野花芳草整相鲜。
+- 来时不见侏儒死，空笑齐人失措年。
+
+## 拼音
+- jia2 gu3 ying1 ti2 san1 yue4 tian1 ， ye3 hua1 fang1 cao3 zheng3 xiang1 xian1 。
+- lai2 shi2 bu2 jian4 zhu1 ru2 si3 ， kong1 xiao4 qi2 ren2 shi1 cuo4 nian2 。
+
+## 注释
+
+## 译文
+
+## 赏析

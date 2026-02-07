@@ -1,0 +1,25 @@
+---
+id: hu-chao-ying-ju-qi-yi
+title: 句  其一
+titlePinyin: ju4     qi2 yi1
+titleSlug: ju-qi-yi
+author: 胡朝颖
+authorPinyin: hu2 chao2 ying3
+authorSlug: hu-chao-ying
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 科名成后竟如何。
+
+## 拼音
+- ke1 ming2 cheng2 hou4 jing4 ru2 he2 。
+
+## 注释
+
+## 译文
+
+## 赏析
