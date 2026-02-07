@@ -1,0 +1,27 @@
+---
+id: chen-jia-yan-you-huo-tong-qi-si
+title: 游霍童  其四
+titlePinyin: you2 huo4 tong2     qi2 si4
+titleSlug: you-huo-tong-qi-si
+author: 陈嘉言
+authorPinyin: chen2 jia1 yan2
+authorSlug: chen-jia-yan
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 翠筿轻挑绿酒，紫芝闲对黄冠。
+- 半醉风回铁笛，中宵冷露瑶坛。
+
+## 拼音
+- cui4 xiao3 qing1 tiao1 lü4 jiu3 ， zi3 zhi1 xian2 dui4 huang2 guan1 。
+- ban4 zui4 feng1 hui2 tie3 di2 ， zhong1 xiao1 leng3 lu4 yao2 tan2 。
+
+## 注释
+
+## 译文
+
+## 赏析
