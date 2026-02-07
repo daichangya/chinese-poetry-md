@@ -1,0 +1,27 @@
+---
+id: zhang-ji-ji-fu-li
+title: 寄府吏
+titlePinyin: ji4 fu3 li4
+titleSlug: ji-fu-li
+author: 张籍
+authorPinyin: zhang1 ji2
+authorSlug: zhang-ji
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 野外寻花共作期，今朝出郭不相随。
+- 待君公事有闲日，此地春风应过时。
+
+## 拼音
+- ye3 wai4 xun2 hua1 gong4 zuo4 qi1 ， jin1 chao2 chu1 guo1 bu4 xiang1 sui2 。
+- dai4 jun1 gong1 shi4 you3 xian2 ri4 ， ci3 di4 chun1 feng1 ying4 guo4 shi2 。
+
+## 注释
+
+## 译文
+
+## 赏析

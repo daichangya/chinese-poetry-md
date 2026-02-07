@@ -1,0 +1,31 @@
+---
+id: zhang-lei-he-song-er-shang-yuan-ying-jia
+title: 和宋二上元迎驾
+titlePinyin: he2 song4 er4 shang4 yuan2 ying2 jia4
+titleSlug: he-song-er-shang-yuan-ying-jia
+author: 张耒
+authorPinyin: zhang1 lei3
+authorSlug: zhang-lei
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 拜揖清光咫尺间，雕舆欲动更移班。
+- 蓬莱不动鳌头稳，阊阖未开天上闲。
+- 老去一官羞简策，春来归梦满淮山。
+- 自惭衰病独随俗，醉逐游人月下还。
+
+## 拼音
+- bai4 yi1 qing1 guang1 zhi3 chi3 jian1 ， diao1 yu2 yu4 dong4 geng4 yi2 ban1 。
+- peng2 lai2 bu2 dong4 ao2 tou2 wen3 ， chang1 he2 wei4 kai1 tian1 shang4 xian2 。
+- lao3 qu4 yi4 guan1 xiu1 jian3 ce4 ， chun1 lai2 gui1 meng4 man3 huai2 shan1 。
+- zi4 can2 shuai1 bing4 du2 sui2 su2 ， zui4 zhu2 you2 ren2 yue4 xia4 hai2 。
+
+## 注释
+
+## 译文
+
+## 赏析

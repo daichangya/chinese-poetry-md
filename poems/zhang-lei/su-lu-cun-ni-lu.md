@@ -1,0 +1,27 @@
+---
+id: zhang-lei-su-lu-cun-ni-lu
+title: 宿卢村逆旅
+titlePinyin: su4 lu2 cun1 ni4 lü3
+titleSlug: su-lu-cun-ni-lu
+author: 张耒
+authorPinyin: zhang1 lei3
+authorSlug: zhang-lei
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 夜宿村南贫主人，入门桃李已残春。
+- 无人折赠门前柳，伫立东风独怆神。
+
+## 拼音
+- ye4 su4 cun1 nan2 pin2 zhu3 ren2 ， ru4 men2 tao2 li3 yi3 can2 chun1 。
+- wu2 ren2 zhe2 zeng4 men2 qian2 liu3 ， zhu4 li4 dong1 feng1 du2 chuang4 shen2 。
+
+## 注释
+
+## 译文
+
+## 赏析

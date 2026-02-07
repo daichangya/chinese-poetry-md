@@ -1,0 +1,27 @@
+---
+id: zhang-lei-zhong-qiu-ye-dong-cha-zeng-ren-gong
+title: 中秋夜东刹赠仁公
+titlePinyin: zhong1 qiu1 ye4 dong1 cha4 zeng4 ren2 gong1
+titleSlug: zhong-qiu-ye-dong-cha-zeng-ren-gong
+author: 张耒
+authorPinyin: zhang1 lei3
+authorSlug: zhang-lei
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 盈盈秋月不余分，叶露悬光可数尘。
+- 此地正须烦一笑，要令排户问东邻。
+
+## 拼音
+- ying2 ying2 qiu1 yue4 bu4 yu2 fen1 ， ye4 lu4 xuan2 guang1 ke3 shu4 chen2 。
+- ci3 di4 zheng4 xu1 fan2 yi2 xiao4 ， yao4 ling4 pai2 hu4 wen4 dong1 lin2 。
+
+## 注释
+
+## 译文
+
+## 赏析

@@ -1,0 +1,27 @@
+---
+id: zhang-kan-chun-er-jue-qi-yi
+title: 莼二绝  其一
+titlePinyin: chun2 er4 jue2     qi2 yi1
+titleSlug: chun-er-jue-qi-yi
+author: 张侃
+authorPinyin: zhang1 kan3
+authorSlug: zhang-kan
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 春深买得一丝莼，绝胜农家碧涧芹。
+- 却笑吾宗深有托，自怜野鹤在鸡群。
+
+## 拼音
+- chun1 shen1 mai3 de2 yi4 si1 chun2 ， jue2 sheng4 nong2 jia1 bi4 jian4 qin2 。
+- que4 xiao4 wu2 zong1 shen1 you3 tuo1 ， zi4 lian2 ye3 he4 zai4 ji1 qun2 。
+
+## 注释
+
+## 译文
+
+## 赏析

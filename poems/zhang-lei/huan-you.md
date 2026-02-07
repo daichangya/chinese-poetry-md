@@ -1,0 +1,31 @@
+---
+id: zhang-lei-huan-you
+title: 宦游
+titlePinyin: huan4 you2
+titleSlug: huan-you
+author: 张耒
+authorPinyin: zhang1 lei3
+authorSlug: zhang-lei
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 宦游吾漫尔，未慕致身早。
+- 秋来忆山苦，遥夜梦颠倒。
+- 鸣虫待谁听，落叶烦我扫。
+- 谁得省劳人，吾生常草草。
+
+## 拼音
+- huan4 you2 wu2 man4 er3 ， wei4 mu4 zhi4 shen1 zao3 。
+- qiu1 lai2 yi4 shan1 ku3 ， yao2 ye4 meng4 dian1 dao3 。
+- ming2 chong2 dai4 shui2 ting1 ， luo4 ye4 fan2 wo3 sao3 。
+- shui2 de2 sheng3 lao2 ren2 ， wu2 sheng1 chang2 cao3 cao3 。
+
+## 注释
+
+## 译文
+
+## 赏析

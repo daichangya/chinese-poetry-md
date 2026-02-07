@@ -1,0 +1,39 @@
+---
+id: zhang-lei-san-kan
+title: 三龛
+titlePinyin: san1 kan1
+titleSlug: san-kan
+author: 张耒
+authorPinyin: zhang1 lei3
+authorSlug: zhang-lei
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 万穴列岩壁，三龛独雄夸。
+- 封山凿其骨，开像俨且呀。
+- 悲哉轻人功，不计岁月赊。
+- 像成竟何补，国破荒蓬麻。
+- 悠悠清伊水，去去萦山斜。
+- 晚渚栖暝鸥，夕波战余霞。
+- 陵谷良未迁，古今如转车。
+- 应有千年鹤，归顾如咨嗟。
+
+## 拼音
+- wan4 xue2 lie4 yan2 bi4 ， san1 kan1 du2 xiong2 kua1 。
+- feng1 shan1 zao2 qi2 gu3 ， kai1 xiang4 yan3 qie3 ya0 。
+- bei1 zai1 qing1 ren2 gong1 ， bu2 ji4 sui4 yue4 she1 。
+- xiang4 cheng2 jing4 he2 bu3 ， guo2 po4 huang1 peng2 ma2 。
+- you1 you1 qing1 yi1 shui3 ， qu4 qu4 ying2 shan1 xie2 。
+- wan3 zhu3 qi1 ming2 ou1 ， xi1 bo1 zhan4 yu2 xia2 。
+- ling2 gu3 liang2 wei4 qian1 ， gu3 jin1 ru2 zhuan3 che1 。
+- ying1 you3 qian1 nian2 he4 ， gui1 gu4 ru2 zi1 jie1 。
+
+## 注释
+
+## 译文
+
+## 赏析

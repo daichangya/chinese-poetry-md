@@ -1,0 +1,27 @@
+---
+id: zhang-ji-feng-qiao-ye-bo
+title: 枫桥夜泊
+titlePinyin: feng1 qiao2 ye4 bo2
+titleSlug: feng-qiao-ye-bo
+author: 张继
+authorPinyin: zhang1 ji4
+authorSlug: zhang-ji
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 水墨唐诗
+---
+## 正文
+- 月落乌啼霜满天，江枫渔火对愁眠。
+- 姑苏城外寒山寺，夜半钟声到客船。
+
+## 拼音
+- yue4 luo4 wu1 ti2 shuang1 man3 tian1 ， jiang1 feng1 yu2 huo3 dui4 chou2 mian2 。
+- gu1 su1 cheng2 wai4 han2 shan1 si4 ， ye4 ban4 zhong1 sheng1 dao4 ke4 chuan2 。
+
+## 注释
+
+## 译文
+
+## 赏析
