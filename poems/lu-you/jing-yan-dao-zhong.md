@@ -1,0 +1,31 @@
+---
+id: lu-you-jing-yan-dao-zhong
+title: 井研道中
+titlePinyin: jing3 yan2 dao4 zhong1
+titleSlug: jing-yan-dao-zhong
+author: 陆游
+authorPinyin: lu4 you2
+authorSlug: lu-you
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 穷冬景方促，下岭路微平。
+- 地瘦竹无叶，风干茅有声。
+- 客逰空自叹，归计与谁评。
+- 尚喜长亭下，云穿夕照明。
+
+## 拼音
+- qiong2 dong1 jing3 fang1 cu4 ， xia4 ling3 lu4 wei1 ping2 。
+- di4 shou4 zhu2 wu2 ye4 ， feng1 gan1 mao2 you3 sheng1 。
+- ke4 you2 kong1 zi4 tan4 ， gui1 ji4 yu3 shui2 ping2 。
+- shang4 xi3 chang2 ting2 xia4 ， yun2 chuan1 xi1 zhao4 ming2 。
+
+## 注释
+
+## 译文
+
+## 赏析

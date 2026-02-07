@@ -1,0 +1,31 @@
+---
+id: lu-you-zuo-zhu-li-cheng-yin-ba-jiu-qi-jian-xi-ti-si-shi-zi
+title: 作竹篱成因把酒其间戏题四十字
+titlePinyin: zuo4 zhu2 li2 cheng2 yin1 ba3 jiu3 qi2 jian1 xi4 ti2 si4 shi2 zi4
+titleSlug: zuo-zhu-li-cheng-yin-ba-jiu-qi-jian-xi-ti-si-shi-zi
+author: 陆游
+authorPinyin: lu4 you2
+authorSlug: lu-you
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 今日偶暄暖，卧闻林鸟呼。
+- 虽思大白饮，未免小苍扶。
+- 柳色动篱外，梅花来座隅。
+- 夕阳红满野，更复倒残壶。
+
+## 拼音
+- jin1 ri4 ou3 xuan1 nuan3 ， wo4 wen2 lin2 niao3 hu1 。
+- sui1 si1 da4 bai2 yin3 ， wei4 mian3 xiao3 cang1 fu2 。
+- liu3 se4 dong4 li2 wai4 ， mei2 hua1 lai2 zuo4 yu2 。
+- xi1 yang2 hong2 man3 ye3 ， geng4 fu4 dao3 can2 hu2 。
+
+## 注释
+
+## 译文
+
+## 赏析

@@ -1,0 +1,27 @@
+---
+id: lu-you-xue-hou-xun-mei-ou-de-jue-ju-shi-shou-qi-san
+title: 雪后寻梅偶得绝句十首  其三
+titlePinyin: xue3 hou4 xun2 mei2 ou3 de2 jue2 ju4 shi2 shou3     qi2 san1
+titleSlug: xue-hou-xun-mei-ou-de-jue-ju-shi-shou-qi-san
+author: 陆游
+authorPinyin: lu4 you2
+authorSlug: lu-you
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 银烛檀槽醉海棠，老来非复锦城狂。
+- 疏梅对影太清淡，为拂焦桐弹履霜。
+
+## 拼音
+- yin2 zhu2 tan2 cao2 zui4 hai3 tang2 ， lao3 lai2 fei1 fu4 jin3 cheng2 kuang2 。
+- shu1 mei2 dui4 ying3 tai4 qing1 dan4 ， wei4 fu2 jiao1 tong2 tan2 lü3 shuang1 。
+
+## 注释
+
+## 译文
+
+## 赏析

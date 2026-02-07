@@ -1,0 +1,31 @@
+---
+id: luo-gong-sheng-pi-di-qi-er
+title: 辟地  其二
+titlePinyin: pi4 di4     qi2 er4
+titleSlug: pi-di-qi-er
+author: 罗公升
+authorPinyin: luo2 gong1 sheng1
+authorSlug: luo-gong-sheng
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 四海风涛日，谁欤柱急流。
+- 山东雄剧孟，蓟北化田畴。
+- 气静天阍晚，星沉戍角秋。
+- 如君关气数，宁不重嫠忧。
+
+## 拼音
+- si4 hai3 feng1 tao1 ri4 ， shui2 yu2 zhu4 ji2 liu2 。
+- shan1 dong1 xiong2 ju4 meng4 ， ji4 bei3 hua4 tian2 chou2 。
+- qi4 jing4 tian1 hun1 wan3 ， xing1 chen2 shu4 jiao3 qiu1 。
+- ru2 jun1 guan1 qi4 shu4 ， ning2 bu2 zhong4 li2 you1 。
+
+## 注释
+
+## 译文
+
+## 赏析

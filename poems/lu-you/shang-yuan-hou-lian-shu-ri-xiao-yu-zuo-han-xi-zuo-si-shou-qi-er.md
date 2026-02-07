@@ -1,0 +1,27 @@
+---
+id: lu-you-shang-yuan-hou-lian-shu-ri-xiao-yu-zuo-han-xi-zuo-si-shou-qi-er
+title: 上元后连数日小雨作寒戏作四首  其二
+titlePinyin: shang4 yuan2 hou4 lian2 shu4 ri4 xiao3 yu3 zuo4 han2 xi4 zuo4 si4 shou3     qi2 er4
+titleSlug: shang-yuan-hou-lian-shu-ri-xiao-yu-zuo-han-xi-zuo-si-shou-qi-er
+author: 陆游
+authorPinyin: lu4 you2
+authorSlug: lu-you
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 春风催暖入园林，一片云生又作阴。
+- 留得梅花三日住，谁云造物本无心。
+
+## 拼音
+- chun1 feng1 cui1 nuan3 ru4 yuan2 lin2 ， yi2 pian4 yun2 sheng1 you4 zuo4 yin1 。
+- liu2 de2 mei2 hua1 san1 ri4 zhu4 ， shui2 yun2 zao4 wu4 ben3 wu2 xin1 。
+
+## 注释
+
+## 译文
+
+## 赏析

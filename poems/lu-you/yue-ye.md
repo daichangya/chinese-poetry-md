@@ -1,0 +1,27 @@
+---
+id: lu-you-yue-ye
+title: 月夜
+titlePinyin: yue4 ye4
+titleSlug: yue-ye
+author: 陆游
+authorPinyin: lu4 you2
+authorSlug: lu-you
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 小醉初醒月满床，玉壶银阙不胜凉。
+- 天风忽送荷香过，一叶飘然忆故乡。
+
+## 拼音
+- xiao3 zui4 chu1 xing3 yue4 man3 chuang2 ， yu4 hu2 yin2 que1 bu2 sheng4 liang2 。
+- tian1 feng1 hu1 song4 he2 xiang1 guo4 ， yi2 ye4 piao1 ran2 yi4 gu4 xiang1 。
+
+## 注释
+
+## 译文
+
+## 赏析

@@ -1,0 +1,31 @@
+---
+id: lu-you-tao-shu-xiao-yin-shu-shui-zhi-mu-er-shou-qi-yi
+title: 逃暑小饮熟睡至暮二首  其一
+titlePinyin: tao2 shu3 xiao3 yin3 shu2 shui4 zhi4 mu4 er4 shou3     qi2 yi1
+titleSlug: tao-shu-xiao-yin-shu-shui-zhi-mu-er-shou-qi-yi
+author: 陆游
+authorPinyin: lu4 you2
+authorSlug: lu-you
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 桑落香浮槲叶杯，甘瓜绿李亦佳哉。
+- 虚堂顿解汗挥雨，高枕俄成鼻殷雷。
+- 静听风声生槛竹，徐看日影转庭槐。
+- 晚凉更动扁舟兴，北渚红蕖已半开。
+
+## 拼音
+- sang1 luo4 xiang1 fu2 hu2 ye4 bei1 ， gan1 gua1 lü4 li3 yi4 jia1 zai1 。
+- xu1 tang2 dun4 jie3 han4 hui1 yu3 ， gao1 zhen3 e2 cheng2 bi2 yin1 lei2 。
+- jing4 ting1 feng1 sheng1 sheng1 kan3 zhu2 ， xu2 kan4 ri4 ying3 zhuan3 ting2 huai2 。
+- wan3 liang2 geng1 dong4 pian1 zhou1 xing1 ， bei3 zhu3 hong2 qu2 yi3 ban4 kai1 。
+
+## 注释
+
+## 译文
+
+## 赏析

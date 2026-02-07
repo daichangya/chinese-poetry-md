@@ -1,0 +1,27 @@
+---
+id: lu-you-shi-zhou
+title: 食粥
+titlePinyin: shi2 zhou1
+titleSlug: shi-zhou
+author: 陆游
+authorPinyin: lu4 you2
+authorSlug: lu-you
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 世人个个学长年，不悟长年在目前。
+- 我得宛丘平易法，只将食粥致神仙。
+
+## 拼音
+- shi4 ren2 ge4 ge4 xue2 zhang3 nian2 ， bu2 wu4 chang2 nian2 zai4 mu4 qian2 。
+- wo3 de2 wan3 qiu1 ping2 yi4 fa3 ， zhi1 jiang1 shi2 zhou1 zhi4 shen2 xian1 。
+
+## 注释
+
+## 译文
+
+## 赏析

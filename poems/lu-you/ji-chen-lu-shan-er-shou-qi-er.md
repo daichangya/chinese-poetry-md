@@ -1,0 +1,31 @@
+---
+id: lu-you-ji-chen-lu-shan-er-shou-qi-er
+title: 寄陈鲁山二首  其二
+titlePinyin: ji4 chen2 lu3 shan1 er4 shou3     qi2 er4
+titleSlug: ji-chen-lu-shan-er-shou-qi-er
+author: 陆游
+authorPinyin: lu4 you2
+authorSlug: lu-you
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 天下无虞国论深，书生端合老山林。
+- 平生力学所得处，政要如今不动心。
+- 旧友几年犹短褐，谪官万里少来音。
+- 愿公思此宽羁旅，静胜炎曦岂易侵。
+
+## 拼音
+- tian1 xia4 wu2 yu2 guo2 lun4 shen1 ， shu1 sheng1 duan1 he2 lao3 shan1 lin2 。
+- ping2 sheng1 li4 xue2 suo3 de2 chu4 ， zheng4 yao4 ru2 jin1 bu2 dong4 xin1 。
+- jiu4 you3 ji3 nian2 you2 duan3 he4 ， zhe2 guan1 wan4 li3 shao3 lai2 yin1 。
+- yuan4 gong1 si1 ci3 kuan1 ji1 lü3 ， jing4 sheng4 yan2 xi1 qi3 yi4 qin1 。
+
+## 注释
+
+## 译文
+
+## 赏析
