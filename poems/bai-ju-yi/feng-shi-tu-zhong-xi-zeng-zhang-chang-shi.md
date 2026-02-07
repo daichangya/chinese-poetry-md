@@ -1,0 +1,27 @@
+---
+id: bai-ju-yi-feng-shi-tu-zhong-xi-zeng-zhang-chang-shi
+title: 奉使途中戏赠张常侍
+titlePinyin: feng4 shi3 tu2 zhong1 xi4 zeng4 zhang1 chang2 shi4
+titleSlug: feng-shi-tu-zhong-xi-zeng-zhang-chang-shi
+author: 白居易
+authorPinyin: bai2 ju1 yi4
+authorSlug: bai-ju-yi
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 早风吹土满长衢，驿骑星轺尽疾驱。
+- 共笑篮舁亦称使，日驰一驿向东都。
+
+## 拼音
+- zao3 feng1 chui1 tu3 man3 chang2 qu2 ， yi4 qi2 xing1 yao2 jin4 ji2 qu1 。
+- gong4 xiao4 lan2 yu2 yi4 cheng1 shi3 ， ri4 chi2 yi2 yi4 xiang4 dong1 du1 。
+
+## 注释
+
+## 译文
+
+## 赏析

@@ -1,0 +1,27 @@
+---
+id: bai-yu-chan-feng-yu
+title: 风雨
+titlePinyin: feng1 yu3
+titleSlug: feng-yu
+author: 白玉蟾
+authorPinyin: bai2 yu4 chan2
+authorSlug: bai-yu-chan
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 隔岸芦招手，沿溪柳拜人。
+- 两庾黄竹路，水囓白沙津。
+
+## 拼音
+- ge2 an4 lu2 zhao1 shou3 ， yan2 xi1 liu3 bai4 ren2 。
+- liang3 yu3 huang2 zhu2 lu4 ， shui3 nie4 bai2 sha1 jin1 。
+
+## 注释
+
+## 译文
+
+## 赏析

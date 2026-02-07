@@ -1,0 +1,27 @@
+---
+id: bai-yu-chan-liu-zhu-qi-san
+title: 六铢  其三
+titlePinyin: liu4 zhu1     qi2 san1
+titleSlug: liu-zhu-qi-san
+author: 白玉蟾
+authorPinyin: bai2 yu4 chan2
+authorSlug: bai-yu-chan
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 紫皇坐瑶台，敕我草洞章。
+- 落笔三百首，饮我白玉浆。
+
+## 拼音
+- zi3 huang2 zuo4 yao2 tai2 ， chi4 wo3 cao3 dong4 zhang1 。
+- luo4 bi3 san1 bai3 shou3 ， yin3 wo3 bai2 yu4 jiang1 。
+
+## 注释
+
+## 译文
+
+## 赏析

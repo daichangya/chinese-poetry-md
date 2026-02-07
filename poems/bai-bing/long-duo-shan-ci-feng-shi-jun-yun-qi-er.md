@@ -1,0 +1,27 @@
+---
+id: bai-bing-long-duo-shan-ci-feng-shi-jun-yun-qi-er
+title: 龙多山次冯使君韵  其二
+titlePinyin: long2 duo1 shan1 ci4 feng2 shi3 jun1 yun4     qi2 er4
+titleSlug: long-duo-shan-ci-feng-shi-jun-yun-qi-er
+author: 白丙
+authorPinyin: bai2 bing3
+authorSlug: bai-bing
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 阴阴云雾埋仙境，不放山峦容易开。
+- 风伯前驱为除扫，分明认得使君来。
+
+## 拼音
+- yin1 yin1 yun2 wu4 mai2 xian1 jing4 ， bu2 fang4 shan1 luan2 rong2 yi4 kai1 。
+- feng1 bo2 qian2 qu1 wei4 chu2 sao3 ， fen1 ming2 ren4 de0 shi3 jun1 lai2 。
+
+## 注释
+
+## 译文
+
+## 赏析

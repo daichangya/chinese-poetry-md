@@ -1,0 +1,31 @@
+---
+id: bai-ju-yi-wan-ge-ci
+title: 挽歌词
+titlePinyin: wan3 ge1 ci2
+titleSlug: wan-ge-ci
+author: 白居易
+authorPinyin: bai2 ju1 yi4
+authorSlug: bai-ju-yi
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 丹旐何飞扬，素骖亦悲鸣。晨光照闾巷，輀车俨欲行。
+- 萧条九月天，哀挽出重城。借问送者谁，妻子与弟兄。
+- 苍苍上古原，峨峨开新茔。含酸一恸哭，异口同哀声。
+- 旧陇转芜绝，新坟日罗列。春风草绿北邙山，
+
+## 拼音
+- dan1 zhao4 he2 fei1 yang2 ， su4 can1 yi4 bei1 ming2 。 chen2 guang1 zhao4 lü2 xiang4 ， er2 che1 yan3 yu4 xing2 。
+- xiao1 tiao2 jiu3 yue4 tian1 ， ai1 wan3 chu1 zhong4 cheng2 。 jie4 wen4 song4 zhe3 shui2 ， qi1 zi3 yu3 di4 xiong0 。
+- cang1 cang1 shang4 gu3 yuan2 ， e2 e2 kai1 xin1 ying2 。 han2 suan1 yi2 tong4 ku1 ， yi4 kou3 tong2 ai1 sheng1 。
+- jiu4 long3 zhuan3 wu2 jue2 ， xin1 fen2 ri4 luo2 lie4 。 chun1 feng1 cao3 lü4 bei3 mang2 shan1 ，
+
+## 注释
+
+## 译文
+
+## 赏析

@@ -1,0 +1,27 @@
+---
+id: bai-ju-yi-zi-he-nan-jing-luan-guan-nei-zu-ji-xiong-di-li-san-ge-zai-yi-chu-yin-wan-fd96f139
+title: 自河南经乱关内阻饥兄弟离散各在一处因望月有感聊书所怀寄上浮梁大兄於潜七兄乌江十五兄兼示符离及下邽弟妹
+titlePinyin: zi4 he2 nan2 jing1 luan4 guan1 nei4 zu3 ji1 xiong1 di4 li2 san4 ge4 zai4 yi2 chu4 yin1 wang4 yue4 you3 gan3 liao2 shu1 suo3 huai2 ji4 shang4 fu2 liang2 da4 xiong1 wu1 qian2 qi1 xiong1 wu1 jiang1 shi2 wu3 xiong1 jian1 shi4 fu2 li2 ji2 xia4 gui1 di4 mei4
+titleSlug: zi-he-nan-jing-luan-guan-nei-zu-ji-xiong-di-li-san-ge-zai-yi-chu-yin-wan-fd96f139
+author: 白居易
+authorPinyin: bai2 ju1 yi4
+authorSlug: bai-ju-yi
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 时难年饥世业空，弟兄羁旅各西东。田园寥落干戈后，
+- 共看明月应垂泪，一夜乡心五处同。
+
+## 拼音
+- shi2 nan2 nian2 ji1 shi4 ye4 kong1 ， di4 xiong0 ji1 lü3 ge4 xi1 dong1 。 tian2 yuan2 liao2 luo4 gan1 ge1 hou4 ，
+- gong4 kan4 ming2 yue4 ying4 chui2 lei4 ， yi2 ye4 xiang1 xin1 wu3 chu4 tong2 。
+
+## 注释
+
+## 译文
+
+## 赏析

@@ -1,0 +1,27 @@
+---
+id: bai-yu-chan-shou-xia-qi-yi
+title: 首夏  其一
+titlePinyin: shou3 xia4     qi2 yi1
+titleSlug: shou-xia-qi-yi
+author: 白玉蟾
+authorPinyin: bai2 yu4 chan2
+authorSlug: bai-yu-chan
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 懒中倍觉我神清，烦恼如今叶似轻。
+- 青士庭前销昼暑，苍官枕上送秋声。
+
+## 拼音
+- lan3 zhong1 bei4 jue2 wo3 shen2 qing1 ， fan2 nao3 ru2 jin1 ye4 si4 qing1 。
+- qing1 shi4 ting2 qian2 xiao1 zhou4 shu3 ， cang1 guan1 zhen3 shang4 song4 qiu1 sheng1 。
+
+## 注释
+
+## 译文
+
+## 赏析

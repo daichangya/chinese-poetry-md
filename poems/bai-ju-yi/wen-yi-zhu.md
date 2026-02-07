@@ -1,0 +1,27 @@
+---
+id: bai-ju-yi-wen-yi-zhu
+title: 问移竹
+titlePinyin: wen4 yi2 zhu2
+titleSlug: wen-yi-zhu
+author: 白居易
+authorPinyin: bai2 ju1 yi4
+authorSlug: bai-ju-yi
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 问君移竹意如何，慎勿排行但间窠。
+- 多种少栽皆有意，大都少校不如多。
+
+## 拼音
+- wen4 jun1 yi2 zhu2 yi4 ru2 he2 ， shen4 wu4 pai2 xing2 dan4 jian1 ke1 。
+- duo1 zhong3 shao3 zai1 jie1 you3 yi4 ， da4 dou1 shao4 xiao4 bu4 ru2 duo1 。
+
+## 注释
+
+## 译文
+
+## 赏析

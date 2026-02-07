@@ -1,0 +1,27 @@
+---
+id: bai-ju-yi-wen-gui-er-yong-shi
+title: 闻龟儿咏诗
+titlePinyin: wen2 gui1 er2 yong3 shi1
+titleSlug: wen-gui-er-yong-shi
+author: 白居易
+authorPinyin: bai2 ju1 yi4
+authorSlug: bai-ju-yi
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 怜渠已解咏诗章，摇膝支颐学二郎。
+- 莫学二郎吟太苦，才年四十鬓如霜。
+
+## 拼音
+- lian2 qu2 yi3 jie3 yong3 shi1 zhang1 ， yao2 xi1 zhi1 yi2 xue2 er4 lang2 。
+- mo4 xue2 er4 lang2 yin2 tai4 ku3 ， cai2 nian2 si4 shi2 bin4 ru2 shuang1 。
+
+## 注释
+
+## 译文
+
+## 赏析
