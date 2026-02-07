@@ -1,0 +1,27 @@
+---
+id: zheng-gang-zhong-gui-xi-dao-zhong-si-jue-qi-er
+title: 贵谿道中四绝  其二
+titlePinyin: gui4 xi1 dao4 zhong1 si4 jue2     qi2 er4
+titleSlug: gui-xi-dao-zhong-si-jue-qi-er
+author: 郑刚中
+authorPinyin: zheng4 gang1 zhong1
+authorSlug: zheng-gang-zhong
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 竹邉小径跨寒溪，息念临流万虑非。
+- 山鸟不知幽客意，背人相顾却惊飞。
+
+## 拼音
+- zhu2 bian1 xiao3 jing4 kua4 han2 xi1 ， xi1 nian4 lin2 liu2 wan4 lü4 fei1 。
+- shan1 niao3 bu4 zhi1 you1 ke4 yi4 ， bei4 ren2 xiang1 gu4 que4 jing1 fei1 。
+
+## 注释
+
+## 译文
+
+## 赏析

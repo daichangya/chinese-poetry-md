@@ -1,0 +1,27 @@
+---
+id: zheng-gang-zhong-ji-you-san-yue-er-shi-yi-ri-ye-meng-zhong-zuo
+title: 己酉三月二十一日夜梦中作
+titlePinyin: ji3 you3 san1 yue4 er4 shi2 yi1 ri4 ye4 meng4 zhong1 zuo4
+titleSlug: ji-you-san-yue-er-shi-yi-ri-ye-meng-zhong-zuo
+author: 郑刚中
+authorPinyin: zheng4 gang1 zhong1
+authorSlug: zheng-gang-zhong
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 曲阑干畔短篱邉，用意春工翦不圆。
+- 一夜西风借霜力，幽香喷出小金钱。
+
+## 拼音
+- qu3 lan2 gan1 pan4 duan3 li2 bian1 ， yong4 yi4 chun1 gong1 jian3 bu4 yuan2 。
+- yi2 ye4 xi1 feng1 jie4 shuang1 li4 ， you1 xiang1 pen1 chu1 xiao3 jin1 qian2 。
+
+## 注释
+
+## 译文
+
+## 赏析
