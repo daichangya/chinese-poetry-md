@@ -1,0 +1,27 @@
+---
+id: xu-rui-du-su-huang-ji
+title: 读苏黄集
+titlePinyin: du2 su1 huang2 ji2
+titleSlug: du-su-huang-ji
+author: 徐瑞
+authorPinyin: xu2 rui4
+authorSlug: xu-rui
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 胡儿争问大苏集，仙官解作太史书。
+- 当时同朝人欲杀，所能者天信不虚。
+
+## 拼音
+- hu2 er2 zheng1 wen4 da4 su1 ji2 ， xian1 guan1 jie3 zuo4 tai4 shi3 shu1 。
+- dang1 shi2 tong2 chao2 ren2 yu4 sha1 ， suo3 neng2 zhe3 tian1 xin4 bu4 xu1 。
+
+## 注释
+
+## 译文
+
+## 赏析

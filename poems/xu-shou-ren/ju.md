@@ -1,0 +1,25 @@
+---
+id: xu-shou-ren-ju
+title: 句
+titlePinyin: ju4
+titleSlug: ju
+author: 徐寿仁
+authorPinyin: xu2 shou4 ren2
+authorSlug: xu-shou-ren
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 放怀追许谢，洗耳笑巢由。
+
+## 拼音
+- fang4 huai2 zhui1 xu3 xie4 ， xi3 er3 xiao4 chao2 you2 。
+
+## 注释
+
+## 译文
+
+## 赏析
