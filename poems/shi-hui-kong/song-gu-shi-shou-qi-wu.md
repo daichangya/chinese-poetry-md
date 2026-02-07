@@ -1,0 +1,27 @@
+---
+id: shi-hui-kong-song-gu-shi-shou-qi-wu
+title: 颂古十首  其五
+titlePinyin: song4 gu3 shi2 shou3     qi2 wu3
+titleSlug: song-gu-shi-shou-qi-wu
+author: 释慧空
+authorPinyin: shi4 hui4 kong1
+authorSlug: shi-hui-kong
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 鬼门贴卦鬼犹惊，又见毛头扫帚星。
+- 若得过关公验正，夜深把手御街行。
+
+## 拼音
+- gui3 men2 tie1 gua4 gui3 you2 jing1 ， you4 jian4 mao2 tou2 sao4 zhou0 xing1 。
+- ruo4 de2 guo4 guan1 gong1 yan4 zheng4 ， ye4 shen1 ba3 shou3 yu4 jie1 xing2 。
+
+## 注释
+
+## 译文
+
+## 赏析
