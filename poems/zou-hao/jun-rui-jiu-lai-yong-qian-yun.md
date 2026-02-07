@@ -1,0 +1,27 @@
+---
+id: zou-hao-jun-rui-jiu-lai-yong-qian-yun
+title: 君瑞酒来用前韵
+titlePinyin: jun1 rui4 jiu3 lai2 yong4 qian2 yun4
+titleSlug: jun-rui-jiu-lai-yong-qian-yun
+author: 邹浩
+authorPinyin: zou1 hao4
+authorSlug: zou-hao
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 蟾影舞花真窈窕，江风吹竹是伦伶。
+- 开壶日月欣浮白，放眼乾坤得倍青。
+
+## 拼音
+- chan2 ying3 wu3 hua1 zhen1 yao3 tiao3 ， jiang1 feng1 chui1 zhu2 shi4 lun2 ling2 。
+- kai1 hu2 ri4 yue4 xin1 fu2 bai2 ， fang4 yan3 qian2 kun1 de2 bei4 qing1 。
+
+## 注释
+
+## 译文
+
+## 赏析
