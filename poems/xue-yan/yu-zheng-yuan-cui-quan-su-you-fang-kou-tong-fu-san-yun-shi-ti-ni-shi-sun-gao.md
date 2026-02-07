@@ -1,0 +1,33 @@
+---
+id: xue-yan-yu-zheng-yuan-cui-quan-su-you-fang-kou-tong-fu-san-yun-shi-ti-ni-shi-sun-gao
+title: 与郑辕崔全素游枋口同赋三韵诗（题拟） 石笋高
+titlePinyin: yu3 zheng4 yuan2 cui1 quan2 su4 you2 fang1 kou3 tong2 fu4 san1 yun4 shi1 （ ti2 ni3 ）   shi2 sun3 gao1
+titleSlug: yu-zheng-yuan-cui-quan-su-you-fang-kou-tong-fu-san-yun-shi-ti-ni-shi-sun-gao
+author: 薛晏
+authorPinyin: xue1 yan4
+authorSlug: xue-yan
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 峭笋倚溪壖，雄标屹霞境。
+- 云披看卷箨，波静见垂影。
+- 顿翼已栖林，残阳方在顶。
+- （同前）（按：三诗原收郑辕、崔全素诗后，题作「同赋」，今重为拟题。
+- ）。
+
+## 拼音
+- qiao4 sun3 yi3 xi1 ruan2 ， xiong2 biao1 yi4 xia2 jing4 。
+- yun2 pi1 kan4 juan4 tuo4 ， bo1 jing4 jian4 chui2 ying3 。
+- dun4 yi4 yi3 qi1 lin2 ， can2 yang2 fang1 zai4 ding3 。
+- （ tong2 qian2 ） （ an4 ： san1 shi1 yuan2 shou1 zheng4 yuan2 、 cui1 quan2 su4 shi1 hou4 ， ti2 zuo4 「 tong2 fu4 」 ， jin1 zhong4 wei4 ni3 ti2 。
+- ） 。
+
+## 注释
+
+## 译文
+
+## 赏析

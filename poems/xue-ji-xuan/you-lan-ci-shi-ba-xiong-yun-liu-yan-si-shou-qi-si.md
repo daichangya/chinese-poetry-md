@@ -1,0 +1,27 @@
+---
+id: xue-ji-xuan-you-lan-ci-shi-ba-xiong-yun-liu-yan-si-shou-qi-si
+title: 幽兰次十八兄韵六言四首  其四
+titlePinyin: you1 lan2 ci4 shi2 ba1 xiong1 yun4 liu4 yan2 si4 shou3     qi2 si4
+titleSlug: you-lan-ci-shi-ba-xiong-yun-liu-yan-si-shou-qi-si
+author: 薛季宣
+authorPinyin: xue1 ji4 xuan1
+authorSlug: xue-ji-xuan
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 超出世间凡品，叵闻鼻观余香。
+- 春入有花不艳，院小无人自芳。
+
+## 拼音
+- chao1 chu1 shi4 jian1 fan2 pin3 ， po3 wen2 bi2 guan1 yu2 xiang1 。
+- chun1 ru4 you3 hua1 bu2 yan4 ， yuan4 xiao3 wu2 ren2 zi4 fang1 。
+
+## 注释
+
+## 译文
+
+## 赏析

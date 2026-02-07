@@ -1,0 +1,31 @@
+---
+id: xue-shi-shi-xi-zeng-zhao-tian-le
+title: 戏赠赵天乐
+titlePinyin: xi4 zeng4 zhao4 tian1 le4
+titleSlug: xi-zeng-zhao-tian-le
+author: 薛师石
+authorPinyin: xue1 shi1 shi2
+authorSlug: xue-shi-shi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 问隠当时意已深，近来全废是清吟。
+- 一春祗为风雷变，尽日闲观天地心。
+- 闻道丹炉初候火，能教瓦砾化成金。
+- 果然成得知何用，不似瓜庐种紫参。
+
+## 拼音
+- wen4 yin3 dang1 shi2 yi4 yi3 shen1 ， jin4 lai2 quan2 fei4 shi4 qing1 yin2 。
+- yi4 chun1 zhi1 wei4 feng1 lei2 bian4 ， jin4 ri4 xian2 guan1 tian1 di4 xin1 。
+- wen2 dao4 dan1 lu2 chu1 hou4 huo3 ， neng2 jiao4 wa3 li4 hua4 cheng2 jin1 。
+- guo3 ran2 cheng2 de2 zhi1 he2 yong4 ， bu2 si4 gua1 lu2 zhong3 zi3 can1 。
+
+## 注释
+
+## 译文
+
+## 赏析
