@@ -1,0 +1,31 @@
+---
+id: xu-ji-hai-tang-hua-qi-er
+title: 海棠花  其二
+titlePinyin: hai3 tang2 hua1     qi2 er4
+titleSlug: hai-tang-hua-qi-er
+author: 徐积
+authorPinyin: xu2 ji1
+authorSlug: xu-ji
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 一度相逢一度春，不知名姓是何人。
+- 十分国色妆须淡，数点胭脂画未匀。
+- 好把东皇为上客，便堪宋玉作西邻。
+- 临卭道士今何在，说与唐宗是太真。
+
+## 拼音
+- yi2 du4 xiang1 feng2 yi2 du4 chun1 ， bu4 zhi1 ming2 xing4 shi4 he2 ren2 。
+- shi2 fen1 guo2 se4 zhuang1 xu1 dan4 ， shu4 dian3 yan1 zhi1 hua4 wei4 yun2 。
+- hao3 ba3 dong1 huang2 wei4 shang4 ke4 ， bian4 kan1 song4 yu4 zuo4 xi1 lin2 。
+- lin2 qiong2 dao4 shi4 jin1 he2 zai4 ， shuo1 yu3 tang2 zong1 shi4 tai4 zhen1 。
+
+## 注释
+
+## 译文
+
+## 赏析

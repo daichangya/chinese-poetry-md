@@ -1,0 +1,31 @@
+---
+id: xu-ji-sun-guan-she-shuang-gui
+title: 官舍双桂
+titlePinyin: guan1 she4 shuang1 gui4
+titleSlug: guan-she-shuang-gui
+author: 徐集孙
+authorPinyin: xu2 ji2 sun1
+authorSlug: xu-ji-sun
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 翠玉黄金剪缀成，幽香不断袭人清。
+- 独披月色连宵看，更结秋风来岁盟。
+- 好梦偏为蛩叫破，吟身那似蝶飞轻。
+- 纷纷凡卉谁堪眼，说与寒梅蚤合并。
+
+## 拼音
+- cui4 yu4 huang2 jin1 jian3 zhui4 cheng2 ， you1 xiang1 bu2 duan4 xi2 ren2 qing1 。
+- du2 pi1 yue4 se4 lian2 xiao1 kan4 ， geng4 jie2 qiu1 feng1 lai2 sui4 meng2 。
+- hao3 meng4 pian1 wei4 qiong2 jiao4 po4 ， yin2 shen1 na4 si4 die2 fei1 qing1 。
+- fen1 fen1 fan2 hui4 shui2 kan1 yan3 ， shuo1 yu3 han2 mei2 zao3 he2 bing4 。
+
+## 注释
+
+## 译文
+
+## 赏析

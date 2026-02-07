@@ -1,0 +1,31 @@
+---
+id: xu-ji-sun-wan-sun-hua-weng
+title: 挽孙花翁
+titlePinyin: wan3 sun1 hua1 weng1
+titleSlug: wan-sun-hua-weng
+author: 徐集孙
+authorPinyin: xu2 ji2 sun1
+authorSlug: xu-ji-sun
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 清气散乾坤，人亡名尚存。
+- 玉寒埋葛岭，墨淡惨秦村。
+- 井菊风号冢，山花月返魂。
+- 子孙无处觅，吟客酹芳尊。
+
+## 拼音
+- qing1 qi4 san4 qian2 kun1 ， ren2 wang2 ming2 shang4 cun2 。
+- yu4 han2 mai2 ge3 ling3 ， mo4 dan4 can3 qin2 cun1 。
+- jing3 ju2 feng1 hao4 zhong3 ， shan1 hua1 yue4 fan3 hun2 。
+- zi3 sun1 wu2 chu4 mi4 ， yin2 ke4 lei4 fang1 zun1 。
+
+## 注释
+
+## 译文
+
+## 赏析

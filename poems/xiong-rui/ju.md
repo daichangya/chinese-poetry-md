@@ -1,0 +1,25 @@
+---
+id: xiong-rui-ju
+title: 句
+titlePinyin: ju4
+titleSlug: ju
+author: 熊瑞
+authorPinyin: xiong2 rui4
+authorSlug: xiong-rui
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 海鹏已激三千里，天马终归十二闲。
+
+## 拼音
+- hai3 peng2 yi3 ji1 san1 qian1 li3 ， tian1 ma3 zhong1 gui1 shi2 er4 xian2 。
+
+## 注释
+
+## 译文
+
+## 赏析

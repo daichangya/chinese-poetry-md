@@ -1,0 +1,31 @@
+---
+id: xu-ji-he-lu-chao-feng-xin-ju-qi-jiu
+title: 和路朝奉新居  其九
+titlePinyin: he2 lu4 chao2 feng4 xin1 ju1     qi2 jiu3
+titleSlug: he-lu-chao-feng-xin-ju-qi-jiu
+author: 徐积
+authorPinyin: xu2 ji1
+authorSlug: xu-ji
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 自是平时大隠徒，何须水宿与山居。
+- 都无长物垂空橐，却有闲房聚逸书。
+- 近见雪消思野蕨，遥呼船问忆江鱼。
+- 卸帆便去寻村酒，醉使儿孙推鹿车。
+
+## 拼音
+- zi4 shi4 ping2 shi2 da4 yin3 tu2 ， he2 xu1 shui3 su4 yu3 shan1 ju1 。
+- dou1 wu2 chang2 wu4 chui2 kong1 tuo2 ， que4 you3 xian2 fang2 ju4 yi4 shu1 。
+- jin4 jian4 xue3 xiao1 si1 ye3 jue2 ， yao2 hu1 chuan2 wen4 yi4 jiang1 yu2 。
+- xie4 fan1 bian4 qu4 xun2 cun1 jiu3 ， zui4 shi3 er2 sun1 tui1 lu4 che1 。
+
+## 注释
+
+## 译文
+
+## 赏析

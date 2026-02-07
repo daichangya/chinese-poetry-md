@@ -1,0 +1,27 @@
+---
+id: xu-ji-song-qin-shao-you
+title: 送秦少游
+titlePinyin: song4 qin2 shao3 you2
+titleSlug: song-qin-shao-you
+author: 徐积
+authorPinyin: xu2 ji1
+authorSlug: xu-ji
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 叟罢耕耘妾罢机，匆匆人意甚牵衣。
+- 可怜数里笙歌地，但见一番杨柳稀。
+
+## 拼音
+- sou3 ba4 geng1 yun2 qie4 ba4 ji1 ， cong1 cong1 ren2 yi4 shen4 qian1 yi1 。
+- ke3 lian2 shu4 li3 sheng1 ge1 di4 ， dan4 jian4 yi4 fan1 yang2 liu3 xi1 。
+
+## 注释
+
+## 译文
+
+## 赏析
