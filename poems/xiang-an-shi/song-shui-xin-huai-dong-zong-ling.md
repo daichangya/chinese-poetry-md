@@ -1,0 +1,27 @@
+---
+id: xiang-an-shi-song-shui-xin-huai-dong-zong-ling
+title: 送水心淮东总领
+titlePinyin: song4 shui3 xin1 huai2 dong1 zong3 ling3
+titleSlug: song-shui-xin-huai-dong-zong-ling
+author: 项安世
+authorPinyin: xiang4 an1 shi4
+authorSlug: xiang-an-shi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 蓝缕疾耕家四壁，铁衣高卧日千金。
+- 四朝饷士前无古，一旦和戎患至今。
+
+## 拼音
+- lan2 lü3 ji2 geng1 jia1 si4 bi4 ， tie3 yi1 gao1 wo4 ri4 qian1 jin1 。
+- si4 chao2 xiang3 shi4 qian2 wu2 gu3 ， yi2 dan4 he2 rong2 huan4 zhi4 jin1 。
+
+## 注释
+
+## 译文
+
+## 赏析

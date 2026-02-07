@@ -1,0 +1,27 @@
+---
+id: xi-yan-liu-ti-jiu-jia-bi
+title: 留题酒家壁
+titlePinyin: liu2 ti2 jiu3 jia1 bi4
+titleSlug: liu-ti-jiu-jia-bi
+author: 席炎
+authorPinyin: xi2 yan2
+authorSlug: xi-yan
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 山云出山无一钱，日日醉倒春风边。
+- 采苹桥南徐孺子，白酒初熟留神仙。
+
+## 拼音
+- shan1 yun2 chu1 shan1 wu2 yi4 qian2 ， ri4 ri4 zui4 dao3 chun1 feng1 bian1 。
+- cai3 ping2 qiao2 nan2 xu2 ru2 zi3 ， bai2 jiu3 chu1 shu2 liu2 shen2 xian1 。
+
+## 注释
+
+## 译文
+
+## 赏析

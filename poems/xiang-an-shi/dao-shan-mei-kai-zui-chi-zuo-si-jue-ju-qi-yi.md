@@ -1,0 +1,27 @@
+---
+id: xiang-an-shi-dao-shan-mei-kai-zui-chi-zuo-si-jue-ju-qi-yi
+title: 道山梅开最迟作四绝句  其一
+titlePinyin: dao4 shan1 mei2 kai1 zui4 chi2 zuo4 si4 jue2 ju4     qi2 yi1
+titleSlug: dao-shan-mei-kai-zui-chi-zuo-si-jue-ju-qi-yi
+author: 项安世
+authorPinyin: xiang4 an1 shi4
+authorSlug: xiang-an-shi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 晓窗依约见凝脂，争挽南枝问别离。
+- 幸有今年春较早，避人何事却开迟。
+
+## 拼音
+- xiao3 chuang1 yi1 yue1 jian4 ning2 zhi1 ， zheng1 wan3 nan2 zhi1 wen4 bie2 li2 。
+- xing4 you3 jin1 nian2 chun1 jiao4 zao3 ， bi4 ren2 he2 shi4 que4 kai1 chi2 。
+
+## 注释
+
+## 译文
+
+## 赏析

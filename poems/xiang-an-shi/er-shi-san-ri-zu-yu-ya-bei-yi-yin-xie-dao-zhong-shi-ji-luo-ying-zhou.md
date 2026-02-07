@@ -1,0 +1,27 @@
+---
+id: xiang-an-shi-er-shi-san-ri-zu-yu-ya-bei-yi-yin-xie-dao-zhong-shi-ji-luo-ying-zhou
+title: 二十三日阻雨鸭陂驿因写道中诗寄罗郢州
+titlePinyin: er4 shi2 san1 ri4 zu3 yu3 ya1 bei1 yi4 yin1 xie3 dao4 zhong1 shi1 ji4 luo2 ying3 zhou1
+titleSlug: er-shi-san-ri-zu-yu-ya-bei-yi-yin-xie-dao-zhong-shi-ji-luo-ying-zhou
+author: 项安世
+authorPinyin: xiang4 an1 shi4
+authorSlug: xiang-an-shi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 横吹逆洒断人行，破驿孤眠又一程。
+- 写得吴笺寄长寿，无情风雨却多情。
+
+## 拼音
+- heng2 chui1 ni4 sa3 duan4 ren2 xing2 ， po4 yi4 gu1 mian2 you4 yi4 cheng2 。
+- xie3 de2 wu2 jian1 ji4 chang2 shou4 ， wu2 qing2 feng1 yu3 que4 duo1 qing2 。
+
+## 注释
+
+## 译文
+
+## 赏析

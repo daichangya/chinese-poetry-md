@@ -1,0 +1,27 @@
+---
+id: xiang-an-shi-song-dou-da-cha-ma-ru-jin-ba-jue-ju-qi-er
+title: 送都大茶马入觐八绝句  其二
+titlePinyin: song4 dou1 da4 cha2 ma3 ru4 jin4 ba1 jue2 ju4     qi2 er4
+titleSlug: song-dou-da-cha-ma-ru-jin-ba-jue-ju-qi-er
+author: 项安世
+authorPinyin: xiang4 an1 shi4
+authorSlug: xiang-an-shi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 使者东南甲第开，日边云气近蓬莱。
+- 要令二□知名字，故遣穷边万里回。
+
+## 拼音
+- shi3 zhe3 dong1 nan2 jia3 di4 kai1 ， ri4 bian1 yun2 qi4 jin4 peng2 lai2 。
+- yao4 ling4 er4 □ zhi1 ming2 zi4 ， gu4 qian3 qiong2 bian1 wan4 li3 hui2 。
+
+## 注释
+
+## 译文
+
+## 赏析

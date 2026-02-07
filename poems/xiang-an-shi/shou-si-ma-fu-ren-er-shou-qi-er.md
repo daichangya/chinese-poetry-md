@@ -1,0 +1,31 @@
+---
+id: xiang-an-shi-shou-si-ma-fu-ren-er-shou-qi-er
+title: 寿司马夫人二首  其二
+titlePinyin: shou4 si1 ma3 fu1 ren2 er4 shou3     qi2 er4
+titleSlug: shou-si-ma-fu-ren-er-shou-qi-er
+author: 项安世
+authorPinyin: xiang4 an1 shi4
+authorSlug: xiang-an-shi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 秋风庭院忽生春，请说庭前祝寿人。
+- 卿月已升仙掌露，郎星初见宰官身。
+- 九霞酝就金尊满，四世孙看玉砌新。
+- 待得蓬莱更清浅，人间谁复数灵椿。
+
+## 拼音
+- qiu1 feng1 ting2 yuan4 hu1 sheng1 chun1 ， qing3 shuo1 ting2 qian2 zhu4 shou4 ren2 。
+- qing1 yue4 yi3 sheng1 xian1 zhang3 lu4 ， lang2 xing1 chu1 jian4 zai3 guan1 shen1 。
+- jiu3 xia2 yun4 jiu4 jin1 zun1 man3 ， si4 shi4 sun1 kan4 yu4 qi4 xin1 。
+- dai4 de2 peng2 lai2 geng4 qing1 qian3 ， ren2 jian1 shui2 fu4 shu4 ling2 chun1 。
+
+## 注释
+
+## 译文
+
+## 赏析

@@ -1,0 +1,27 @@
+---
+id: xiang-an-shi-chu-shan
+title: 出山
+titlePinyin: chu1 shan1
+titleSlug: chu-shan
+author: 项安世
+authorPinyin: xiang4 an1 shi4
+authorSlug: xiang-an-shi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 又随寒日下平林，黄叶山头紫雾生。
+- 六代兴亡祗此是，吾侪闲健且长吟。
+
+## 拼音
+- you4 sui2 han2 ri4 xia4 ping2 lin2 ， huang2 ye4 shan1 tou2 zi3 wu4 sheng1 。
+- liu4 dai4 xing1 wang2 zhi1 ci3 shi4 ， wu2 chai2 xian2 jian4 qie3 chang2 yin2 。
+
+## 注释
+
+## 译文
+
+## 赏析

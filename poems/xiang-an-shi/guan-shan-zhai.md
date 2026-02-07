@@ -1,0 +1,27 @@
+---
+id: xiang-an-shi-guan-shan-zhai
+title: 观善斋
+titlePinyin: guan1 shan4 zhai1
+titleSlug: guan-shan-zhai
+author: 项安世
+authorPinyin: xiang4 an1 shi4
+authorSlug: xiang-an-shi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 切切松上风，齿齿泉下石。
+- 零露晓沾衣，童山夜升液。
+
+## 拼音
+- qie4 qie4 song1 shang4 feng1 ， chi3 chi3 quan2 xia4 shi2 。
+- ling2 lu4 xiao3 zhan1 yi1 ， tong2 shan1 ye4 sheng1 ye4 。
+
+## 注释
+
+## 译文
+
+## 赏析
