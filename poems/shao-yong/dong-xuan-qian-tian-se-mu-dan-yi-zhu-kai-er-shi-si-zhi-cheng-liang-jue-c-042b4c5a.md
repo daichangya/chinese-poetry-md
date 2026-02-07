@@ -1,0 +1,27 @@
+---
+id: shao-yong-dong-xuan-qian-tian-se-mu-dan-yi-zhu-kai-er-shi-si-zhi-cheng-liang-jue-c-042b4c5a
+title: 东轩前添色牡丹一株开二十四枝成两绝呈诸公  其一
+titlePinyin: dong1 xuan1 qian2 tian1 se4 mu3 dan1 yi4 zhu1 kai1 er4 shi2 si4 zhi1 cheng2 liang3 jue2 cheng2 zhu1 gong1     qi2 yi1
+titleSlug: dong-xuan-qian-tian-se-mu-dan-yi-zhu-kai-er-shi-si-zhi-cheng-liang-jue-c-042b4c5a
+author: 邵雍
+authorPinyin: shao4 yong1
+authorSlug: shao-yong
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 牡丹一株开绝伦，二十四枝娇娥颦。
+- 天下唯洛十分春，邵家独得七八分。
+
+## 拼音
+- mu3 dan1 yi4 zhu1 kai1 jue2 lun2 ， er4 shi2 si4 zhi1 jiao1 e2 pin2 。
+- tian1 xia4 wei2 luo4 shi2 fen1 chun1 ， shao4 jia1 du2 de2 qi1 ba1 fen1 。
+
+## 注释
+
+## 译文
+
+## 赏析

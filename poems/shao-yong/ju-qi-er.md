@@ -1,0 +1,25 @@
+---
+id: shao-yong-ju-qi-er
+title: 句  其二
+titlePinyin: ju4     qi2 er4
+titleSlug: ju-qi-er
+author: 邵雍
+authorPinyin: shao4 yong1
+authorSlug: shao-yong
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 水光连夜白，雪意共云低。
+
+## 拼音
+- shui3 guang1 lian2 ye4 bai2 ， xue3 yi4 gong4 yun2 di1 。
+
+## 注释
+
+## 译文
+
+## 赏析
