@@ -1,0 +1,27 @@
+---
+id: shi-yi-qing-di-ba-shi-er-de-shan-shang-tang-song
+title: 第八十二德山上堂颂
+titlePinyin: di4 ba1 shi2 er4 de2 shan1 shang4 tang2 song4
+titleSlug: di-ba-shi-er-de-shan-shang-tang-song
+author: 释义青
+authorPinyin: shi4 yi4 qing1
+authorSlug: shi-yi-qing
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 金轮微动吼乾坤，稍逆金躯草卧身。
+- 更欲发言来拟问，悲风吹尽四绝邻。
+
+## 拼音
+- jin1 lun2 wei1 dong4 hou3 qian2 kun1 ， shao1 ni4 jin1 qu1 cao3 wo4 shen1 。
+- geng4 yu4 fa1 yan2 lai2 ni3 wen4 ， bei1 feng1 chui1 jin4 si4 jue2 lin2 。
+
+## 注释
+
+## 译文
+
+## 赏析

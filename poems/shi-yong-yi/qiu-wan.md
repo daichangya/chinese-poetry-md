@@ -1,0 +1,27 @@
+---
+id: shi-yong-yi-qiu-wan
+title: 秋晚
+titlePinyin: qiu1 wan3
+titleSlug: qiu-wan
+author: 释永颐
+authorPinyin: shi4 yong3 yi2
+authorSlug: shi-yong-yi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 拒霜花落碧潭秋，懒向山巅水际游。
+- 自看夕阳乌臼树，白云红叶乱溪流。
+
+## 拼音
+- ju4 shuang1 hua1 luo4 bi4 tan2 qiu1 ， lan3 xiang4 shan1 dian1 shui3 ji4 you2 。
+- zi4 kan4 xi1 yang2 wu1 jiu4 shu4 ， bai2 yun2 hong2 ye4 luan4 xi1 liu2 。
+
+## 注释
+
+## 译文
+
+## 赏析
