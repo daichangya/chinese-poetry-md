@@ -1,0 +1,31 @@
+---
+id: zhou-xian-fu-yin-xuan
+title: 吟轩
+titlePinyin: yin2 xuan1
+titleSlug: yin-xuan
+author: 周献甫
+authorPinyin: zhou1 xian4 fu3
+authorSlug: zhou-xian-fu
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 何以号吟轩，疎窗矮屋椽。
+- 纸抄唐绝句，壁写宋诗篇。
+- 闲或支颐坐，慵来枕肘眠。
+- 读他三两意，心下自欣然。
+
+## 拼音
+- he2 yi3 hao4 yin2 xuan1 ， shu1 chuang1 ai3 wu1 chuan2 。
+- zhi3 chao1 tang2 jue2 ju4 ， bi4 xie3 song4 shi1 pian1 。
+- xian2 huo4 zhi1 yi2 zuo4 ， yong1 lai2 zhen3 zhou3 mian2 。
+- du2 ta1 san1 liang3 yi4 ， xin1 xia4 zi4 xin1 ran2 。
+
+## 注释
+
+## 译文
+
+## 赏析

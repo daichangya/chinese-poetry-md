@@ -1,0 +1,27 @@
+---
+id: zhou-fu-bie-zhong-shi-qi-yi
+title: 别仲时  其一
+titlePinyin: bie2 zhong4 shi2     qi2 yi1
+titleSlug: bie-zhong-shi-qi-yi
+author: 周孚
+authorPinyin: zhou1 fu2
+authorSlug: zhou-fu
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 江山共清焕，鱼鸟亦萧散。
+- 归与三亩园，趁此秋未晚。
+
+## 拼音
+- jiang1 shan1 gong4 qing1 huan4 ， yu2 niao3 yi4 xiao1 san4 。
+- gui1 yu3 san1 mu3 yuan2 ， chen4 ci3 qiu1 wei4 wan3 。
+
+## 注释
+
+## 译文
+
+## 赏析

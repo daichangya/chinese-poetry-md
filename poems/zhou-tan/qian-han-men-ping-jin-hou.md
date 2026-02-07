@@ -1,0 +1,27 @@
+---
+id: zhou-tan-qian-han-men-ping-jin-hou
+title: 前汉门 平津侯
+titlePinyin: qian2 han4 men2   ping2 jin1 hou2
+titleSlug: qian-han-men-ping-jin-hou
+author: 周昙
+authorPinyin: zhou1 tan2
+authorSlug: zhou-tan
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 儒素逢时得自媒，忽从徒步列公台。
+- 北辰如不延吾辈，东阁何由逐汝开。
+
+## 拼音
+- ru2 su4 feng2 shi2 de2 zi4 mei2 ， hu1 cong2 tu2 bu4 lie4 gong1 tai2 。
+- bei3 chen2 ru2 bu4 yan2 wu2 bei4 ， dong1 ge2 he2 you2 zhu2 ru3 kai1 。
+
+## 注释
+
+## 译文
+
+## 赏析
