@@ -1,0 +1,27 @@
+---
+id: wang-zhi-dao-ming-shan-yi-ye-yu
+title: 鸣山驿夜雨
+titlePinyin: ming2 shan1 yi4 ye4 yu3
+titleSlug: ming-shan-yi-ye-yu
+author: 王之道
+authorPinyin: wang2 zhi1 dao4
+authorSlug: wang-zhi-dao
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 夜来风雨晓还晴，沙路无泥快早行。
+- 鸟语花容春自好，有生何处不安生。
+
+## 拼音
+- ye4 lai2 feng1 yu3 xiao3 hai2 qing2 ， sha1 lu4 wu2 ni2 kuai4 zao3 xing2 。
+- niao3 yu3 hua1 rong2 chun1 zi4 hao3 ， you3 sheng1 he2 chu4 bu4 an1 sheng1 。
+
+## 注释
+
+## 译文
+
+## 赏析

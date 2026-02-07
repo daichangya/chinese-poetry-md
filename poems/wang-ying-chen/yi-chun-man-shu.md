@@ -1,0 +1,27 @@
+---
+id: wang-ying-chen-yi-chun-man-shu
+title: 宜春漫述
+titlePinyin: yi2 chun1 man4 shu4
+titleSlug: yi-chun-man-shu
+author: 汪应辰
+authorPinyin: wang1 ying4 chen2
+authorSlug: wang-ying-chen
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 本是扶犁客，随缘漫作官。
+- 故山应念我，薇蕨已阑干。
+
+## 拼音
+- ben3 shi4 fu2 li2 ke4 ， sui2 yuan2 man4 zuo4 guan1 。
+- gu4 shan1 ying4 nian4 wo3 ， wei1 jue2 yi3 lan2 gan1 。
+
+## 注释
+
+## 译文
+
+## 赏析

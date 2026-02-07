@@ -1,0 +1,31 @@
+---
+id: wang-zhen-bai-za-qu-ge-ci-qie-bo-ming
+title: 杂曲歌辞 妾薄命
+titlePinyin: za2 qu3 ge1 ci2   qie4 bo2 ming4
+titleSlug: za-qu-ge-ci-qie-bo-ming
+author: 王贞白
+authorPinyin: wang2 zhen1 bai2
+authorSlug: wang-zhen-bai
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 薄命头欲白，频年嫁不成。
+- 秦娥未十五，昨夜事公卿。
+- 岂有机杼力，空传歌舞名。
+- 妾专修妇德，媒氏却相轻。
+
+## 拼音
+- bo2 ming4 tou2 yu4 bai2 ， pin2 nian2 jia4 bu4 cheng2 。
+- qin2 e2 wei4 shi2 wu3 ， zuo2 ye4 shi4 gong1 qing1 。
+- qi3 you3 ji1 zhu4 li4 ， kong1 chuan2 ge1 wu3 ming2 。
+- qie4 zhuan1 xiu1 fu4 de2 ， mei2 shi4 que4 xiang1 qing1 。
+
+## 注释
+
+## 译文
+
+## 赏析

@@ -1,0 +1,31 @@
+---
+id: wang-zhi-dao-song-yan-feng-di-fu-xi-xing-yan-chang
+title: 送彦逢弟赴西兴盐场
+titlePinyin: song4 yan4 feng2 di4 fu4 xi1 xing1 yan2 chang3
+titleSlug: song-yan-feng-di-fu-xi-xing-yan-chang
+author: 王之道
+authorPinyin: wang2 zhi1 dao4
+authorSlug: wang-zhi-dao
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 闻道西兴去，全家共小舟。
+- 别离江北岸，怀抱海东头。
+- 闪闪风帆远，滔滔雪浪浮。
+- 苕溪在何许，应为故人留。
+
+## 拼音
+- wen2 dao4 xi1 xing1 qu4 ， quan2 jia1 gong4 xiao3 zhou1 。
+- bie2 li2 jiang1 bei3 an4 ， huai2 bao4 hai3 dong1 tou2 。
+- shan3 shan3 feng1 fan1 yuan3 ， tao1 tao1 xue3 lang4 fu2 。
+- tiao2 xi1 zai4 he2 xu3 ， ying4 wei4 gu4 ren2 liu2 。
+
+## 注释
+
+## 译文
+
+## 赏析
