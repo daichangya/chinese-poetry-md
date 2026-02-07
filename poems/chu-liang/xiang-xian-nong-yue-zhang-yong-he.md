@@ -1,0 +1,31 @@
+---
+id: chu-liang-xiang-xian-nong-yue-zhang-yong-he
+title: 享先农乐章 雍和
+titlePinyin: xiang3 xian1 nong2 yue4 zhang1   yong1 he2
+titleSlug: xiang-xian-nong-yue-zhang-yong-he
+author: 褚亮
+authorPinyin: chu3 liang4
+authorSlug: chu-liang
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 前夕视牲，质明奉俎。
+- 沐芳整弁，其仪式序。
+- 盛礼毕陈，嘉乐备举。
+- 歆我懿德，非馨稷黍。
+
+## 拼音
+- qian2 xi1 shi4 sheng1 ， zhi4 ming2 feng4 zu3 。
+- mu4 fang1 zheng3 bian4 ， qi2 yi2 shi4 xu4 。
+- sheng4 li3 bi4 chen2 ， jia1 le4 bei4 ju3 。
+- xin1 wo3 yi4 de2 ， fei1 xin1 ji4 shu3 。
+
+## 注释
+
+## 译文
+
+## 赏析
