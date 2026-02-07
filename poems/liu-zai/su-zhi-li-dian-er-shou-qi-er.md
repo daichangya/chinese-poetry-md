@@ -1,0 +1,27 @@
+---
+id: liu-zai-su-zhi-li-dian-er-shou-qi-er
+title: 宿直里店二首  其二
+titlePinyin: su4 zhi2 li3 dian4 er4 shou3     qi2 er4
+titleSlug: su-zhi-li-dian-er-shou-qi-er
+author: 刘宰
+authorPinyin: liu2 zai3
+authorSlug: liu-zai
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 稻获田空宿水禽，去来终夜有清音。
+- 投床倦客无他想，祇有江湖万里心。
+
+## 拼音
+- dao4 huo4 tian2 kong1 su4 shui3 qin2 ， qu4 lai2 zhong1 ye4 you3 qing1 yin1 。
+- tou2 chuang2 juan4 ke4 wu2 ta1 xiang3 ， qi2 you3 jiang1 hu2 wan4 li3 xin1 。
+
+## 注释
+
+## 译文
+
+## 赏析

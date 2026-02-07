@@ -1,0 +1,31 @@
+---
+id: liu-zi-hui-ci-li-xun-bo-yun
+title: 次李巽伯韵
+titlePinyin: ci4 li3 xun4 bo2 yun4
+titleSlug: ci-li-xun-bo-yun
+author: 刘子翚
+authorPinyin: liu2 zi3 hui1
+authorSlug: liu-zi-hui
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 蜡封泥印了不勤，索居十载常念群。
+- 恋乡宁饮建溪水，怀友忽梦龟山云。
+- 闲中意度不沾俗，老去词华全付君。
+- 阿戎来归得新语，戏笔报谢非夸文。
+
+## 拼音
+- la4 feng1 ni2 yin4 le0 bu4 qin2 ， suo3 ju1 shi2 zai3 chang2 nian4 qun2 。
+- lian4 xiang1 ning2 yin3 jian4 xi1 shui3 ， huai2 you3 hu1 meng4 gui1 shan1 yun2 。
+- xian2 zhong4 yi4 du4 bu4 zhan1 su2 ， lao3 qu4 ci2 hua2 quan2 fu4 jun1 。
+- a1 rong2 lai2 gui1 de2 xin1 yu3 ， xi4 bi3 bao4 xie4 fei1 kua1 wen2 。
+
+## 注释
+
+## 译文
+
+## 赏析

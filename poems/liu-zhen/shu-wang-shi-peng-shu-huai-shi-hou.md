@@ -1,0 +1,27 @@
+---
+id: liu-zhen-shu-wang-shi-peng-shu-huai-shi-hou
+title: 书王十朋述怀诗后
+titlePinyin: shu1 wang2 shi2 peng2 shu4 huai2 shi1 hou4
+titleSlug: shu-wang-shi-peng-shu-huai-shi-hou
+author: 刘镇
+authorPinyin: liu2 zhen4
+authorSlug: liu-zhen
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 山北山南春雨足，漠漠柔桑秀如沃。
+- 侬家荆妇几时归，西畴独自驱黄犊。
+
+## 拼音
+- shan1 bei3 shan1 nan2 chun1 yu3 zu2 ， mo4 mo4 rou2 sang1 xiu4 ru2 wo4 。
+- nong2 jia1 jing1 fu4 ji3 shi2 gui1 ， xi1 chou2 du2 zi4 qu1 huang2 du2 。
+
+## 注释
+
+## 译文
+
+## 赏析

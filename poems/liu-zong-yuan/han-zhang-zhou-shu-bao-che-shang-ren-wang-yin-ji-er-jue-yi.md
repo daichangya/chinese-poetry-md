@@ -1,0 +1,27 @@
+---
+id: liu-zong-yuan-han-zhang-zhou-shu-bao-che-shang-ren-wang-yin-ji-er-jue-yi
+title: 韩漳州书报彻上人亡因寄二绝 一
+titlePinyin: han2 zhang1 zhou1 shu1 bao4 che4 shang4 ren2 wang2 yin1 ji4 er4 jue2   yi1
+titleSlug: han-zhang-zhou-shu-bao-che-shang-ren-wang-yin-ji-er-jue-yi
+author: 柳宗元
+authorPinyin: liu3 zong1 yuan2
+authorSlug: liu-zong-yuan
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 早岁京华听越吟，闻君江海分逾深。
+- 他时若写兰亭会，莫画高僧支道林。
+
+## 拼音
+- zao3 sui4 jing1 hua2 ting1 yue4 yin2 ， wen2 jun1 jiang1 hai3 fen1 yu2 shen1 。
+- ta1 shi2 ruo4 xie3 lan2 ting2 hui4 ， mo4 hua4 gao1 seng1 zhi1 dao4 lin2 。
+
+## 注释
+
+## 译文
+
+## 赏析

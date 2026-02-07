@@ -1,0 +1,27 @@
+---
+id: liu-zi-hui-li-bo-shi-hua-shi-gu-tu-zheng-shang-ming-zuo-shi-shi-ci-duo-zhen-jue-yin-39a8c278
+title: 李伯时画十古图郑尚明作诗诗辞多振绝因为同赋 明皇览镜妃子翦鬟
+titlePinyin: li3 bo2 shi2 hua4 shi2 gu3 tu2 zheng4 shang4 ming2 zuo4 shi1 shi1 ci2 duo1 zhen4 jue2 yin1 wei4 tong2 fu4   ming2 huang2 lan3 jing4 fei1 zi0 jian3 huan2
+titleSlug: li-bo-shi-hua-shi-gu-tu-zheng-shang-ming-zuo-shi-shi-ci-duo-zhen-jue-yin-39a8c278
+author: 刘子翚
+authorPinyin: liu2 zi3 hui1
+authorSlug: liu-zi-hui
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 不复青铜照瘁颜，耄荒从谏若移山。
+- 只将女子论贤否，陶母当时亦翦鬟。
+
+## 拼音
+- bu2 fu4 qing1 tong2 zhao4 cui4 yan2 ， mao4 huang1 cong2 jian4 ruo4 yi2 shan1 。
+- zhi1 jiang1 nü3 zi3 lun4 xian2 fou3 ， tao2 mu3 dang1 shi2 yi4 jian3 huan2 。
+
+## 注释
+
+## 译文
+
+## 赏析

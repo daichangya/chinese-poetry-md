@@ -1,0 +1,27 @@
+---
+id: liu-zai-song-wu-hui-jiu-zhou-ma-shuai-kou-zhan-san-jue-qi-er
+title: 送无灰酒周马帅口占三绝  其二
+titlePinyin: song4 wu2 hui1 jiu3 zhou1 ma3 shuai4 kou3 zhan4 san1 jue2     qi2 er4
+titleSlug: song-wu-hui-jiu-zhou-ma-shuai-kou-zhan-san-jue-qi-er
+author: 刘宰
+authorPinyin: liu2 zai3
+authorSlug: liu-zai
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 乞得闲身荷圣朝，旧栖佳处日逍遥。
+- 却怜赤壁归来日，歌舞樽前祇小乔。
+
+## 拼音
+- qi3 de2 xian2 shen1 he2 sheng4 chao2 ， jiu4 qi1 jia1 chu4 ri4 xiao1 yao2 。
+- que4 lian2 chi4 bi4 gui1 lai2 ri4 ， ge1 wu3 zun1 qian2 qi2 xiao3 qiao2 。
+
+## 注释
+
+## 译文
+
+## 赏析
