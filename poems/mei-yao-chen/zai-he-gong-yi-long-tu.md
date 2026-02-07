@@ -1,0 +1,27 @@
+---
+id: mei-yao-chen-zai-he-gong-yi-long-tu
+title: 再和公仪龙图
+titlePinyin: zai4 he2 gong1 yi2 long2 tu2
+titleSlug: zai-he-gong-yi-long-tu
+author: 梅尧臣
+authorPinyin: mei2 yao2 chen2
+authorSlug: mei-yao-chen
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 千重海浪渔人醉，百战沙场野叟闲。
+- 能向闹中还得静，乃知朝市即青山。
+
+## 拼音
+- qian1 chong2 hai3 lang4 yu2 ren2 zui4 ， bai3 zhan4 sha1 chang3 ye3 sou3 xian2 。
+- neng2 xiang4 nao4 zhong1 hai2 de2 jing4 ， nai3 zhi1 chao2 shi4 ji2 qing1 shan1 。
+
+## 注释
+
+## 译文
+
+## 赏析

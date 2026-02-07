@@ -1,0 +1,31 @@
+---
+id: mao-pang-shu-zhe-guan-chi-kan-qing-ming-quan-ji-shi-li-lu-cong-jiao-bi-wen-qin-bi-9d08149c
+title: 属者观池槛清明泉激石立芦丛交碧文禽并绚翛然发湖山之远态无辇毂之浮埃杜子美云朱门之泥涂士子不见其泥涂良非是也
+titlePinyin: shu3 zhe3 guan1 chi2 kan3 qing1 ming2 quan2 ji1 shi2 li4 lu2 cong2 jiao1 bi4 wen2 qin2 bing4 xuan4 xiao1 ran2 fa1 hu2 shan1 zhi1 yuan3 tai4 wu2 nian3 gu1 zhi1 fu2 ai1 du4 zi3 mei3 yun2 zhu1 men2 zhi1 ni2 tu2 shi4 zi3 bu2 jian4 qi2 ni2 tu2 liang2 fei1 shi4 ye3
+titleSlug: shu-zhe-guan-chi-kan-qing-ming-quan-ji-shi-li-lu-cong-jiao-bi-wen-qin-bi-9d08149c
+author: 毛滂
+authorPinyin: mao2 pang1
+authorSlug: mao-pang
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 图书多似道家山，池槛清虚不绮纨。
+- 万壑春藏三石秀，五湖秋入两芦寒。
+- 冰泉喷激珠成贯，绣羽沉浮花作团。
+- 谁伴玉皇香案吏，光风霁月在阑干。
+
+## 拼音
+- tu2 shu1 duo1 si4 dao4 jia1 shan1 ， chi2 kan3 qing1 xu1 bu4 qi3 wan2 。
+- wan4 he4 chun1 cang2 san1 shi2 xiu4 ， wu3 hu2 qiu1 ru4 liang3 lu2 han2 。
+- bing1 quan2 pen1 ji1 zhu1 cheng2 guan4 ， xiu4 yu3 chen2 fu2 hua1 zuo4 tuan2 。
+- shui2 ban4 yu4 huang2 xiang1 an4 li4 ， guang1 feng1 ji4 yue4 zai4 lan2 gan1 。
+
+## 注释
+
+## 译文
+
+## 赏析

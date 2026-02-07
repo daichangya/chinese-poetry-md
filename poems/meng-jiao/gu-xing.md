@@ -1,0 +1,27 @@
+---
+id: meng-jiao-gu-xing
+title: 古兴
+titlePinyin: gu3 xing1
+titleSlug: gu-xing
+author: 孟郊
+authorPinyin: meng4 jiao1
+authorSlug: meng-jiao
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 楚血未干衣，荆虹尚埋辉。
+- 痛玉不痛身，抱璞求所归。
+
+## 拼音
+- chu3 xue4 wei4 gan1 yi1 ， jing1 hong2 shang4 mai2 hui1 。
+- tong4 yu4 bu2 tong4 shen1 ， bao4 pu2 qiu2 suo3 gui1 。
+
+## 注释
+
+## 译文
+
+## 赏析
