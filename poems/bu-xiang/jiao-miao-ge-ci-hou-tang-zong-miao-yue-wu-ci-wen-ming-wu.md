@@ -1,0 +1,27 @@
+---
+id: bu-xiang-jiao-miao-ge-ci-hou-tang-zong-miao-yue-wu-ci-wen-ming-wu
+title: 郊庙歌辞：后唐宗庙乐舞辞：文明舞
+titlePinyin: jiao1 miao4 ge1 ci2 ： hou4 tang2 zong1 miao4 yue4 wu3 ci2 ： wen2 ming2 wu3
+titleSlug: jiao-miao-ge-ci-hou-tang-zong-miao-yue-wu-ci-wen-ming-wu
+author: 不详
+authorPinyin: bu4 xiang2
+authorSlug: bu-xiang
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 帝业光扬，皇图翕赫。圣德孔彰，神功不测。
+- 信及豚鱼，恩沾动植。懿范鸿名，传之万亿。
+
+## 拼音
+- di4 ye4 guang1 yang2 ， huang2 tu2 xi1 he4 。 sheng4 de2 kong3 zhang1 ， shen2 gong1 bu2 ce4 。
+- xin4 ji2 tun2 yu2 ， en1 zhan1 dong4 zhi2 。 yi4 fan4 hong2 ming2 ， chuan2 zhi1 wan4 yi4 。
+
+## 注释
+
+## 译文
+
+## 赏析

@@ -1,0 +1,25 @@
+---
+id: bu-xiang-za-tie-yu
+title: 杂帖语
+titlePinyin: za2 tie1 yu3
+titleSlug: za-tie-yu
+author: 不详
+authorPinyin: bu4 xiang2
+authorSlug: bu-xiang
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 常杂鲍帖。
+
+## 拼音
+- chang2 za2 bao4 tie1 。
+
+## 注释
+
+## 译文
+
+## 赏析

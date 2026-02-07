@@ -1,0 +1,27 @@
+---
+id: bi-zhong-you-shen-quan
+title: 神泉
+titlePinyin: shen2 quan2
+titleSlug: shen-quan
+author: 毕仲游
+authorPinyin: bi4 zhong4 you2
+authorSlug: bi-zhong-you
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 神泉题字若鱼鳞，短句长篇数十人。
+- 试向壁间寻作者，李师中后有黄莘。
+
+## 拼音
+- shen2 quan2 ti2 zi4 ruo4 yu2 lin2 ， duan3 ju4 chang2 pian1 shu4 shi2 ren2 。
+- shi4 xiang4 bi4 jian1 xun2 zuo4 zhe3 ， li3 shi1 zhong1 hou4 you3 huang2 shen1 。
+
+## 注释
+
+## 译文
+
+## 赏析

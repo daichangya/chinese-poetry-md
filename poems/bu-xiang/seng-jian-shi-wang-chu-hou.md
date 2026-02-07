@@ -1,0 +1,27 @@
+---
+id: bu-xiang-seng-jian-shi-wang-chu-hou
+title: 僧缄示王处厚
+titlePinyin: seng1 jian1 shi4 wang2 chu4 hou4
+titleSlug: seng-jian-shi-wang-chu-hou
+author: 不详
+authorPinyin: bu4 xiang2
+authorSlug: bu-xiang
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 周士同成，二王殊名。
+- 王居一焉，百日为程。
+
+## 拼音
+- zhou1 shi4 tong2 cheng2 ， er4 wang2 shu1 ming2 。
+- wang2 ju1 yi4 yan1 ， bai3 ri4 wei4 cheng2 。
+
+## 注释
+
+## 译文
+
+## 赏析
