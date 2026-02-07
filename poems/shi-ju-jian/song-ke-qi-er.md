@@ -1,0 +1,27 @@
+---
+id: shi-ju-jian-song-ke-qi-er
+title: 送客  其二
+titlePinyin: song4 ke4     qi2 er4
+titleSlug: song-ke-qi-er
+author: 释居简
+authorPinyin: shi4 ju1 jian3
+authorSlug: shi-ju-jian
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 欲快青眸忍白开，故将渊默自藏雷。
+- 苕溪今日宁无昼，不见苹吹好句来。
+
+## 拼音
+- yu4 kuai4 qing1 mou2 ren3 bai2 kai1 ， gu4 jiang1 yuan1 mo4 zi4 cang2 lei2 。
+- tiao2 xi1 jin1 ri4 ning2 wu2 zhou4 ， bu2 jian4 ping2 chui1 hao3 ju4 lai2 。
+
+## 注释
+
+## 译文
+
+## 赏析

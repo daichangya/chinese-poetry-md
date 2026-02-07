@@ -1,0 +1,27 @@
+---
+id: shi-le-hui-wen-fu-fu-er-shou-qi-er
+title: 闻父讣二首  其二
+titlePinyin: wen2 fu4 fu4 er4 shou3     qi2 er4
+titleSlug: wen-fu-fu-er-shou-qi-er
+author: 释了惠
+authorPinyin: shi4 le0 hui4
+authorSlug: shi-le-hui
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 见说如何与若何，恰如风向树头过。
+- 若论父子分明处，自古绵州所出多。
+
+## 拼音
+- jian4 shuo1 ru2 he2 yu3 ruo4 he2 ， qia4 ru2 feng1 xiang4 shu4 tou2 guo4 。
+- ruo4 lun4 fu4 zi3 fen1 ming2 chu4 ， zi4 gu3 mian2 zhou1 suo3 chu1 duo1 。
+
+## 注释
+
+## 译文
+
+## 赏析

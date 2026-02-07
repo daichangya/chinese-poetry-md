@@ -1,0 +1,25 @@
+---
+id: shi-jing-xuan-ju-qi-si
+title: 句  其四
+titlePinyin: ju4     qi2 si4
+titleSlug: ju-qi-si
+author: 释警玄
+authorPinyin: shi4 jing3 xuan2
+authorSlug: shi-jing-xuan
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 宝殿无人不侍立，不种梧桐免凤来。
+
+## 拼音
+- bao3 dian4 wu2 ren2 bu2 shi4 li4 ， bu4 zhong3 wu2 tong2 mian3 feng4 lai2 。
+
+## 注释
+
+## 译文
+
+## 赏析

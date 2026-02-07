@@ -1,0 +1,25 @@
+---
+id: shi-jing-xuan-ju-qi-san
+title: 句  其三
+titlePinyin: ju4     qi2 san1
+titleSlug: ju-qi-san
+author: 释警玄
+authorPinyin: shi4 jing3 xuan2
+authorSlug: shi-jing-xuan
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 白云覆青山，青山顶不露。
+
+## 拼音
+- bai2 yun2 fu4 qing1 shan1 ， qing1 shan1 ding3 bu2 lu4 。
+
+## 注释
+
+## 译文
+
+## 赏析
