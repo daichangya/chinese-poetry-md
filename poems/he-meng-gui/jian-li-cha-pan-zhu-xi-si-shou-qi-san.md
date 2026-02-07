@@ -1,0 +1,27 @@
+---
+id: he-meng-gui-jian-li-cha-pan-zhu-xi-si-shou-qi-san
+title: 见李察判竹溪四首  其三
+titlePinyin: jian4 li3 cha2 pan4 zhu2 xi1 si4 shou3     qi2 san1
+titleSlug: jian-li-cha-pan-zhu-xi-si-shou-qi-san
+author: 何梦桂
+authorPinyin: he2 meng4 gui4
+authorSlug: he-meng-gui
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 十载风霜敝黑裘，悠悠身世逐浮鸥。
+- 东陵老去瓜田熟，敢向人间说故侯。
+
+## 拼音
+- shi2 zai3 feng1 shuang1 bi4 hei1 qiu2 ， you1 you1 shen1 shi4 zhu2 fu2 ou1 。
+- dong1 ling2 lao3 qu4 gua1 tian2 shu2 ， gan3 xiang4 ren2 jian1 shuo1 gu4 hou2 。
+
+## 注释
+
+## 译文
+
+## 赏析

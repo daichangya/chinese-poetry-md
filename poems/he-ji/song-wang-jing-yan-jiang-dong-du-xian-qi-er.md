@@ -1,0 +1,27 @@
+---
+id: he-ji-song-wang-jing-yan-jiang-dong-du-xian-qi-er
+title: 送王敬岩江东都宪  其二
+titlePinyin: song4 wang2 jing4 yan2 jiang1 dong1 du1 xian4     qi2 er4
+titleSlug: song-wang-jing-yan-jiang-dong-du-xian-qi-er
+author: 何基
+authorPinyin: he2 ji1
+authorSlug: he-ji
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 狱情微暧自难明，著意平反或失平。
+- 生死两无纤芥恨，考求须尽察须精。
+
+## 拼音
+- yu4 qing2 wei1 ai4 zi4 nan2 ming2 ， zhu4 yi4 ping2 fan3 huo4 shi1 ping2 。
+- sheng1 si3 liang3 wu2 xian1 jie4 hen4 ， kao3 qiu2 xu1 jin4 cha2 xu1 jing1 。
+
+## 注释
+
+## 译文
+
+## 赏析
