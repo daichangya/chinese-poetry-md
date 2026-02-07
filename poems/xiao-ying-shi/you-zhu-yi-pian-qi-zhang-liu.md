@@ -1,0 +1,29 @@
+---
+id: xiao-ying-shi-you-zhu-yi-pian-qi-zhang-liu
+title: 有竹一篇七章 六
+titlePinyin: you3 zhu2 yi4 pian1 qi1 zhang1   liu4
+titleSlug: you-zhu-yi-pian-qi-zhang-liu
+author: 萧颖士
+authorPinyin: xiao1 ying3 shi4
+authorSlug: xiao-ying-shi
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 彼纷者务，体其豫矣。
+- 有旨者酒，欢其且矣。
+- 友僚萃止，跗蕚载韡。
+
+## 拼音
+- bi3 fen1 zhe3 wu4 ， ti3 qi2 yu4 yi3 。
+- you3 zhi3 zhe3 jiu3 ， huan1 qi2 qie3 yi3 。
+- you3 liao2 cui4 zhi3 ， fu1 e4 zai3 wei3 。
+
+## 注释
+
+## 译文
+
+## 赏析

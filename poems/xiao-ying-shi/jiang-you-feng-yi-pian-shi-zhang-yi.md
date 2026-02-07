@@ -1,0 +1,27 @@
+---
+id: xiao-ying-shi-jiang-you-feng-yi-pian-shi-zhang-yi
+title: 江有枫一篇十章 一
+titlePinyin: jiang1 you3 feng1 yi4 pian1 shi2 zhang1   yi1
+titleSlug: jiang-you-feng-yi-pian-shi-zhang-yi
+author: 萧颖士
+authorPinyin: xiao1 ying3 shi4
+authorSlug: xiao-ying-shi
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 江有枫，其叶蒙蒙。
+- 我友自东，于以游从。
+
+## 拼音
+- jiang1 you3 feng1 ， qi2 ye4 meng2 meng2 。
+- wo3 you3 zi4 dong1 ， yu2 yi3 you2 cong2 。
+
+## 注释
+
+## 译文
+
+## 赏析
