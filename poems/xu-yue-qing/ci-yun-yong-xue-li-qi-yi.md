@@ -1,0 +1,27 @@
+---
+id: xu-yue-qing-ci-yun-yong-xue-li-qi-yi
+title: 次韵用学礼  其一
+titlePinyin: ci4 yun4 yong4 xue2 li3     qi2 yi1
+titleSlug: ci-yun-yong-xue-li-qi-yi
+author: 许月卿
+authorPinyin: xu3 yue4 qing1
+authorSlug: xu-yue-qing
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 章泉姓字馥于梅，宅相相逢亦妙哉。
+- 见说章泉诗刻梓，幸分一本洗尘埃。
+
+## 拼音
+- zhang1 quan2 xing4 zi4 fu4 yu2 mei2 ， zhai2 xiang1 xiang1 feng2 yi4 miao4 zai1 。
+- jian4 shuo1 zhang1 quan2 shi1 ke4 zi3 ， xing4 fen1 yi4 ben3 xi3 chen2 ai1 。
+
+## 注释
+
+## 译文
+
+## 赏析
