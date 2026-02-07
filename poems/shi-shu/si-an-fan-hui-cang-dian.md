@@ -1,0 +1,31 @@
+---
+id: shi-shu-si-an-fan-hui-cang-dian
+title: 四安梵惠藏殿
+titlePinyin: si4 an1 fan4 hui4 cang2 dian4
+titleSlug: si-an-fan-hui-cang-dian
+author: 施枢
+authorPinyin: shi1 shu1
+authorSlug: shi-shu
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 劫火不能焚，空中转法轮。
+- 风霜鸱殿古，金碧贝函尘。
+- 物本由成数，人言不坏身。
+- 却怜无问者，遗迹竟成陈。
+
+## 拼音
+- jie2 huo3 bu4 neng2 fen2 ， kong1 zhong1 zhuan3 fa3 lun2 。
+- feng1 shuang1 chi1 dian4 gu3 ， jin1 bi4 bei4 han2 chen2 。
+- wu4 ben3 you2 cheng2 shu4 ， ren2 yan2 bu2 huai4 shen1 。
+- que4 lian2 wu2 wen4 zhe3 ， yi2 ji4 jing4 cheng2 chen2 。
+
+## 注释
+
+## 译文
+
+## 赏析

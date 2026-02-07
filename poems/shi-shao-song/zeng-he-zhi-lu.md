@@ -1,0 +1,31 @@
+---
+id: shi-shao-song-zeng-he-zhi-lu
+title: 赠何知录
+titlePinyin: zeng4 he2 zhi1 lu4
+titleSlug: zeng-he-zhi-lu
+author: 释绍嵩
+authorPinyin: shi4 shao4 song1
+authorSlug: shi-shao-song
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 青云直上路初通，白凤新词入圣聪。
+- 抵掌剧谈吾浪语，连城增价子何穷。
+- 共登小阁春风里，又解征帆落照中。
+- 此去优游益吟咏，公余无惜寄诗筒。
+
+## 拼音
+- qing1 yun2 zhi2 shang4 lu4 chu1 tong1 ， bai2 feng4 xin1 ci2 ru4 sheng4 cong1 。
+- di3 zhang3 ju4 tan2 wu2 lang4 yu3 ， lian2 cheng2 zeng1 jia4 zi3 he2 qiong2 。
+- gong4 deng1 xiao3 ge2 chun1 feng1 li3 ， you4 jie3 zheng1 fan1 luo4 zhao4 zhong1 。
+- ci3 qu4 you1 you2 yi4 yin2 yong3 ， gong1 yu2 wu2 xi1 ji4 shi1 tong3 。
+
+## 注释
+
+## 译文
+
+## 赏析

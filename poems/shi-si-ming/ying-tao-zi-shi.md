@@ -1,0 +1,27 @@
+---
+id: shi-si-ming-ying-tao-zi-shi
+title: 樱桃子诗
+titlePinyin: ying1 tao2 zi3 shi1
+titleSlug: ying-tao-zi-shi
+author: 史思明
+authorPinyin: shi3 si1 ming2
+authorSlug: shi-si-ming
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 樱桃子，半赤半已黄。
+- 一半与怀王，一半与周至。
+
+## 拼音
+- ying1 tao2 zi3 ， ban4 chi4 ban4 yi3 huang2 。
+- yi2 ban4 yu3 huai2 wang2 ， yi2 ban4 yu3 zhou1 zhi4 。
+
+## 注释
+
+## 译文
+
+## 赏析

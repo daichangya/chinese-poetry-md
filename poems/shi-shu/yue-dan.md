@@ -1,0 +1,27 @@
+---
+id: shi-shu-yue-dan
+title: 月丹
+titlePinyin: yue4 dan1
+titleSlug: yue-dan
+author: 施枢
+authorPinyin: shi1 shu1
+authorSlug: shi-shu
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 灵种飞来鹤顶红，谁云九转有仙功。
+- 广庭曾侍东风宴，留得霞杯照晚丛。
+
+## 拼音
+- ling2 zhong3 fei1 lai2 he4 ding3 hong2 ， shui2 yun2 jiu3 zhuan3 you3 xian1 gong1 。
+- guang3 ting2 ceng2 shi4 dong1 feng1 yan4 ， liu2 de2 xia2 bei1 zhao4 wan3 cong2 。
+
+## 注释
+
+## 译文
+
+## 赏析

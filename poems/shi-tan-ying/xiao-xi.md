@@ -1,0 +1,27 @@
+---
+id: shi-tan-ying-xiao-xi
+title: 小溪
+titlePinyin: xiao3 xi1
+titleSlug: xiao-xi
+author: 释昙颖
+authorPinyin: shi4 tan2 ying3
+authorSlug: shi-tan-ying
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 小溪庄上掩柴扉，鸡犬无声月色微。
+- 一只小舟临断岸，趁潮来此趁潮归。
+
+## 拼音
+- xiao3 xi1 zhuang1 shang4 yan3 chai2 fei1 ， ji1 quan3 wu2 sheng1 yue4 se4 wei1 。
+- yi4 zhi1 xiao3 zhou1 lin2 duan4 an4 ， chen4 chao2 lai2 ci3 chen4 chao2 gui1 。
+
+## 注释
+
+## 译文
+
+## 赏析

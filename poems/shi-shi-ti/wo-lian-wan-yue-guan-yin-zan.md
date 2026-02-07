@@ -1,0 +1,27 @@
+---
+id: shi-shi-ti-wo-lian-wan-yue-guan-yin-zan
+title: 卧莲玩月观音赞
+titlePinyin: wo4 lian2 wan2 yue4 guan1 yin1 zan4
+titleSlug: wo-lian-wan-yue-guan-yin-zan
+author: 释师体
+authorPinyin: shi4 shi1 ti3
+authorSlug: shi-shi-ti
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 上绝把茆江月白，下无寸土眼头宽。
+- 青莲影里安身法，普与劳生了正观。
+
+## 拼音
+- shang4 jue2 ba3 mao2 jiang1 yue4 bai2 ， xia4 wu2 cun4 tu3 yan3 tou2 kuan1 。
+- qing1 lian2 ying3 li3 an1 shen1 fa3 ， pu3 yu3 lao2 sheng1 le0 zheng4 guan1 。
+
+## 注释
+
+## 译文
+
+## 赏析

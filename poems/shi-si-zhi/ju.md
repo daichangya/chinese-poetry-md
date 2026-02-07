@@ -1,0 +1,25 @@
+---
+id: shi-si-zhi-ju
+title: 句
+titlePinyin: ju4
+titleSlug: ju
+author: 释斯植
+authorPinyin: shi4 si1 zhi2
+authorSlug: shi-si-zhi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 小桃自与春风恶，花不随人独下楼。
+
+## 拼音
+- xiao3 tao2 zi4 yu3 chun1 feng1 e4 ， hua1 bu4 sui2 ren2 du2 xia4 lou2 。
+
+## 注释
+
+## 译文
+
+## 赏析
