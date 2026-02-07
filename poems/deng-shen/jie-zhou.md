@@ -1,0 +1,31 @@
+---
+id: deng-shen-jie-zhou
+title: 解舟
+titlePinyin: jie3 zhou1
+titleSlug: jie-zhou
+author: 邓深
+authorPinyin: deng4 shen1
+authorSlug: deng-shen
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 波面孤篷窄，关头古渡幽。
+- 舟轻疾移岸，岸曲屡回舟。
+- 野润蒸梅雨，天寒张麦秋。
+- 欠伸思晚步，舍棹涉芳洲。
+
+## 拼音
+- bo1 mian4 gu1 peng2 zhai3 ， guan1 tou2 gu3 du4 you1 。
+- zhou1 qing1 ji2 yi2 an4 ， an4 qu3 lü3 hui2 zhou1 。
+- ye3 run4 zheng1 mei2 yu3 ， tian1 han2 zhang1 mai4 qiu1 。
+- qian4 shen1 si1 wan3 bu4 ， she4 zhao4 she4 fang1 zhou1 。
+
+## 注释
+
+## 译文
+
+## 赏析

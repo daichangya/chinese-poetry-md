@@ -1,0 +1,27 @@
+---
+id: deng-shen-dong-jiao
+title: 冬郊
+titlePinyin: dong1 jiao1
+titleSlug: dong-jiao
+author: 邓深
+authorPinyin: deng4 shen1
+authorSlug: deng-shen
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 荒草冈头牧笛，急舂屋角吹烟。
+- 短景做催冬日，微暖号小春天。
+
+## 拼音
+- huang1 cao3 gang1 tou2 mu4 di2 ， ji2 chong1 wu1 jiao3 chui1 yan1 。
+- duan3 jing3 zuo4 cui1 dong1 ri4 ， wei1 nuan3 hao4 xiao3 chun1 tian1 。
+
+## 注释
+
+## 译文
+
+## 赏析

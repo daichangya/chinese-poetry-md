@@ -1,0 +1,27 @@
+---
+id: deng-shen-ci-yun-da-chen-zhong-si-qi-yi
+title: 次韵答陈仲思  其一
+titlePinyin: ci4 yun4 da2 chen2 zhong4 si1     qi2 yi1
+titleSlug: ci-yun-da-chen-zhong-si-qi-yi
+author: 邓深
+authorPinyin: deng4 shen1
+authorSlug: deng-shen
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 彤云冻合晚来风，百里溪山雪色同。
+- 李棨那能说诗兴，嗣宗端复叹途穷。
+
+## 拼音
+- tong2 yun2 dong4 he2 wan3 lai2 feng1 ， bai3 li3 xi1 shan1 xue3 se4 tong2 。
+- li3 qi3 na4 neng2 shuo1 shi1 xing4 ， si4 zong1 duan1 fu4 tan4 tu2 qiong2 。
+
+## 注释
+
+## 译文
+
+## 赏析
