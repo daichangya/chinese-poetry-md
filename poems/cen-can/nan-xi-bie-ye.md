@@ -1,0 +1,27 @@
+---
+id: cen-can-nan-xi-bie-ye
+title: 南溪别业
+titlePinyin: nan2 xi1 bie2 ye4
+titleSlug: nan-xi-bie-ye
+author: 岑参
+authorPinyin: cen2 can1
+authorSlug: cen-can
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 结宇依青嶂，开轩对翠畴。树交花两色，溪合水重流。
+- 竹径春来扫，兰樽夜不收。逍遥自得意，鼓腹醉中游。
+
+## 拼音
+- jie2 yu3 yi1 qing1 zhang4 ， kai1 xuan1 dui4 cui4 chou2 。 shu4 jiao1 hua1 liang3 se4 ， xi1 he2 shui3 zhong4 liu2 。
+- zhu2 jing4 chun1 lai2 sao3 ， lan2 zun1 ye4 bu4 shou1 。 xiao1 yao2 zi4 de2 yi4 ， gu3 fu4 zui4 zhong1 you2 。
+
+## 注释
+
+## 译文
+
+## 赏析
