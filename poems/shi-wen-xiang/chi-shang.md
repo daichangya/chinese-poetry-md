@@ -1,0 +1,27 @@
+---
+id: shi-wen-xiang-chi-shang
+title: 池上
+titlePinyin: chi2 shang4
+titleSlug: chi-shang
+author: 释文珦
+authorPinyin: shi4 wen2 xiang4
+authorSlug: shi-wen-xiang
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 晓来池上独凭阑，无限春愁欲诉难。
+- 最是闰年时候别，楝花开尽尚清寒。
+
+## 拼音
+- xiao3 lai2 chi2 shang4 du2 ping2 lan2 ， wu2 xian4 chun1 chou2 yu4 su4 nan2 。
+- zui4 shi4 run4 nian2 shi2 hou4 bie2 ， lian4 hua1 kai1 jin4 shang4 qing1 han2 。
+
+## 注释
+
+## 译文
+
+## 赏析

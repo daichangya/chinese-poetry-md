@@ -1,0 +1,27 @@
+---
+id: shi-yan-shou-ji-cui-feng
+title: 积翠峰
+titlePinyin: ji1 cui4 feng1
+titleSlug: ji-cui-feng
+author: 释延寿
+authorPinyin: shi4 yan2 shou4
+authorSlug: shi-yan-shou
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 翠压群峰地形直，落日猿声在空碧。
+- 天风吹散断崖云，古松长露三秋色。
+
+## 拼音
+- cui4 ya1 qun2 feng1 di4 xing2 zhi2 ， luo4 ri4 yuan2 sheng1 zai4 kong1 bi4 。
+- tian1 feng1 chui1 san4 duan4 ya2 yun2 ， gu3 song1 chang2 lu4 san1 qiu1 se4 。
+
+## 注释
+
+## 译文
+
+## 赏析

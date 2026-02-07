@@ -1,0 +1,27 @@
+---
+id: shi-wen-xiang-pu-tao-hua
+title: 蒲萄画
+titlePinyin: pu2 tao2 hua4
+titleSlug: pu-tao-hua
+author: 释文珦
+authorPinyin: shi4 wen2 xiang4
+authorSlug: shi-wen-xiang
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 弱蔓引修藤，垂旒泫水晶。
+- 忆曾江路见，风露熟秋棚。
+
+## 拼音
+- ruo4 man4 yin3 xiu1 teng2 ， chui2 liu2 xuan4 shui3 jing1 。
+- yi4 ceng2 jiang1 lu4 jian4 ， feng1 lu4 shu2 qiu1 peng2 。
+
+## 注释
+
+## 译文
+
+## 赏析

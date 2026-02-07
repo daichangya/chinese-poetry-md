@@ -1,0 +1,27 @@
+---
+id: shi-wen-xiang-liu-yan
+title: 柳言
+titlePinyin: liu3 yan2
+titleSlug: liu-yan
+author: 释文珦
+authorPinyin: shi4 wen2 xiang4
+authorSlug: shi-wen-xiang
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 彭泽门前闲草木，丝丝那向路傍生。
+- 便教系得春风住，也与时人管送迎。
+
+## 拼音
+- peng2 ze2 men2 qian2 xian2 cao3 mu4 ， si1 si1 na4 xiang4 lu4 bang4 sheng1 。
+- bian4 jiao4 xi4 de2 chun1 feng1 zhu4 ， ye3 yu3 shi2 ren2 guan3 song4 ying2 。
+
+## 注释
+
+## 译文
+
+## 赏析

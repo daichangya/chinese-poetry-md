@@ -1,0 +1,27 @@
+---
+id: shi-xian-jing-shi-er-shi-qi-qi
+title: 十二时  其七
+titlePinyin: shi2 er4 shi2     qi2 qi1
+titleSlug: shi-er-shi-qi-qi
+author: 释咸静
+authorPinyin: shi4 xian2 jing4
+authorSlug: shi-xian-jing
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 日南午，卓然独耀无今古。
+- 粪埽堆头玉马嘶，瑠璃殿上金刚舞。
+
+## 拼音
+- ri4 nan2 wu3 ， zhuo2 ran2 du2 yao4 wu2 jin1 gu3 。
+- fen4 sao4 dui1 tou2 yu4 ma3 si1 ， liu2 li2 dian4 shang4 jin1 gang1 wu3 。
+
+## 注释
+
+## 译文
+
+## 赏析

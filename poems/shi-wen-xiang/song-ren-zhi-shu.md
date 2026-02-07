@@ -1,0 +1,31 @@
+---
+id: shi-wen-xiang-song-ren-zhi-shu
+title: 送人之蜀
+titlePinyin: song4 ren2 zhi1 shu3
+titleSlug: song-ren-zhi-shu
+author: 释文珦
+authorPinyin: shi4 wen2 xiang4
+authorSlug: shi-wen-xiang
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 佳友相辞去，西游卒未还。
+- 单车行数月，万水与千山。
+- 雨雪年华晚，烟尘道路艰。
+- 莫教音信绝，添我鬓毛斑。
+
+## 拼音
+- jia1 you3 xiang1 ci2 qu4 ， xi1 you2 zu2 wei4 hai2 。
+- dan1 che1 xing2 shu4 yue4 ， wan4 shui3 yu3 qian1 shan1 。
+- yu3 xue3 nian2 hua2 wan3 ， yan1 chen2 dao4 lu4 jian1 。
+- mo4 jiao4 yin1 xin4 jue2 ， tian1 wo3 bin4 mao2 ban1 。
+
+## 注释
+
+## 译文
+
+## 赏析
