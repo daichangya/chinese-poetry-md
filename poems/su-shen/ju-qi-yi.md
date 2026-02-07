@@ -1,0 +1,25 @@
+---
+id: su-shen-ju-qi-yi
+title: 句  其一
+titlePinyin: ju4     qi2 yi1
+titleSlug: ju-qi-yi
+author: 苏绅
+authorPinyin: su1 shen1
+authorSlug: su-shen
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 游人汉女投珠路，野火荆山出猎朝。
+
+## 拼音
+- you2 ren2 han4 nü3 tou2 zhu1 lu4 ， ye3 huo3 jing1 shan1 chu1 lie4 chao2 。
+
+## 注释
+
+## 译文
+
+## 赏析

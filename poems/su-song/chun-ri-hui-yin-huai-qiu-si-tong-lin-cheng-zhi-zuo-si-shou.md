@@ -1,0 +1,27 @@
+---
+id: su-song-chun-ri-hui-yin-huai-qiu-si-tong-lin-cheng-zhi-zuo-si-shou
+title: 春日会饮怀丘思同林成之作四首
+titlePinyin: chun1 ri4 hui4 yin3 huai2 qiu1 si1 tong2 lin2 cheng2 zhi1 zuo4 si4 shou3
+titleSlug: chun-ri-hui-yin-huai-qiu-si-tong-lin-cheng-zhi-zuo-si-shou
+author: 苏颂
+authorPinyin: su1 song4
+authorSlug: su-song
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 浊酒浇肠遣旅怀，春宵常苦漏声催。
+- 坐中不见丘夫子，明月无光厌举杯。
+
+## 拼音
+- zhuo2 jiu3 jiao1 chang2 qian3 lü3 huai2 ， chun1 xiao1 chang2 ku3 lou4 sheng1 cui1 。
+- zuo4 zhong1 bu2 jian4 qiu1 fu1 zi3 ， ming2 yue4 wu2 guang1 yan4 ju3 bei1 。
+
+## 注释
+
+## 译文
+
+## 赏析

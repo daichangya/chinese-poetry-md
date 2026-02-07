@@ -1,0 +1,31 @@
+---
+id: su-shi-shi-ri-ou-zhi-ye-ren-wang-shi-zhi-ju-you-shen-jiang-yu-qi-shi-zi-cheng-t-f4c2484e
+title: 是日偶至野人汪氏之居有神降于其室自称天人李全字德通善篆字用笔奇妙而字不可识云天篆也与予言有所会者复作一篇仍用前韵
+titlePinyin: shi4 ri4 ou3 zhi4 ye3 ren2 wang1 shi4 zhi1 ju1 you3 shen2 jiang4 yu2 qi2 shi4 zi4 cheng1 tian1 ren2 li3 quan2 zi4 de2 tong1 shan4 zhuan4 zi4 yong4 bi3 qi2 miao4 er2 zi4 bu4 ke3 shi2 yun2 tian1 zhuan4 ye3 yu3 yu3 yan2 you3 suo3 hui4 zhe3 fu4 zuo4 yi4 pian1 reng2 yong4 qian2 yun4
+titleSlug: shi-ri-ou-zhi-ye-ren-wang-shi-zhi-ju-you-shen-jiang-yu-qi-shi-zi-cheng-t-f4c2484e
+author: 苏轼
+authorPinyin: su1 shi4
+authorSlug: su-shi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 酒渴思茶漫扣门，那知竹里是仙村。
+- 已闻龟策通神语，更看龙蛇落笔痕。
+- 色瘁形枯应笑屈，道存目击岂非温。
+- 归来独扫空斋卧，犹恐微言入梦魂。
+
+## 拼音
+- jiu3 ke3 si1 cha2 man4 kou4 men2 ， na4 zhi1 zhu2 li3 shi4 xian1 cun1 。
+- yi3 wen2 gui1 ce4 tong1 shen2 yu3 ， geng4 kan4 long2 she2 luo4 bi3 hen2 。
+- se4 cui4 xing2 ku1 ying4 xiao4 qu1 ， dao4 cun2 mu4 ji1 qi3 fei1 wen1 。
+- gui1 lai2 du2 sao3 kong1 zhai1 wo4 ， you2 kong3 wei1 yan2 ru4 meng4 hun2 。
+
+## 注释
+
+## 译文
+
+## 赏析

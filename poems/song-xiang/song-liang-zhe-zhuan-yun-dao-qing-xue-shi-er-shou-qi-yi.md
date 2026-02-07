@@ -1,0 +1,31 @@
+---
+id: song-xiang-song-liang-zhe-zhuan-yun-dao-qing-xue-shi-er-shou-qi-yi
+title: 送两浙转运道卿学士二首  其一
+titlePinyin: song4 liang3 zhe4 zhuan3 yun4 dao4 qing1 xue2 shi4 er4 shou3     qi2 yi1
+titleSlug: song-liang-zhe-zhuan-yun-dao-qing-xue-shi-er-shou-qi-yi
+author: 宋庠
+authorPinyin: song4 xiang2
+authorSlug: song-xiang
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 彼美闺台彦，胡为江海行。
+- 真贪子舍养，不厌使轺轻。
+- 茂草姑苏苑，苍山越绝城。
+- 莫因羊酪味，终拟笑诸伧。
+
+## 拼音
+- bi3 mei3 gui1 tai2 yan4 ， hu2 wei4 jiang1 hai3 xing2 。
+- zhen1 tan1 zi3 she4 yang3 ， bu2 yan4 shi3 yao2 qing1 。
+- mao4 cao3 gu1 su1 yuan4 ， cang1 shan1 yue4 jue2 cheng2 。
+- mo4 yin1 yang2 lao4 wei4 ， zhong1 ni3 xiao4 zhu1 chen0 。
+
+## 注释
+
+## 译文
+
+## 赏析

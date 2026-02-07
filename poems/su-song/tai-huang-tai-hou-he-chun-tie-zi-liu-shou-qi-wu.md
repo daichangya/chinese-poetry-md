@@ -1,0 +1,27 @@
+---
+id: su-song-tai-huang-tai-hou-he-chun-tie-zi-liu-shou-qi-wu
+title: 太皇太后合春帖子六首  其五
+titlePinyin: tai4 huang2 tai4 hou4 he2 chun1 tie3 zi0 liu4 shou3     qi2 wu3
+titleSlug: tai-huang-tai-hou-he-chun-tie-zi-liu-shou-qi-wu
+author: 苏颂
+authorPinyin: su1 song4
+authorSlug: su-song
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 荆楚牛人敺厉气，安丰枣腊祀苍精。
+- 圣朝虽举前朝事，不为禳祈为劝耕。
+
+## 拼音
+- jing1 chu3 niu2 ren2 qu1 li4 qi4 ， an1 feng1 zao3 la4 si4 cang1 jing1 。
+- sheng4 chao2 sui1 ju3 qian2 chao2 shi4 ， bu2 wei4 rang2 qi2 wei4 quan4 geng1 。
+
+## 注释
+
+## 译文
+
+## 赏析

@@ -1,0 +1,31 @@
+---
+id: su-guo-he-wu-zhong-shan-yu-hou-qi-er
+title: 和毋仲山雨后  其二
+titlePinyin: he2 wu2 zhong4 shan1 yu3 hou4     qi2 er4
+titleSlug: he-wu-zhong-shan-yu-hou-qi-er
+author: 苏过
+authorPinyin: su1 guo4
+authorSlug: su-guo
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 杜陵有佳句，久旱雨亦好。
+- 从教怨行旅，颇觉慰父老。
+- 我似广文贫，饱食平生少。
+- 忍饥山泽儒，未易窥三岛。
+
+## 拼音
+- du4 ling2 you3 jia1 ju4 ， jiu3 han4 yu3 yi4 hao3 。
+- cong2 jiao4 yuan4 xing2 lü3 ， po1 jue2 wei4 fu4 lao3 。
+- wo3 si4 guang3 wen2 pin2 ， bao3 shi2 ping2 sheng1 shao3 。
+- ren3 ji1 shan1 ze2 ru2 ， wei4 yi4 kui1 san1 dao3 。
+
+## 注释
+
+## 译文
+
+## 赏析
