@@ -1,0 +1,27 @@
+---
+id: han-qi-zai-fu-liu-zhi-ci-er-que-qi-er
+title: 再赋柳枝词二阕  其二
+titlePinyin: zai4 fu4 liu3 zhi1 ci2 er4 que4     qi2 er4
+titleSlug: zai-fu-liu-zhi-ci-er-que-qi-er
+author: 韩琦
+authorPinyin: han2 qi2
+authorSlug: han-qi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 叶叶新长约黛蛾，丝丝轻软任风梭。
+- 啼莺便学歌喉啭，知是春来舞意多。
+
+## 拼音
+- ye4 ye4 xin1 chang2 yue1 dai4 e2 ， si1 si1 qing1 ruan3 ren4 feng1 suo1 。
+- ti2 ying1 bian4 xue2 ge1 hou2 zhuan4 ， zhi1 shi4 chun1 lai2 wu3 yi4 duo1 。
+
+## 注释
+
+## 译文
+
+## 赏析

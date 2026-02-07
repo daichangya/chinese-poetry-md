@@ -1,0 +1,27 @@
+---
+id: han-biao-chong-fu-an-qi-san
+title: 崇福庵  其三
+titlePinyin: chong2 fu2 an1     qi2 san1
+titleSlug: chong-fu-an-qi-san
+author: 韩淲
+authorPinyin: han2 biao1
+authorSlug: han-biao
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 秋晴行到水晶山，山近岚光起灭间。
+- 应有幽禅在其寺，避人甘占一生闲。
+
+## 拼音
+- qiu1 qing2 xing2 dao4 shui3 jing1 shan1 ， shan1 jin4 lan2 guang1 qi3 mie4 jian1 。
+- ying1 you3 you1 chan2 zai4 qi2 si4 ， bi4 ren2 gan1 zhan4 yi4 sheng1 xian2 。
+
+## 注释
+
+## 译文
+
+## 赏析

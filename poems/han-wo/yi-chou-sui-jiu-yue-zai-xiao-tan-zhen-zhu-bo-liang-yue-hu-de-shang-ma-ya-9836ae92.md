@@ -1,0 +1,27 @@
+---
+id: han-wo-yi-chou-sui-jiu-yue-zai-xiao-tan-zhen-zhu-bo-liang-yue-hu-de-shang-ma-ya-9836ae92
+title: 乙丑岁九月在萧滩镇驻泊两月忽得商马杨迢…因书四十字
+titlePinyin: yi3 chou3 sui4 jiu3 yue4 zai4 xiao1 tan1 zhen4 zhu4 bo2 liang3 yue4 hu1 de2 shang1 ma3 yang2 tiao2 … yin1 shu1 si4 shi2 zi4
+titleSlug: yi-chou-sui-jiu-yue-zai-xiao-tan-zhen-zhu-bo-liang-yue-hu-de-shang-ma-ya-9836ae92
+author: 韩偓
+authorPinyin: han2 wo4
+authorSlug: han-wo
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 旅寓在江郊，秋风正寂寥。紫泥虚宠奖，白发已渔樵。
+- 事往凄凉在，时危志气销。若为将朽质，犹拟杖于朝。
+
+## 拼音
+- lü3 yu4 zai4 jiang1 jiao1 ， qiu1 feng1 zheng4 ji4 liao2 。 zi3 ni2 xu1 chong3 jiang3 ， bai2 fa4 yi3 yu2 qiao2 。
+- shi4 wang3 qi1 liang2 zai4 ， shi2 wei1 zhi4 qi4 xiao1 。 ruo4 wei4 jiang1 xiu3 zhi4 ， you2 ni3 zhang4 yu2 chao2 。
+
+## 注释
+
+## 译文
+
+## 赏析

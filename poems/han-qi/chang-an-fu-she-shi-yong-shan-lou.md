@@ -1,0 +1,31 @@
+---
+id: han-qi-chang-an-fu-she-shi-yong-shan-lou
+title: 长安府舍十咏 山楼
+titlePinyin: chang2 an1 fu3 she4 shi2 yong3   shan1 lou2
+titleSlug: chang-an-fu-she-shi-yong-shan-lou
+author: 韩琦
+authorPinyin: han2 qi2
+authorSlug: han-qi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 西北高楼上，南山日面栏。
+- 势笼秦地胜，阴落渭波寒。
+- 带雨新屏活，穿云古道难。
+- 仙扃如可造，便拟挂朝冠。
+
+## 拼音
+- xi1 bei3 gao1 lou2 shang4 ， nan2 shan1 ri4 mian4 lan2 。
+- shi4 long2 qin2 di4 sheng4 ， yin1 luo4 wei4 bo1 han2 。
+- dai4 yu3 xin1 ping2 huo2 ， chuan1 yun2 gu3 dao4 nan2 。
+- xian1 jiong1 ru2 ke3 zao4 ， bian4 ni3 gua4 chao2 guan1 。
+
+## 注释
+
+## 译文
+
+## 赏析

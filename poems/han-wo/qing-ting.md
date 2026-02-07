@@ -1,0 +1,27 @@
+---
+id: han-wo-qing-ting
+title: 蜻蜓
+titlePinyin: qing1 ting2
+titleSlug: qing-ting
+author: 韩偓
+authorPinyin: han2 wo4
+authorSlug: han-wo
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 碧玉眼睛云母翅，轻于粉蝶瘦于蜂。
+- 坐来迎拂波光久，岂是殷勤为蓼丛。
+
+## 拼音
+- bi4 yu4 yan3 jing1 yun2 mu3 chi4 ， qing1 yu2 fen3 die2 shou4 yu2 feng1 。
+- zuo4 lai2 ying2 fu2 bo1 guang1 jiu3 ， qi3 shi4 yin1 qin2 wei4 liao3 cong2 。
+
+## 注释
+
+## 译文
+
+## 赏析

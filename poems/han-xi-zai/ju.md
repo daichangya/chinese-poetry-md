@@ -1,0 +1,25 @@
+---
+id: han-xi-zai-ju
+title: 句
+titlePinyin: ju4
+titleSlug: ju
+author: 韩熙载
+authorPinyin: han2 xi1 zai3
+authorSlug: han-xi-zai
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 几人平地上，看我半天中。
+
+## 拼音
+- ji3 ren2 ping2 di4 shang4 ， kan4 wo3 ban4 tian1 zhong1 。
+
+## 注释
+
+## 译文
+
+## 赏析

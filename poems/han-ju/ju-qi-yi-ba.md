@@ -1,0 +1,25 @@
+---
+id: han-ju-ju-qi-yi-ba
+title: 句  其一八
+titlePinyin: ju4     qi2 yi1 ba1
+titleSlug: ju-qi-yi-ba
+author: 韩驹
+authorPinyin: han2 ju1
+authorSlug: han-ju
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 冰壶骨相自清臞。
+
+## 拼音
+- bing1 hu2 gu3 xiang1 zi4 qing1 qu2 。
+
+## 注释
+
+## 译文
+
+## 赏析

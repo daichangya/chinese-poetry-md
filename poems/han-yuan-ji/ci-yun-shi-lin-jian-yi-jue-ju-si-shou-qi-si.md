@@ -1,0 +1,27 @@
+---
+id: han-yuan-ji-ci-yun-shi-lin-jian-yi-jue-ju-si-shou-qi-si
+title: 次韵石林见贻绝句四首  其四
+titlePinyin: ci4 yun4 shi2 lin2 jian4 yi2 jue2 ju4 si4 shou3     qi2 si4
+titleSlug: ci-yun-shi-lin-jian-yi-jue-ju-si-shou-qi-si
+author: 韩元吉
+authorPinyin: han2 yuan2 ji2
+authorSlug: han-yuan-ji
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 先生德业万人雄，寻尺犹收爨下桐。
+- 乞与朱弦弄流水，坐听岩壑起松风。
+
+## 拼音
+- xian1 sheng1 de2 ye4 wan4 ren2 xiong2 ， xun2 chi3 you2 shou1 cuan4 xia4 tong2 。
+- qi3 yu3 zhu1 xian2 nong4 liu2 shui3 ， zuo4 ting1 yan2 he4 qi3 song1 feng1 。
+
+## 注释
+
+## 译文
+
+## 赏析

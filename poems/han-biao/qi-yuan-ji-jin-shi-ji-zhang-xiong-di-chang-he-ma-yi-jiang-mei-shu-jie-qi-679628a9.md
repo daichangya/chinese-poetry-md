@@ -1,0 +1,27 @@
+---
+id: han-biao-qi-yuan-ji-jin-shi-ji-zhang-xiong-di-chang-he-ma-yi-jiang-mei-shu-jie-qi-679628a9
+title: 器远寄近诗季章兄弟唱和蟆颐江梅术皆其所也因题二绝寄答盖曹李同榜  其二
+titlePinyin: qi4 yuan3 ji4 jin4 shi1 ji4 zhang1 xiong1 di4 chang4 he2 ma0 yi2 jiang1 mei2 shu4 jie1 qi2 suo3 ye3 yin1 ti2 er4 jue2 ji4 da2 gai4 cao2 li3 tong2 bang3     qi2 er4
+titleSlug: qi-yuan-ji-jin-shi-ji-zhang-xiong-di-chang-he-ma-yi-jiang-mei-shu-jie-qi-679628a9
+author: 韩淲
+authorPinyin: han2 biao1
+authorSlug: han-biao
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 三人唱第记曾看，往事流云话亦难。
+- 蜀道有诗犹寄我，才情何不溺儒冠。
+
+## 拼音
+- san1 ren2 chang4 di4 ji4 ceng2 kan4 ， wang3 shi4 liu2 yun2 hua4 yi4 nan2 。
+- shu3 dao4 you3 shi1 you2 ji4 wo3 ， cai2 qing2 he2 bu2 ni4 ru2 guan1 。
+
+## 注释
+
+## 译文
+
+## 赏析

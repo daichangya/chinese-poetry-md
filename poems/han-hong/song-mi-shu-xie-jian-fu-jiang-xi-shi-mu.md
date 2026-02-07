@@ -1,0 +1,27 @@
+---
+id: han-hong-song-mi-shu-xie-jian-fu-jiang-xi-shi-mu
+title: 送秘书谢监赴江西使幕
+titlePinyin: song4 mi4 shu1 xie4 jian1 fu4 jiang1 xi1 shi3 mu4
+titleSlug: song-mi-shu-xie-jian-fu-jiang-xi-shi-mu
+author: 韩翃
+authorPinyin: han2 hong2
+authorSlug: han-hong
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 谢监忆山程，辞家万里行。寒衣傍楚色，孤枕宿潮声。
+- 小寇不足问，新诗应渐清。府公相待日，引旆出江城。
+
+## 拼音
+- xie4 jian1 yi4 shan1 cheng2 ， ci2 jia1 wan4 li3 xing2 。 han2 yi1 bang4 chu3 se4 ， gu1 zhen3 su4 chao2 sheng1 。
+- xiao3 kou4 bu4 zu2 wen4 ， xin1 shi1 ying4 jian4 qing1 。 fu3 gong1 xiang1 dai4 ri4 ， yin3 pei4 chu1 jiang1 cheng2 。
+
+## 注释
+
+## 译文
+
+## 赏析

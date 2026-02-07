@@ -1,0 +1,27 @@
+---
+id: han-qi-yue-gu-tang-ba-yong-shao-yao
+title: 阅古堂八咏 芍药
+titlePinyin: yue4 gu3 tang2 ba1 yong3   shao2 yao4
+titleSlug: yue-gu-tang-ba-yong-shao-yao
+author: 韩琦
+authorPinyin: han2 qi2
+authorSlug: han-qi
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 从来良守重农桑，何事栽花玷此堂。
+- 已爱昔贤形藻绘，更移嘉卉伴馨香。
+
+## 拼音
+- cong2 lai2 liang2 shou3 zhong4 nong2 sang1 ， he2 shi4 zai1 hua1 dian4 ci3 tang2 。
+- yi3 ai4 xi1 xian2 xing2 zao3 hui4 ， geng4 yi2 jia1 hui4 ban4 xin1 xiang1 。
+
+## 注释
+
+## 译文
+
+## 赏析

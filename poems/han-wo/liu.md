@@ -1,0 +1,27 @@
+---
+id: han-wo-liu
+title: 柳
+titlePinyin: liu3
+titleSlug: liu
+author: 韩偓
+authorPinyin: han2 wo4
+authorSlug: han-wo
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 一笼金线拂弯桥，几被儿童损细腰。
+- 无奈灵和标格在，春来依旧褭长条。
+
+## 拼音
+- yi4 long2 jin1 xian4 fu2 wan1 qiao2 ， ji3 bei4 er2 tong2 sun3 xi4 yao1 。
+- wu2 nai4 ling2 he2 biao1 ge2 zai4 ， chun1 lai2 yi1 jiu4 niao3 chang2 tiao2 。
+
+## 注释
+
+## 译文
+
+## 赏析

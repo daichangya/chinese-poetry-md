@@ -1,0 +1,27 @@
+---
+id: han-wo-lao-jiang
+title: 老将
+titlePinyin: lao3 jiang4
+titleSlug: lao-jiang
+author: 韩偓
+authorPinyin: han2 wo4
+authorSlug: han-wo
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 折枪黄马倦尘埃，掩耳凶徒怕疾雷。雪密酒酣偷号去，
+- 坐久不须轻矍铄，至今双擘硬弓开。
+
+## 拼音
+- zhe2 qiang1 huang2 ma3 juan4 chen2 ai1 ， yan3 er3 xiong1 tu2 pa4 ji2 lei2 。 xue3 mi4 jiu3 han1 tou1 hao4 qu4 ，
+- zuo4 jiu3 bu4 xu1 qing1 jue2 shuo4 ， zhi4 jin1 shuang1 bo4 ying4 gong1 kai1 。
+
+## 注释
+
+## 译文
+
+## 赏析

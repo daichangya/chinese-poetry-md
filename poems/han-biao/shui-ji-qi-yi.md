@@ -1,0 +1,27 @@
+---
+id: han-biao-shui-ji-qi-yi
+title: 水际  其一
+titlePinyin: shui3 ji4     qi2 yi1
+titleSlug: shui-ji-qi-yi
+author: 韩淲
+authorPinyin: han2 biao1
+authorSlug: han-biao
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 浪连风影浸垂云，冷气吹林树色分。
+- 正是山中春夏接，老身时看白鸥群。
+
+## 拼音
+- lang4 lian2 feng1 ying3 jin4 chui2 yun2 ， leng3 qi4 chui1 lin2 shu4 se4 fen1 。
+- zheng4 shi4 shan1 zhong1 chun1 xia4 jie1 ， lao3 shen1 shi2 kan4 bai2 ou1 qun2 。
+
+## 注释
+
+## 译文
+
+## 赏析

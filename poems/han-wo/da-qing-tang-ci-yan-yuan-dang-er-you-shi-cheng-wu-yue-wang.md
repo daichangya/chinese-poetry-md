@@ -1,0 +1,27 @@
+---
+id: han-wo-da-qing-tang-ci-yan-yuan-dang-er-you-shi-cheng-wu-yue-wang
+title: 大庆堂赐宴元珰而有诗呈吴越王
+titlePinyin: da4 qing4 tang2 ci4 yan4 yuan2 dang1 er2 you3 shi1 cheng2 wu2 yue4 wang2
+titleSlug: da-qing-tang-ci-yan-yuan-dang-er-you-shi-cheng-wu-yue-wang
+author: 韩偓
+authorPinyin: han2 wo4
+authorSlug: han-wo
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 非为亲贤展绮筵，恒常宁敢恣游盘。绿搓杨柳绵初软，
+- 笙歌风紧人酣醉，却绕珍丛烂熳看。
+
+## 拼音
+- fei1 wei4 qin1 xian2 zhan3 qi3 yan2 ， heng2 chang2 ning2 gan3 zi4 you2 pan2 。 lü4 cuo1 yang2 liu3 mian2 chu1 ruan3 ，
+- sheng1 ge1 feng1 jin3 ren2 han1 zui4 ， que4 rao4 zhen1 cong2 lan4 man4 kan4 。
+
+## 注释
+
+## 译文
+
+## 赏析
