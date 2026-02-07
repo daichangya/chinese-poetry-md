@@ -1,0 +1,29 @@
+---
+id: jia-dao-xie-xin-wen-yi-zhang-ji-han-yu-tu-zhong-cheng
+title: 携新文诣张籍韩愈途中成
+titlePinyin: xie2 xin1 wen2 yi4 zhang1 ji2 han2 yu4 tu2 zhong1 cheng2
+titleSlug: xie-xin-wen-yi-zhang-ji-han-yu-tu-zhong-cheng
+author: 贾岛
+authorPinyin: jia3 dao3
+authorSlug: jia-dao
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 袖有新成诗，欲见张韩老。青竹未生翼，一步万里道。
+- 仰望青冥天，云雪压我脑。失却终南山，惆怅满怀抱。
+- 安得西北风，身愿变蓬草。地只闻此语，突出惊我倒。
+
+## 拼音
+- xiu4 you3 xin1 cheng2 shi1 ， yu4 jian4 zhang1 han2 lao3 。 qing1 zhu2 wei4 sheng1 yi4 ， yi2 bu4 wan4 li3 dao4 。
+- yang3 wang4 qing1 ming2 tian1 ， yun2 xue3 ya1 wo3 nao3 。 shi1 que4 zhong1 nan2 shan1 ， chou2 chang4 man3 huai2 bao4 。
+- an1 de2 xi1 bei3 feng1 ， shen1 yuan4 bian4 peng2 cao3 。 di4 zhi1 wen2 ci3 yu3 ， tu1 chu1 jing1 wo3 dao3 。
+
+## 注释
+
+## 译文
+
+## 赏析

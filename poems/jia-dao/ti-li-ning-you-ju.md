@@ -1,0 +1,31 @@
+---
+id: jia-dao-ti-li-ning-you-ju
+title: 题李凝幽居
+titlePinyin: ti2 li3 ning2 you1 ju1
+titleSlug: ti-li-ning-you-ju
+author: 贾岛
+authorPinyin: jia3 dao3
+authorSlug: jia-dao
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 闲居少邻并，草径入荒园。
+- 鸟宿池边树，僧敲月下门。
+- 过桥分野色，移石动云根。
+- 暂去还来此，幽期不负言。
+
+## 拼音
+- xian2 ju1 shao3 lin2 bing4 ， cao3 jing4 ru4 huang1 yuan2 。
+- niao3 su4 chi2 bian1 shu4 ， seng1 qiao1 yue4 xia4 men2 。
+- guo4 qiao2 fen1 ye3 se4 ， yi2 shi2 dong4 yun2 gen1 。
+- zan4 qu4 hai2 lai2 ci3 ， you1 qi1 bu2 fu4 yan2 。
+
+## 注释
+
+## 译文
+
+## 赏析
