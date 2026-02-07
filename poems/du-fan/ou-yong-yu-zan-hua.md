@@ -1,0 +1,27 @@
+---
+id: du-fan-ou-yong-yu-zan-hua
+title: 偶咏玉簪花
+titlePinyin: ou3 yong3 yu4 zan1 hua1
+titleSlug: ou-yong-yu-zan-hua
+author: 杜范
+authorPinyin: du4 fan4
+authorSlug: du-fan
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 叶带春姿如泼淀，花多秋色似凝酥。
+- 怳疑鹭立清波上，只欠渔舟凑画图。
+
+## 拼音
+- ye4 dai4 chun1 zi1 ru2 po1 dian4 ， hua1 duo1 qiu1 se4 si4 ning2 su1 。
+- huang3 yi2 lu4 li4 qing1 bo1 shang4 ， zhi1 qian4 yu2 zhou1 cou4 hua4 tu2 。
+
+## 注释
+
+## 译文
+
+## 赏析

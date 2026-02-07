@@ -1,0 +1,33 @@
+---
+id: du-fu-yong-huai-gu-ji-qi-wu-yong-huai-gu-ji-wu-shou-qi-wu
+title: 咏怀古迹·其五·咏怀古迹五首·其五
+titlePinyin: yong3 huai2 gu3 ji4 · qi2 wu3 · yong3 huai2 gu3 ji4 wu3 shou3 · qi2 wu3
+titleSlug: yong-huai-gu-ji-qi-wu-yong-huai-gu-ji-wu-shou-qi-wu
+author: 杜甫
+authorPinyin: du4 fu3
+authorSlug: du-fu
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 蒙学
+  - 唐诗三百首
+  - 七言律诗
+---
+## 正文
+- 诸葛大名垂宇宙，宗臣遗像肃清高。
+- 三分割据纡筹策，万古云霄一羽毛。
+- 伯仲之间见伊吕，指挥若定失萧曹。
+- 运移汉祚终难复，志决身歼军务劳。
+
+## 拼音
+- zhu1 ge3 da4 ming2 chui2 yu3 zhou4 ， zong1 chen2 yi2 xiang4 su4 qing1 gao1 。
+- san1 fen1 ge1 ju4 yu1 chou2 ce4 ， wan4 gu3 yun2 xiao1 yi4 yu3 mao2 。
+- bo2 zhong4 zhi1 jian1 jian4 yi1 lü3 ， zhi3 hui1 ruo4 ding4 shi1 xiao1 cao2 。
+- yun4 yi2 han4 zuo4 zhong1 nan2 fu4 ， zhi4 jue2 shen1 jian1 jun1 wu4 lao2 。
+
+## 注释
+
+## 译文
+
+## 赏析

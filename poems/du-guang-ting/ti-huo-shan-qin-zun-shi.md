@@ -1,0 +1,27 @@
+---
+id: du-guang-ting-ti-huo-shan-qin-zun-shi
+title: 题霍山秦尊师
+titlePinyin: ti2 huo4 shan1 qin2 zun1 shi1
+titleSlug: ti-huo-shan-qin-zun-shi
+author: 杜光庭
+authorPinyin: du4 guang1 ting2
+authorSlug: du-guang-ting
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 老鹤玄猿伴采芝，有时长叹独移时。
+- 翠娥红粉婵娟剑，杀尽世人人不知。
+
+## 拼音
+- lao3 he4 xuan2 yuan2 ban4 cai3 zhi1 ， you3 shi2 chang2 tan4 du2 yi2 shi2 。
+- cui4 e2 hong2 fen3 chan2 juan1 jian4 ， sha1 jin4 shi4 ren2 ren2 bu4 zhi1 。
+
+## 注释
+
+## 译文
+
+## 赏析

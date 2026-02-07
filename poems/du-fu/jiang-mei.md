@@ -1,0 +1,27 @@
+---
+id: du-fu-jiang-mei
+title: 江梅
+titlePinyin: jiang1 mei2
+titleSlug: jiang-mei
+author: 杜甫
+authorPinyin: du4 fu3
+authorSlug: du-fu
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 梅蕊腊前破，梅花年后多。绝知春意好，最奈客愁何。
+- 雪树元同色，江风亦自波。故园不可见，巫岫郁嵯峨。
+
+## 拼音
+- mei2 rui3 la4 qian2 po4 ， mei2 hua1 nian2 hou4 duo1 。 jue2 zhi1 chun1 yi4 hao3 ， zui4 nai4 ke4 chou2 he2 。
+- xue3 shu4 yuan2 tong2 se4 ， jiang1 feng1 yi4 zi4 bo1 。 gu4 yuan2 bu4 ke3 jian4 ， wu1 xiu4 yu4 cuo2 e2 。
+
+## 注释
+
+## 译文
+
+## 赏析
