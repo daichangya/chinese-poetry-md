@@ -1,0 +1,27 @@
+---
+id: li-xin-xi-shu-yuan-ming-ting-bi
+title: 戏书元明厅壁
+titlePinyin: xi4 shu1 yuan2 ming2 ting1 bi4
+titleSlug: xi-shu-yuan-ming-ting-bi
+author: 李新
+authorPinyin: li3 xin1
+authorSlug: li-xin
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 涨急滩流随眼落，市忙乌合转头空。
+- 一年三百六十日，却有半年闲守穷。
+
+## 拼音
+- zhang3 ji2 tan1 liu2 sui2 yan3 luo4 ， shi4 mang2 wu1 he2 zhuan3 tou2 kong1 。
+- yi4 nian2 san1 bai3 liu4 shi2 ri4 ， que4 you3 ban4 nian2 xian2 shou3 qiong2 。
+
+## 注释
+
+## 译文
+
+## 赏析
