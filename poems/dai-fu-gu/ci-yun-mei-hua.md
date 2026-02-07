@@ -1,0 +1,27 @@
+---
+id: dai-fu-gu-ci-yun-mei-hua
+title: 次韵梅花
+titlePinyin: ci4 yun4 mei2 hua1
+titleSlug: ci-yun-mei-hua
+author: 戴复古
+authorPinyin: dai4 fu4 gu3
+authorSlug: dai-fu-gu
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 百花看遍莫如梅，更向群芳缺际开。
+- 寒冷怕行门外路，为渠踏雪过山来。
+
+## 拼音
+- bai3 hua1 kan4 bian4 mo4 ru2 mei2 ， geng4 xiang4 qun2 fang1 que1 ji4 kai1 。
+- han2 leng3 pa4 xing2 men2 wai4 lu4 ， wei4 qu2 ta4 xue3 guo4 shan1 lai2 。
+
+## 注释
+
+## 译文
+
+## 赏析

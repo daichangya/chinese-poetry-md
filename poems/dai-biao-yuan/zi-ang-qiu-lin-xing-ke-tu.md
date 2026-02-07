@@ -1,0 +1,27 @@
+---
+id: dai-biao-yuan-zi-ang-qiu-lin-xing-ke-tu
+title: 子昂秋林行客图
+titlePinyin: zi3 ang2 qiu1 lin2 xing2 ke4 tu2
+titleSlug: zi-ang-qiu-lin-xing-ke-tu
+author: 戴表元
+authorPinyin: dai4 biao3 yuan2
+authorSlug: dai-biao-yuan
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 石棱棱而白出，树悄悄以红披。
+- 嗟缟衣之嘉客，方策蹇以何之。
+
+## 拼音
+- shi2 leng2 leng2 er2 bai2 chu1 ， shu4 qiao1 qiao1 yi3 hong2 pi1 。
+- jie1 gao3 yi1 zhi1 jia1 ke4 ， fang1 ce4 jian3 yi3 he2 zhi1 。
+
+## 注释
+
+## 译文
+
+## 赏析

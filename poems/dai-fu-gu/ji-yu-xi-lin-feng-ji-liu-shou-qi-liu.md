@@ -1,0 +1,27 @@
+---
+id: dai-fu-gu-ji-yu-xi-lin-feng-ji-liu-shou-qi-liu
+title: 寄玉溪林逢吉六首  其六
+titlePinyin: ji4 yu4 xi1 lin2 feng2 ji2 liu4 shou3     qi2 liu4
+titleSlug: ji-yu-xi-lin-feng-ji-liu-shou-qi-liu
+author: 戴复古
+authorPinyin: dai4 fu4 gu3
+authorSlug: dai-fu-gu
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 王建不能怜贾岛，吟边怀抱向谁开。
+- 扶病欲迎新太守，不知千骑几时来。
+
+## 拼音
+- wang2 jian4 bu4 neng2 lian2 jia3 dao3 ， yin2 bian1 huai2 bao4 xiang4 shui2 kai1 。
+- fu2 bing4 yu4 ying2 xin1 tai4 shou3 ， bu4 zhi1 qian1 qi2 ji3 shi2 lai2 。
+
+## 注释
+
+## 译文
+
+## 赏析
