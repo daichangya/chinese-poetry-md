@@ -1,0 +1,27 @@
+---
+id: liu-chang-wu-se-ju
+title: 五色菊
+titlePinyin: wu3 se4 ju2
+titleSlug: wu-se-ju
+author: 刘敞
+authorPinyin: liu2 chang3
+authorSlug: liu-chang
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 屡闻白雪题诗句，饱见黄花泛酒杯。
+- 岂是一枝能五色，相随次第雪中开。
+
+## 拼音
+- lü3 wen2 bai2 xue3 ti2 shi1 ju4 ， bao3 jian4 huang2 hua1 fan4 jiu3 bei1 。
+- qi3 shi4 yi4 zhi1 neng2 wu3 se4 ， xiang1 sui2 ci4 di4 xue3 zhong1 kai1 。
+
+## 注释
+
+## 译文
+
+## 赏析

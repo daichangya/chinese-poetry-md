@@ -1,0 +1,27 @@
+---
+id: liu-guo-you-guo-xi-lu-shi-dong-er-shi-yong-yu-pei
+title: 游郭希吕石洞二十咏 玉珮
+titlePinyin: you2 guo1 xi1 lü3 shi2 dong4 er4 shi2 yong3   yu4 pei4
+titleSlug: you-guo-xi-lu-shi-dong-er-shi-yong-yu-pei
+author: 刘过
+authorPinyin: liu2 guo4
+authorSlug: liu-guo
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 借榻卧云屋，欹枕仔细听。
+- 误疑鸣珂声，不知水泠泠。
+
+## 拼音
+- jie4 ta4 wo4 yun2 wu1 ， qi1 zhen3 zi3 xi4 ting1 。
+- wu4 yi2 ming2 ke1 sheng1 ， bu4 zhi1 shui3 ling2 ling2 。
+
+## 注释
+
+## 译文
+
+## 赏析

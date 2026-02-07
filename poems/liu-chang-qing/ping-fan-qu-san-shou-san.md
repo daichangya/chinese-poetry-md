@@ -1,0 +1,27 @@
+---
+id: liu-chang-qing-ping-fan-qu-san-shou-san
+title: 平蕃曲三首 三
+titlePinyin: ping2 fan1 qu3 san1 shou3   san1
+titleSlug: ping-fan-qu-san-shou-san
+author: 刘长卿
+authorPinyin: liu2 chang2 qing1
+authorSlug: liu-chang-qing
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 绝漠大军还，平沙独戍闲。
+- 空留一片石，万古在燕山。
+
+## 拼音
+- jue2 mo4 da4 jun1 hai2 ， ping2 sha1 du2 shu4 xian2 。
+- kong1 liu2 yi2 pian4 shi2 ， wan4 gu3 zai4 yan1 shan1 。
+
+## 注释
+
+## 译文
+
+## 赏析

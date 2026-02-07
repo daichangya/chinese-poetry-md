@@ -1,0 +1,27 @@
+---
+id: liu-chang-qing-song-he-nan-yuan-pan-guan-fu-he-nan-gou-dang-miao-shui-chong-bai-guan-feng-qian
+title: 送河南元判官赴河南勾当苗税充百官俸钱
+titlePinyin: song4 he2 nan2 yuan2 pan4 guan1 fu4 he2 nan2 gou4 dang4 miao2 shui4 chong1 bai3 guan1 feng4 qian2
+titleSlug: song-he-nan-yuan-pan-guan-fu-he-nan-gou-dang-miao-shui-chong-bai-guan-feng-qian
+author: 刘长卿
+authorPinyin: liu2 chang2 qing1
+authorSlug: liu-chang-qing
+dynasty: 唐代
+dynastyPinyin: tang2
+dynastySlug: tang
+tags:
+  - 诗词
+---
+## 正文
+- 春草长河曲，离心共渺然。方收汉家俸，独向汶阳田。
+- 鸟雀空城在，榛芜旧路迁。山东征战苦，几处有人烟。
+
+## 拼音
+- chun1 cao3 chang2 he2 qu3 ， li2 xin1 gong4 miao3 ran2 。 fang1 shou1 han4 jia1 feng4 ， du2 xiang4 wen4 yang2 tian2 。
+- niao3 que4 kong1 cheng2 zai4 ， zhen1 wu2 jiu4 lu4 qian1 。 shan1 dong1 zheng1 zhan4 ku3 ， ji3 chu4 you3 ren2 yan1 。
+
+## 注释
+
+## 译文
+
+## 赏析

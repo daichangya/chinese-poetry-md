@@ -1,0 +1,35 @@
+---
+id: liu-chang-song-ya-chan-shi-ruo-shen
+title: 送雅禅师若神
+titlePinyin: song4 ya3 chan2 shi1 ruo4 shen2
+titleSlug: song-ya-chan-shi-ruo-shen
+author: 刘敞
+authorPinyin: liu2 chang3
+authorSlug: liu-chang
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 太湖三万顷，澄澈浮寒穹。
+- 明月不可取，孤帆安所穷。
+- 俯吊沧浪人，缅怀鸱夷翁。
+- 古今共灰灭，得失如梦中。
+- 诗兴触物远，禅心随念空。
+- 犹多碧云句，寄信东南风。
+
+## 拼音
+- tai4 hu2 san1 wan4 qing3 ， cheng2 che4 fu2 han2 qiong2 。
+- ming2 yue4 bu4 ke3 qu3 ， gu1 fan1 an1 suo3 qiong2 。
+- fu3 diao4 cang1 lang4 ren2 ， mian3 huai2 chi1 yi2 weng1 。
+- gu3 jin1 gong4 hui1 mie4 ， de2 shi1 ru2 meng4 zhong1 。
+- shi1 xing4 chu4 wu4 yuan3 ， chan2 xin1 sui2 nian4 kong1 。
+- you2 duo1 bi4 yun2 ju4 ， ji4 xin4 dong1 nan2 feng1 。
+
+## 注释
+
+## 译文
+
+## 赏析

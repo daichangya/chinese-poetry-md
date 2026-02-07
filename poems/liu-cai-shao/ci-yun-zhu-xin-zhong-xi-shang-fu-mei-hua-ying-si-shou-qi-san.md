@@ -1,0 +1,27 @@
+---
+id: liu-cai-shao-ci-yun-zhu-xin-zhong-xi-shang-fu-mei-hua-ying-si-shou-qi-san
+title: 次韵朱新仲席上赋梅花影四首  其三
+titlePinyin: ci4 yun4 zhu1 xin1 zhong4 xi2 shang4 fu4 mei2 hua1 ying3 si4 shou3     qi2 san1
+titleSlug: ci-yun-zhu-xin-zhong-xi-shang-fu-mei-hua-ying-si-shou-qi-san
+author: 刘才邵
+authorPinyin: liu2 cai2 shao4
+authorSlug: liu-cai-shao
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 清影新诗二妙并，弓良更遇国工檠。
+- 自惭痴钝无佳思，击缶难参击玉清。
+
+## 拼音
+- qing1 ying3 xin1 shi1 er4 miao4 bing4 ， gong1 liang2 geng4 yu4 guo2 gong1 qing2 。
+- zi4 can2 chi1 dun4 wu2 jia1 si1 ， ji1 fou3 nan2 can1 ji1 yu4 qing1 。
+
+## 注释
+
+## 译文
+
+## 赏析

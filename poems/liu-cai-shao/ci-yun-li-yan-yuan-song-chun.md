@@ -1,0 +1,31 @@
+---
+id: liu-cai-shao-ci-yun-li-yan-yuan-song-chun
+title: 次韵李彦渊送春
+titlePinyin: ci4 yun4 li3 yan4 yuan1 song4 chun1
+titleSlug: ci-yun-li-yan-yuan-song-chun
+author: 刘才邵
+authorPinyin: liu2 cai2 shao4
+authorSlug: liu-cai-shao
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
+tags:
+  - 诗词
+---
+## 正文
+- 残花啼宿露，惜与芳春辞。
+- 多情被花恼，写入柳枝词。
+- 落絮惹芳草，新荷点清池。
+- 去意不可挽，酹以碧玉巵。
+
+## 拼音
+- can2 hua1 ti2 su4 lu4 ， xi1 yu3 fang1 chun1 ci2 。
+- duo1 qing2 bei4 hua1 nao3 ， xie3 ru4 liu3 zhi1 ci2 。
+- luo4 xu4 re3 fang1 cao3 ， xin1 he2 dian3 qing1 chi2 。
+- qu4 yi4 bu4 ke3 wan3 ， lei4 yi3 bi4 yu4 zhi1 。
+
+## 注释
+
+## 译文
+
+## 赏析
