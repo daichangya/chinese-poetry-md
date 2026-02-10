@@ -6,9 +6,9 @@ titleSlug: san-zi-jing
 author: 王应麟
 authorPinyin: wang2 ying4 lin2
 authorSlug: wang-ying-lin
-dynasty: 蒙学
-dynastyPinyin: meng2 xue2
-dynastySlug: meng-xue
+dynasty: 宋代
+dynastyPinyin: song4
+dynastySlug: song
 tags:
   - 传统版
   - 蒙学

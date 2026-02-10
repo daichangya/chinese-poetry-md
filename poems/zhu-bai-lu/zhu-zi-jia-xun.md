@@ -6,9 +6,9 @@ titleSlug: zhu-zi-jia-xun
 author: 朱柏庐
 authorPinyin: zhu1 bai3 lu2
 authorSlug: zhu-bai-lu
-dynasty: 蒙学
-dynastyPinyin: meng2 xue2
-dynastySlug: meng-xue
+dynasty: 明代
+dynastyPinyin: ming2
+dynastySlug: ming
 tags:
   - 蒙学
 ---
