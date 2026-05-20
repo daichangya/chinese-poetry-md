@@ -1,0 +1,6 @@
+---
+title: 温达
+short_description: 温达，唐代诗人。
+source: inferred
+---
+温达，唐代诗人。本目录收录其作品 1 首。
