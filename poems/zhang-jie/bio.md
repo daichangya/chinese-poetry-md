@@ -1,5 +1,6 @@
 ---
-title: 章劼
-short_description: 章劼，宁宗嘉定中曾重修小孤山小孤庙（《永乐大典》卷六七○○）。
+title: 章碣
+short_description: 章碣，唐代诗人。
+source: inferred
 ---
-章劼，宁宗嘉定中曾重修小孤山小孤庙（《永乐大典》卷六七○○）。
+章碣，唐代诗人。本目录收录其作品 26 首。
