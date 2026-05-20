@@ -1,4 +1,6 @@
 ---
 title: 华春娘
+short_description: 华春娘，宋代词人。
+source: inferred
 ---
-无传。
+华春娘，宋代词人。本目录收录其作品 1 首。
