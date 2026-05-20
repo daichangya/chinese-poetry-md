@@ -1,4 +1,6 @@
 ---
 title: 释延吉
+short_description: 释延吉，宋代词人。
+source: inferred
 ---
-无传。
+释延吉，宋代词人。本目录收录其作品 1 首。
