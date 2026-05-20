@@ -1,4 +1,6 @@
 ---
-title: 李氏 2
+title: 李氏2
+short_description: 李氏2，宋代词人。
+source: inferred
 ---
---
+李氏2，宋代词人。本目录收录其作品 1 首。
