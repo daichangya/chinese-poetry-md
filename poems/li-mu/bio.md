@@ -1,5 +1,5 @@
 ---
-title: 李牧
-short_description: 李牧，字子牧，与曾慥有唱和。
+title: 李穆
+short_description: 李穆，刘长卿壻。
 ---
-李牧，字子牧，与曾慥有唱和。事见《前贤小集拾遗》卷一。
+李穆，刘长卿壻。诗一首。

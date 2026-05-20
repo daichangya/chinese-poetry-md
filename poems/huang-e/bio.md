@@ -1,5 +1,6 @@
 ---
-title: 黄蛾
-short_description: 黄蛾，罗源（今属福建）人。
+title: 黄萼
+short_description: 黄萼，宋代词人。
+source: inferred
 ---
-黄蛾，罗源（今属福建）人。早慧，年十五御前吟新月诗（清道光《罗源县志》卷三○）。
+黄萼，宋代词人。本目录收录其作品 1 首。

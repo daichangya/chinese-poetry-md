@@ -1,5 +1,6 @@
 ---
-title: 何籀
-short_description: 字子初，信安 (今河北霸县) 人。
+title: 何舟
+short_description: 何舟，宋代词人。
+source: inferred
 ---
-字子初，信安 (今河北霸县) 人。存词二首。
+何舟，宋代词人。本目录收录其作品 2 首。

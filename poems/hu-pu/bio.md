@@ -1,4 +1,6 @@
 ---
 title: 胡溥
+short_description: 胡溥，宋代词人。
+source: inferred
 ---
-无传。
+胡溥，宋代词人。本目录收录其作品 1 首。
