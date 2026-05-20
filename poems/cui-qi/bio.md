@@ -1,5 +1,6 @@
 ---
-title: 崔岐
-short_description: 岐，齐州全节人。
+title: 崔锜
+short_description: 崔锜，唐代诗人。
+source: inferred
 ---
-岐，齐州全节人。进士，官江阴主簿。（《全唐诗》无崔岐诗，传据《新唐书》卷七二《宰相世系表》及下引杜牧文）
+崔锜，唐代诗人。本目录收录其作品 1 首。

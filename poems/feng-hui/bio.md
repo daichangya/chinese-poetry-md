@@ -1,5 +1,6 @@
 ---
-title: 冯晦
-short_description: 冯晦，字文显，英德（今属广东）人。
+title: 冯晖
+short_description: 冯晖，唐代诗人。
+source: inferred
 ---
-冯晦，字文显，英德（今属广东）人。有《南山杂咏》，已佚。事见清同治《韶州府志》卷三四。
+冯晖，唐代诗人。本目录收录其作品 1 首。
