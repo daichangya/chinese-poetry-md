@@ -1,5 +1,5 @@
 ---
-title: 魏氏
-short_description: 魏氏，求己之妹。
+title: 韦式
+short_description: 韦式，太和中人。
 ---
-魏氏，求己之妹。诗一首。
+韦式，太和中人。诗一首。

@@ -1,5 +1,6 @@
 ---
-title: 王
-short_description: (？
+title: 汪
+short_description: 汪，宋代词人。
+source: inferred
 ---
-(？－1203) 字逸滨，祖籍临 (今河北永年)，徙家汴梁 (今河南开封)。明昌中，任鹿邑主簿。存词一首。
+汪，宋代词人。本目录收录其作品 9 首。

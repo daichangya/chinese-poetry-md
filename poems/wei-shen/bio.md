@@ -1,5 +1,6 @@
 ---
-title: 魏深
-short_description: 魏深，晚唐懿宗、僖宗时人，为李当从甥。
+title: 惟审
+short_description: 惟审，唐代诗人。
+source: inferred
 ---
-魏深，晚唐懿宗、僖宗时人，为李当从甥。诗一首。（《全唐诗》无魏深诗）
+惟审，唐代诗人。本目录收录其作品 3 首。
