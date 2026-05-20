@@ -1,4 +1,6 @@
 ---
 title: 樊处恭
+short_description: 樊处恭，宋代词人。
+source: inferred
 ---
-无传。
+樊处恭，宋代词人。本目录收录其作品 1 首。
