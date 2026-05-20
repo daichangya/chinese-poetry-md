@@ -1,5 +1,6 @@
 ---
-title: 童翰卿
-short_description: 童翰卿，大中、咸通间人。
+title: 童汉卿
+short_description: 童汉卿，唐代诗人。
+source: inferred
 ---
-童翰卿，大中、咸通间人。诗二首。
+童汉卿，唐代诗人。本目录收录其作品 2 首。

@@ -1,5 +1,5 @@
 ---
-title: 孙鼎
-short_description: 孙鼎，宋遗民。
+title: 孙定
+short_description: 孙定，字志元，涪州大戎之族子。
 ---
-孙鼎，宋遗民。
+孙定，字志元，涪州大戎之族子。景福中，应举无成。诗一首。
