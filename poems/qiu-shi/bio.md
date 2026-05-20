@@ -1,4 +1,6 @@
 ---
 title: 丘氏
+short_description: 丘氏，宋代词人。
+source: inferred
 ---
-无传。
+丘氏，宋代词人。本目录收录其作品 1 首。
