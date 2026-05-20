@@ -3967,6 +3967,30 @@
     "poemCount": 4,
     "dynasty": "宋代"
   },
+  "chen-2": {
+    "canonical": "陈□谅",
+    "counts": {
+      "陈□谅": 1
+    },
+    "poemCount": 1,
+    "dynasty": "宋代"
+  },
+  "chen-3": {
+    "canonical": "陈书𥩝",
+    "counts": {
+      "陈书𥩝": 1
+    },
+    "poemCount": 1,
+    "dynasty": "宋代"
+  },
+  "chen-4": {
+    "canonical": "陈𪾢",
+    "counts": {
+      "陈𪾢": 2
+    },
+    "poemCount": 2,
+    "dynasty": "宋代"
+  },
   "chen-an": {
     "canonical": "陈黯",
     "counts": {
@@ -5533,14 +5557,6 @@
       "陈良祐": 3
     },
     "poemCount": 3,
-    "dynasty": "宋代"
-  },
-  "chen-liang-□": {
-    "canonical": "陈□谅",
-    "counts": {
-      "陈□谅": 1
-    },
-    "poemCount": 1,
     "dynasty": "宋代"
   },
   "chen-lie": {
@@ -10451,6 +10467,14 @@
     "canonical": "戴成祖",
     "counts": {
       "戴成祖": 1
+    },
+    "poemCount": 1,
+    "dynasty": "宋代"
+  },
+  "dai-dai": {
+    "canonical": "戴𫖮",
+    "counts": {
+      "戴𫖮": 1
     },
     "poemCount": 1,
     "dynasty": "宋代"
@@ -17807,6 +17831,14 @@
     "poemCount": 1,
     "dynasty": "宋代"
   },
+  "geng-geng": {
+    "canonical": "耿[𣲗]",
+    "counts": {
+      "耿[𣲗]": 3
+    },
+    "poemCount": 3,
+    "dynasty": "唐代"
+  },
   "geng-nan-zhong": {
     "canonical": "耿南仲",
     "counts": {
@@ -17829,14 +17861,6 @@
       "耿𣲗": 179
     },
     "poemCount": 179,
-    "dynasty": "唐代"
-  },
-  "geng-wei-]": {
-    "canonical": "耿[𣲗]",
-    "counts": {
-      "耿[𣲗]": 3
-    },
-    "poemCount": 3,
     "dynasty": "唐代"
   },
   "geng-wu": {
@@ -20695,6 +20719,14 @@
     "poemCount": 3,
     "dynasty": "宋代"
   },
+  "he-2": {
+    "canonical": "何𣓨",
+    "counts": {
+      "何𣓨": 2
+    },
+    "poemCount": 2,
+    "dynasty": "宋代"
+  },
   "he-ai": {
     "canonical": "贺敱",
     "counts": {
@@ -20973,6 +21005,14 @@
       "何镐": 1
     },
     "poemCount": 1,
+    "dynasty": "宋代"
+  },
+  "he-he": {
+    "canonical": "何䓕",
+    "counts": {
+      "何䓕": 2
+    },
+    "poemCount": 2,
     "dynasty": "宋代"
   },
   "he-hong": {
@@ -21847,14 +21887,6 @@
     "poemCount": 1,
     "dynasty": "宋代"
   },
-  "he-䓕": {
-    "canonical": "何䓕",
-    "counts": {
-      "何䓕": 2
-    },
-    "poemCount": 2,
-    "dynasty": "宋代"
-  },
   "hei-lao-wu": {
     "canonical": "黑老五",
     "counts": {
@@ -22703,6 +22735,14 @@
     "poemCount": 1,
     "dynasty": "宋代"
   },
+  "hu-hu": {
+    "canonical": "胡[证]",
+    "counts": {
+      "胡[证]": 1
+    },
+    "poemCount": 1,
+    "dynasty": "唐代"
+  },
   "hu-hui": {
     "canonical": "胡恢",
     "counts": {
@@ -23429,14 +23469,6 @@
       "胡证": 2
     },
     "poemCount": 2,
-    "dynasty": "唐代"
-  },
-  "hu-zheng-]": {
-    "canonical": "胡[证]",
-    "counts": {
-      "胡[证]": 1
-    },
-    "poemCount": 1,
     "dynasty": "唐代"
   },
   "hu-zhi-chun": {
@@ -30079,6 +30111,70 @@
     "poemCount": 6,
     "dynasty": "宋代"
   },
+  "li-2": {
+    "canonical": "李𪩘",
+    "counts": {
+      "李𪩘": 5
+    },
+    "poemCount": 5,
+    "dynasty": "宋代"
+  },
+  "li-2-li": {
+    "canonical": "李𫄧",
+    "counts": {
+      "李𫄧": 1
+    },
+    "poemCount": 1,
+    "dynasty": "宋代"
+  },
+  "li-3": {
+    "canonical": "李𫐄",
+    "counts": {
+      "李𫐄": 4
+    },
+    "poemCount": 4,
+    "dynasty": "宋代"
+  },
+  "li-4": {
+    "canonical": "李□",
+    "counts": {
+      "李□": 1
+    },
+    "poemCount": 1,
+    "dynasty": "唐代"
+  },
+  "li-5": {
+    "canonical": "李𡌴",
+    "counts": {
+      "李𡌴": 5
+    },
+    "poemCount": 5,
+    "dynasty": "宋代"
+  },
+  "li-5-2": {
+    "canonical": "李𬜪",
+    "counts": {
+      "李𬜪": 1
+    },
+    "poemCount": 1,
+    "dynasty": "唐代"
+  },
+  "li-5-3": {
+    "canonical": "李𧏖",
+    "counts": {
+      "李𧏖": 1
+    },
+    "poemCount": 1,
+    "dynasty": "唐代"
+  },
+  "li-5-li": {
+    "canonical": "李𡉙",
+    "counts": {
+      "李𡉙": 2
+    },
+    "poemCount": 2,
+    "dynasty": "宋代"
+  },
   "li-ai": {
     "canonical": "李艾",
     "counts": {
@@ -32669,6 +32765,14 @@
       "李莱老": 15
     },
     "poemCount": 15,
+    "dynasty": "宋代"
+  },
+  "li-li": {
+    "canonical": "李𫘦",
+    "counts": {
+      "李𫘦": 9
+    },
+    "poemCount": 9,
     "dynasty": "宋代"
   },
   "li-lian": {
@@ -36407,14 +36511,6 @@
     "poemCount": 1,
     "dynasty": "宋代"
   },
-  "li-□": {
-    "canonical": "李□",
-    "counts": {
-      "李□": 1
-    },
-    "poemCount": 1,
-    "dynasty": "唐代"
-  },
   "lian": {
     "canonical": "濂",
     "counts": {
@@ -37903,6 +37999,14 @@
     "poemCount": 1,
     "dynasty": "宋代"
   },
+  "lin-lin": {
+    "canonical": "林𫖳",
+    "counts": {
+      "林𫖳": 1
+    },
+    "poemCount": 1,
+    "dynasty": "宋代"
+  },
   "lin-ling-su": {
     "canonical": "林灵素",
     "counts": {
@@ -38950,6 +39054,14 @@
     },
     "poemCount": 5,
     "dynasty": "宋代"
+  },
+  "liu-2": {
+    "canonical": "刘𤤺",
+    "counts": {
+      "刘𤤺": 1
+    },
+    "poemCount": 1,
+    "dynasty": "唐代"
   },
   "liu-an-dao": {
     "canonical": "柳安道",
@@ -45463,6 +45575,14 @@
     "poemCount": 3,
     "dynasty": "宋代"
   },
+  "luo-2": {
+    "canonical": "罗䦔",
+    "counts": {
+      "罗䦔": 2
+    },
+    "poemCount": 2,
+    "dynasty": "宋代"
+  },
   "luo-an-ji": {
     "canonical": "骆安基",
     "counts": {
@@ -45718,6 +45838,14 @@
     },
     "poemCount": 1,
     "dynasty": "唐代"
+  },
+  "luo-luo": {
+    "canonical": "罗太𡉷",
+    "counts": {
+      "罗太𡉷": 1
+    },
+    "poemCount": 1,
+    "dynasty": "宋代"
   },
   "luo-luo-xian": {
     "canonical": "骆罗宪",
@@ -46197,14 +46325,6 @@
       "罗子衎": 1
     },
     "poemCount": 1,
-    "dynasty": "宋代"
-  },
-  "luo-䦔": {
-    "canonical": "罗䦔",
-    "counts": {
-      "罗䦔": 2
-    },
-    "poemCount": 2,
     "dynasty": "宋代"
   },
   "ma-bing": {
@@ -50999,6 +51119,14 @@
     "poemCount": 2,
     "dynasty": "宋代"
   },
+  "qi-qi": {
+    "canonical": "齐𫖮",
+    "counts": {
+      "齐𫖮": 1
+    },
+    "poemCount": 1,
+    "dynasty": "唐代"
+  },
   "qi-rou": {
     "canonical": "启柔",
     "counts": {
@@ -51446,6 +51574,14 @@
     },
     "poemCount": 555,
     "dynasty": "唐代"
+  },
+  "qian-qian": {
+    "canonical": "钱𫖮",
+    "counts": {
+      "钱𫖮": 1
+    },
+    "poemCount": 1,
+    "dynasty": "宋代"
   },
   "qian-ru-yuan": {
     "canonical": "钱汝元",
@@ -59535,6 +59671,14 @@
     "poemCount": 2,
     "dynasty": "宋代"
   },
+  "shi-shi": {
+    "canonical": "石𡼖",
+    "counts": {
+      "石𡼖": 3
+    },
+    "poemCount": 3,
+    "dynasty": "宋代"
+  },
   "shi-shi-fan": {
     "canonical": "释师范",
     "counts": {
@@ -59579,6 +59723,14 @@
     "canonical": "释师瑞",
     "counts": {
       "释师瑞": 1
+    },
+    "poemCount": 1,
+    "dynasty": "宋代"
+  },
+  "shi-shi-shi": {
+    "canonical": "释𢙏",
+    "counts": {
+      "释𢙏": 1
     },
     "poemCount": 1,
     "dynasty": "宋代"
@@ -63191,14 +63343,6 @@
     "poemCount": 39,
     "dynasty": "唐代"
   },
-  "si-ma-□": {
-    "canonical": "司马□",
-    "counts": {
-      "司马□": 1
-    },
-    "poemCount": 1,
-    "dynasty": "唐代"
-  },
   "si-ming-shi-zi": {
     "canonical": "四明士子",
     "counts": {
@@ -63206,6 +63350,14 @@
     },
     "poemCount": 1,
     "dynasty": "宋代"
+  },
+  "si-si": {
+    "canonical": "司马□",
+    "counts": {
+      "司马□": 1
+    },
+    "poemCount": 1,
+    "dynasty": "唐代"
   },
   "si-tuo": {
     "canonical": "思托",
@@ -64087,6 +64239,14 @@
     "poemCount": 2,
     "dynasty": "宋代"
   },
+  "su-2": {
+    "canonical": "苏",
+    "counts": {
+      "苏": 1
+    },
+    "poemCount": 1,
+    "dynasty": "唐代"
+  },
   "su-ao": {
     "canonical": "苏敖",
     "counts": {
@@ -64447,6 +64607,14 @@
     "poemCount": 627,
     "dynasty": "宋代"
   },
+  "su-su": {
+    "canonical": "苏㝢",
+    "counts": {
+      "苏㝢": 1
+    },
+    "poemCount": 1,
+    "dynasty": "唐代"
+  },
   "su-sui": {
     "canonical": "苏随",
     "counts": {
@@ -64749,22 +64917,6 @@
       "肃宗皇帝": 4
     },
     "poemCount": 4,
-    "dynasty": "唐代"
-  },
-  "su-㝢": {
-    "canonical": "苏㝢",
-    "counts": {
-      "苏㝢": 1
-    },
-    "poemCount": 1,
-    "dynasty": "唐代"
-  },
-  "su-": {
-    "canonical": "苏",
-    "counts": {
-      "苏": 1
-    },
-    "poemCount": 1,
     "dynasty": "唐代"
   },
   "sui-che-niang-zi": {
@@ -65431,6 +65583,14 @@
     "poemCount": 2,
     "dynasty": "宋代"
   },
+  "sun-sun": {
+    "canonical": "孙□",
+    "counts": {
+      "孙□": 1
+    },
+    "poemCount": 1,
+    "dynasty": "唐代"
+  },
   "sun-tan": {
     "canonical": "孙坦",
     "counts": {
@@ -65862,14 +66022,6 @@
     },
     "poemCount": 1,
     "dynasty": "宋代"
-  },
-  "sun-□": {
-    "canonical": "孙□",
-    "counts": {
-      "孙□": 1
-    },
-    "poemCount": 1,
-    "dynasty": "唐代"
   },
   "suo-qiu": {
     "canonical": "索逑",
@@ -67827,6 +67979,54 @@
     "canonical": "王□",
     "counts": {
       "王□": 1
+    },
+    "poemCount": 1,
+    "dynasty": "唐代"
+  },
+  "wang-3": {
+    "canonical": "王𪟝",
+    "counts": {
+      "王𪟝": 1
+    },
+    "poemCount": 1,
+    "dynasty": "唐代"
+  },
+  "wang-4": {
+    "canonical": "王𬘡",
+    "counts": {
+      "王𬘡": 2
+    },
+    "poemCount": 2,
+    "dynasty": "宋代"
+  },
+  "wang-5": {
+    "canonical": "王□□",
+    "counts": {
+      "王□□": 1
+    },
+    "poemCount": 1,
+    "dynasty": "宋代"
+  },
+  "wang-6": {
+    "canonical": "王𨗨",
+    "counts": {
+      "王𨗨": 2
+    },
+    "poemCount": 2,
+    "dynasty": "宋代"
+  },
+  "wang-6-2": {
+    "canonical": "王𡌴",
+    "counts": {
+      "王𡌴": 1
+    },
+    "poemCount": 1,
+    "dynasty": "宋代"
+  },
+  "wang-6-wang": {
+    "canonical": "王𩔪",
+    "counts": {
+      "王𩔪": 1
     },
     "poemCount": 1,
     "dynasty": "唐代"
@@ -73375,14 +73575,6 @@
     "poemCount": 7,
     "dynasty": "宋代"
   },
-  "wang-□": {
-    "canonical": "王□□",
-    "counts": {
-      "王□□": 1
-    },
-    "poemCount": 1,
-    "dynasty": "宋代"
-  },
   "wei-an-shi": {
     "canonical": "韦安石",
     "counts": {
@@ -75325,6 +75517,22 @@
       "吴㻦": 2
     },
     "poemCount": 2,
+    "dynasty": "宋代"
+  },
+  "wu-2": {
+    "canonical": "吴𫖮",
+    "counts": {
+      "吴𫖮": 1
+    },
+    "poemCount": 1,
+    "dynasty": "唐代"
+  },
+  "wu-3": {
+    "canonical": "吴𣓨",
+    "counts": {
+      "吴𣓨": 1
+    },
+    "poemCount": 1,
     "dynasty": "宋代"
   },
   "wu-ai": {
@@ -78367,6 +78575,14 @@
     "poemCount": 2,
     "dynasty": "宋代"
   },
+  "xiang-xiang": {
+    "canonical": "向𤃃",
+    "counts": {
+      "向𤃃": 3
+    },
+    "poemCount": 3,
+    "dynasty": "宋代"
+  },
   "xiang-xue-hu": {
     "canonical": "向雪湖",
     "counts": {
@@ -80435,6 +80651,30 @@
     "canonical": "许",
     "counts": {
       "许": 1
+    },
+    "poemCount": 1,
+    "dynasty": "宋代"
+  },
+  "xu-2": {
+    "canonical": "徐𪟝",
+    "counts": {
+      "徐𪟝": 1
+    },
+    "poemCount": 1,
+    "dynasty": "宋代"
+  },
+  "xu-3": {
+    "canonical": "许𫖮",
+    "counts": {
+      "许𫖮": 3
+    },
+    "poemCount": 3,
+    "dynasty": "宋代"
+  },
+  "xu-4": {
+    "canonical": "徐□",
+    "counts": {
+      "徐□": 1
     },
     "poemCount": 1,
     "dynasty": "宋代"
@@ -82975,14 +83215,6 @@
     "poemCount": 1,
     "dynasty": "宋代"
   },
-  "xu-□": {
-    "canonical": "徐□",
-    "counts": {
-      "徐□": 1
-    },
-    "poemCount": 1,
-    "dynasty": "宋代"
-  },
   "xuan-bao": {
     "canonical": "玄宝",
     "counts": {
@@ -84782,6 +85014,14 @@
     },
     "poemCount": 1,
     "dynasty": "宋代"
+  },
+  "yang-2": {
+    "canonical": "杨□",
+    "counts": {
+      "杨□": 1
+    },
+    "poemCount": 1,
+    "dynasty": "唐代"
   },
   "yang-an-cheng": {
     "canonical": "杨安诚",
@@ -87046,14 +87286,6 @@
     },
     "poemCount": 1,
     "dynasty": "宋代"
-  },
-  "yang-□": {
-    "canonical": "杨□",
-    "counts": {
-      "杨□": 1
-    },
-    "poemCount": 1,
-    "dynasty": "唐代"
   },
   "yao": {
     "canonical": "姚𨱉",
@@ -89479,6 +89711,30 @@
     "poemCount": 1,
     "dynasty": "宋代"
   },
+  "yu-4": {
+    "canonical": "于𬱖",
+    "counts": {
+      "于𬱖": 2
+    },
+    "poemCount": 2,
+    "dynasty": "唐代"
+  },
+  "yu-5": {
+    "canonical": "虞㠭",
+    "counts": {
+      "虞㠭": 3
+    },
+    "poemCount": 3,
+    "dynasty": "宋代"
+  },
+  "yu-6": {
+    "canonical": "俞𣓨",
+    "counts": {
+      "俞𣓨": 1
+    },
+    "poemCount": 1,
+    "dynasty": "宋代"
+  },
   "yu-ao": {
     "canonical": "于敖",
     "counts": {
@@ -91159,14 +91415,6 @@
     "poemCount": 22,
     "dynasty": "宋代"
   },
-  "yu-㠭": {
-    "canonical": "虞㠭",
-    "counts": {
-      "虞㠭": 3
-    },
-    "poemCount": 3,
-    "dynasty": "宋代"
-  },
   "yuan": {
     "canonical": "袁",
     "counts": {
@@ -91182,6 +91430,22 @@
     },
     "poemCount": 1,
     "dynasty": "汉"
+  },
+  "yuan-3": {
+    "canonical": "元□□",
+    "counts": {
+      "元□□": 1
+    },
+    "poemCount": 1,
+    "dynasty": "唐代"
+  },
+  "yuan-4": {
+    "canonical": "苑䛆",
+    "counts": {
+      "苑䛆": 1
+    },
+    "poemCount": 1,
+    "dynasty": "唐代"
   },
   "yuan-an": {
     "canonical": "元安",
@@ -92007,22 +92271,6 @@
     "poemCount": 1,
     "dynasty": "宋代"
   },
-  "yuan-□": {
-    "canonical": "元□□",
-    "counts": {
-      "元□□": 1
-    },
-    "poemCount": 1,
-    "dynasty": "唐代"
-  },
-  "yuan-䛆": {
-    "canonical": "苑䛆",
-    "counts": {
-      "苑䛆": 1
-    },
-    "poemCount": 1,
-    "dynasty": "唐代"
-  },
   "yue-bo-chuan": {
     "canonical": "岳伯川",
     "counts": {
@@ -92667,6 +92915,54 @@
     "canonical": "章",
     "counts": {
       "章": 1
+    },
+    "poemCount": 1,
+    "dynasty": "宋代"
+  },
+  "zhang-3": {
+    "canonical": "张𬱖",
+    "counts": {
+      "张𬱖": 1
+    },
+    "poemCount": 1,
+    "dynasty": "宋代"
+  },
+  "zhang-4": {
+    "canonical": "张𬙂",
+    "counts": {
+      "张𬙂": 9
+    },
+    "poemCount": 9,
+    "dynasty": "宋代"
+  },
+  "zhang-5": {
+    "canonical": "张𫖮",
+    "counts": {
+      "张𫖮": 1
+    },
+    "poemCount": 1,
+    "dynasty": "唐代"
+  },
+  "zhang-6": {
+    "canonical": "张□□",
+    "counts": {
+      "张□□": 1
+    },
+    "poemCount": 1,
+    "dynasty": "宋代"
+  },
+  "zhang-7": {
+    "canonical": "张㟭",
+    "counts": {
+      "张㟭": 1
+    },
+    "poemCount": 1,
+    "dynasty": "宋代"
+  },
+  "zhang-8": {
+    "canonical": "张𨊠",
+    "counts": {
+      "张𨊠": 1
     },
     "poemCount": 1,
     "dynasty": "宋代"
@@ -98135,28 +98431,148 @@
     "poemCount": 5,
     "dynasty": "唐代"
   },
-  "zhang-□": {
-    "canonical": "张□□",
-    "counts": {
-      "张□□": 1
-    },
-    "poemCount": 1,
-    "dynasty": "宋代"
-  },
-  "zhang-㟭": {
-    "canonical": "张㟭",
-    "counts": {
-      "张㟭": 1
-    },
-    "poemCount": 1,
-    "dynasty": "宋代"
-  },
   "zhao": {
     "canonical": "赵",
     "counts": {
       "赵": 4
     },
     "poemCount": 4,
+    "dynasty": "宋代"
+  },
+  "zhao-10": {
+    "canonical": "赵师𪪴",
+    "counts": {
+      "赵师𪪴": 5
+    },
+    "poemCount": 5,
+    "dynasty": "宋代"
+  },
+  "zhao-10-shi": {
+    "canonical": "赵时𣓨",
+    "counts": {
+      "赵时𣓨": 1
+    },
+    "poemCount": 1,
+    "dynasty": "宋代"
+  },
+  "zhao-11": {
+    "canonical": "赵希□",
+    "counts": {
+      "赵希□": 1
+    },
+    "poemCount": 1,
+    "dynasty": "宋代"
+  },
+  "zhao-12": {
+    "canonical": "赵希㑂",
+    "counts": {
+      "赵希㑂": 5
+    },
+    "poemCount": 5,
+    "dynasty": "宋代"
+  },
+  "zhao-13": {
+    "canonical": "赵希𩇕",
+    "counts": {
+      "赵希𩇕": 3
+    },
+    "poemCount": 3,
+    "dynasty": "宋代"
+  },
+  "zhao-13-xi": {
+    "canonical": "赵希��",
+    "counts": {
+      "赵希��": 1
+    },
+    "poemCount": 1,
+    "dynasty": "宋代"
+  },
+  "zhao-14": {
+    "canonical": "赵□",
+    "counts": {
+      "赵□": 1
+    },
+    "poemCount": 1,
+    "dynasty": "宋代"
+  },
+  "zhao-15": {
+    "canonical": "赵㞦",
+    "counts": {
+      "赵㞦": 1
+    },
+    "poemCount": 1,
+    "dynasty": "宋代"
+  },
+  "zhao-16": {
+    "canonical": "赵𤰳",
+    "counts": {
+      "赵𤰳": 1
+    },
+    "poemCount": 1,
+    "dynasty": "唐代"
+  },
+  "zhao-2": {
+    "canonical": "赵必□",
+    "counts": {
+      "赵必□": 20
+    },
+    "poemCount": 20,
+    "dynasty": "宋代"
+  },
+  "zhao-3": {
+    "canonical": "赵必㳅",
+    "counts": {
+      "赵必㳅": 3
+    },
+    "poemCount": 3,
+    "dynasty": "宋代"
+  },
+  "zhao-4": {
+    "canonical": "赵必��",
+    "counts": {
+      "赵必��": 2
+    },
+    "poemCount": 2,
+    "dynasty": "宋代"
+  },
+  "zhao-5": {
+    "canonical": "赵䈣夫",
+    "counts": {
+      "赵䈣夫": 1
+    },
+    "poemCount": 1,
+    "dynasty": "宋代"
+  },
+  "zhao-6": {
+    "canonical": "赵汝𬭬",
+    "counts": {
+      "赵汝𬭬": 1
+    },
+    "poemCount": 1,
+    "dynasty": "宋代"
+  },
+  "zhao-7": {
+    "canonical": "赵汝□",
+    "counts": {
+      "赵汝□": 1
+    },
+    "poemCount": 1,
+    "dynasty": "宋代"
+  },
+  "zhao-8": {
+    "canonical": "赵善䚮",
+    "counts": {
+      "赵善䚮": 2
+    },
+    "poemCount": 2,
+    "dynasty": "宋代"
+  },
+  "zhao-9": {
+    "canonical": "赵善𡨢",
+    "counts": {
+      "赵善𡨢": 1
+    },
+    "poemCount": 1,
     "dynasty": "宋代"
   },
   "zhao-an-ren": {
@@ -98293,30 +98709,6 @@
       "赵必蒸": 6
     },
     "poemCount": 6,
-    "dynasty": "宋代"
-  },
-  "zhao-bi-□": {
-    "canonical": "赵必□",
-    "counts": {
-      "赵必□": 20
-    },
-    "poemCount": 20,
-    "dynasty": "宋代"
-  },
-  "zhao-bi-㳅": {
-    "canonical": "赵必㳅",
-    "counts": {
-      "赵必㳅": 3
-    },
-    "poemCount": 3,
-    "dynasty": "宋代"
-  },
-  "zhao-bi-�": {
-    "canonical": "赵必��",
-    "counts": {
-      "赵必��": 2
-    },
-    "poemCount": 2,
     "dynasty": "宋代"
   },
   "zhao-bian": {
@@ -98859,14 +99251,6 @@
     "canonical": "赵赴",
     "counts": {
       "赵赴": 1
-    },
-    "poemCount": 1,
-    "dynasty": "宋代"
-  },
-  "zhao-fu-䈣": {
-    "canonical": "赵䈣夫",
-    "counts": {
-      "赵䈣夫": 1
     },
     "poemCount": 1,
     "dynasty": "宋代"
@@ -100007,14 +100391,6 @@
     "poemCount": 1,
     "dynasty": "宋代"
   },
-  "zhao-ru-□": {
-    "canonical": "赵汝□",
-    "counts": {
-      "赵汝□": 1
-    },
-    "poemCount": 1,
-    "dynasty": "宋代"
-  },
   "zhao-rui": {
     "canonical": "赵瑞",
     "counts": {
@@ -100261,14 +100637,6 @@
       "赵善正": 1
     },
     "poemCount": 1,
-    "dynasty": "宋代"
-  },
-  "zhao-shan-䚮": {
-    "canonical": "赵善䚮",
-    "counts": {
-      "赵善䚮": 2
-    },
-    "poemCount": 2,
     "dynasty": "宋代"
   },
   "zhao-sheng": {
@@ -100981,30 +101349,6 @@
       "赵希昼": 2
     },
     "poemCount": 2,
-    "dynasty": "宋代"
-  },
-  "zhao-xi-□": {
-    "canonical": "赵希□",
-    "counts": {
-      "赵希□": 1
-    },
-    "poemCount": 1,
-    "dynasty": "宋代"
-  },
-  "zhao-xi-㑂": {
-    "canonical": "赵希㑂",
-    "counts": {
-      "赵希㑂": 5
-    },
-    "poemCount": 5,
-    "dynasty": "宋代"
-  },
-  "zhao-xi-�": {
-    "canonical": "赵希��",
-    "counts": {
-      "赵希��": 1
-    },
-    "poemCount": 1,
     "dynasty": "宋代"
   },
   "zhao-xian": {
@@ -102007,22 +102351,6 @@
     "poemCount": 1,
     "dynasty": "宋代"
   },
-  "zhao-□": {
-    "canonical": "赵□",
-    "counts": {
-      "赵□": 1
-    },
-    "poemCount": 1,
-    "dynasty": "宋代"
-  },
-  "zhao-㞦": {
-    "canonical": "赵㞦",
-    "counts": {
-      "赵㞦": 1
-    },
-    "poemCount": 1,
-    "dynasty": "宋代"
-  },
   "zhe": {
     "canonical": "辙",
     "counts": {
@@ -102165,6 +102493,14 @@
       "郑𫓩": 4
     },
     "poemCount": 4,
+    "dynasty": "唐代"
+  },
+  "zheng-2": {
+    "canonical": "郑𬘡",
+    "counts": {
+      "郑𬘡": 8
+    },
+    "poemCount": 8,
     "dynasty": "唐代"
   },
   "zheng-ai": {
@@ -105955,6 +106291,14 @@
     "canonical": "周仲仁",
     "counts": {
       "周仲仁": 1
+    },
+    "poemCount": 1,
+    "dynasty": "宋代"
+  },
+  "zhou-zhou": {
+    "canonical": "周𪸩",
+    "counts": {
+      "周𪸩": 1
     },
     "poemCount": 1,
     "dynasty": "宋代"
