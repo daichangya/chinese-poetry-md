@@ -1,6 +1,12 @@
 ---
 title: 高克礼
-short_description: 高克礼，元代曲家。
-source: inferred
+short_description: '高克礼[元]（约公元一三三一年前后在世）字敬臣，（一作敬德），号秋泉，河间人。'
+source: guwendao
+bio_trust: external
+guwendao_url: 'https://www.guwendao.net/authorv_44cd6f29f40c.aspx'
+guwendao_id: authorv_44cd6f29f40c
+attribution: 古文岛
 ---
-高克礼，元代曲家。本目录收录其作品 1 首。
+高克礼[元]（约公元一三三一年前后在世）字敬臣，（一作敬德），号秋泉，河间人。生卒年及生平均不详，约元文宗至顺中前后在世。工散曲。性淡泊。以荫官至庆元理官。为政以清净为务，不尚苛刻。克礼工古今乐府，有名于时。尝和杨维桢西湖竹枝词。所作散曲，今见雁儿落过德胜令二支。
+
+（传记来源：古文岛）

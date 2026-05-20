@@ -1,6 +1,12 @@
 ---
 title: 李忱
-short_description: 李忱，唐代诗人。
-source: inferred
+short_description: 唐宣宗李忱（810年冬月十二－859年），汉族，唐朝第十八位皇帝（847年—859年在位，未算武周政权），初名李怡，初封光王。
+source: guwendao
+bio_trust: external
+guwendao_url: 'https://www.guwendao.net/authorv_98f4eadaa24c.aspx'
+guwendao_id: authorv_98f4eadaa24c
+attribution: 古文岛
 ---
-李忱，唐代诗人。本目录收录其作品 8 首。
+唐宣宗李忱（810年冬月十二－859年），汉族，唐朝第十八位皇帝（847年—859年在位，未算武周政权），初名李怡，初封光王。武宗死后，以皇太叔为宦官马元贽等所立。在位13年。综观宣宗50年的人生，他曾经为祖宗基业做过不懈的努力，这无疑延缓了唐帝国走向衰败的大势，但是他又无法彻底扭转这一趋势。宣宗性明察沉断，用法无私，从谏如流，重惜官赏，恭谨节俭，惠爱民物，故大中之政，讫于唐亡，人思咏之，谓之小太宗。
+
+（传记来源：古文岛）

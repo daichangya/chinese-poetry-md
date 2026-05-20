@@ -1,6 +1,12 @@
 ---
 title: 刘锡
-short_description: 刘锡，宋代词人。
-source: inferred
+short_description: 刘锡，字自昭，永嘉（今浙江温州）人。
+source: guwendao
+bio_trust: external
+guwendao_url: 'https://www.guwendao.net/authorv_61435f46bd6e.aspx'
+guwendao_id: authorv_61435f46bd6e
+attribution: 古文岛
 ---
-刘锡，宋代词人。本目录收录其作品 2 首。
+刘锡，字自昭，永嘉（今浙江温州）人。理宗淳祐七年（一二四七）进士。宝祐间以奉议郎辟充沿海制置大使主管机宜文字。开庆元年（一二五九）添差通判镇江府。景定元年（一二六○）为国子监簿（《宋史》卷四五《理宗本纪》）。事见《宋元四明六志》卷八。今录诗二首。
+
+（传记来源：古文岛）

@@ -1,6 +1,12 @@
 ---
 title: 马彦良
-short_description: 马彦良，元代曲家。
-source: inferred
+short_description: 马彦良，名天骥，磁州（今河北磁县）人。
+source: guwendao
+bio_trust: external
+guwendao_url: 'https://www.guwendao.net/authorv_294c595eaf17.aspx'
+guwendao_id: authorv_294c595eaf17
+attribution: 古文岛
 ---
-马彦良，元代曲家。本目录收录其作品 2 首。
+马彦良，名天骥，磁州（今河北磁县）人。生卒年 不详，元·钟嗣成《录鬼簿 》 “前辈名公”中录“马彦良都事” 。一生不得志。据元·王恽《中堂事记 》 载，世祖中统元年(一二六○)，其与胡祗遹、李廉同 为到省听任人员，结果“胡等俱仕显”， 唯马彦良仕 迹不著（孙楷第《元曲家考略》)。世祖至元年间，任 御台史都事。门岿《元曲百家纵论》考其官至侍御史。 元·虞集《户部尚书马公墓碑》(《道园学古录 》卷 十五）叙其家世颇详。明·朱权《太和正音谱 》将其 列于“词林英杰”一百五十人之中。
+
+（传记来源：古文岛）

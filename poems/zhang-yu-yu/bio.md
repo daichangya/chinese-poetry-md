@@ -1,6 +1,12 @@
 ---
 title: 张聿
-short_description: 张聿，唐代诗人。
-source: inferred
+short_description: 张聿，唐诗人。
+source: guwendao
+bio_trust: external
+guwendao_url: 'https://www.guwendao.net/authorv_7da77049a26f.aspx'
+guwendao_id: authorv_7da77049a26f
+attribution: 古文岛
 ---
-张聿，唐代诗人。本目录收录其作品 7 首。
+张聿，唐诗人。望出吴郡(今苏州)，琅玡(今山东临沂)人。德宗建中登进士第，又中万言科。德宗贞元二十年(804)，自秘书省正字充翰林学士。二十一年加左拾遗。宪宗元和元年(806)，加朝散大夫。历任华亭令、湖州长史、都水使者等职。穆宗长庆元年(821)，自工部员外郎出为衢州刺史。敬宗宝历间为睦州刺史。《全唐诗》录存其诗五首。《全唐诗外编》补诗二首。
+
+（传记来源：古文岛）

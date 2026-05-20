@@ -1,6 +1,12 @@
 ---
 title: 孔颙
-short_description: 孔颙，唐代诗人。
-source: inferred
+short_description: 孔颙，鲁(今山东兖州一带)人。
+source: guwendao
+bio_trust: external
+guwendao_url: 'https://www.guwendao.net/authorv_a40ce62f22e3.aspx'
+guwendao_id: authorv_a40ce62f22e3
+attribution: 古文岛
 ---
-孔颙，唐代诗人。本目录收录其作品 1 首。
+孔颙，鲁(今山东兖州一带)人。宪宗元和间，在越州长街柳阴吟咏，为都虞侯薛陟诬而入狱。浙东观察使孟简按囚时，乃献诗陈情。孟简览诗即释其狱，待为宾客。事迹见《云溪友议》卷下《杂嘲戏》。《全唐诗》存诗1首。
+
+（传记来源：古文岛）

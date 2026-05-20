@@ -1,6 +1,12 @@
 ---
 title: 庾传素
-short_description: 庾传素，唐代诗人。
-source: inferred
+short_description: 庾传素（生卒年里不详），仕前蜀王建，起家蜀州刺史，累官至左仆射，兼中书侍郎、同平章事。
+source: guwendao
+bio_trust: external
+guwendao_url: 'https://www.guwendao.net/authorv_e0ab8a32ebe9.aspx'
+guwendao_id: authorv_e0ab8a32ebe9
+attribution: 古文岛
 ---
-庾传素，唐代诗人。本目录收录其作品 1 首。
+庾传素（生卒年里不详），仕前蜀王建，起家蜀州刺史，累官至左仆射，兼中书侍郎、同平章事。天汉元年（九一七），为宦官唐文康所谮，罢为工部尚书；未几，改兵部。后主王衍即位，加太子少保，复兼中书侍郎、同平章事。前蜀亡，降后唐，授刺史。
+
+（传记来源：古文岛）

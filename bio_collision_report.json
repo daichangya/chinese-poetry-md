@@ -1,0 +1,797 @@
+{
+  "generatedAt": "2026-05-20T09:28:17.162Z",
+  "total": 79,
+  "uniqueSlugs": 76,
+  "collisions": [
+    {
+      "n": 1,
+      "jsonName": "薛眘惑",
+      "slug": "xue-shen-huo",
+      "indexCanonical": "薛昚惑",
+      "poemCount": 1,
+      "source": "全唐诗/authors.tang.json",
+      "wouldStub": false,
+      "descPreview": "薛眘惑，善投壶，背后投之，龙跃隼飞，百发百中，时推为绝艺。诗一首。"
+    },
+    {
+      "n": 2,
+      "jsonName": "苏瓌",
+      "slug": "su-gui",
+      "indexCanonical": "苏瑰",
+      "poemCount": 2,
+      "source": "全唐诗/authors.tang.json",
+      "wouldStub": false,
+      "descPreview": "苏瓌，字昌容，京兆武功人。弱冠举进士，初授豫王府录事参军，为王德真、刘祎之所器重。长安中，累迁扬州大都督长史。神龙初，入为尚书右丞，再迁户部尚书，寻加侍中，充西"
+    },
+    {
+      "n": 3,
+      "jsonName": "曲瞻",
+      "slug": "qu-zhan",
+      "indexCanonical": "麹瞻",
+      "poemCount": 1,
+      "source": "全唐诗/authors.tang.json",
+      "wouldStub": false,
+      "descPreview": "曲瞻，景龙时人。诗一首。"
+    },
+    {
+      "n": 4,
+      "jsonName": "韩濬",
+      "slug": "han-jun",
+      "indexCanonical": "韩浚",
+      "poemCount": 1,
+      "source": "全唐诗/authors.tang.json",
+      "wouldStub": false,
+      "descPreview": "王濯，大历九年进士第。诗一首。"
+    },
+    {
+      "n": 5,
+      "jsonName": "衞象",
+      "slug": "wei-xiang",
+      "indexCanonical": "韦骧",
+      "poemCount": 1150,
+      "source": "全唐诗/authors.tang.json",
+      "wouldStub": false,
+      "descPreview": "衞象，大历间江南诗人，官侍御。诗二首。"
+    },
+    {
+      "n": 6,
+      "jsonName": "纪元臯",
+      "slug": "ji-yuan-gao",
+      "indexCanonical": "纪元皋",
+      "poemCount": 1,
+      "source": "全唐诗/authors.tang.json",
+      "wouldStub": false,
+      "descPreview": "纪元臯，元和进士。诗一首。"
+    },
+    {
+      "n": 7,
+      "jsonName": "刘臯",
+      "slug": "liu-gao",
+      "indexCanonical": "刘皋",
+      "poemCount": 1,
+      "source": "全唐诗/authors.tang.json",
+      "wouldStub": false,
+      "descPreview": "刘臯，宣宗时盐州刺史，为监军杨玄价所杀。诗一首。"
+    },
+    {
+      "n": 8,
+      "jsonName": "李汶濡",
+      "slug": "li-wen-ru",
+      "indexCanonical": "李汶儒",
+      "poemCount": 1,
+      "source": "全唐诗/authors.tang.json",
+      "wouldStub": false,
+      "descPreview": "李汶濡，太和五年登第，官翰林学士。诗一首。"
+    },
+    {
+      "n": 9,
+      "jsonName": "薛凖",
+      "slug": "xue-zhun",
+      "indexCanonical": "薛准",
+      "poemCount": 1,
+      "source": "全唐诗/authors.tang.json",
+      "wouldStub": false,
+      "descPreview": "薛凖，员外郎，天复中卒。诗一首。"
+    },
+    {
+      "n": 10,
+      "jsonName": "包颕",
+      "slug": "bao-ying",
+      "indexCanonical": "包颖",
+      "poemCount": 2,
+      "source": "全唐诗/authors.tang.json",
+      "wouldStub": false,
+      "descPreview": "包颕，南唐时人。诗一首。"
+    },
+    {
+      "n": 11,
+      "jsonName": "李宏臯",
+      "slug": "li-hong-gao",
+      "indexCanonical": "李宏皋",
+      "poemCount": 2,
+      "source": "全唐诗/authors.tang.json",
+      "wouldStub": false,
+      "descPreview": "李宏臯，善夷之子，仕湖南为天策学士，官至刑部侍郎。集二卷，今存诗二首。"
+    },
+    {
+      "n": 12,
+      "jsonName": "王坚",
+      "slug": "wang-jian",
+      "indexCanonical": "王建",
+      "poemCount": 607,
+      "source": "全唐诗/authors.tang.json",
+      "wouldStub": false,
+      "descPreview": "王坚，武后时人。诗二句（《全唐诗》无王坚诗）"
+    },
+    {
+      "n": 13,
+      "jsonName": "江景房",
+      "slug": "jiang-jing-fang",
+      "indexCanonical": "江景防",
+      "poemCount": 1,
+      "source": "全唐诗/authors.song.json",
+      "wouldStub": false,
+      "descPreview": "江景房，字汉臣（清光绪《开化县志》卷九《人物志》），衢州常山（今属浙江）人。初仕吴越，累官侍御史。入宋，为沁水尉。事见《北山小集》卷一八《衢州常山县重建保安院记"
+    },
+    {
+      "n": 14,
+      "jsonName": "柳直",
+      "slug": "liu-zhi",
+      "indexCanonical": "刘挚",
+      "poemCount": 197,
+      "source": "全唐诗/authors.song.json",
+      "wouldStub": false,
+      "descPreview": "柳直，宋初人。官赞善大夫（《甘竹胡氏十修族谱》）。"
+    },
+    {
+      "n": 15,
+      "jsonName": "朱严",
+      "slug": "zhu-yan",
+      "indexCanonical": "朱彦",
+      "poemCount": 8,
+      "source": "全唐诗/authors.song.json",
+      "wouldStub": false,
+      "descPreview": "朱严，与王禹偁友善。尝为和州从事（《小畜集》卷一一《送第三人朱严先辈从事和州》）。真宗景德二年（一○○五），自惠州推官除大理寺丞、知白州（《续资治通鉴长编》卷五"
+    },
+    {
+      "n": 16,
+      "jsonName": "李绹",
+      "slug": "li-tao",
+      "indexCanonical": "李涛",
+      "poemCount": 40,
+      "source": "全唐诗/authors.song.json",
+      "wouldStub": false,
+      "descPreview": "李绹，生平不详。与杜衍同时。"
+    },
+    {
+      "n": 17,
+      "jsonName": "王复",
+      "slug": "wang-fu",
+      "indexCanonical": "王𫓧",
+      "poemCount": 4,
+      "source": "全唐诗/authors.song.json",
+      "wouldStub": false,
+      "descPreview": "王复，字几道，仁宗景祐初为举子，在洛阳与欧阳修等交游（见欧阳修《七交诗》）。"
+    },
+    {
+      "n": 18,
+      "jsonName": "李植",
+      "slug": "li-zhi",
+      "indexCanonical": "李廌",
+      "poemCount": 429,
+      "source": "全唐诗/authors.song.json",
+      "wouldStub": false,
+      "descPreview": "李植，少名常，字成伯，濮州（今山东鄄城北）人。石介门人。仁宗嘉祐中诏举天下行义之士，植首被荐举，诏书方下而卒。事见《渑水燕谈录》卷七。"
+    },
+    {
+      "n": 19,
+      "jsonName": "赵世昌",
+      "slug": "zhao-shi-chang",
+      "indexCanonical": "赵世长",
+      "poemCount": 3,
+      "source": "全唐诗/authors.song.json",
+      "wouldStub": false,
+      "descPreview": "赵世昌（一○二○～一○六一），字保之。宗室从恪子。尝学《春秋》于孙复，学《易》于王猎。仁宗天圣七年（一○二九）补右班殿直。皇祐二年（一○五○）进右屯卫大将军。嘉"
+    },
+    {
+      "n": 20,
+      "jsonName": "张微",
+      "slug": "zhang-wei",
+      "indexCanonical": "张炜",
+      "poemCount": 81,
+      "source": "全唐诗/authors.song.json",
+      "wouldStub": false,
+      "descPreview": "张微，英宗治平二年（一○六五），由勾当三司公事迁判官（《宋会要辑稿》职官五之四四）。"
+    },
+    {
+      "n": 21,
+      "jsonName": "张介",
+      "slug": "zhang-jie",
+      "indexCanonical": "章碣",
+      "poemCount": 26,
+      "source": "全唐诗/authors.song.json",
+      "wouldStub": false,
+      "descPreview": "张介，字吉父，鄱阳（今江西波阳）人。神宗熙宁间尝多次至蜀寻父。事见《能改斋漫录》卷一一。"
+    },
+    {
+      "n": 22,
+      "jsonName": "上官彝",
+      "slug": "shang-guan-yi",
+      "indexCanonical": "上官仪",
+      "poemCount": 36,
+      "source": "全唐诗/authors.song.json",
+      "wouldStub": false,
+      "descPreview": "上官彝，邵武（今属福建）人。神宗熙宁九年（一○七六）进士。尝知巴州巴陵县。元丰中苏轼谪黄州，与之有交（《苏东坡全集》续集卷五《答上官长官二首》）。哲宗绍圣中为建"
+    },
+    {
+      "n": 23,
+      "jsonName": "陈廓",
+      "slug": "chen-kuo",
+      "indexCanonical": "陈括",
+      "poemCount": 1,
+      "source": "全唐诗/authors.song.json",
+      "wouldStub": false,
+      "descPreview": "陈廓（一○五六～一一一○），字彦明，镇江（今属江苏）人。神宗熙宁九年（一○七六）进士，历句容主簿，知长社、吉水、楚丘县，知处州。后除广东转运判官，移提点刑狱，改"
+    },
+    {
+      "n": 24,
+      "jsonName": "吴羽",
+      "slug": "wu-yu",
+      "indexCanonical": "吴育",
+      "poemCount": 6,
+      "source": "全唐诗/authors.song.json",
+      "wouldStub": false,
+      "descPreview": "吴羽，全椒（今属安徽）人。革子。登进士第。哲宗元祐初为秀州军事推官。事见《山谷集》卷二二《吴革墓志铭》。"
+    },
+    {
+      "n": 25,
+      "jsonName": "王祈",
+      "slug": "wang-qi",
+      "indexCanonical": "王琪",
+      "poemCount": 33,
+      "source": "全唐诗/authors.song.json",
+      "wouldStub": false,
+      "descPreview": "王祈，哲宗时人（《诗话总龟》前集卷三九引《王直方诗话》）。"
+    },
+    {
+      "n": 26,
+      "jsonName": "释杲",
+      "slug": "shi-gao",
+      "indexCanonical": "释高",
+      "poemCount": 1,
+      "source": "全唐诗/authors.song.json",
+      "wouldStub": false,
+      "descPreview": "释杲，住东京法云寺，称佛照杲禅师。早年游方，谒圆通玑禅师。后依真净，自称于哲宗绍圣三年（一○九六）悟得方寸禅。出住归宗，诏居净因。为南岳下十三世，宝峰克文禅师法"
+    },
+    {
+      "n": 27,
+      "jsonName": "江𬀩",
+      "slug": "jiang-wei",
+      "indexCanonical": "江为",
+      "poemCount": 15,
+      "source": "全唐诗/authors.song.json",
+      "wouldStub": false,
+      "descPreview": "江𬀩，字彦明，自号轑阳居士，永新（今属江西）人。徽宗崇宁、大观间，吉州知州曾以孝行推荐，不报。事见《独醒杂志》卷六。"
+    },
+    {
+      "n": 28,
+      "jsonName": "王黼",
+      "slug": "wang-fu",
+      "indexCanonical": "王𫓧",
+      "poemCount": 4,
+      "source": "全唐诗/authors.song.json",
+      "wouldStub": false,
+      "descPreview": "王黼（一○七九～一一二六），初名甫，字将明，开封祥符（今河南开封）人。徽宗崇宁二年（一一○三）进士（《宋会要辑稿》仪制一○之一八）。宣和中著名佞官，官至太傅、楚"
+    },
+    {
+      "n": 29,
+      "jsonName": "陈纡",
+      "slug": "chen-yu",
+      "indexCanonical": "陈郁",
+      "poemCount": 104,
+      "source": "全唐诗/authors.song.json",
+      "wouldStub": false,
+      "descPreview": "陈纡，广德（今属安徽）人。徽宗政和五年（一一一五）进士。官河中通判（清光绪《广德州志》卷三四）。"
+    },
+    {
+      "n": 30,
+      "jsonName": "释智远",
+      "slug": "shi-zhi-yuan",
+      "indexCanonical": "释智圆",
+      "poemCount": 405,
+      "source": "全唐诗/authors.song.json",
+      "wouldStub": false,
+      "descPreview": "释智（《五灯会元》作致）远，住泰州光孝寺。为南岳下十六世，径山宗杲禅师法嗣。《嘉泰普灯录》卷一八、《五灯会元》卷二○有传。"
+    },
+    {
+      "n": 31,
+      "jsonName": "王以咏",
+      "slug": "wang-yi-yong",
+      "indexCanonical": "王贻永",
+      "poemCount": 1,
+      "source": "全唐诗/authors.song.json",
+      "wouldStub": false,
+      "descPreview": "王以咏，字永言，建安（今福建建瓯）人。徽宗宣和六年（一一二四）进士。知和州含山县，后以岳飞等荐改知光泽县。高宗绍兴三十二年（一一六二），知衡州（《永乐大典》卷八"
+    },
+    {
+      "n": 32,
+      "jsonName": "刘裳",
+      "slug": "liu-shang",
+      "indexCanonical": "刘商",
+      "poemCount": 145,
+      "source": "全唐诗/authors.song.json",
+      "wouldStub": false,
+      "descPreview": "刘裳（清乾隆《安福县志》作棠），安福（今属江西）人。钦宗靖康元年（一一二六）曾预解试（清雍正《江西通志》卷四九）。"
+    },
+    {
+      "n": 33,
+      "jsonName": "吕氏",
+      "slug": "lu-shi",
+      "indexCanonical": "卢氏",
+      "poemCount": 3,
+      "source": "全唐诗/authors.song.json",
+      "wouldStub": false,
+      "descPreview": "吕氏，祖谦祖姑，封清源君（《宋诗纪事》卷八七）。"
+    },
+    {
+      "n": 34,
+      "jsonName": "胡汾",
+      "slug": "hu-fen",
+      "indexCanonical": "胡份",
+      "poemCount": 3,
+      "source": "全唐诗/authors.song.json",
+      "wouldStub": false,
+      "descPreview": "胡汾，余姚（今属浙江）人，沂弟（《宋元学案补遗》卷三五）。"
+    },
+    {
+      "n": 35,
+      "jsonName": "黄辅",
+      "slug": "huang-fu",
+      "indexCanonical": "皇甫□",
+      "poemCount": 2,
+      "source": "全唐诗/authors.song.json",
+      "wouldStub": false,
+      "descPreview": "黄辅，高宗绍兴初为衡州通判（民国《永泰县志》卷一○《卢榕传》）。"
+    },
+    {
+      "n": 36,
+      "jsonName": "张镒",
+      "slug": "zhang-yi",
+      "indexCanonical": "张弋",
+      "poemCount": 48,
+      "source": "全唐诗/authors.song.json",
+      "wouldStub": false,
+      "descPreview": "张镒，字季万，南渡后侨居滁州。高宗绍兴中官郎中，与孙觌有唱和（《鸿庆居士集》卷六）。善草书，尤工山水，得破墨法（《图绘宝鉴》卷四）。"
+    },
+    {
+      "n": 37,
+      "jsonName": "张湜",
+      "slug": "zhang-shi",
+      "indexCanonical": "张栻",
+      "poemCount": 566,
+      "source": "全唐诗/authors.song.json",
+      "wouldStub": false,
+      "descPreview": "张湜，字叔清。能诗。高宗绍兴二十九年（一一五九）官富阳尉时与王十朋有唱和。事见清光绪《富阳县志》卷一七。"
+    },
+    {
+      "n": 38,
+      "jsonName": "魏几",
+      "slug": "wei-ji",
+      "indexCanonical": "韦济",
+      "poemCount": 1,
+      "source": "全唐诗/authors.song.json",
+      "wouldStub": false,
+      "descPreview": "魏几，字天随，福清（今属福建）人。师事林光朝。事见黄宗羲《宋元学案》卷四七。"
+    },
+    {
+      "n": 39,
+      "jsonName": "王繁",
+      "slug": "wang-fan",
+      "indexCanonical": "王蕃",
+      "poemCount": 4,
+      "source": "全唐诗/authors.song.json",
+      "wouldStub": false,
+      "descPreview": "王繁，顺庆（今四川南充东北）人。孝宗乾道间进士（清康熙《顺庆府志》卷一○）。官广南西路转运使（《舆地纪胜》卷一一一）。"
+    },
+    {
+      "n": 40,
+      "jsonName": "王遇",
+      "slug": "wang-yu",
+      "indexCanonical": "王羽",
+      "poemCount": 2,
+      "source": "全唐诗/authors.song.json",
+      "wouldStub": false,
+      "descPreview": "王遇（一一四二～一二一一），字子正，一字子合，学者称东湖先生（《宋元学案》卷六九），龙溪（今福建漳州）人。孝宗乾道五年（一一六九）进士。曾从朱熹，张栻、吕祖谦学"
+    },
+    {
+      "n": 41,
+      "jsonName": "蔡任",
+      "slug": "cai-ren",
+      "indexCanonical": "才人",
+      "poemCount": 1,
+      "source": "全唐诗/authors.song.json",
+      "wouldStub": false,
+      "descPreview": "蔡任，字子重。平阳（今属浙江）人。曾知松阳县（《吹剑录》）。宁宗开禧二年（一二○六）入江淮制置使幕。后隠七星山，建叶岭书房。事见《水心文集》卷一○《叶岭书房记》"
+    },
+    {
+      "n": 42,
+      "jsonName": "戴衍",
+      "slug": "dai-yan",
+      "indexCanonical": "戴偃",
+      "poemCount": 2,
+      "source": "全唐诗/authors.song.json",
+      "wouldStub": false,
+      "descPreview": "戴衍，字崇礼，号约庵，兖州（今属山东）人。宁宗嘉定十年（一二一七）进士。理宗嘉熙元年（一二三七）知常熟县。迁提辖左藏库。寻为屯田员外郎，视师江淮，于高邮遇元兵死"
+    },
+    {
+      "n": 43,
+      "jsonName": "宝祐士人",
+      "slug": "bao-you-shi-ren",
+      "indexCanonical": "宝祐时人",
+      "poemCount": 1,
+      "source": "全唐诗/authors.song.json",
+      "wouldStub": true,
+      "descPreview": "无传。"
+    },
+    {
+      "n": 44,
+      "jsonName": "柳耆",
+      "slug": "liu-qi",
+      "indexCanonical": "刘跂",
+      "poemCount": 224,
+      "source": "全唐诗/authors.song.json",
+      "wouldStub": false,
+      "descPreview": "柳耆，生平未详。应月泉吟社征诗（《月泉吟社诗》）。"
+    },
+    {
+      "n": 45,
+      "jsonName": "陈延",
+      "slug": "chen-yan",
+      "indexCanonical": "陈岩",
+      "poemCount": 212,
+      "source": "全唐诗/authors.song.json",
+      "wouldStub": true,
+      "descPreview": "无传。"
+    },
+    {
+      "n": 46,
+      "jsonName": "杨符",
+      "slug": "yang-fu",
+      "indexCanonical": "杨辅",
+      "poemCount": 1,
+      "source": "全唐诗/authors.song.json",
+      "wouldStub": false,
+      "descPreview": "杨符，字信祖。有《杨信祖集》一卷，已佚（《直斋书录解题》卷二○）。"
+    },
+    {
+      "n": 47,
+      "jsonName": "曹",
+      "slug": "cao",
+      "indexCanonical": "曹𨙅",
+      "poemCount": 6,
+      "source": "宋词/author.song.json",
+      "wouldStub": true,
+      "descPreview": ""
+    },
+    {
+      "n": 48,
+      "jsonName": "程",
+      "slug": "cheng",
+      "indexCanonical": "成㟧",
+      "poemCount": 1,
+      "source": "宋词/author.song.json",
+      "wouldStub": false,
+      "descPreview": "(1164－1242) 字怀古，号水，遗民，休宁 (今属安徽) 人。绍熙四年 (1193) 进士。历官翰林学士、知制诰、宝文阁学士、知福州兼福建安抚使。有《水集"
+    },
+    {
+      "n": 49,
+      "jsonName": "富",
+      "slug": "fu",
+      "indexCanonical": "富ノ",
+      "poemCount": 1,
+      "source": "宋词/author.song.json",
+      "wouldStub": true,
+      "descPreview": ""
+    },
+    {
+      "n": 50,
+      "jsonName": "李好古 1",
+      "slug": "li-hao-gu-1",
+      "indexCanonical": "李好古1",
+      "poemCount": 8,
+      "source": "宋词/author.song.json",
+      "wouldStub": true,
+      "descPreview": ""
+    },
+    {
+      "n": 51,
+      "jsonName": "李好古 2",
+      "slug": "li-hao-gu-2",
+      "indexCanonical": "李好古2",
+      "poemCount": 1,
+      "source": "宋词/author.song.json",
+      "wouldStub": true,
+      "descPreview": ""
+    },
+    {
+      "n": 52,
+      "jsonName": "李氏 1",
+      "slug": "li-shi-1",
+      "indexCanonical": "李氏1",
+      "poemCount": 1,
+      "source": "宋词/author.song.json",
+      "wouldStub": true,
+      "descPreview": ""
+    },
+    {
+      "n": 53,
+      "jsonName": "李氏 2",
+      "slug": "li-shi-2",
+      "indexCanonical": "李氏2",
+      "poemCount": 1,
+      "source": "宋词/author.song.json",
+      "wouldStub": true,
+      "descPreview": ""
+    },
+    {
+      "n": 54,
+      "jsonName": "刘镇 1",
+      "slug": "liu-zhen-1",
+      "indexCanonical": "刘镇1",
+      "poemCount": 2,
+      "source": "宋词/author.song.json",
+      "wouldStub": true,
+      "descPreview": ""
+    },
+    {
+      "n": 55,
+      "jsonName": "刘镇 2",
+      "slug": "liu-zhen-2",
+      "indexCanonical": "刘镇2",
+      "poemCount": 20,
+      "source": "宋词/author.song.json",
+      "wouldStub": true,
+      "descPreview": ""
+    },
+    {
+      "n": 56,
+      "jsonName": "陆",
+      "slug": "lu",
+      "indexCanonical": "鲁",
+      "poemCount": 1,
+      "source": "宋词/author.song.json",
+      "wouldStub": true,
+      "descPreview": ""
+    },
+    {
+      "n": 57,
+      "jsonName": "牟",
+      "slug": "mu",
+      "indexCanonical": "牧",
+      "poemCount": 1,
+      "source": "宋词/author.song.json",
+      "wouldStub": true,
+      "descPreview": ""
+    },
+    {
+      "n": 58,
+      "jsonName": "王炎 1",
+      "slug": "wang-yan-1",
+      "indexCanonical": "王炎1",
+      "poemCount": 2,
+      "source": "宋词/author.song.json",
+      "wouldStub": true,
+      "descPreview": ""
+    },
+    {
+      "n": 59,
+      "jsonName": "王炎 2",
+      "slug": "wang-yan-2",
+      "indexCanonical": "王炎2",
+      "poemCount": 29,
+      "source": "宋词/author.song.json",
+      "wouldStub": true,
+      "descPreview": ""
+    },
+    {
+      "n": 60,
+      "jsonName": "吴氏 1",
+      "slug": "wu-shi-1",
+      "indexCanonical": "吴氏1",
+      "poemCount": 1,
+      "source": "宋词/author.song.json",
+      "wouldStub": true,
+      "descPreview": ""
+    },
+    {
+      "n": 61,
+      "jsonName": "吴氏 2",
+      "slug": "wu-shi-2",
+      "indexCanonical": "吴氏2",
+      "poemCount": 1,
+      "source": "宋词/author.song.json",
+      "wouldStub": true,
+      "descPreview": ""
+    },
+    {
+      "n": 62,
+      "jsonName": "吴氏 3",
+      "slug": "wu-shi-3",
+      "indexCanonical": "吴氏3",
+      "poemCount": 4,
+      "source": "宋词/author.song.json",
+      "wouldStub": true,
+      "descPreview": ""
+    },
+    {
+      "n": 63,
+      "jsonName": "吴淑姬 1",
+      "slug": "wu-shu-ji-1",
+      "indexCanonical": "吴淑姬1",
+      "poemCount": 4,
+      "source": "宋词/author.song.json",
+      "wouldStub": true,
+      "descPreview": ""
+    },
+    {
+      "n": 64,
+      "jsonName": "吴淑姬 2",
+      "slug": "wu-shu-ji-2",
+      "indexCanonical": "吴淑姬2",
+      "poemCount": 1,
+      "source": "宋词/author.song.json",
+      "wouldStub": true,
+      "descPreview": ""
+    },
+    {
+      "n": 65,
+      "jsonName": "杨适 1",
+      "slug": "yang-shi-1",
+      "indexCanonical": "杨适1",
+      "poemCount": 1,
+      "source": "宋词/author.song.json",
+      "wouldStub": true,
+      "descPreview": ""
+    },
+    {
+      "n": 66,
+      "jsonName": "杨适 2",
+      "slug": "yang-shi-2",
+      "indexCanonical": "杨适2",
+      "poemCount": 1,
+      "source": "宋词/author.song.json",
+      "wouldStub": true,
+      "descPreview": ""
+    },
+    {
+      "n": 67,
+      "jsonName": "姚述尧 1",
+      "slug": "yao-shu-yao-1",
+      "indexCanonical": "姚述尧1",
+      "poemCount": 1,
+      "source": "宋词/author.song.json",
+      "wouldStub": true,
+      "descPreview": ""
+    },
+    {
+      "n": 68,
+      "jsonName": "姚述尧 2",
+      "slug": "yao-shu-yao-2",
+      "indexCanonical": "姚述尧2",
+      "poemCount": 23,
+      "source": "宋词/author.song.json",
+      "wouldStub": true,
+      "descPreview": ""
+    },
+    {
+      "n": 69,
+      "jsonName": "虞",
+      "slug": "yu",
+      "indexCanonical": "愈",
+      "poemCount": 24,
+      "source": "宋词/author.song.json",
+      "wouldStub": true,
+      "descPreview": ""
+    },
+    {
+      "n": 70,
+      "jsonName": "曾原",
+      "slug": "ceng-yuan",
+      "indexCanonical": "曾邍",
+      "poemCount": 1,
+      "source": "宋词/author.song.json",
+      "wouldStub": true,
+      "descPreview": ""
+    },
+    {
+      "n": 71,
+      "jsonName": "张生 1",
+      "slug": "zhang-sheng-1",
+      "indexCanonical": "张生1",
+      "poemCount": 1,
+      "source": "宋词/author.song.json",
+      "wouldStub": true,
+      "descPreview": ""
+    },
+    {
+      "n": 72,
+      "jsonName": "张生 2",
+      "slug": "zhang-sheng-2",
+      "indexCanonical": "张生2",
+      "poemCount": 2,
+      "source": "宋词/author.song.json",
+      "wouldStub": true,
+      "descPreview": ""
+    },
+    {
+      "n": 73,
+      "jsonName": "朱颜",
+      "slug": "zhu-yan",
+      "indexCanonical": "朱彦",
+      "poemCount": 8,
+      "source": "宋词/author.song.json",
+      "wouldStub": true,
+      "descPreview": ""
+    },
+    {
+      "n": 74,
+      "jsonName": "唐琬",
+      "slug": "tang-wan",
+      "indexCanonical": "唐婉",
+      "poemCount": 1,
+      "source": "宋词/author.song.json",
+      "wouldStub": false,
+      "descPreview": "陆游妻，为陆母所逼离异，改适赵士程，怏怏而卒。存词一首 (一说词为后人伪托)。主要作品有：钗头凤（世情薄）"
+    },
+    {
+      "n": 75,
+      "jsonName": "赵令峙",
+      "slug": "zhao-ling-zhi",
+      "indexCanonical": "赵令畤",
+      "poemCount": 31,
+      "source": "宋词/author.song.json",
+      "wouldStub": false,
+      "descPreview": "主要作品有：蝶恋花（欲减罗衣寒未去）"
+    },
+    {
+      "n": 76,
+      "jsonName": "吴",
+      "slug": "wu",
+      "indexCanonical": "吴㻦",
+      "poemCount": 2,
+      "source": "宋词/author.song.json",
+      "wouldStub": false,
+      "descPreview": "(1196－1262) 字毅夫，号履斋，宣州宁国 (今属安徽) 人。一说德清 (今属浙江) 人。嘉定十年 (1217) 进士第一。累官参知政事、枢密使、左丞相。"
+    },
+    {
+      "n": 77,
+      "jsonName": "曹",
+      "slug": "cao",
+      "indexCanonical": "曹𨙅",
+      "poemCount": 6,
+      "source": "宋词/author.song.json",
+      "wouldStub": false,
+      "descPreview": "字择可，号松山，贾似道门客。有赵万里辑《松山词》。"
+    },
+    {
+      "n": 78,
+      "jsonName": "刘迎",
+      "slug": "liu-ying",
+      "indexCanonical": "刘颖",
+      "poemCount": 1,
+      "source": "宋词/author.song.json",
+      "wouldStub": false,
+      "descPreview": "(？－1180) 字无党，号无净居士，东莱 (今山东东掖县) 人。大定十四年 (1174) 进士，除豳王府记室，改太子司经。著有《山林长语》。词存四首。"
+    },
+    {
+      "n": 79,
+      "jsonName": "张中孚",
+      "slug": "zhang-zhong-fu",
+      "indexCanonical": "张众甫",
+      "poemCount": 3,
+      "source": "宋词/author.song.json",
+      "wouldStub": false,
+      "descPreview": "字信甫，号长谷老人。先世自安定徙居张义堡 (属镇戎军，今宁夏固原)。先仕于宋，后降金。曾任参加政事、尚书左丞。贞元中 (1153－1156) 卒，年五十九。喜读"
+    }
+  ]
+}

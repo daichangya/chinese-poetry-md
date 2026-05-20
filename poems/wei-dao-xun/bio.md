@@ -1,6 +1,12 @@
 ---
 title: 韦道逊
-short_description: 韦道逊，唐代诗人。
-source: inferred
+short_description: 韦道逊，京兆杜陵人。
+source: guwendao
+bio_trust: external
+guwendao_url: 'https://www.guwendao.net/authorv_cc8858c1c046.aspx'
+guwendao_id: authorv_cc8858c1c046
+attribution: 古文岛
 ---
-韦道逊，唐代诗人。本目录收录其作品 1 首。
+韦道逊，京兆杜陵人。曾祖肃，随刘义真渡江。祖崇，自宋入魏，寓居河南洛阳，官至华山太守。道逊与兄道密、道建、道儒并早以文学知名。道逊，武平初尚书左中兵，加通直散骑侍郎，入馆，加通直常侍。《全唐诗》收《晚春宴》诗1首，列为世次爵里无考作者。按韦道逊，《北齐书》卷四五有传，为京兆杜陵（今陜西长安县东北）人，寓居河南洛阳。早以文学知名。北齐后主武平初任尚书左中兵，加通直散骑侍郎。入馆，加通直常侍。卒年不详。《全唐诗》误作唐人收入。
+
+（传记来源：古文岛）

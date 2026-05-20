@@ -1,9 +1,10 @@
 {
-  "written": 10,
-  "skipped_collision": 1533,
-  "skipped_stub": 0,
-  "skipped_mode": 11533,
+  "written": 19,
+  "written_by_canonical_match": 19,
+  "skipped_collision": 79,
+  "skipped_stub": 10,
+  "skipped_mode": 12958,
   "skipped_degrade": 0,
-  "inferred": 10,
+  "inferred": 0,
   "missing_after": 0
 }

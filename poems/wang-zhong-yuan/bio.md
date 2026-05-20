@@ -1,6 +1,12 @@
 ---
 title: 王仲元
-short_description: 王仲元，元代曲家。
-source: inferred
+short_description: 王仲元，元后期北曲作家，生平事迹不详。
+source: guwendao
+bio_trust: external
+guwendao_url: 'https://www.guwendao.net/authorv_a6317bd79936.aspx'
+guwendao_id: authorv_a6317bd79936
+attribution: 古文岛
 ---
-王仲元，元代曲家。本目录收录其作品 25 首。
+王仲元，元后期北曲作家，生平事迹不详。据《录鬼簿》载，他与钟嗣成相交有年，熟稔非常。王仲元其散曲多以杭州景致和西湖传说为题，表现了元末文采派曲家的风范。他还有两支以曲牌名连缀成套，状写情事和秋景的曲子，是元人散曲创作中的一种别致的“集专名”体的代表作，虽属文字游戏，但全套妥贴稳称，音律和谐，亦可卿备一格，是我们研究这类填曲技巧的范本。
+
+（传记来源：古文岛）

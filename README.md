@@ -53,21 +53,37 @@ npm run gen_author_bio
 # 3. 规范化 title / short_description / 正文
 npm run normalize:bios
 
-# 4. 审计覆盖率（名家 slug 缺失会失败退出）
+# 4. 审计覆盖率与质量分级（名家 slug 缺失会失败退出）
 npm run audit:bios
 ```
 
-常用参数：`npm run gen_author_bio -- --fix-stubs`（仅修近空简介）、`--fill-missing`、`--force`（慎用）、`--no-infer-missing`（不生成推断模板）。产出报告：`bio_generation_report.json`、`bio_audit_report.json`。
+推荐二次补全（拆分后释放 JSON 碰撞写入）：
+
+```bash
+npm run build:author-index
+npm run gen_author_bio -- --fix-stubs --fill-missing
+npm run normalize:bios
+npm run audit:bios
+```
+
+常用参数：`--fix-stubs`（仅修近空简介）、`--fill-missing`、`--force`（慎用）、`--no-infer-missing`（不生成推断模板）。
+
+产出报告：
+
+- `bio_generation_report.json` — 写入/跳过统计（含 `written_by_canonical_match`）
+- `bio_audit_report.json` — 缺失、stub、title 一致性
+- `bio_quality_report.json` — 质量分级：`minimal` / `inferred` / `short` / `full`，及 orphan（有 bio 无诗词 index）清单
+
+作者页链接一律使用**当前**目录 slug（如 `su-shi`、`su-shi-shi`），不做旧 slug 重定向。
 
 若同一 `authorSlug` 目录内混有多个作者（同音不同字），在站点仓执行拆分（canonical 作者保留原 slug，其余迁至 `su-shi-shi` 等形式）：
 
 ```bash
-# 先处理第二名占比 >5% 的 ambiguous 目录，再处理其余多作者目录
 npm run split:ambiguous-authors
 npm run split:ambiguous-authors -- --all-multi-author
 ```
 
-拆分映射见本仓根目录 `author_slug_split_map.json`（旧链接若指向混放目录，需站点侧做重定向时再接入）。
+拆分过程记录见 `author_slug_split_map.json`（仅供追溯，站点不读取）。
 
 ## 如何参与
 

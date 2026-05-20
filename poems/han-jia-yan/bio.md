@@ -1,6 +1,12 @@
 ---
 title: 韩嘉彦
-short_description: 韩嘉彦，宋代词人。
-source: inferred
+short_description: 韩嘉彦（1067—1129），字师茂，相州安阳（今属河南）人，贤相韩琦六子。
+source: guwendao
+bio_trust: external
+guwendao_url: 'https://www.guwendao.net/authorv_27360ffeb380.aspx'
+guwendao_id: authorv_27360ffeb380
+attribution: 古文岛
 ---
-韩嘉彦，宋代词人。本目录收录其作品 1 首。
+韩嘉彦（1067—1129），字师茂，相州安阳（今属河南）人，贤相韩琦六子。宋代词人。生于治平四年（1067年），娶齐国公主（神宗第三女）为妻，拜驸马都尉，终赢海军承宣使。宋高宗建炎三年（1129年）卒，谥端节。有子六子：韩恕、韩诏、韩诫、韩谘、韩瑛、韩燮。
+
+（传记来源：古文岛）

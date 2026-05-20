@@ -1,6 +1,12 @@
 ---
 title: 王迥
-short_description: 王迥，唐代诗人。
-source: inferred
+short_description: 王迥，号白云先生，家住襄阳鹿门山，是一位隐居的高士，与一生未曾出仕的孟浩然是交谊深挚的好友。
+source: guwendao
+bio_trust: external
+guwendao_url: 'https://www.guwendao.net/authorv_e329ec0ae821.aspx'
+guwendao_id: authorv_e329ec0ae821
+attribution: 古文岛
 ---
-王迥，唐代诗人。本目录收录其作品 1 首。
+王迥，号白云先生，家住襄阳鹿门山，是一位隐居的高士，与一生未曾出仕的孟浩然是交谊深挚的好友。孟诗中关于王迥的诗作很多，可见与孟浩然关系相当密切。《全唐诗》收录了王迥的一首题为《同孟浩然宴赋》的诗，前缀小传说：“王迥，家鹿门，号白云先生，与孟浩然善。”孟浩然诗《白云先生王迥见访》：“归闲日无事，云卧昼不起。有客款柴扉，自云巢居子。居闲好芝术，采药来城市。家在鹿门山，常游涧泽水”。说明王迥家确实住在湖北省襄阳市东南的鹿门山。
+
+（传记来源：古文岛）

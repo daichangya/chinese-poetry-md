@@ -1,6 +1,12 @@
 ---
 title: 李唐
-short_description: 李唐，宋代词人。
-source: inferred
+short_description: 李唐（1066—1150），南宋画家。
+source: guwendao
+bio_trust: external
+guwendao_url: 'https://www.guwendao.net/authorv_5ac0f95d0ae8.aspx'
+guwendao_id: authorv_5ac0f95d0ae8
+attribution: 古文岛
 ---
-李唐，宋代词人。本目录收录其作品 1 首。
+李唐（1066—1150），南宋画家。字晞古，河阳三城（今河南孟县）人。初以卖画为生， 宋徽宗赵佶时入画院。南渡后以成忠郎衔任画院待诏。擅长山水、人物。变荆浩、范宽之法，苍劲古朴，气势雄壮，开南宋水墨苍劲、浑厚一派先河。晚年去繁就简，用笔峭劲，创“大斧劈”皴，所画石质坚硬，立体感强，画水尤得势，有盘涡动荡之趣。兼工人物，初师李公麟，后衣褶变为方折劲硬，自成风格。并以画牛著称。与刘松年、马远、夏圭并称“南宋四大家”。存世作品有《万壑松风图》《清溪渔隐图》《烟寺松风》《采薇图》等。
+
+（传记来源：古文岛）

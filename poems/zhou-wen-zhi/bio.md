@@ -1,6 +1,12 @@
 ---
 title: 周文质
-short_description: 周文质，元代曲家。
-source: inferred
+short_description: 周文质（？
+source: guwendao
+bio_trust: external
+guwendao_url: 'https://www.guwendao.net/authorv_de5b40919702.aspx'
+guwendao_id: authorv_de5b40919702
+attribution: 古文岛
 ---
-周文质，元代曲家。本目录收录其作品 28 首。
+周文质（？－1334），元代文学家。字仲彬，建德（今属浙江）人，后居杭州。与钟嗣成相交二十余年，两人情深意笃，形影不离，故《录鬼簿》对他有详细的记载：“体貌清癯，学问渊博，资性工巧，文笔新奇。家世儒业，俯就路吏。善丹青，能歌舞，明曲调，谐音律。性尚豪侠，好事敬客善绘画，谐音律。所作杂剧今知有四种。现仅《苏武还乡》（或称《苏武还朝》）存有残曲。散曲存有小令四十三首，套数五套，多男女相思之作。
+
+（传记来源：古文岛）

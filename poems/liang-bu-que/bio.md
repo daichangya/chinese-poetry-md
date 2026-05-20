@@ -1,6 +1,12 @@
 ---
 title: 梁补阙
-short_description: 梁补阙，唐代诗人。
-source: inferred
+short_description: 《全唐诗》收《赠米都知》诗一首，不载其名。
+source: guwendao
+bio_trust: external
+guwendao_url: 'https://www.guwendao.net/authorv_9ffc7383f636.aspx'
+guwendao_id: authorv_9ffc7383f636
+attribution: 古文岛
 ---
-梁补阙，唐代诗人。本目录收录其作品 1 首。
+《全唐诗》收《赠米都知》诗一首，不载其名。近人岑仲勉《读全唐诗札记》疑为梁肃，不确。按梁补阙，应为梁周翰(929-1009)，字元褒，郑州管城(今河南郑州)人。后周太祖广顺二年(952)登进士第。入宋，历官秘书郎直史馆、右拾遗、绵、眉二州通判。宋太祖开宝间，以左补阙兼知大理正事。后出知苏州等地。宋太宗雍熙中，为右补阙，仕至翰林学士、工部侍郎。事详《宋史》本传。《赠米都知》诗出《南部新书》卷癸，应为其两次官补阙时作。《全唐诗》误作唐人收入。
+
+（传记来源：古文岛）

@@ -1,10 +1,76 @@
 {
   "authorDirs": 13584,
   "missing": 0,
-  "stub": 0,
+  "stub": 13,
   "titleMismatch": 0,
   "noShortDescription": 0,
   "ambiguousSlugs": 0,
   "famousFailures": [],
-  "issuesSample": []
+  "issuesSample": [
+    {
+      "slug": "bao-ying",
+      "kind": "stub",
+      "detail": ""
+    },
+    {
+      "slug": "cheng",
+      "kind": "stub",
+      "detail": ""
+    },
+    {
+      "slug": "dai-yan",
+      "kind": "stub",
+      "detail": ""
+    },
+    {
+      "slug": "fu",
+      "kind": "stub",
+      "detail": ""
+    },
+    {
+      "slug": "han-jun",
+      "kind": "stub",
+      "detail": ""
+    },
+    {
+      "slug": "ji-yuan-gao",
+      "kind": "stub",
+      "detail": ""
+    },
+    {
+      "slug": "li-hong-gao",
+      "kind": "stub",
+      "detail": ""
+    },
+    {
+      "slug": "li-wen-ru",
+      "kind": "stub",
+      "detail": ""
+    },
+    {
+      "slug": "qu-zhan",
+      "kind": "stub",
+      "detail": ""
+    },
+    {
+      "slug": "su-gui",
+      "kind": "stub",
+      "detail": ""
+    },
+    {
+      "slug": "tang-wan",
+      "kind": "stub",
+      "detail": ""
+    },
+    {
+      "slug": "xue-shen-huo",
+      "kind": "stub",
+      "detail": ""
+    },
+    {
+      "slug": "xue-zhun",
+      "kind": "stub",
+      "detail": ""
+    }
+  ]
 }

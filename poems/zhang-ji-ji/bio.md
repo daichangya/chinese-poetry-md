@@ -1,6 +1,12 @@
 ---
 title: 张继
-short_description: 张继，唐代诗人。
-source: inferred
+short_description: 张继（约715~约779）字懿孙，汉族，襄州人（今湖北襄阳人）。
+source: guwendao
+bio_trust: external
+guwendao_url: 'https://www.guwendao.net/authorv_623fb18b7792.aspx'
+guwendao_id: authorv_623fb18b7792
+attribution: 古文岛
 ---
-张继，唐代诗人。本目录收录其作品 52 首。
+张继（约715~约779）字懿孙，汉族，襄州人（今湖北襄阳人）。唐代诗人，他的生平不甚可知。据诸家记录，仅知他是天宝十二年（公元七五三年）的进士。大历中，以检校祠部员外郎为洪州（今江西南昌市）盐铁判官。他的诗爽朗激越，不事雕琢，比兴幽深，事理双切，对后世颇有影响。但可惜流传下来的不到50首。他的最著名的诗是《枫桥夜泊》。
+
+（传记来源：古文岛）

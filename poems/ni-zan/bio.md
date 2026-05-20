@@ -1,6 +1,12 @@
 ---
 title: 倪瓒
-short_description: 倪瓒，元代曲家。
-source: inferred
+short_description: 倪瓒（1301～1374），元代画家、诗人。
+source: guwendao
+bio_trust: external
+guwendao_url: 'https://www.guwendao.net/authorv_de8cadcc6069.aspx'
+guwendao_id: authorv_de8cadcc6069
+attribution: 古文岛
 ---
-倪瓒，元代曲家。本目录收录其作品 2 首。
+倪瓒（1301～1374），元代画家、诗人。初名珽，字泰宇，后字元镇，号云林子、荆蛮民、幻霞子等。江苏无锡人。家富，博学好古，四方名士常至其门。元顺帝至正初忽散尽家财，浪迹太湖一带。擅画山水、墨竹，师法董源，受赵孟頫影响。早年画风清润，晚年变法，平淡天真。疏林坡岸，幽秀旷逸，笔简意远，惜墨如金。以侧锋干笔作皴，名为“折带皴”。墨竹偃仰有姿，寥寥数笔，逸气横生。书法从隶入，有晋人风度，亦擅诗文。与黄公望、王蒙、吴镇合称&quot;元四家&quot;。存世作品有《渔庄秋霁图》《六君子图》《容膝斋图》等。著有《清閟阁集》。
+
+（传记来源：古文岛）

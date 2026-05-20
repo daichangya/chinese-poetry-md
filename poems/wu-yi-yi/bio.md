@@ -1,6 +1,12 @@
 ---
 title: 吴镒
-short_description: 吴镒，宋代词人。
-source: inferred
+short_description: '[约公元一一七四年前后在世]字仲权临川人，吴曾从弟。'
+source: guwendao
+bio_trust: external
+guwendao_url: 'https://www.guwendao.net/authorv_d985c0805e2b.aspx'
+guwendao_id: authorv_d985c0805e2b
+attribution: 古文岛
 ---
-吴镒，宋代词人。本目录收录其作品 6 首。
+[约公元一一七四年前后在世]字仲权临川人，吴曾从弟。生卒年均不详，约宋孝宗淳熙初前后在世。隆兴（公元一一六四年左右）进士。知义章县及武冈军，均有惠政。累官司封郎中，极言罢归。镒著有云岩集。又工词，有敬斋词一卷，《文献通考》传于世。
+
+（传记来源：古文岛）

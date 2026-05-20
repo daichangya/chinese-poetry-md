@@ -1,6 +1,12 @@
 ---
 title: 陈通方
-short_description: 陈通方，唐代诗人。
-source: inferred
+short_description: 陈通方（770～?
+source: guwendao
+bio_trust: external
+guwendao_url: 'https://www.guwendao.net/authorv_9c360b310447.aspx'
+guwendao_id: authorv_9c360b310447
+attribution: 古文岛
 ---
-陈通方，唐代诗人。本目录收录其作品 3 首。
+陈通方（770～?年）闽县（今福州鼓楼区）人，家居省城。少年时，即工文辞。唐贞元十年（794年）进士，时年25岁，是鼓楼地区第一个进士。同榜进士王播，年已56岁，陈通方年少轻浮，戏拊其背说：“王老!王老!奉赠一第。”王播反唇相讥：“陈少!陈少!切莫作恶!”后陈通方丁母忧，未得一官半职，生活困苦。王播已掌管朝廷盐政，陈通方以诗求他荐引，句云：“应念路旁憔悴翼，昔年乔木幸同迁。”王播荐其为江西南陵院官，终郁郁而卒。著有《陈院官诗》一卷，佚。
+
+（传记来源：古文岛）

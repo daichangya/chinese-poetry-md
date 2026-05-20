@@ -1,6 +1,12 @@
 ---
 title: 蒋白
-short_description: 蒋白，宋代词人。
-source: inferred
+short_description: 蒋白，毗陵（今江苏常州）人。
+source: guwendao
+bio_trust: external
+guwendao_url: 'https://www.guwendao.net/authorv_8d41e3c9a0a6.aspx'
+guwendao_id: authorv_8d41e3c9a0a6
+attribution: 古文岛
 ---
-蒋白，宋代词人。本目录收录其作品 1 首。
+蒋白，毗陵（今江苏常州）人。哲宗元祐三年（一○八八）进士（《宋诗纪事补遗》卷二八）。
+
+（传记来源：古文岛）

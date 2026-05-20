@@ -1,6 +1,12 @@
 ---
 title: 无闷
-short_description: 无闷，唐代诗人。
-source: inferred
+short_description: 无闷，五代十国时南方诗僧。
+source: guwendao
+bio_trust: external
+guwendao_url: 'https://www.guwendao.net/authorv_502a353a6f07.aspx'
+guwendao_id: authorv_502a353a6f07
+attribution: 古文岛
 ---
-无闷，唐代诗人。本目录收录其作品 2 首。
+无闷，五代十国时南方诗僧。生卒年、俗姓籍贯及生平履历均不详，大约公元930年前后在世。能诗，有名于时。《全唐诗》载其诗二首，皆为七言绝句。
+
+（传记来源：古文岛）

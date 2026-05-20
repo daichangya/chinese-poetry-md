@@ -1,6 +1,12 @@
 ---
 title: 沈颜
-short_description: 沈颜，唐代诗人。
-source: inferred
+short_description: '沈颜，[公元？'
+source: guwendao
+bio_trust: external
+guwendao_url: 'https://www.guwendao.net/authorv_24b6777be63a.aspx'
+guwendao_id: authorv_24b6777be63a
+attribution: 古文岛
 ---
-沈颜，唐代诗人。本目录收录其作品 2 首。
+沈颜，[公元？年至九二四年左右]字可铸，吴郡人。生年不详，约卒于后唐庄宗同光中。少有辞藻，琴棋皆臻妙境。性闲淡，不乐世利。为文速而博，场中号为“下水船”。天复初，（公元九o一年）举进士第，为校书郎。唐末乱杂奔湖南。吴国建，为淮南巡官、礼仪使、兵部郎中、知制诰翰林学士。顺义（吴杨溥年号）中卒。颜尝疾当时文章浮靡，仿古著书百篇，取元次山聱叟之说，名曰聱书十卷，（新唐书志作声书此从文献通考）全唐诗录有陵阳集五卷，并传于世。
+
+（传记来源：古文岛）

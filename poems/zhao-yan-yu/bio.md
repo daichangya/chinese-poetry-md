@@ -1,6 +1,12 @@
 ---
 title: 赵彦逾
-short_description: 赵彦逾，宋代词人。
-source: inferred
+short_description: 赵彦逾（1130－1207年）字德先，浙江四明人，南宋宗室大臣，北宋魏悼王赵廷美后代，崇简国公赵叔寓曾孙。
+source: guwendao
+bio_trust: external
+guwendao_url: 'https://www.guwendao.net/authorv_ef9a8b9383bd.aspx'
+guwendao_id: authorv_ef9a8b9383bd
+attribution: 古文岛
 ---
-赵彦逾，宋代词人。本目录收录其作品 1 首。
+赵彦逾（1130－1207年）字德先，浙江四明人，南宋宗室大臣，北宋魏悼王赵廷美后代，崇简国公赵叔寓曾孙。绍兴三十年，登第。淳熙五年，知秀州。累迁太府少卿，四川总领，工部尚书。联合赵汝愚、韩侂胄和郭杲拥立宁宗登基。庆元党禁时，与赵汝愚反目，依附宰臣韩侂胄。晚年提举万寿观兼侍读，进观文殿学士。开禧三年卒，年七十八。
+
+（传记来源：古文岛）

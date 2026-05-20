@@ -1,6 +1,12 @@
 ---
 title: 贾躭
-short_description: 贾躭，唐代诗人。
-source: inferred
+short_description: 贾躭，字敦诗，唐沧州南皮人。
+source: guwendao
+bio_trust: external
+guwendao_url: 'https://www.guwendao.net/authorv_73b8df38d578.aspx'
+guwendao_id: authorv_73b8df38d578
+attribution: 古文岛
 ---
-贾躭，唐代诗人。本目录收录其作品 1 首。
+贾躭，字敦诗，唐沧州南皮人。天宝中，举明经，授临清县尉。上疏论时政，改正平尉，从事河东检校膳部员外郎。历邠州刺史，政绩茂异，入为鸿胪卿。自大历至贞元，三为节镇，征拜右仆射，同中书门下平章事。在相位十三年，世称其淳德。躭好地理学，外国使至，必讯其山川土俗，因撰 《海内华夷图》 及 《古今郡国县道四夷述》四十卷，表献之。诗一首。
+
+（传记来源：古文岛）

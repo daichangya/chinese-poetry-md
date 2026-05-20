@@ -1,6 +1,12 @@
 ---
 title: 王挺秀
-short_description: 王挺秀，元代曲家。
-source: inferred
+short_description: 王挺秀，字号未详， 山东益都(今山东益都县)人，淘金千户，事迹无考。
+source: guwendao
+bio_trust: external
+guwendao_url: 'https://www.guwendao.net/authorv_110d4b73a292.aspx'
+guwendao_id: authorv_110d4b73a292
+attribution: 古文岛
 ---
-王挺秀，元代曲家。本目录收录其作品 3 首。
+王挺秀，字号未详， 山东益都(今山东益都县)人，淘金千户，事迹无考。 约元世祖中 统前后在世。元人钟嗣成《录鬼簿》将其列在“前辈 已死名公才人，有所编传奇行于世者”第二十人。贾 仲明为其所补挽词云：“淘金千户甚风流， 宝马金鞍 称俊游，益都人物王挺秀，将《坑儒焚典 》修， 《草庵歌》和尚石头。驰花阵，夺锦筹百世芳留。 ”所 作杂剧四种， 惜均失传。《 太和正音谱》评其词如“月印寒潭”。
+
+（传记来源：古文岛）

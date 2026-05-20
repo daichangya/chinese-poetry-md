@@ -1,6 +1,12 @@
 ---
 title: 杨济
-short_description: 杨济，宋代词人。
-source: inferred
+short_description: 杨济，字济道，晋源（今四川崇州）人，一作遂宁（清嘉庆《四川通志》卷一二三）人。
+source: guwendao
+bio_trust: external
+guwendao_url: 'https://www.guwendao.net/authorv_873a42822789.aspx'
+guwendao_id: authorv_873a42822789
+attribution: 古文岛
 ---
-杨济，宋代词人。本目录收录其作品 1 首。
+杨济，字济道，晋源（今四川崇州）人，一作遂宁（清嘉庆《四川通志》卷一二三）人。孝宗淳熙五年（一一七八）进士。宁宗庆元五年（一一九九），除秘书郎兼日历所编类圣政检讨官。六年，进著作佐郎。嘉泰元年（一二○一），出知果州。终潼川路转运判官。有《钝斋集》，已佚。事见《鹤山集》卷五三《杨济道钝斋集序》、《南宋馆阁续录》卷八、九。
+
+（传记来源：古文岛）

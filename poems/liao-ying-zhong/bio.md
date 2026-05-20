@@ -1,6 +1,12 @@
 ---
 title: 廖莹中
-short_description: 廖莹中，宋代词人。
-source: inferred
+short_description: 廖莹中，号药洲，邵武（今属福建）人。
+source: guwendao
+bio_trust: external
+guwendao_url: 'https://www.guwendao.net/authorv_d0a9ca108da7.aspx'
+guwendao_id: authorv_d0a9ca108da7
+attribution: 古文岛
 ---
-廖莹中，宋代词人。本目录收录其作品 2 首。
+廖莹中，号药洲，邵武（今属福建）人。南宋刻书家、藏书家。登科后，为贾似道幕下客，官为太府丞、知州，皆不赴。贾似道专权误国，他亦遭国人唾骂。醉心于刻书、藏书之业。与贾似道选十三朝国史、会要、诸子杂说等，例为百卷，名《悦生堂随抄》。家有“悦生堂”为藏书之所，又建“世彩堂”、“在勤堂”专以刻书。与赵淇、韩醇、陈起、岳珂、廖莹中、余仁仲、汪纲并称宋代著名的七大刻书家之一。建“世彩堂”专以刻书。后贾似道因事得罪，他相从不愿离开。一日与贾似道一起痛饮，悲歌雨注。五更归舍，服毒自杀。
+
+（传记来源：古文岛）

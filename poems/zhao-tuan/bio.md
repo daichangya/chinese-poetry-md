@@ -1,6 +1,12 @@
 ---
 title: 赵抟
-short_description: 赵抟，唐代诗人。
-source: inferred
+short_description: 赵抟（tuán），唐末人，与张鼎、韦霭同时。
+source: guwendao
+bio_trust: external
+guwendao_url: 'https://www.guwendao.net/authorv_7192787334de.aspx'
+guwendao_id: authorv_7192787334de
+attribution: 古文岛
 ---
-赵抟，唐代诗人。本目录收录其作品 2 首。
+赵抟（tuán），唐末人，与张鼎、韦霭同时。生卒年、籍贯皆不详。有操守，终生不遇。尝作《琴歌》以寓其落魄不遇之慨。生平事迹见《唐才子传》卷一〇《张鼎传》。辛文房谓其“有爽迈之度，工歌诗”(《唐才子传》)。《新唐书·艺文志四》著录《赵抟歌诗》2卷，《唐才子传》谓存诗1卷，已佚。《全唐诗》存诗2首。
+
+（传记来源：古文岛）

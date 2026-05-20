@@ -1,6 +1,12 @@
 ---
 title: 奥敦周卿
-short_description: 奥敦周卿，元代曲家。
-source: inferred
+short_description: 奥敦周卿（生卒不详），女真族人。
+source: guwendao
+bio_trust: external
+guwendao_url: 'https://www.guwendao.net/authorv_cee6c8c85cec.aspx'
+guwendao_id: authorv_cee6c8c85cec
+attribution: 古文岛
 ---
-奥敦周卿，元代曲家。本目录收录其作品 5 首。
+奥敦周卿（生卒不详），女真族人。似与白朴同时，元初人。字周卿，号竹庵。奥敦是女真姓氏。《全元散曲》存其小令2首。其先世仕金。父奥敦保和降元后，累立战功，由万户迁至德兴府元帅。周卿本人历官怀孟路总管府判官、侍御史、河北河南道提刑按察司佥事。为元散曲前期作家，与杨果、白朴有交往，相互酬唱。今存小令二首，套数三曲。《太和正音谱》列为「词林英杰。」
+
+（传记来源：古文岛）

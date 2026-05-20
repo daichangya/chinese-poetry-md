@@ -1,6 +1,12 @@
 ---
 title: 曾瑞
-short_description: 曾瑞，元代曲家。
-source: inferred
+short_description: 曾瑞（生卒年不详）， 元代散曲作家。
+source: guwendao
+bio_trust: external
+guwendao_url: 'https://www.guwendao.net/authorv_d8ccab07b297.aspx'
+guwendao_id: authorv_d8ccab07b297
+attribution: 古文岛
 ---
-曾瑞，元代曲家。本目录收录其作品 84 首。
+曾瑞（生卒年不详）， 元代散曲作家。字瑞卿，自号褐夫。大兴（今北京市大兴区）人。因喜江浙人才风物而移家南方。《录鬼簿》记他“临终之日，诣门吊者以千数”，可知他当时已有盛名。由于志不屈物，不解趋附奉承，所以终身不仕，优游市井，赖江淮一带熟人馈赠为生。善绘画，能作隐语小曲，散曲集有《诗酒馀音》行于当世，今佚。
+
+（传记来源：古文岛）

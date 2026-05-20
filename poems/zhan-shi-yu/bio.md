@@ -1,6 +1,12 @@
 ---
 title: 詹时雨
-short_description: 詹时雨，元代曲家。
-source: inferred
+short_description: 詹时雨，明代戏曲家，字号里籍不详。
+source: guwendao
+bio_trust: external
+guwendao_url: 'https://www.guwendao.net/authorv_9f2420adebdd.aspx'
+guwendao_id: authorv_9f2420adebdd
+attribution: 古文岛
 ---
-詹时雨，元代曲家。本目录收录其作品 18 首。
+詹时雨，明代戏曲家，字号里籍不详。《录鬼簿续编》载其“随父宦游福建，因而家焉”。《录鬼簿续编》在谈及其性格时，言其“为人沉静寡言，才思敏捷”。他工散曲，“乐府极多”，惜仅存一个套数，即《〔南吕〕一枝花·丽情》。另有《补西厢弈棋》一剧，仅一折，即为王实甫《西厢记》第一本第三折崔张联吟后，又增一折。晚进王生名号里籍以及生卑皆无考，故今人多以为晚进王生为詹时雨之托名，庄一拂先生《古典戏曲存目汇考》、隋树森先生《全元散曲》中关于詹氏介绍，都持此疑论。
+
+（传记来源：古文岛）

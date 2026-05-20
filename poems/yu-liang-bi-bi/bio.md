@@ -1,6 +1,12 @@
 ---
 title: 喻良弼
-short_description: 喻良弼，宋代词人。
-source: inferred
+short_description: 喻良弼，字季直，号杉堂，义乌（今属浙江）人。
+source: guwendao
+bio_trust: external
+guwendao_url: 'https://www.guwendao.net/authorv_4ff4f96bc652.aspx'
+guwendao_id: authorv_4ff4f96bc652
+attribution: 古文岛
 ---
-喻良弼，宋代词人。本目录收录其作品 1 首。
+喻良弼，字季直，号杉堂，义乌（今属浙江）人。良能弟（《宋元学案补遗》卷五六）。为太学生，以特科补新喻尉（明嘉靖《义乌县志》卷一○）。有《杉堂集》十卷，乐府五卷（《龙川文集》卷一六《题喻季直文编》），已佚。
+
+（传记来源：古文岛）

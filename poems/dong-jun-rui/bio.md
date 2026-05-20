@@ -1,6 +1,12 @@
 ---
 title: 董君瑞
-short_description: 董君瑞，元代曲家。
-source: inferred
+short_description: 董君瑞，生卒年、字号均不详。
+source: guwendao
+bio_trust: external
+guwendao_url: 'https://www.guwendao.net/authorv_a765749e2229.aspx'
+guwendao_id: authorv_a765749e2229
+attribution: 古文岛
 ---
-董君瑞，元代曲家。本目录收录其作品 8 首。
+董君瑞，生卒年、字号均不详。（今河北冀县）人。元·钟嗣成《录鬼簿》将其列为“方今才人，闻名而不相知者”，小传称他：“隐语乐府，多传江南。”据说其一生落魄，仕途偃蹇，颠沛流离。明·朱权《太和正音谱》将其列于“词林英杰”一百五十人之中。
+
+（传记来源：古文岛）

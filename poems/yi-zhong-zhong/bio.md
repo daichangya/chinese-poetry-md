@@ -1,6 +1,12 @@
 ---
 title: 易重
-short_description: 易重，唐代诗人。
-source: inferred
+short_description: 易重，宜春（今江西宜春）人。
+source: guwendao
+bio_trust: external
+guwendao_url: 'https://www.guwendao.net/authorv_4d239af7c627.aspx'
+guwendao_id: authorv_4d239af7c627
+attribution: 古文岛
 ---
-易重，唐代诗人。本目录收录其作品 1 首。
+易重，宜春（今江西宜春）人。字鼎臣。生卒年不详。公元845年（唐武宗会昌五年）乙丑科状元及第。该科进士二十七人。复试落第七人。考官：左谏议大夫陈商。该科榜发时张濆为状元，易重名列第二，进士及第二十七人。名士、举子皆以为此科取士不公，议论纷起。易重善诗，尤工文，有佳作千余篇，名显一时，惜多已 散失。《全唐诗》存其《寄宜阳兄弟》一首。
+
+（传记来源：古文岛）

@@ -1,6 +1,12 @@
 ---
 title: 沈禧
-short_description: 沈禧，元代曲家。
-source: inferred
+short_description: '沈禧[元]（约公元一三五四年前后在世），字廷锡，吴兴人。'
+source: guwendao
+bio_trust: external
+guwendao_url: 'https://www.guwendao.net/authorv_75131db54b04.aspx'
+guwendao_id: authorv_75131db54b04
+attribution: 古文岛
 ---
-沈禧，元代曲家。本目录收录其作品 14 首。
+沈禧[元]（约公元一三五四年前后在世），字廷锡，吴兴人。生卒年及生平均不详，约元惠宗至正中前后在世。工词善曲，有竹窗词一卷，（今存强村丛书中）散曲八套；亦单行，名曰竹窗乐府。
+
+（传记来源：古文岛）
