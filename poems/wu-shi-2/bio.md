@@ -1,4 +1,6 @@
 ---
-title: 吴氏 2
+title: 吴氏2
+short_description: 吴氏2，宋代词人。
+source: inferred
 ---
---
+吴氏2，宋代词人。本目录收录其作品 1 首。
