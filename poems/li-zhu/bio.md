@@ -1,5 +1,6 @@
 ---
-title: 李铸
-short_description: 李铸，宋初人。
+title: 李助
+short_description: 李助，唐代诗人。
+source: inferred
 ---
-李铸，宋初人。官检校礼部尚书、守太常卿致仕（《金石萃编》卷一二六）。
+李助，唐代诗人。本目录收录其作品 1 首。
