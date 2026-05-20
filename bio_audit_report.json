@@ -1,0 +1,829 @@
+{
+  "authorDirs": 11997,
+  "missing": 0,
+  "stub": 60,
+  "titleMismatch": 0,
+  "noShortDescription": 622,
+  "ambiguousSlugs": 854,
+  "famousFailures": [],
+  "issuesSample": [
+    {
+      "slug": "an-shi",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "bai-xun",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "bao-he",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "cai-hang",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "cai-shen",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "cai-yuan",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "cai-zai",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "cao-jing",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "cao-lu-sun",
+      "kind": "stub",
+      "detail": "--"
+    },
+    {
+      "slug": "cao-sheng",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "cao-yan",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "ceng-ji",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "chang-yi",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "chao-heng",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "chen",
+      "kind": "stub",
+      "detail": "--"
+    },
+    {
+      "slug": "chen-bai",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "chen-cheng",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "chen-cui",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "chen-fan",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "chen-feng",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "chen-gai",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "chen-gang",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "chen-geng",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "chen-gong",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "chen-gu",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "chen-guan",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "chen-huan",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "chen-jian",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "chen-jing",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "chen-jue",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "chen-kui",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "chen-lin",
+      "kind": "stub",
+      "detail": "无传。"
+    },
+    {
+      "slug": "chen-lu",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "chen-peng",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "chen-run",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "chen-shi",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "chen-shu",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "chen-wei",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "chen-xian",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "chen-xie",
+      "kind": "stub",
+      "detail": "--"
+    },
+    {
+      "slug": "chen-yong",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "chen-yu",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "chen-zhao",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "chen-zhi",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "cheng-jie",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "cheng-rui",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "cheng-tang",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "cheng-xiang",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "cui-ji",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "cui-jue",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "cui-qi",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "cui-shu",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "cui-xuan",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "da-yi",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "dai-fu",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "ding-feng",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "ding-shi",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "dong-gang",
+      "kind": "stub",
+      "detail": "--"
+    },
+    {
+      "slug": "du-chun",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "du-gao",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "du-gu-shou",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "du-wei",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "du-yan",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "fa-jin",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "fa-zhen",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "fan-chong",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "fan-xiang",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "fan-ye",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "fan-yu",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "fang-wei",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "fang-zi-jing",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "feng-hui",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "feng-ji",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "feng-qi",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "feng-yuan",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "feng-zhu",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "fu-lin",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "fu-quan",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "fu-yan",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "gao-qu",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "gao-xiang",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "ge-hong",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "gong-fu",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "gui-ru-hu",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "guo-chang",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "guo-yan",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "guo-yi",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "guo-yuan",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "guo-zhen",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "han-hao",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "han-xi",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "han-yi",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "han-zong",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "he",
+      "kind": "stub",
+      "detail": "--"
+    },
+    {
+      "slug": "he-fu",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "he-gong",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "he-juan",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "he-meng",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "he-tan",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "he-xi-zhi",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "he-xian",
+      "kind": "stub",
+      "detail": "--"
+    },
+    {
+      "slug": "he-yi",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "he-zhou",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "hong-jian",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "hu-cheng",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "hu-gui",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "hu-hui",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "hu-pu",
+      "kind": "stub",
+      "detail": "无传。"
+    },
+    {
+      "slug": "hu-yan",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "hu-yi",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "hu-zheng",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "huai-jun",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "huang-e",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "huang-fu",
+      "kind": "stub",
+      "detail": "无传。"
+    },
+    {
+      "slug": "huang-hong",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "huang-jian",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "huang-ju",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "huang-lun",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "huang-pu",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "huang-qi",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "huang-qian",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "huang-xi",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "huang-xuan",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "huang-yan",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "huang-yi",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "huang-ying",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "huang-you",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "huang-yu",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "huang-yuan",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "huang-zhao",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "ji-xian",
+      "kind": "stub",
+      "detail": "--"
+    },
+    {
+      "slug": "jia-cheng-zhi",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "jia-dan",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "jia-yi",
+      "kind": "stub",
+      "detail": "--"
+    },
+    {
+      "slug": "jiang-bai",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "jiang-bang-zuo",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "jiang-jin",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "jiang-kai",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "jiang-yong",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "jin-jian",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "jing-tai",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "ke-zhi",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-ao",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-bin",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-bo",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-bo-yu",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-chen",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-cheng",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-cheng-zhi",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-chi-zheng",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-cong",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-dan",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-ding",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-du",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-e",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-fan",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-feng",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-gao",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-geng",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-guan",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-han",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-hao",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-heng",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-hu",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-huan",
+      "kind": "stub",
+      "detail": "--"
+    },
+    {
+      "slug": "li-hui",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-ji",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-jia",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-jia-you",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-jian",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-jie",
+      "kind": "stub",
+      "detail": "--"
+    },
+    {
+      "slug": "li-jing",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-jing-bo",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-kui",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-liang",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-mi",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-ming",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-mu",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-qi",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-qian",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-quan",
+      "kind": "stub",
+      "detail": "--"
+    },
+    {
+      "slug": "li-rong",
+      "kind": "stub",
+      "detail": "无传。"
+    },
+    {
+      "slug": "li-shao",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-sheng",
+      "kind": "stub",
+      "detail": "--"
+    },
+    {
+      "slug": "li-shi",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-shou",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-shu",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-shu-ji",
+      "kind": "stub",
+      "detail": "无传。"
+    },
+    {
+      "slug": "li-song",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-tang",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-tao",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-ting",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-wei",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-xi",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-xian",
+      "kind": "stub",
+      "detail": "无传。"
+    },
+    {
+      "slug": "li-xiang",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-xiao-bo",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-xu",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "li-xuan",
+      "kind": "no_short_description"
+    }
+  ]
+}

@@ -36,6 +36,29 @@
 
 在 [chinese-poetry-site](https://github.com/daichangya/chinese-poetry-site) 中克隆本仓到目录（如 `chinese-poetry-md`），设置 `POEMS_DIR` 指向该目录。执行 `npm run gen_markdown` 生成 .md 到本仓；再用本仓根目录的 `git-add-n.sh` 分批 add/commit/push（见下方「大量文件时的推送」）。
 
+## 作者简介（bio.md）生成与校验
+
+在 **chinese-poetry-site** 仓库中设置环境变量后执行（示例路径请按本机调整）：
+
+```bash
+export POEMS_DIR=/path/to/chinese-poetry-md
+export CHINESE_POETRY_DIR=/path/to/chinese-poetry
+
+# 1. 从诗词 frontmatter 生成 author_slug_index.json（解决同音 slug 冲突）
+npm run build:author-index
+
+# 2. 从 authors JSON 安全写入 bio，并对仍缺失者生成推断简介
+npm run gen_author_bio
+
+# 3. 规范化 title / short_description / 正文
+npm run normalize:bios
+
+# 4. 审计覆盖率（名家 slug 缺失会失败退出）
+npm run audit:bios
+```
+
+常用参数：`npm run gen_author_bio -- --fix-stubs`（仅修近空简介）、`--fill-missing`、`--force`（慎用）、`--no-infer-missing`（不生成推断模板）。产出报告：`bio_generation_report.json`、`bio_audit_report.json`。
+
 ## 如何参与
 
 可增补译文、赏析、注释或纠错别字。
