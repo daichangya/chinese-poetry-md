@@ -1,4 +1,6 @@
 ---
-title: 姚述尧 1
+title: 姚述尧1
+short_description: 姚述尧1，宋代词人。
+source: inferred
 ---
---
+姚述尧1，宋代词人。本目录收录其作品 1 首。
