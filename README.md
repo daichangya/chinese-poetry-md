@@ -59,6 +59,16 @@ npm run audit:bios
 
 常用参数：`npm run gen_author_bio -- --fix-stubs`（仅修近空简介）、`--fill-missing`、`--force`（慎用）、`--no-infer-missing`（不生成推断模板）。产出报告：`bio_generation_report.json`、`bio_audit_report.json`。
 
+若同一 `authorSlug` 目录内混有多个作者（同音不同字），在站点仓执行拆分（canonical 作者保留原 slug，其余迁至 `su-shi-shi` 等形式）：
+
+```bash
+# 先处理第二名占比 >5% 的 ambiguous 目录，再处理其余多作者目录
+npm run split:ambiguous-authors
+npm run split:ambiguous-authors -- --all-multi-author
+```
+
+拆分映射见本仓根目录 `author_slug_split_map.json`（旧链接若指向混放目录，需站点侧做重定向时再接入）。
+
 ## 如何参与
 
 可增补译文、赏析、注释或纠错别字。

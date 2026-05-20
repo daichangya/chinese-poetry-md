@@ -1,5 +1,6 @@
 ---
-title: 安时
-short_description: 安时，徽宗政和间官建昌尉（《舆地纪胜》卷三五）。
+title: 安石
+short_description: 安石，宋代词人。
+source: inferred
 ---
-安时，徽宗政和间官建昌尉（《舆地纪胜》卷三五）。
+安石，宋代词人。本目录收录其作品 4 首。
