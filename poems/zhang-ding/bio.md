@@ -1,5 +1,5 @@
 ---
-title: 张顶
-short_description: 张顶，抚州人。
+title: 张鼎
+short_description: 张鼎，司勋员外郎。
 ---
-张顶，抚州人。诗一首。
+张鼎，司勋员外郎。诗三首。 张鼎，司勋员外郎。诗三首。

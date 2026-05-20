@@ -1,5 +1,6 @@
 ---
-title: 俞成
-short_description: 俞成，字元德，东阳（今属浙江）人。
+title: 禹偁
+short_description: 禹偁，宋代词人。
+source: inferred
 ---
-俞成，字元德，东阳（今属浙江）人。有《萤雪丛说》二卷，宁宗庆元六年（一二○○）自为序。
+禹偁，宋代词人。本目录收录其作品 2 首。
