@@ -1,4 +1,6 @@
 ---
-title: 张生 1
+title: 张生1
+short_description: 张生1，宋代词人。
+source: inferred
 ---
---
+张生1，宋代词人。本目录收录其作品 1 首。
