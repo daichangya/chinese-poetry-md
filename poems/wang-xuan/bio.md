@@ -1,5 +1,6 @@
 ---
-title: 王铉
-short_description: 王铉，武后时人。
+title: 王轩
+short_description: 王轩，唐代诗人。
+source: inferred
 ---
-王铉，武后时人。诗二句。（《全唐诗》无王铉诗）
+王轩，唐代诗人。本目录收录其作品 2 首。
