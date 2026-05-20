@@ -1,4 +1,6 @@
 ---
-title: 郑奎
+title: 郑魁
+short_description: 郑魁，宋代词人。
+source: inferred
 ---
-无传。
+郑魁，宋代词人。本目录收录其作品 1 首。

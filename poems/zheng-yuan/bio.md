@@ -1,5 +1,6 @@
 ---
-title: 正原
-short_description: 正原，姓蔡，宣州南陵人。
+title: 郑辕
+short_description: 郑辕，唐代诗人。
+source: inferred
 ---
-正原，姓蔡，宣州南陵人。嗣五泄，同住龟山。咸通十年卒，年七十八，谥性完大师。诗三首。（《全唐诗》无正原诗）
+郑辕，唐代诗人。本目录收录其作品 4 首。

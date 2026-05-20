@@ -1,5 +1,6 @@
 ---
-title: 郑芬
-short_description: 郑芬，贵溪（今属江西）人。
+title: 郑蕡
+short_description: 郑蕡，唐代诗人。
+source: inferred
 ---
-郑芬，贵溪（今属江西）人。理宗绍定五年（一二三二）进士（清雍正《江西通志》卷五一）。
+郑蕡，唐代诗人。本目录收录其作品 2 首。
