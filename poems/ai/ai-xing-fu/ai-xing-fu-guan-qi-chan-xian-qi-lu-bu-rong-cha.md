@@ -1,0 +1,37 @@
+---
+id: ai-xing-fu-guan-qi-chan-xian-qi-lu-bu-rong-cha
+title: 观棋
+author: 艾性夫
+authorSlug: ai-xing-fu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: guan1 qi2
+authorPinyin: ai4 xing4 fu1
+dynastyPinyin: song4
+canonicalPoemId: 590625
+canonicalAuthorId: 5299
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 搀先岐路不容差，形定心忙寂不哗。
+
+- 仙客莫嫌春昼短，东风落尽海棠花。
+
+## 拼音
+
+- chan1 xian1 qi2 lu4 bu4 rong2 cha4 ， xing2 ding4 xin1 mang2 ji4 bu4 hua2 。
+
+- xian1 ke4 mo4 xian2 chun1 zhou4 duan3 ， dong1 feng1 luo4 jin4 hai3 tang2 hua1 。
+
+## 译文
+
+掺先歧路不容差，形定心忙寂不吵闹。仙客莫嫌春季白天短，东风落尽海棠花。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+掺先歧路不容差，形定心忙寂不吵闹。仙客莫嫌春季白天短，东风落尽海棠花。
+	* 此部分翻译来自AI，仅供参考

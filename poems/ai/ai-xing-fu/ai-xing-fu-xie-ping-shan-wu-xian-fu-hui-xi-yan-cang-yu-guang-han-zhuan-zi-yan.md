@@ -1,0 +1,45 @@
+---
+id: ai-xing-fu-xie-ping-shan-wu-xian-fu-hui-xi-yan-cang-yu-guang-han-zhuan-zi-yan
+title: 谢屏山吴显父惠歙砚
+author: 艾性夫
+authorSlug: ai-xing-fu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: xie4 ping2 shan1 wu2 xian3 fu4 hui4 xi1 yan4
+authorPinyin: ai4 xing4 fu1
+dynastyPinyin: song4
+canonicalPoemId: 590272
+canonicalAuthorId: 5299
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 苍玉光寒篆紫烟，重重封裹到梅边。
+
+- 得君一片歙溪石，即我终身绵上田。
+
+- 少达必穿维翰铁，尽穷共守子云玄。
+
+- 老坡莫遣穷居后，远在茶坑凤咮前。
+
+## 拼音
+
+- cang1 yu4 guang1 han2 zhuan4 zi3 yan1 ， chong2 chong2 feng1 guo3 dao4 mei2 bian1 。
+
+- de2 jun1 yi2 pian4 xi1 xi1 shi2 ， ji2 wo3 zhong1 shen1 mian2 shang4 tian2 。
+
+- shao3 da2 bi4 chuan1 wei2 han4 tie3 ， jin4 qiong2 gong4 shou3 zi3 yun2 xuan2 。
+
+- lao3 po1 mo4 qian3 qiong2 ju1 hou4 ， yuan3 zai4 cha2 keng1 feng4 zhou4 qian2 。
+
+## 译文
+
+苍玉光冷篆紫烟，重封裹到梅边。得到你一片款溪石，就是我终身绵上的土地。少达一定穿过桑维翰铁，全部研究共守云玄。老坡莫派处于后，远在茶坑凤味前。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+苍玉光冷篆紫烟，重封裹到梅边。得到你一片款溪石，就是我终身绵上的土地。少达一定穿过桑维翰铁，全部研究共守云玄。老坡莫派处于后，远在茶坑凤味前。
+	* 此部分翻译来自AI，仅供参考
