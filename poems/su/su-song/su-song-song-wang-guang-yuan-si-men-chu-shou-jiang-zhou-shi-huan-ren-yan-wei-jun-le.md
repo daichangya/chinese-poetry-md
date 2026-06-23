@@ -1,0 +1,45 @@
+---
+id: su-song-song-wang-guang-yuan-si-men-chu-shou-jiang-zhou-shi-huan-ren-yan-wei-jun-le
+title: 送王广渊司门出守绛州
+author: 苏颂
+authorSlug: su-song
+dynasty: 宋
+dynastySlug: song
+titlePinyin: song4 wang2 guang3 yuan1 si1 men2 chu1 shou3 jiang4 zhou1
+authorPinyin: su1 song4
+dynastyPinyin: song4
+canonicalPoemId: 632468
+canonicalAuthorId: 7471
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 仕宦人言为郡乐，名藩古有绛台雄。
+
+- 居园幽绝刻樊记，分国盛强歌晋风。
+
+- 历览胜游千骑上，坐颁仁政两河中。
+
+- 当年谁似高门庆，五守同时间望隆。
+
+## 拼音
+
+- shi4 huan4 ren2 yan2 wei4 jun4 le4 ， ming2 fan1 gu3 you3 jiang4 tai2 xiong2 。
+
+- ju1 yuan2 you1 jue2 ke4 fan2 ji4 ， fen1 guo2 sheng4 qiang2 ge1 jin4 feng1 。
+
+- li4 lan3 sheng4 you2 qian1 qi2 shang4 ， zuo4 ban1 ren2 zheng4 liang3 he2 zhong1 。
+
+- dang1 nian2 shui2 si4 gao1 men2 qing4 ， wu3 shou3 tong2 shi2 jian1 wang4 long2 。
+
+## 译文
+
+做官人家说是当地音乐，有名的藩镇古代有红台雄。居住园幽绝刻樊记，部分国家强盛歌晋风。遍览胜游千骑上，在颁布仁政两河中。当年谁似高门庆，第五守同时间望隆。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+做官人家说是当地音乐，有名的藩镇古代有红台雄。居住园幽绝刻樊记，部分国家强盛歌晋风。遍览胜游千骑上，在颁布仁政两河中。当年谁似高门庆，第五守同时间望隆。
+	* 此部分翻译来自AI，仅供参考

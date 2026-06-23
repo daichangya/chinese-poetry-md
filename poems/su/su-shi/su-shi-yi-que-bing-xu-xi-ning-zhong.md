@@ -1,0 +1,101 @@
+---
+id: su-shi-yi-que-bing-xu-xi-ning-zhong
+title: 异鹊（并叙）
+author: 苏轼
+authorSlug: su-shi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: yi4 que4 （ bing4 xu4 ）
+authorPinyin: su1 shi4
+dynastyPinyin: song4
+canonicalPoemId: 470355
+canonicalAuthorId: 4805
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 熙宁中，柯侯仲常通守漳州，以救饥得民。
+
+- 有二鹊栖其厅事，讫侯之去，鹊亦送之，漳人异焉。
+
+- 为赋此诗。
+
+- 昔我先君子，仁孝行于家。
+
+- 家有五亩园，幺凤集桐花。
+
+- 是时乌与鹊，巢鷇可俯拏。
+
+- 忆我与诸儿，饲食观群呀。
+
+- 里人惊瑞异，野老笑而嗟。
+
+- 云此方乳哺，甚畏鸢与蛇。
+
+- 手足之所及，二物不敢加。
+
+- 主人若可信，众鸟不我遐。
+
+- 故知中孚化，可及鱼与豭。
+
+- 柯侯古循吏，悃愊真无华。
+
+- 临漳所全活，数等江干沙。
+
+- 仁心格异族，两鹊栖其衙。
+
+- 但恨不能言，相对空楂楂。
+
+- 善恶以类应，古语良非夸。
+
+- 君看彼酷吏，所至号鬼车。
+
+## 拼音
+
+- xi1 ning2 zhong1 ， ke1 hou2 zhong4 chang2 tong1 shou3 zhang1 zhou1 ， yi3 jiu4 ji1 de2 min2 。
+
+- you3 er4 que4 qi1 qi2 ting1 shi4 ， qi4 hou2 zhi1 qu4 ， que4 yi4 song4 zhi1 ， zhang1 ren2 yi4 yan1 。
+
+- wei4 fu4 ci3 shi1 。
+
+- xi1 wo3 xian1 jun1 zi3 ， ren2 xiao4 xing2 yu2 jia1 。
+
+- jia1 you3 wu3 mu3 yuan2 ， yao1 feng4 ji2 tong2 hua1 。
+
+- shi4 shi2 wu1 yu3 que4 ， chao2 kou4 ke3 fu3 na2 。
+
+- yi4 wo3 yu3 zhu1 er2 ， si4 shi2 guan1 qun2 ya0 。
+
+- li3 ren2 jing1 rui4 yi4 ， ye3 lao3 xiao4 er2 jie1 。
+
+- yun2 ci3 fang1 ru3 bu3 ， shen4 wei4 yuan1 yu3 she2 。
+
+- shou3 zu2 zhi1 suo3 ji2 ， er4 wu4 bu4 gan3 jia1 。
+
+- zhu3 ren2 ruo4 ke3 xin4 ， zhong4 niao3 bu4 wo3 xia2 。
+
+- gu4 zhi1 zhong1 fu2 hua4 ， ke3 ji2 yu2 yu3 jia1 。
+
+- ke1 hou2 gu3 xun2 li4 ， kun3 bi4 zhen1 wu2 hua2 。
+
+- lin2 zhang1 suo3 quan2 huo2 ， shu4 deng3 jiang1 gan1 sha1 。
+
+- ren2 xin1 ge2 yi4 zu2 ， liang3 que4 qi1 qi2 ya2 。
+
+- dan4 hen4 bu4 neng2 yan2 ， xiang1 dui4 kong1 zha1 zha1 。
+
+- shan4 e4 yi3 lei4 ying4 ， gu3 yu3 liang2 fei1 kua1 。
+
+- jun1 kan4 bi3 ku4 li4 ， suo3 zhi4 hao4 gui3 che1 。
+
+## 译文
+
+神宗熙宁年间，柯公仲常通守漳州，为了拯救饥饿得民心。有两只喜鹊栖息的客厅，到诸侯的离开，喜鹊也送的，漳州人惊异。为写这首诗。从前我的先君，仁孝行为在家。家有五亩园，一些集桐花凤。这时乌鸦和喜鹊，巢雏鸟可以俯瞰孥。回忆我和孩子们，喂食物观群呀。里人惊瑞不同，村民笑着叹。说这正在哺乳，很害怕鹰和蛇。手足所达到的，这两样东西不敢加。如果主人可以相信，众鸟我不远。所以知道中孚化，可以和鱼和猪。柯堡古循吏，至诚可以真的没有花。临漳所救活，数等长江干沙。仁爱之心格不同族，两只喜鹊栖息的衙。只恨不能说，相对空楂楂。善恶以类应，古人的话绝非夸张。你看那些酷吏，所到称为鬼车。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+神宗熙宁年间，柯公仲常通守漳州，为了拯救饥饿得民心。有两只喜鹊栖息的客厅，到诸侯的离开，喜鹊也送的，漳州人惊异。为写这首诗。从前我的先君，仁孝行为在家。家有五亩园，一些集桐花凤。这时乌鸦和喜鹊，巢雏鸟可以俯瞰孥。回忆我和孩子们，喂食物观群呀。里人惊瑞不同，村民笑着叹。说这正在哺乳，很害怕鹰和蛇。手足所达到的，这两样东西不敢加。如果主人可以相信，众鸟我不远。所以知道中孚化，可以和鱼和猪。柯堡古循吏，至诚可以真的没有花。临漳所救活，数等长江干沙。仁爱之心格不同族，两只喜鹊栖息的衙。只恨不能说，相对空楂楂。善恶以类应，古人的话绝非夸张。你看那些酷吏，所到称为鬼车。
+	* 此部分翻译来自AI，仅供参考

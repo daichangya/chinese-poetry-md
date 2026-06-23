@@ -1,0 +1,45 @@
+---
+id: su-shi-dong-chu-lang-zhong-chang-zhi-mei-zhou-yu-xian-ren-you-guo-an-qiu-fang-q-0b9b37db
+title: 董储郎中尝知眉州与先人游过安丘访其故居见
+author: 苏轼
+authorSlug: su-shi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: dong3 chu3 lang2 zhong1 chang2 zhi1 mei2 zhou1 yu3 xian1 ren2 you2 guo4 an1 qiu1 fang3 qi2 gu4 ju1 jian4
+authorPinyin: su1 shi4
+dynastyPinyin: song4
+canonicalPoemId: 470142
+canonicalAuthorId: 4805
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 白发郎潜旧使君，至今人道最能文。
+
+- 只鸡敢忘桥公语，下马来寻董相坟。
+
+- 冬月负薪虽得免，邻人吹笛不堪闻。
+
+- 死生契阔君休问，洒泪西南向白云。
+
+## 拼音
+
+- bai2 fa4 lang2 qian2 jiu4 shi3 jun1 ， zhi4 jin1 ren2 dao4 zui4 neng2 wen2 。
+
+- zhi1 ji1 gan3 wang4 qiao2 gong1 yu3 ， xia4 ma3 lai2 xun2 dong3 xiang1 fen2 。
+
+- dong1 yue4 fu4 xin1 sui1 de2 mian3 ， lin2 ren2 chui1 di2 bu4 kan1 wen2 。
+
+- si3 sheng1 qi4 kuo4 jun1 xiu1 wen4 ， sa3 lei4 xi1 nan2 xiang4 bai2 yun2 。
+
+## 译文
+
+白头发郎悄悄过去让你，到现在人们说最能写。只鸡忘记桥公说话，下马来寻找董仲舒坟。冬天背柴虽幸免，邻人吹笛子不能听到。死生契阔你休问，洒泪西南向白云。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+白头发郎悄悄过去让你，到现在人们说最能写。只鸡忘记桥公说话，下马来寻找董仲舒坟。冬天背柴虽幸免，邻人吹笛子不能听到。死生契阔你休问，洒泪西南向白云。
+	* 此部分翻译来自AI，仅供参考

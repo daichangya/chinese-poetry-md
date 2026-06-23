@@ -1,0 +1,45 @@
+---
+id: su-shi-shu-xiao-ting-lan-sheng-lei-shan-shu-xiao-ting
+title: 舒啸亭
+author: 苏轼
+authorSlug: su-shi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: shu1 xiao4 ting2
+authorPinyin: su1 shi4
+dynastyPinyin: song4
+canonicalPoemId: 374936
+canonicalAuthorId: 4805
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 揽胜雷山舒啸亭，诸峰秀拱透云程。
+
+- 啸傲池边红日伴，舒怀岩壑白云迎。
+
+- 满目纵观天际迥，一腔收拾岁寒清。
+
+- 松花香遍银阳地，剩把新诗壮此行。
+
+## 拼音
+
+- lan3 sheng4 lei2 shan1 shu1 xiao4 ting2 ， zhu1 feng1 xiu4 gong3 tou4 yun2 cheng2 。
+
+- xiao4 ao4 chi2 bian1 hong2 ri4 ban4 ， shu1 huai2 yan2 he4 bai2 yun2 ying2 。
+
+- man3 mu4 zong4 guan1 tian1 ji4 jiong3 ， yi4 qiang1 shou1 shi2 sui4 han2 qing1 。
+
+- song1 hua1 xiang1 bian4 yin2 yang2 di4 ， sheng4 ba3 xin1 shi1 zhuang4 ci3 xing2 。
+
+## 译文
+
+揽胜雷山长啸亭，峰秀拱穿过云程。啸傲慢池边红日伴，舒怀岩壑白云迎接。满目纵看天边迥，一腔收拾每年寒清。松花香遍银阳地，剩把新诗强壮这行。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+揽胜雷山长啸亭，峰秀拱穿过云程。啸傲慢池边红日伴，舒怀岩壑白云迎接。满目纵看天边迥，一腔收拾每年寒清。松花香遍银阳地，剩把新诗强壮这行。
+	* 此部分翻译来自AI，仅供参考

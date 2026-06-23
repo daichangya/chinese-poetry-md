@@ -1,0 +1,45 @@
+---
+id: su-zhe-jiang-zhi-ji-xi-meng-zhong-fu-bo-zhou-ye-bu-pian-zhou-feng-ye-an
+title: 将之绩溪梦中赋泊舟野步
+author: 苏辙
+authorSlug: su-zhe
+dynasty: 宋
+dynastySlug: song
+titlePinyin: jiang1 zhi1 ji4 xi1 meng4 zhong1 fu4 bo2 zhou1 ye3 bu4
+authorPinyin: su1 zhe2
+dynastyPinyin: song4
+canonicalPoemId: 410474
+canonicalAuthorId: 4891
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 扁舟逢野岸，试出步崇冈。
+
+- 山转得幽谷，人家余夕阳。
+
+- 被畦多绿茹，堆屋剩黄粱。
+
+- 深羡安居乐，谁令志四方。
+
+## 拼音
+
+- pian1 zhou1 feng2 ye3 an4 ， shi4 chu1 bu4 chong2 gang1 。
+
+- shan1 zhuan3 de2 you1 gu3 ， ren2 jia1 yu2 xi1 yang2 。
+
+- bei4 qi2 duo1 lü4 ru2 ， dui1 wu1 sheng4 huang2 liang2 。
+
+- shen1 xian4 an1 ju1 le4 ， shui2 ling4 zhi4 si4 fang1 。
+
+## 译文
+
+小船逢野岸，试从步高冈。山转得山谷，人家我夕阳。被稻田多绿菇，堆房子剩黄粱。深羡安居乐，谁让志四方。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+小船逢野岸，试从步高冈。山转得山谷，人家我夕阳。被稻田多绿菇，堆房子剩黄粱。深羡安居乐，谁让志四方。
+	* 此部分翻译来自AI，仅供参考

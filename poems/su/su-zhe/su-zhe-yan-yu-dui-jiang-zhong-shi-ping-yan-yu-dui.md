@@ -1,0 +1,49 @@
+---
+id: su-zhe-yan-yu-dui-jiang-zhong-shi-ping-yan-yu-dui
+title: 滟滪堆
+author: 苏辙
+authorSlug: su-zhe
+dynasty: 宋
+dynastySlug: song
+titlePinyin: yan4 yu4 dui1
+authorPinyin: su1 zhe2
+dynastyPinyin: song4
+canonicalPoemId: 364499
+canonicalAuthorId: 4891
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 江中石屏滟滪堆，鳖灵夏禹不能摧。
+
+- 深根百丈无敢近，落日纷纷凫雁来。
+
+- 何人磊落不畏死，为我赤脚登崔嵬。
+
+- 上有古碑刻奇篆，当使尽读磨苍苔。
+
+- 此碑若见必有怪，恐至绝顶遭风雷。
+
+## 拼音
+
+- jiang1 zhong1 shi2 ping2 yan4 yu4 dui1 ， bie1 ling2 xia4 yu3 bu4 neng2 cui1 。
+
+- shen1 gen1 bai3 zhang4 wu2 gan3 jin4 ， luo4 ri4 fen1 fen1 fu2 yan4 lai2 。
+
+- he2 ren2 lei3 luo4 bu2 wei4 si3 ， wei4 wo3 chi4 jiao3 deng1 cui1 wei2 。
+
+- shang4 you3 gu3 bei1 ke4 qi2 zhuan4 ， dang1 shi3 jin4 du2 mo2 cang1 tai2 。
+
+- ci3 bei1 ruo4 jian4 bi4 you3 guai4 ， kong3 zhi4 jue2 ding3 zao1 feng1 lei2 。
+
+## 译文
+
+江中石屏滟濒堆之类堆，鳖灵夏禹不能摧毁。根深百丈没有敢靠近，落日纷纷家禽来。什么人磊落不怕死，当我赤脚登崔嵬。上有古代碑刻奇篆，要使尽读磨青苔。此碑如果见一定有奇怪，恐怕到绝顶遭遇风暴雷鸣。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+江中石屏滟濒堆之类堆，鳖灵夏禹不能摧毁。根深百丈没有敢靠近，落日纷纷家禽来。什么人磊落不怕死，当我赤脚登崔嵬。上有古代碑刻奇篆，要使尽读磨青苔。此碑如果见一定有奇怪，恐怕到绝顶遭遇风暴雷鸣。
+	* 此部分翻译来自AI，仅供参考

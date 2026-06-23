@@ -1,0 +1,69 @@
+---
+id: su-zhe-ci-yun-zi-zhan-guang-ling-hui-san-tong-she-ge-yi-qi-zi-wei-yun-qi-er-sun-29b8e900
+title: 次韵子瞻广陵会三同舍各以其字为韵其二孙巨
+author: 苏辙
+authorSlug: su-zhe
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ci4 yun4 zi3 zhan1 guang3 ling2 hui4 san1 tong2 she4 ge4 yi3 qi2 zi4 wei4 yun4 qi2 er4 sun1 ju4
+authorPinyin: su1 zhe2
+dynastyPinyin: song4
+canonicalPoemId: 576023
+canonicalAuthorId: 4891
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 巨源学从横，世事夙讨论。
+
+- 著书十万字，辩如白波翻。
+
+- 谏坦适多事，忧心生病根。
+
+- 立谈信无补，闭口出国门。
+
+- 弃置卧江海，闵嘿宁复言。
+
+- 朝行共长叹，逐客继二孙。
+
+- 南方固乡党，谪官侣鹤猿。
+
+- 风俗未宁静，朋党争排跟。
+
+- 引去良自得，浊清在澄源。
+
+- 往者未可招，冠盖方骏奔。
+
+## 拼音
+
+- ju4 yuan2 xue2 cong2 heng2 ， shi4 shi4 su4 tao3 lun4 。
+
+- zhu4 shu1 shi2 wan4 zi4 ， bian4 ru2 bai2 bo1 fan1 。
+
+- jian4 tan3 shi4 duo1 shi4 ， you1 xin1 sheng1 bing4 gen1 。
+
+- li4 tan2 xin4 wu2 bu3 ， bi4 kou3 chu1 guo2 men2 。
+
+- qi4 zhi4 wo4 jiang1 hai3 ， min3 hei1 ning2 fu4 yan2 。
+
+- chao2 xing2 gong4 chang2 tan4 ， zhu2 ke4 ji4 er4 sun1 。
+
+- nan2 fang1 gu4 xiang1 dang3 ， zhe2 guan1 lü3 he4 yuan2 。
+
+- feng1 su2 wei4 ning2 jing4 ， peng2 dang3 zheng1 pai2 gen1 。
+
+- yin3 qu4 liang2 zi4 de2 ， zhuo2 qing1 zai4 cheng2 yuan2 。
+
+- wang3 zhe3 wei4 ke3 zhao1 ， guan1 gai4 fang1 jun4 ben1 。
+
+## 译文
+
+巨源学习合纵连横，世上的事早就讨论。著书数十万字，雄辩如白波翻。劝谏坦到很多事，心中忧愁生病根。立信没有谈，闭口出国门。放弃躺在江海，闵沉默又怎能说。朝行共长叹息，逐客继二孙。南方本乡里，谪官伴侣鹤猿。风俗没有宁静，党派竞争排斥跟。引去了自由，浊清在元澄源。从前没有可以招，冠是正在飞奔。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+巨源学习合纵连横，世上的事早就讨论。著书数十万字，雄辩如白波翻。劝谏坦到很多事，心中忧愁生病根。立信没有谈，闭口出国门。放弃躺在江海，闵沉默又怎能说。朝行共长叹息，逐客继二孙。南方本乡里，谪官伴侣鹤猿。风俗没有宁静，党派竞争排斥跟。引去了自由，浊清在元澄源。从前没有可以招，冠是正在飞奔。
+	* 此部分翻译来自AI，仅供参考

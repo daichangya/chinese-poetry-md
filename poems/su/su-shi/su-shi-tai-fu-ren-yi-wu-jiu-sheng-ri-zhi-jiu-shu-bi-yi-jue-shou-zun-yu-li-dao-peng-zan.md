@@ -1,0 +1,37 @@
+---
+id: su-shi-tai-fu-ren-yi-wu-jiu-sheng-ri-zhi-jiu-shu-bi-yi-jue-shou-zun-yu-li-dao-peng-zan
+title: 太夫人以无咎生日置酒书壁一绝
+author: 苏轼
+authorSlug: su-shi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: tai4 fu1 ren2 yi3 wu2 jiu4 sheng1 ri4 zhi4 jiu3 shu1 bi4 yi4 jue2
+authorPinyin: su1 shi4
+dynastyPinyin: song4
+canonicalPoemId: 570024
+canonicalAuthorId: 4805
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 寿樽余沥到朋簪，要与郎君夜语深。
+
+- 敢问阿婆开后阁，井中车辖任浮沉。
+
+## 拼音
+
+- shou4 zun1 yu2 li4 dao4 peng2 zan1 ， yao4 yu3 lang2 jun1 ye4 yu3 shen1 。
+
+- gan3 wen4 a1 po2 kai1 hou4 ge2 ， jing3 zhong1 che1 xia2 ren4 fu2 chen2 。
+
+## 译文
+
+寿酒我滴到朋替，要和你夜语深。请问阿婆打开后门，井中车辖任沉浮。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+寿酒我滴到朋替，要和你夜语深。请问阿婆打开后门，井中车辖任沉浮。
+	* 此部分翻译来自AI，仅供参考

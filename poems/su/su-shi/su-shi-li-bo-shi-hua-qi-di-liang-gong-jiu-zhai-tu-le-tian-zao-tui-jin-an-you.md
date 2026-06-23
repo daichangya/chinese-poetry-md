@@ -1,0 +1,45 @@
+---
+id: su-shi-li-bo-shi-hua-qi-di-liang-gong-jiu-zhai-tu-le-tian-zao-tui-jin-an-you
+title: 李伯时画其弟亮功旧宅图
+author: 苏轼
+authorSlug: su-shi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: li3 bo2 shi2 hua4 qi2 di4 liang4 gong1 jiu4 zhai2 tu2
+authorPinyin: su1 shi4
+dynastyPinyin: song4
+canonicalPoemId: 375091
+canonicalAuthorId: 4805
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 乐天早退今安有，摩诘长闲古亦无。
+
+- 五亩自栽池上竹，十年空看辋川图。
+
+- 近闻陶令开三径，应许扬雄寄一区。
+
+- 晚岁与君同活计，如云鹅鸭散平湖。
+
+## 拼音
+
+- le4 tian1 zao3 tui4 jin1 an1 you3 ， mo2 jie2 chang2 xian2 gu3 yi4 wu2 。
+
+- wu3 mu3 zi4 zai1 chi2 shang4 zhu2 ， shi2 nian2 kong1 kan4 wang3 chuan1 tu2 。
+
+- jin4 wen2 tao2 ling4 kai1 san1 jing4 ， ying1 xu3 yang2 xiong2 ji4 yi4 qu1 。
+
+- wan3 sui4 yu3 jun1 tong2 huo2 ji4 ， ru2 yun2 e2 ya1 san4 ping2 hu2 。
+
+## 译文
+
+乐天早退出现在哪里有，摩责问长闲古也没有。五亩池塘上自己栽竹，十年空看外框川图。最近听说陶令开三径，应允许扬雄寄一区。晚年与君同活计，如果说猪鸭散平湖。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+乐天早退出现在哪里有，摩责问长闲古也没有。五亩池塘上自己栽竹，十年空看外框川图。最近听说陶令开三径，应允许扬雄寄一区。晚年与君同活计，如果说猪鸭散平湖。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,35 @@
+---
+id: su-shun-qin-jiu-ri-bian-zhong-lu-zhao-chu-jiang-hu
+title: 九日汴中
+author: 苏舜钦
+authorSlug: su-shun-qin
+dynasty: 宋
+dynastySlug: song
+titlePinyin: jiu3 ri4 bian4 zhong1
+authorPinyin: su1 shun4 qin1
+dynastyPinyin: song4
+canonicalPoemId: 349779
+canonicalAuthorId: 6547
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 旅棹出江湖，漂然迹更孤。
+
+- 风波数破胆，时事一长吁。
+
+- 闻说西羌使，犹稽北阙诛。
+
+- 俗言无上策，且复醉茱萸。
+
+## 拼音
+
+- lü3 zhao4 chu1 jiang1 hu2 ， piao1 ran2 ji4 geng4 gu1 。
+
+- feng1 bo1 shu4 po4 dan3 ， shi2 shi4 yi4 chang2 xu1 。
+
+- wen2 shuo1 xi1 qiang1 shi3 ， you2 ji1 bei3 que1 zhu1 。
+
+- su2 yan2 wu2 shang4 ce4 ， qie3 fu4 zui4 zhu1 yu2 。

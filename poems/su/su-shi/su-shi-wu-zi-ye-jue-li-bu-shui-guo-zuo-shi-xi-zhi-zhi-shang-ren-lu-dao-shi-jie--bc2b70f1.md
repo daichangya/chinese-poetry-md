@@ -1,0 +1,49 @@
+---
+id: su-shi-wu-zi-ye-jue-li-bu-shui-guo-zuo-shi-xi-zhi-zhi-shang-ren-lu-dao-shi-jie--bc2b70f1
+title: 吴子野绝粒不睡过作诗戏之芝上人陆道士皆和
+author: 苏轼
+authorSlug: su-shi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: wu2 zi3 ye3 jue2 li4 bu2 shui4 guo4 zuo4 shi1 xi4 zhi1 zhi1 shang4 ren2 lu4 dao4 shi4 jie1 he2
+authorPinyin: su1 shi4
+dynastyPinyin: song4
+canonicalPoemId: 571759
+canonicalAuthorId: 4805
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 聊为不死五通仙，终了无生一大缘。
+
+- 独鹤有声知半夜，老蚕不食已三眠。
+
+- 怜君解比人间梦，?芝有梦斋，子由作铭。
+
+- ?许我时逃醉后禅。
+
+- 会与江山成故事，不妨诗酒乐新年。
+
+## 拼音
+
+- liao2 wei4 bu4 si3 wu3 tong1 xian1 ， zhong1 liao3 wu2 sheng1 yi2 da4 yuan2 。
+
+- du2 he4 you3 sheng1 zhi1 ban4 ye4 ， lao3 can2 bu4 shi2 yi3 san1 mian2 。
+
+- lian2 jun1 jie3 bi3 ren2 jian1 meng4 ， ? zhi1 you3 meng4 zhai1 ， zi3 you2 zuo4 ming2 。
+
+- ? xu3 wo3 shi2 tao2 zui4 hou4 chan2 。
+
+- hui4 yu3 jiang1 shan1 cheng2 gu4 shi4 ， bu4 fang2 shi1 jiu3 le4 xin1 nian2 。
+
+## 译文
+
+我不为死五通仙，结束了没有产生一大理由。独鹤有声音知道半夜，老蚕不吃已经三眠。可怜你解比人间梦，？芝有梦斋，子由作铭。？答应我当时喝醉了酒禅逃走。会与江山成为惯例，不妨诗酒快乐新的一年。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+我不为死五通仙，结束了没有产生一大理由。独鹤有声音知道半夜，老蚕不吃已经三眠。可怜你解比人间梦，？芝有梦斋，子由作铭。？答应我当时喝醉了酒禅逃走。会与江山成为惯例，不妨诗酒快乐新的一年。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,45 @@
+---
+id: su-zhe-zeng-si-kong-zhang-gong-an-dao-wan-ci-san-shou-gu-gao-chu-shi-xue
+title: 赠司空张公安道挽词三首
+author: 苏辙
+authorSlug: su-zhe
+dynasty: 宋
+dynastySlug: song
+titlePinyin: zeng4 si1 kong1 zhang1 gong1 an1 dao4 wan3 ci2 san1 shou3
+authorPinyin: su1 zhe2
+dynastyPinyin: song4
+canonicalPoemId: 364887
+canonicalAuthorId: 4891
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 孤高出世学，豪迈谪仙人。
+
+- 早岁犹和俗，中年自识真。
+
+- 定余时发照，尘尽四无邻。
+
+- 闻道骑箕尾，还应事玉宸。
+
+## 拼音
+
+- gu1 gao1 chu1 shi4 xue2 ， hao2 mai4 zhe2 xian1 ren2 。
+
+- zao3 sui4 you2 he2 su2 ， zhong1 nian2 zi4 shi2 zhen1 。
+
+- ding4 yu2 shi2 fa1 zhao4 ， chen2 jin4 si4 wu2 lin2 。
+
+- wen2 dao4 qi2 ji1 wei3 ， hai2 ying4 shi4 yu4 chen2 。
+
+## 译文
+
+我高出社会学，豪迈谪仙人。早年还和风俗，中期从认识真。定我当时发照，尘全部四没有邻居。闻道骑箕尾，回应事玉哀。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+我高出社会学，豪迈谪仙人。早年还和风俗，中期从认识真。定我当时发照，尘全部四没有邻居。闻道骑箕尾，回应事玉哀。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,45 @@
+---
+id: su-shi-ci-yun-wang-ding-guo-de-jin-qing-jiu-xiang-liu-ye-yin-duan-shan-yan-shou-044d721b
+title: 次韵王定国得晋卿酒相留夜饮
+author: 苏轼
+authorSlug: su-shi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ci4 yun4 wang2 ding4 guo2 de2 jin4 qing1 jiu3 xiang1 liu2 ye4 yin3
+authorPinyin: su1 shi4
+dynastyPinyin: song4
+canonicalPoemId: 469281
+canonicalAuthorId: 4805
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 短衫厌手气横秋，更著仙人紫绮裘。
+
+- 使我有名全是酒，从他作病且忘忧。
+
+- 诗无定律君应将，醉有真乡我可侯。
+
+- 且倒余樽尽今夕，睡蛇已死不须钩。
+
+## 拼音
+
+- duan3 shan1 yan4 shou3 qi4 heng2 qiu1 ， geng4 zhu4 xian1 ren2 zi3 qi3 qiu2 。
+
+- shi3 wo3 you3 ming2 quan2 shi4 jiu3 ， cong2 ta1 zuo4 bing4 qie3 wang4 you1 。
+
+- shi1 wu2 ding4 lü4 jun1 ying4 jiang1 ， zui4 you3 zhen1 xiang1 wo3 ke3 hou2 。
+
+- qie3 dao3 yu2 zun1 jin4 jin1 xi1 ， shui4 she2 yi3 si3 bu4 xu1 gou1 。
+
+## 译文
+
+短褂满足手气横在秋季，再着仙人紫色丝绸衣服。如果我有名全是酒，从他得病并且忘记忧愁。诗没有定律你应将，醉有真乡我可以封侯。而且倒我樽尽今晚，打蛇已经死不须钩。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+短褂满足手气横在秋季，再着仙人紫色丝绸衣服。如果我有名全是酒，从他得病并且忘记忧愁。诗没有定律你应将，醉有真乡我可以封侯。而且倒我樽尽今晚，打蛇已经死不须钩。
+	* 此部分翻译来自AI，仅供参考

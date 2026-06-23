@@ -1,0 +1,45 @@
+---
+id: su-shi-shi-er-yue-shi-si-ri-ye-wei-xue-ming-ri-zao-wang-nan-xi-xiao-zhuo-zhi-wa-df2dfe4c
+title: 十二月十四日夜微雪明日早往南溪小酌至晚
+author: 苏轼
+authorSlug: su-shi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: shi2 er4 yue4 shi2 si4 ri4 ye4 wei1 xue3 ming2 ri4 zao3 wang3 nan2 xi1 xiao3 zhuo2 zhi4 wan3
+authorPinyin: su1 shi4
+dynastyPinyin: song4
+canonicalPoemId: 569298
+canonicalAuthorId: 4805
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 南溪得雪真无价，走马来看及未消。
+
+- 独自披榛寻履迹，最先犯晓过朱桥。
+
+- 谁怜破屋眠无处，坐觉村饥语不嚣。
+
+- 惟有暮鸦知客意，惊飞千片落寒条。
+
+## 拼音
+
+- nan2 xi1 de2 xue3 zhen1 wu2 jia4 ， zou3 ma3 lai2 kan4 ji2 wei4 xiao1 。
+
+- du2 zi4 pi1 zhen1 xun2 lü3 ji4 ， zui4 xian1 fan4 xiao3 guo4 zhu1 qiao2 。
+
+- shui2 lian2 po4 wu1 mian2 wu2 chu4 ， zuo4 jue2 cun1 ji1 yu3 bu4 ao2 。
+
+- wei2 you3 mu4 ya1 zhi1 ke4 yi4 ， jing1 fei1 qian1 pian4 luo4 han2 tiao2 。
+
+## 译文
+
+南溪得到雪真的没有钱，骑马前来看和不消。独自穿越丛林不久脚印，最先侵犯晓过朱桥。谁怜破屋睡无处，因发觉村饥饿对不嚣。只有暮鸦知客意，惊飞千片落寒条。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+南溪得到雪真的没有钱，骑马前来看和不消。独自穿越丛林不久脚印，最先侵犯晓过朱桥。谁怜破屋睡无处，因发觉村饥饿对不嚣。只有暮鸦知客意，惊飞千片落寒条。
+	* 此部分翻译来自AI，仅供参考

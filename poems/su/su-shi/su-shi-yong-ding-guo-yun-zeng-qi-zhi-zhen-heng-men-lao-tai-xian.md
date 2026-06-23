@@ -1,0 +1,69 @@
+---
+id: su-shi-yong-ding-guo-yun-zeng-qi-zhi-zhen-heng-men-lao-tai-xian
+title: 用定国韵赠其侄震
+author: 苏轼
+authorSlug: su-shi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: yong4 ding4 guo2 yun4 zeng4 qi2 zhi2 zhen4
+authorPinyin: su1 shi4
+dynastyPinyin: song4
+canonicalPoemId: 469650
+canonicalAuthorId: 4805
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 衡门老苔藓，行柏千兵屯。
+
+- 开樽邀落日，未对乌鸟言。
+
+- 清风举吹籁，散乱书帙翻。
+
+- 传呼一何急，人马従车奔。
+
+- 贫居少宾客，邻妇窥篱藩。
+
+- 墙头过春酒，绿泛田家盆。
+
+- 比来伏青蒲，坐捉白兽樽。
+
+- 王猷修润色，亦有簿领烦。
+
+- 朝廷贵二陆，屡闻天语温。
+
+- 犹能整笔阵，愧我非韩孙。
+
+## 拼音
+
+- heng2 men2 lao3 tai2 xian3 ， xing2 bai3 qian1 bing1 tun2 。
+
+- kai1 zun1 yao1 luo4 ri4 ， wei4 dui4 wu1 niao3 yan2 。
+
+- qing1 feng1 ju3 chui1 lai4 ， san3 luan4 shu1 zhi4 fan1 。
+
+- chuan2 hu1 yi4 he2 ji2 ， ren2 ma3 cong2 che1 ben1 。
+
+- pin2 ju1 shao3 bin1 ke4 ， lin2 fu4 kui1 li2 fan1 。
+
+- qiang2 tou2 guo4 chun1 jiu3 ， lü4 fan4 tian2 jia1 pen2 。
+
+- bi3 lai2 fu2 qing1 pu2 ， zuo4 zhuo1 bai2 shou4 zun1 。
+
+- wang2 you2 xiu1 run4 se4 ， yi4 you3 bo2 ling3 fan2 。
+
+- chao2 ting2 gui4 er4 lu4 ， lü3 wen2 tian1 yu3 wen1 。
+
+- you2 neng2 zheng3 bi3 zhen4 ， kui4 wo3 fei1 han2 sun1 。
+
+## 译文
+
+衡门老苔藓，行柏千兵屯驻。开樽邀请落日，没有对乌鸦说。清风吹籁举办，散乱书籍翻。传呼一何急，人和马跟着车跑。贫居少宾客，邻居看见篱藩。墙头走过春酒，绿色泛农家盆。近来被青蒲，因为带白虎樽。王道修润色，也有文书麻烦。朝廷显贵二陆，经常听说天对温。仍能整笔阵，对不起我不是韩孙。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+衡门老苔藓，行柏千兵屯驻。开樽邀请落日，没有对乌鸦说。清风吹籁举办，散乱书籍翻。传呼一何急，人和马跟着车跑。贫居少宾客，邻居看见篱藩。墙头走过春酒，绿色泛农家盆。近来被青蒲，因为带白虎樽。王道修润色，也有文书麻烦。朝廷显贵二陆，经常听说天对温。仍能整笔阵，对不起我不是韩孙。
+	* 此部分翻译来自AI，仅供参考

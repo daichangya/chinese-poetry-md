@@ -1,0 +1,35 @@
+---
+id: su-shi-an-ping-quan-ce-zhang-xu-xu-bu-ci-shan
+title: 安平泉
+author: 苏轼
+authorSlug: su-shi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: an1 ping2 quan2
+authorPinyin: su1 shi4
+dynastyPinyin: song4
+canonicalPoemId: 469479
+canonicalAuthorId: 4805
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 策杖徐徐步此山，拨云寻径兴飘然。
+
+- 凿开海眼知何代，种出菱花不计年。
+
+- 烹茗僧夸瓯泛雪，炼丹人化骨成仙。
+
+- 当年陆羽空收拾，遗却安平一片泉。
+
+## 拼音
+
+- ce4 zhang4 xu2 xu2 bu4 ci3 shan1 ， bo1 yun2 xun2 jing4 xing1 piao1 ran2 。
+
+- zao2 kai1 hai3 yan3 zhi1 he2 dai4 ， zhong3 chu1 ling2 hua1 bu2 ji4 nian2 。
+
+- peng1 ming2 seng1 kua1 ou1 fan4 xue3 ， lian4 dan1 ren2 hua4 gu3 cheng2 xian1 。
+
+- dang1 nian2 lu4 yu3 kong1 shou1 shi2 ， yi2 que4 an1 ping2 yi2 pian4 quan2 。

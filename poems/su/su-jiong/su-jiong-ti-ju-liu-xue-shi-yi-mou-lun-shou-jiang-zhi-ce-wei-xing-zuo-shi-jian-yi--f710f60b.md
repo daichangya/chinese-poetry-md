@@ -1,0 +1,37 @@
+---
+id: su-jiong-ti-ju-liu-xue-shi-yi-mou-lun-shou-jiang-zhi-ce-wei-xing-zuo-shi-jian-yi--f710f60b
+title: 提举刘学士以某论守江之策未行作诗见遗谨次
+author: 苏泂
+authorSlug: su-jiong
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ti2 ju3 liu2 xue2 shi4 yi3 mou3 lun4 shou3 jiang1 zhi1 ce4 wei4 xing2 zuo4 shi1 jian4 yi2 jin3 ci4
+authorPinyin: su1 jiong3
+dynastyPinyin: song4
+canonicalPoemId: 557046
+canonicalAuthorId: 3440
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 自是群公气未平，黠羌何虑不休兵。
+
+- 欲成江左收贤俊，叹息无人致二生。
+
+## 拼音
+
+- zi4 shi4 qun2 gong1 qi4 wei4 ping2 ， xia2 qiang1 he2 lü4 bu4 xiu1 bing1 。
+
+- yu4 cheng2 jiang1 zuo3 shou1 xian2 jun4 ， tan4 xi1 wu2 ren2 zhi4 er4 sheng1 。
+
+## 译文
+
+从这群公气不公平，狡猾的羌民何愁不停止战争。想成江南收贤才，叹息没有人送二生。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+从这群公气不公平，狡猾的羌民何愁不停止战争。想成江南收贤才，叹息没有人送二生。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,49 @@
+---
+id: su-shi-ci-yun-mu-fu-shang-shu-shi-ci-jiao-qiu-zhan-wang-tian-guang-tui-er-xiang-qing
+title: 次韵穆父尚书侍祠郊丘瞻
+author: 苏轼
+authorSlug: su-shi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ci4 yun4 mu4 fu4 shang4 shu1 shi4 ci2 jiao1 qiu1 zhan1
+authorPinyin: su1 shi4
+dynastyPinyin: song4
+canonicalPoemId: 570601
+canonicalAuthorId: 4805
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 望天光退而相庆引满醉吟千章杞梓阴云天，樗散谁收老郑虔。
+
+- 喜气到君浮白里，丰年及我挂冠前。
+
+- 令严钟鼓三更月，野宿貔貅万灶烟。
+
+- 太息何人知帝力。
+
+- 归来金帛看赪肩。
+
+## 拼音
+
+- wang4 tian1 guang1 tui4 er2 xiang1 qing4 yin3 man3 zui4 yin2 qian1 zhang1 qi3 zi3 yin1 yun2 tian1 ， chu1 san4 shui2 shou1 lao3 zheng4 qian2 。
+
+- xi3 qi4 dao4 jun1 fu2 bai2 li3 ， feng1 nian2 ji2 wo3 gua4 guan1 qian2 。
+
+- ling4 yan2 zhong1 gu3 san1 geng1 yue4 ， ye3 su4 pi2 xiu1 wan4 zao4 yan1 。
+
+- tai4 xi1 he2 ren2 zhi1 di4 li4 。
+
+- gui1 lai2 jin1 bo2 kan4 cheng1 jian1 。
+
+## 译文
+
+望天光退而相互庆贺引满醉吟千章杞梓阴云天气，樗散谁收集老郑虔。喜气到你浮白里，丰收以及我们挂帽子前。纪律钟鼓三更月，野外住宿可与猛兽万灶烟。叹息什么人知道皇帝的力量。回来金帛看其肩。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+望天光退而相互庆贺引满醉吟千章杞梓阴云天气，樗散谁收集老郑虔。喜气到你浮白里，丰收以及我们挂帽子前。纪律钟鼓三更月，野外住宿可与猛兽万灶烟。叹息什么人知道皇帝的力量。回来金帛看其肩。
+	* 此部分翻译来自AI，仅供参考

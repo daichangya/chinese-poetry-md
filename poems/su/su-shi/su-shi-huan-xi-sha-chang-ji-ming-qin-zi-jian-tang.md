@@ -1,0 +1,60 @@
+---
+id: su-shi-huan-xi-sha-chang-ji-ming-qin-zi-jian-tang
+title: 浣溪沙·忆旧
+author: 苏轼
+authorSlug: su-shi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: huan4 xi1 sha1 · yi4 jiu4
+authorPinyin: su1 shi4
+dynastyPinyin: song4
+canonicalPoemId: 469380
+canonicalAuthorId: 4805
+rhythmic: 浣溪沙
+tags:
+  - 感叹
+  - 时光
+  - 忆旧
+  - 诗词
+---
+
+## 正文
+
+- 长记鸣琴子贱堂。
+
+- 朱颜绿发映垂杨。
+
+- 如今秋鬓数茎霜。
+
+- 聚散交游如梦寐，升沉闲事莫思量。
+
+- 仲卿终不避桐乡。
+
+## 拼音
+
+- chang2 ji4 ming2 qin2 zi3 jian4 tang2 。
+
+- zhu1 yan2 lü4 fa1 ying4 chui2 yang2 。
+
+- ru2 jin1 qiu1 bin4 shu4 jing1 shuang1 。
+
+- ju4 san4 jiao1 you2 ru2 meng4 mei4 ， sheng1 chen2 xian2 shi4 mo4 si1 liang0 。
+
+- zhong4 qing1 zhong1 bu2 bi4 tong2 xiang1 。
+
+## 注释
+
+鸣琴子贱堂：“子贱”即孔子宓不齐（字子贱），“鸣琴子贱堂”即“宓子贱治单父，弹鸣琴，身不下堂而单父治。”的典故（见《吕氏春秋?论部》卷二十一〈开春论?察贤〉）。（也作“鸣琴化洽”、“鸣琴单父”）
+朱颜：红润美好的颜容，借指青春年少。
+绿发：“绿”指乌黑，“绿发”即乌黑的头发。
+秋鬓：苍白的鬓发。
+聚散：相聚和分离。
+交游：交际、结交朋友。
+梦寐：睡梦。
+升沉：即“升降”，旧时指仕途得失进退。
+仲卿终不避桐乡：“仲卿”即西汉中叶时人朱邑（字仲卿，官至大司农），“避”指离开，“仲卿终不避桐乡”即“朱邑归葬桐乡”的典故（见《汉书》卷八十九〈循吏传〉第五十九，另附相关原文节录如下）。
+
+## 译文
+
+常常记着宓子贱弹琴治理单父的故事。过往红润颜容和乌黑头发映照着垂柳。如今已有数根鬓发白得就像霜雪一般。
+结交朋友的离离合合就如同身在梦中。仕途得失进退这等闲事就别去想它了。朱仲卿终也没离开人民爱戴他的桐乡。

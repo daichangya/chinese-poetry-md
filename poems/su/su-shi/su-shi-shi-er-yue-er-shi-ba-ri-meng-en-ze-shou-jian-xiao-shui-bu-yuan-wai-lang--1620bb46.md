@@ -1,0 +1,45 @@
+---
+id: su-shi-shi-er-yue-er-shi-ba-ri-meng-en-ze-shou-jian-xiao-shui-bu-yuan-wai-lang--1620bb46
+title: 十二月二十八日，蒙恩责授检校水部员外郎黄
+author: 苏轼
+authorSlug: su-shi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: shi2 er4 yue4 er4 shi2 ba1 ri4 ， meng2 en1 ze2 shou4 jian3 xiao4 shui3 bu4 yuan2 wai4 lang2 huang2
+authorPinyin: su1 shi4
+dynastyPinyin: song4
+canonicalPoemId: 469344
+canonicalAuthorId: 4805
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 百日归期恰及春，余年乐事最关身。
+
+- 出门便旋风吹面，走马联翩鹊啅人。
+
+- 却对酒杯疑是梦，试拈诗笔已如神。
+
+- 此灾何必深追咎，窃禄从来岂有因。
+
+## 拼音
+
+- bai3 ri4 gui1 qi1 qia4 ji2 chun1 ， yu2 nian2 le4 shi4 zui4 guan1 shen1 。
+
+- chu1 men2 bian4 xuan2 feng1 chui1 mian4 ， zou3 ma3 lian2 pian1 que4 zhuo2 ren2 。
+
+- que4 dui4 jiu3 bei1 yi2 shi4 meng4 ， shi4 nian1 shi1 bi3 yi3 ru2 shen2 。
+
+- ci3 zai1 he2 bi4 shen1 zhui1 jiu4 ， qie4 lu4 cong2 lai2 qi3 you3 yin1 。
+
+## 译文
+
+百日回来的日期恰好到了春天，我年快乐的事最关身。出门便旋风吹脸，走马联翩鹊啅人。却对酒杯可能是梦，试拿诗笔已经像神。这灾难为什么一定要深追咎，窃禄从来哪有因。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+百日回来的日期恰好到了春天，我年快乐的事最关身。出门便旋风吹脸，走马联翩鹊啅人。却对酒杯可能是梦，试拿诗笔已经像神。这灾难为什么一定要深追咎，窃禄从来哪有因。
+	* 此部分翻译来自AI，仅供参考

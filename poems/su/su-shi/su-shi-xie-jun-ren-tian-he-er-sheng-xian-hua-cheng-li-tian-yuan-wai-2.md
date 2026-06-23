@@ -1,0 +1,69 @@
+---
+id: su-shi-xie-jun-ren-tian-he-er-sheng-xian-hua-cheng-li-tian-yuan-wai-2
+title: 谢郡人田贺二生献花
+author: 苏轼
+authorSlug: su-shi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: xie4 jun4 ren2 tian2 he4 er4 sheng1 xian4 hua1
+authorPinyin: su1 shi4
+dynastyPinyin: song4
+canonicalPoemId: 571213
+canonicalAuthorId: 4805
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 城里田员外，城西贺秀才。
+
+- 不愁家四壁，自有锦千堆。
+
+- 珍重尤奇品，艰难最后开。
+
+- 芳心困落日，薄艳战轻雷。
+
+- （昨日雷雨。
+
+- ）老守仍多病，壮怀先已灰。
+
+- 殷勤此粲者，（贺献魏花三朵。
+
+- ）攀折为谁哉。
+
+- 玉腕揎红袖，金樽泻白醅。
+
+- 何当镊霜鬓，强插满头回。
+
+## 拼音
+
+- cheng2 li3 tian2 yuan2 wai4 ， cheng2 xi1 he4 xiu4 cai2 。
+
+- bu4 chou2 jia1 si4 bi4 ， zi4 you3 jin3 qian1 dui1 。
+
+- zhen1 zhong4 you2 qi2 pin3 ， jian1 nan2 zui4 hou4 kai1 。
+
+- fang1 xin1 kun4 luo4 ri4 ， bao2 yan4 zhan4 qing1 lei2 。
+
+- （ zuo2 ri4 lei2 yu3 。
+
+- ） lao3 shou3 reng2 duo1 bing4 ， zhuang4 huai2 xian1 yi3 hui1 。
+
+- yin1 qin2 ci3 can4 zhe3 ， （ he4 xian4 wei4 hua1 san1 duo3 。
+
+- ） pan1 zhe2 wei4 shui2 zai1 。
+
+- yu4 wan4 xuan1 hong2 xiu4 ， jin1 zun1 xie4 bai2 pei1 。
+
+- he2 dang1 nie4 shuang1 bin4 ， qiang2 cha1 man3 tou2 hui2 。
+
+## 译文
+
+城市里田员外，城西贺秀才。不愁家四壁，从有锦绣千堆。珍重最奇异的品种，艰难最后开。芳心困落天，小艳战轻雷。（昨天雷雨。）老守大部分病，壮怀先已灰。殷勤如此灿烂的人，（贺献魏花三朵。）攀折是谁呢。玉手腕挽红袖，金樽泻白醅。为什么要镊霜头发，强插满头回。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+城市里田员外，城西贺秀才。不愁家四壁，从有锦绣千堆。珍重最奇异的品种，艰难最后开。芳心困落天，小艳战轻雷。（昨天雷雨。）老守大部分病，壮怀先已灰。殷勤如此灿烂的人，（贺献魏花三朵。）攀折是谁呢。玉手腕挽红袖，金樽泻白醅。为什么要镊霜头发，强插满头回。
+	* 此部分翻译来自AI，仅供参考

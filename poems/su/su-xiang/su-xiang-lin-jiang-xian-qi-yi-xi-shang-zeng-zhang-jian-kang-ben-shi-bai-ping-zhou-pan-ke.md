@@ -1,0 +1,43 @@
+---
+id: su-xiang-lin-jiang-xian-qi-yi-xi-shang-zeng-zhang-jian-kang-ben-shi-bai-ping-zhou-pan-ke
+title: 临江仙 其一 席上赠张建康
+author: 苏庠
+authorSlug: su-xiang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: lin2 jiang1 xian1   qi2 yi1   xi2 shang4 zeng4 zhang1 jian4 kang1
+authorPinyin: su1 xiang2
+dynastyPinyin: song4
+canonicalPoemId: 423043
+canonicalAuthorId: 11574
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 本是白苹洲畔客，虎符卧镇江城。
+
+- 归来犹得趁鸥盟。
+
+- 柳丝摇晓市，杜若遍芳汀。
+
+- 莫惜飞觞仍堕帻，柳边依约莺声。
+
+- 水秋鲈熟正关情。
+
+- 只愁宣室召，未许钓船轻。
+
+## 拼音
+
+- ben3 shi4 bai2 ping2 zhou1 pan4 ke4 ， hu3 fu2 wo4 zhen4 jiang1 cheng2 。
+
+- gui1 lai2 you2 de2 chen4 ou1 meng2 。
+
+- liu3 si1 yao2 xiao3 shi4 ， du4 ruo4 bian4 fang1 ting1 。
+
+- mo4 xi1 fei1 shang1 reng2 duo4 ze2 ， liu3 bian1 yi1 yue1 ying1 sheng1 。
+
+- shui3 qiu1 lu2 shu2 zheng4 guan1 qing2 。
+
+- zhi1 chou2 xuan1 shi4 zhao4 ， wei4 xu3 diao4 chuan2 qing1 。

@@ -1,0 +1,45 @@
+---
+id: su-zhe-ci-yun-wang-lin-tai-bo-ma-shang-dong-wan-shuang-lu-zhong
+title: 次韵王临太博马上
+author: 苏辙
+authorSlug: su-zhe
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ci4 yun4 wang2 lin2 tai4 bo2 ma3 shang4
+authorPinyin: su1 zhe2
+dynastyPinyin: song4
+canonicalPoemId: 364614
+canonicalAuthorId: 4891
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 冬晚霜露重，城遥鞍马劳。
+
+- 徒知事奔走，曾未补毫毛。
+
+- 水旱嗟嚬蹙，疮痍费抑搔。
+
+- 莫归何暇食，堆按簿书高。
+
+## 拼音
+
+- dong1 wan3 shuang1 lu4 zhong4 ， cheng2 yao2 an1 ma3 lao2 。
+
+- tu2 zhi1 shi4 ben1 zou3 ， ceng2 wei4 bu3 hao2 mao2 。
+
+- shui3 han4 jie1 pin2 cu4 ， chuang1 yi2 fei4 yi4 sao1 。
+
+- mo4 gui1 he2 xia2 shi2 ， dui1 an4 bo2 shu1 gao1 。
+
+## 译文
+
+冬季晚霜露重，城遥鞍马劳。只知道事情奔走，没有补充极小。水旱嗟叹皱眉头蹙，创伤费或者搔。没有返回什么时间吃，堆帐簿高。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+冬季晚霜露重，城遥鞍马劳。只知道事情奔走，没有补充极小。水旱嗟叹皱眉头蹙，创伤费或者搔。没有返回什么时间吃，堆帐簿高。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,93 @@
+---
+id: su-shi-yu-dun-qi-sun-mian-fan-zhou-tan-yun-de-wei-zi-chuang-qian-dui-wu-tong
+title: 与顿起孙勉泛舟探韵得未字
+author: 苏轼
+authorSlug: su-shi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: yu3 dun4 qi3 sun1 mian3 fan4 zhou1 tan4 yun4 de2 wei4 zi4
+authorPinyin: su1 shi4
+dynastyPinyin: song4
+canonicalPoemId: 568777
+canonicalAuthorId: 4805
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 窗前堆梧桐，床下鸣络纬。
+
+- 佳人尺书到，客子中夜喟。
+
+- 朝来一樽酒，晤语聊自慰。
+
+- 秋蝇已无声，霜蟹初有味。
+
+- 当为壮士饮，眦裂须磔?胃。
+
+- 勿作儿女怀，坐念?萧蛸畏。
+
+- 山城亦何有，一笑泻肝胃。
+
+- 泛舟以娱君，鱼鳖多可饩。
+
+- 纵为十日饮，未遽主人费。
+
+- 吾侪俱老矣，耿耿知自贵。
+
+- 宁能傍门户，啼笑杂猩狒。
+
+- 要将百篇诗，一吐千丈气。
+
+- 萧条岁行暮，迨此霜雪未。
+
+- 明朝出城南，遗迹观楚魏。
+
+- 西风迫吹帽，金菊乱如沸。
+
+- 愿君勿言归，轻别吾所讳。
+
+## 拼音
+
+- chuang1 qian2 dui1 wu2 tong2 ， chuang2 xia4 ming2 luo4 wei3 。
+
+- jia1 ren2 chi3 shu1 dao4 ， ke4 zi3 zhong1 ye4 kui4 。
+
+- chao2 lai2 yi4 zun1 jiu3 ， wu4 yu3 liao2 zi4 wei4 。
+
+- qiu1 ying2 yi3 wu2 sheng1 ， shuang1 xie4 chu1 you3 wei4 。
+
+- dang1 wei4 zhuang4 shi4 yin3 ， zi4 lie4 xu1 zhe2 ? wei4 。
+
+- wu4 zuo4 er2 nü3 huai2 ， zuo4 nian4 ? xiao1 shao1 wei4 。
+
+- shan1 cheng2 yi4 he2 you3 ， yi2 xiao4 xie4 gan1 wei4 。
+
+- fan4 zhou1 yi3 yu2 jun1 ， yu2 bie1 duo1 ke3 xi4 。
+
+- zong4 wei4 shi2 ri4 yin3 ， wei4 ju4 zhu3 ren2 fei4 。
+
+- wu2 chai2 ju4 lao3 yi3 ， geng3 geng3 zhi1 zi4 gui4 。
+
+- ning2 neng2 bang4 men2 hu4 ， ti2 xiao4 za2 xing1 fei4 。
+
+- yao4 jiang1 bai3 pian1 shi1 ， yi4 tu3 qian1 zhang4 qi4 。
+
+- xiao1 tiao2 sui4 xing2 mu4 ， dai4 ci3 shuang1 xue3 wei4 。
+
+- ming2 chao2 chu1 cheng2 nan2 ， yi2 ji4 guan1 chu3 wei4 。
+
+- xi1 feng1 po4 chui1 mao4 ， jin1 ju2 luan4 ru2 fei4 。
+
+- yuan4 jun1 wu4 yan2 gui1 ， qing1 bie2 wu2 suo3 hui4 。
+
+## 译文
+
+窗前堆梧桐，床下鸣络纬。佳人尺书到，请你半夜啃。朝来一杯酒，会晤对聊自慰。秋苍蝇已经没有声音，霜蟹开始有味。应当为勇士饮酒，眼眶撕裂需要分解？胃。不要作儿女怀，坐着念？萧蛸害怕。山城也有什么，一个微笑泻肝胃。乘船来娱乐你，鱼鳖都可以活。纵为十天喝，没有马上主人费。我们都老了，耿耿知道自己贵。宁能傍门，啼笑杂猩猩狒。要将百篇诗，一吐千丈气。萧条年行晚，等到这霜雪不。明天出城南，遗迹看楚魏。西风迫吹帽，黄金菊乱如沸腾。希望你不要说回去，另外我是名轻。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+窗前堆梧桐，床下鸣络纬。佳人尺书到，请你半夜啃。朝来一杯酒，会晤对聊自慰。秋苍蝇已经没有声音，霜蟹开始有味。应当为勇士饮酒，眼眶撕裂需要分解？胃。不要作儿女怀，坐着念？萧蛸害怕。山城也有什么，一个微笑泻肝胃。乘船来娱乐你，鱼鳖都可以活。纵为十天喝，没有马上主人费。我们都老了，耿耿知道自己贵。宁能傍门，啼笑杂猩猩狒。要将百篇诗，一吐千丈气。萧条年行晚，等到这霜雪不。明天出城南，遗迹看楚魏。西风迫吹帽，黄金菊乱如沸腾。希望你不要说回去，另外我是名轻。
+	* 此部分翻译来自AI，仅供参考
