@@ -1,0 +1,35 @@
+---
+id: gao-zhu-zhu-wan-zhang-peng-ju-xiang-feng-bian-bai-shi-nian-xiong
+title: 挽章朋举
+author: 高翥
+authorSlug: gao-zhu-zhu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: wan3 zhang1 peng2 ju3
+authorPinyin: gao1 zhu4
+dynastyPinyin: song4
+canonicalPoemId: 439375
+canonicalAuthorId: 11920
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 相逢便拜十年兄，自此交游得尽情。
+
+- 草纸抄书传遁甲，竹筩沽酒命添丁。
+
+- 他时结屋期来往，今日登门隔死生。
+
+- 从此苕溪明月夜，小舟不复为君停。
+
+## 拼音
+
+- xiang1 feng2 bian4 bai4 shi2 nian2 xiong1 ， zi4 ci3 jiao1 you2 de2 jin4 qing2 。
+
+- cao3 zhi3 chao1 shu1 chuan2 dun4 jia3 ， zhu2 tong3 gu1 jiu3 ming4 tian1 ding1 。
+
+- ta1 shi2 jie2 wu1 qi1 lai2 wang3 ， jin1 ri4 deng1 men2 ge2 si3 sheng1 。
+
+- cong2 ci3 tiao2 xi1 ming2 yue4 ye4 ， xiao3 zhou1 bu2 fu4 wei4 jun1 ting2 。

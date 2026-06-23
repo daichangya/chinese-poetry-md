@@ -1,0 +1,73 @@
+---
+id: gao-shi-guan-li-jiu-shao-fu-zhu-shu-mi-zi-jian-shen-ci-bei-wu-you-li-zi-yi
+title: 观李九少府翥树宓子贱神祠碑
+author: 高适
+authorSlug: gao-shi
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: guan1 li3 jiu3 shao4 fu3 zhu4 shu4 mi4 zi3 jian4 shen2 ci2 bei1
+authorPinyin: gao1 shi4
+dynastyPinyin: tang2
+canonicalPoemId: 393290
+canonicalAuthorId: 322
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 吾友吏兹邑，亦尝怀宓公。
+
+- 安知梦寐间，忽与精灵通。
+
+- 一见兴永叹，再来激深衷。
+
+- 宾从何逶迤，二十四老翁。
+
+- 于焉建层碑，突兀长林东。
+
+- 作者无愧色，行人感遗风。
+
+- 坐令高岸尽，独对秋山空。
+
+- 片石勿谓轻，斯言固难穷。
+
+- 龙盘色丝外，鹊顾偃波中。
+
+- 形胜驻群目，坚贞指苍穹。
+
+- 我非王仲宣，去矣徒发蒙。
+
+## 拼音
+
+- wu2 you3 li4 zi1 yi4 ， yi4 chang2 huai2 mi4 gong1 。
+
+- an1 zhi1 meng4 mei4 jian1 ， hu1 yu3 jing1 ling2 tong1 。
+
+- yi2 jian4 xing1 yong3 tan4 ， zai4 lai2 ji1 shen1 zhong1 。
+
+- bin1 cong2 he2 wei1 yi2 ， er4 shi2 si4 lao3 weng1 。
+
+- yu2 yan1 jian4 ceng2 bei1 ， tu1 wu4 chang2 lin2 dong1 。
+
+- zuo4 zhe3 wu2 kui4 se4 ， xing2 ren2 gan3 yi2 feng1 。
+
+- zuo4 ling4 gao1 an4 jin4 ， du2 dui4 qiu1 shan1 kong1 。
+
+- pian4 shi2 wu4 wei4 qing1 ， si1 yan2 gu4 nan2 qiong2 。
+
+- long2 pan2 se4 si1 wai4 ， que4 gu4 yan3 bo1 zhong1 。
+
+- xing2 sheng4 zhu4 qun2 mu4 ， jian1 zhen1 zhi3 cang1 qiong2 。
+
+- wo3 fei1 wang2 zhong4 xuan1 ， qu4 yi3 tu2 fa1 meng2 。
+
+## 译文
+
+我的朋友们此城，也曾心怀宓公。怎么知道梦中，忽然与精灵沟通。一见到兴长叹，第二次来激发深衷。宾从什么曲折，二十四岁老翁。在此建层块，突兀长林东。作者没有惭愧的神色，行为人受到传统。坐令高岸尽，只有对秋山空。石片不要对轻，这句话很难彻底。龙盘绕丝国外色，喜鹊对偃波中。形势在众人的眼睛，坚贞直指苍穹。我不是王仲宣，离开了人发得到。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+我的朋友们此城，也曾心怀宓公。怎么知道梦中，忽然与精灵沟通。一见到兴长叹，第二次来激发深衷。宾从什么曲折，二十四岁老翁。在此建层块，突兀长林东。作者没有惭愧的神色，行为人受到传统。坐令高岸尽，只有对秋山空。石片不要对轻，这句话很难彻底。龙盘绕丝国外色，喜鹊对偃波中。形势在众人的眼睛，坚贞直指苍穹。我不是王仲宣，离开了人发得到。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,45 @@
+---
+id: gao-shi-ku-pei-shao-fu-shi-ren-shui-bu-si
+title: 哭裴少府
+author: 高适
+authorSlug: gao-shi
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: ku1 pei2 shao4 fu3
+authorPinyin: gao1 shi4
+dynastyPinyin: tang2
+canonicalPoemId: 393445
+canonicalAuthorId: 322
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 世人谁不死，嗟君非生虑。
+
+- 扶病适到官，田园在何处。
+
+- 公才群吏感，葬事他人助。
+
+- 余亦未识君，深悲哭君去。
+
+## 拼音
+
+- shi4 ren2 shui2 bu4 si3 ， jie1 jun1 fei1 sheng1 lü4 。
+
+- fu2 bing4 shi4 dao4 guan1 ， tian2 yuan2 zai4 he2 chu4 。
+
+- gong1 cai2 qun2 li4 gan3 ， zang4 shi4 ta1 ren2 zhu4 。
+
+- yu2 yi4 wei4 shi2 jun1 ， shen1 bei1 ku1 jun1 qu4 。
+
+## 译文
+
+世上的人谁没有一死，唉你不是生担心。带病去上任，田园在何处。公才群吏感，葬事其他人帮助。我也不认识你，深悲哭你离开。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+世上的人谁没有一死，唉你不是生担心。带病去上任，田园在何处。公才群吏感，葬事其他人帮助。我也不认识你，深悲哭你离开。
+	* 此部分翻译来自AI，仅供参考
