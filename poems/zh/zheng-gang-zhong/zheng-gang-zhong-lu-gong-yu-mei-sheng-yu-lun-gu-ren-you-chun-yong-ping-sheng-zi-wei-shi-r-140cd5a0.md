@@ -1,0 +1,37 @@
+---
+id: zheng-gang-zhong-lu-gong-yu-mei-sheng-yu-lun-gu-ren-you-chun-yong-ping-sheng-zi-wei-shi-r-140cd5a0
+title: 潞公与梅圣俞论古人有纯用平声字为诗如枯桑
+author: 郑刚中
+authorSlug: zheng-gang-zhong
+dynasty: 宋
+dynastySlug: song
+titlePinyin: lu4 gong1 yu3 mei2 sheng4 yu2 lun4 gu3 ren2 you3 chun2 yong4 ping2 sheng1 zi4 wei4 shi1 ru2 ku1 sang1
+authorPinyin: zheng4 gang1 zhong1
+dynastyPinyin: song4
+canonicalPoemId: 478753
+canonicalAuthorId: 5939
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 节物暗老我，壮志物未已。
+
+- 事业力自致，贵贱命可委。
+
+## 拼音
+
+- jie2 wu4 an4 lao3 wo3 ， zhuang4 zhi4 wu4 wei4 yi3 。
+
+- shi4 ye4 li4 zi4 zhi4 ， gui4 jian4 ming4 ke3 wei3 。
+
+## 译文
+
+节物暗老我，壮志物不停。事业力导致自己，贵贱命令可以委托。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+节物暗老我，壮志物不停。事业力导致自己，贵贱命令可以委托。
+	* 此部分翻译来自AI，仅供参考

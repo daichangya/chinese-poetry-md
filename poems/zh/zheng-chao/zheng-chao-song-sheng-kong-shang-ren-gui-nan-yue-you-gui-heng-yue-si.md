@@ -1,0 +1,46 @@
+---
+id: zheng-chao-song-sheng-kong-shang-ren-gui-nan-yue-you-gui-heng-yue-si
+title: 送省空上人归南岳
+author: 郑巢
+authorSlug: zheng-chao
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: song4 sheng3 kong1 shang4 ren2 gui1 nan2 yue4
+authorPinyin: zheng4 chao2
+dynastyPinyin: tang2
+canonicalPoemId: 529563
+canonicalAuthorId: 5013
+tags:
+  - 诗词
+  - 衡山
+---
+
+## 正文
+
+- 又归衡岳寺，旧院树冥冥。
+
+- 坐石缝寒衲，寻龛补坏经。
+
+- 峤云笼曙磬，潭草落秋萍。
+
+- 谁伴高窗宿，禅衣挂桂馨。
+
+## 拼音
+
+- you4 gui1 heng2 yue4 si4 ， jiu4 yuan4 shu4 ming2 ming2 。
+
+- zuo4 shi2 feng4 han2 na4 ， xun2 kan1 bu3 huai4 jing1 。
+
+- qiao2 yun2 long2 shu3 qing4 ， tan2 cao3 luo4 qiu1 ping2 。
+
+- shui2 ban4 gao1 chuang1 su4 ， chan2 yi1 gua4 gui4 xin1 。
+
+## 译文
+
+又回到衡岳寺，旧院树阴暗。坐在石头缝冷钠，不久龛修补损坏经。娇云笼亮磬，潭草落秋萍。谁伴高窗住宿，把衣服挂在桂馨。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+又回到衡岳寺，旧院树阴暗。坐在石头缝冷钠，不久龛修补损坏经。娇云笼亮磬，潭草落秋萍。谁伴高窗住宿，把衣服挂在桂馨。
+	* 此部分翻译来自AI，仅供参考

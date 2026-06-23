@@ -1,0 +1,45 @@
+---
+id: zheng-gu-ba-cong-lu-yu-ji-chao-zhong-cong-shu-jing-qiu-si-hao-ran
+title: 巴賨旅寓寄朝中从叔
+author: 郑谷
+authorSlug: zheng-gu
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: ba1 cong2 lü3 yu4 ji4 chao2 zhong1 cong2 shu1
+authorPinyin: zheng4 gu3
+dynastyPinyin: tang2
+canonicalPoemId: 536996
+canonicalAuthorId: 362
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 惊秋思浩然，信美向巴天。
+
+- 独倚临江树，初闻落日蝉。
+
+- 哀荣悲往事，漂泊念多年。
+
+- 未便甘休去，吾宗尽见怜。
+
+## 拼音
+
+- jing1 qiu1 si1 hao4 ran2 ， xin4 mei3 xiang4 ba1 tian1 。
+
+- du2 yi3 lin2 jiang1 shu4 ， chu1 wen2 luo4 ri4 chan2 。
+
+- ai1 rong2 bei1 wang3 shi4 ， piao1 bo2 nian4 duo1 nian2 。
+
+- wei4 bian4 gan1 xiu1 qu4 ， wu2 zong1 jin4 jian4 lian2 。
+
+## 译文
+
+惊秋思浩然，信美向巴天。独自倚临江树，起初听说落日蝉。哀荣悲伤往事，漂泊很多年念。不便甘休去，我们家族都被可怜。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+惊秋思浩然，信美向巴天。独自倚临江树，起初听说落日蝉。哀荣悲伤往事，漂泊很多年念。不便甘休去，我们家族都被可怜。
+	* 此部分翻译来自AI，仅供参考

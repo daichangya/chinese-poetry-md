@@ -1,0 +1,35 @@
+---
+id: zheng-gang-zhong-ni-zhou-xue-heng-cui-xuan-tai-hua-dai-xue-qian-zhang-han
+title: 拟州学横翠轩
+author: 郑刚中
+authorSlug: zheng-gang-zhong
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ni3 zhou1 xue2 heng2 cui4 xuan1
+authorPinyin: zheng4 gang1 zhong1
+dynastyPinyin: song4
+canonicalPoemId: 478674
+canonicalAuthorId: 5939
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 太华带雪千丈寒，砥柱中流万夫愕。
+
+- 未教耸翠入青苍，故对书窗且横著。
+
+- 平铺秀气一里许，不露云尖与山脚。
+
+- 何人半破好东绢，画出潇湘秋色薄。
+
+## 拼音
+
+- tai4 hua2 dai4 xue3 qian1 zhang4 han2 ， di3 zhu4 zhong1 liu2 wan4 fu1 e4 。
+
+- wei4 jiao4 song3 cui4 ru4 qing1 cang1 ， gu4 dui4 shu1 chuang1 qie3 heng2 zhu4 。
+
+- ping2 pu4 xiu4 qi4 yi4 li3 xu3 ， bu2 lu4 yun2 jian1 yu3 shan1 jiao3 。
+
+- he2 ren2 ban4 po4 hao3 dong1 juan4 ， hua4 chu1 xiao1 xiang1 qiu1 se4 bao2 。

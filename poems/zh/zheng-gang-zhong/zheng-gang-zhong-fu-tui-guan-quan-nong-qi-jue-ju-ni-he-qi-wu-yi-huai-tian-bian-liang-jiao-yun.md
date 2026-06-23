@@ -1,0 +1,37 @@
+---
+id: zheng-gang-zhong-fu-tui-guan-quan-nong-qi-jue-ju-ni-he-qi-wu-yi-huai-tian-bian-liang-jiao-yun
+title: 傅推官劝农七绝句拟和其五·登岭
+author: 郑刚中
+authorSlug: zheng-gang-zhong
+dynasty: 宋
+dynastySlug: song
+titlePinyin: fu4 tui1 guan1 quan4 nong2 qi1 jue2 ju4 ni3 he2 qi2 wu3 · deng1 ling3
+authorPinyin: zheng4 gang1 zhong1
+dynastyPinyin: song4
+canonicalPoemId: 478537
+canonicalAuthorId: 5939
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 一怀天边两角云，岭头都见岭南春。
+
+- 莫怀小鲁东山意，祗是早来平地人。
+
+## 拼音
+
+- yi4 huai2 tian1 bian1 liang3 jiao3 yun2 ， ling3 tou2 dou1 jian4 ling3 nan2 chun1 。
+
+- mo4 huai2 xiao3 lu3 dong1 shan1 yi4 ， zhi1 shi4 zao3 lai2 ping2 di4 ren2 。
+
+## 译文
+
+一个怀着天边两角说，岭头都被岭南春。莫怀小鲁东山意，祗是早来平地人。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+一个怀着天边两角说，岭头都被岭南春。莫怀小鲁东山意，祗是早来平地人。
+	* 此部分翻译来自AI，仅供参考

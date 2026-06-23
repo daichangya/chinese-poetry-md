@@ -1,0 +1,35 @@
+---
+id: zhen-shan-min-chun-you-he-hu-shu-fang-yun-chun-guang-po-yan-ming
+title: 春游和胡叔芳韵
+author: 真山民
+authorSlug: zhen-shan-min
+dynasty: 宋
+dynastySlug: song
+titlePinyin: chun1 you2 he2 hu2 shu1 fang1 yun4
+authorPinyin: zhen1 shan1 min2
+dynastyPinyin: song4
+canonicalPoemId: 355588
+canonicalAuthorId: 13206
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 春光泼眼明，占胜得新亭。
+
+- 棠醉风扶起，柳眠莺唤醒。
+
+- 非无杯泛绿，安得鬓皆青。
+
+- 且事日为乐，歌声莫暂停。
+
+## 拼音
+
+- chun1 guang1 po1 yan3 ming2 ， zhan4 sheng4 de2 xin1 ting2 。
+
+- tang2 zui4 feng1 fu2 qi3 ， liu3 mian2 ying1 huan4 xing3 。
+
+- fei1 wu2 bei1 fan4 lü4 ， an1 de2 bin4 jie1 qing1 。
+
+- qie3 shi4 ri4 wei4 le4 ， ge1 sheng1 mo4 zan4 ting2 。
