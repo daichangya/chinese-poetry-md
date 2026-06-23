@@ -1,0 +1,45 @@
+---
+id: yu-chou-he-chen-de-zhang-chun-ri-song-ke-hua-liu-wu-duo-shi
+title: 和陈德章春日送客
+author: 虞俦
+authorSlug: yu-chou
+dynasty: 宋
+dynastySlug: song
+titlePinyin: he2 chen2 de2 zhang1 chun1 ri4 song4 ke4
+authorPinyin: yu2 chou2
+dynastyPinyin: song4
+canonicalPoemId: 540550
+canonicalAuthorId: 714
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 花柳无多事，阴晴不必天。
+
+- 急舂村外雨，并舍晚来烟。
+
+- 白堕先春手，红妆最妙年。
+
+- 庞翁虽不出，门巷得相连。
+
+## 拼音
+
+- hua1 liu3 wu2 duo1 shi4 ， yin1 qing2 bu2 bi4 tian1 。
+
+- ji2 chong1 cun1 wai4 yu3 ， bing4 she4 wan3 lai2 yan1 。
+
+- bai2 duo4 xian1 chun1 shou3 ， hong2 zhuang1 zui4 miao4 nian2 。
+
+- pang2 weng1 sui1 bu4 chu1 ， men2 xiang4 de2 xiang1 lian2 。
+
+## 译文
+
+花柳没有很多事，阴晴不必天。急舂村外雨，并且除了晚来烟。白落先春手，红色妆最年轻。庞公公虽然不出来，门巷得到相连。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+花柳没有很多事，阴晴不必天。急舂村外雨，并且除了晚来烟。白落先春手，红色妆最年轻。庞公公虽然不出来，门巷得到相连。
+	* 此部分翻译来自AI，仅供参考

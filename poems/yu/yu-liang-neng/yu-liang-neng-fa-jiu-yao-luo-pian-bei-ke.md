@@ -1,0 +1,45 @@
+---
+id: yu-liang-neng-fa-jiu-yao-luo-pian-bei-ke
+title: 乏酒
+author: 喻良能
+authorSlug: yu-liang-neng
+dynasty: 宋
+dynastySlug: song
+titlePinyin: fa2 jiu3
+authorPinyin: yu4 liang2 neng2
+dynastyPinyin: song4
+canonicalPoemId: 639698
+canonicalAuthorId: 1545
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 摇落偏悲客，清寒易中人。
+
+- 寂寥那自守，淡泊亦殊真。
+
+- 浮俗仍皆醉，虚谈浪饮醇。
+
+- 高歌傲燕市，忽忆重千钧。
+
+## 拼音
+
+- yao2 luo4 pian1 bei1 ke4 ， qing1 han2 yi4 zhong1 ren2 。
+
+- ji4 liao2 na4 zi4 shou3 ， dan4 bo2 yi4 shu1 zhen1 。
+
+- fu2 su2 reng2 jie1 zui4 ， xu1 tan2 lang4 yin3 chun2 。
+
+- gao1 ge1 ao4 yan4 shi4 ， hu1 yi4 zhong4 qian1 jun1 。
+
+## 译文
+
+零落偏悲客人，清寒易中的人。寂寥那防守，淡泊也很真。浮习俗仍然都喝醉了，虚谈酗酒醇。高歌傲慢燕市，忽然想起重千钧。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+零落偏悲客人，清寒易中的人。寂寥那防守，淡泊也很真。浮习俗仍然都喝醉了，虚谈酗酒醇。高歌傲慢燕市，忽然想起重千钧。
+	* 此部分翻译来自AI，仅供参考

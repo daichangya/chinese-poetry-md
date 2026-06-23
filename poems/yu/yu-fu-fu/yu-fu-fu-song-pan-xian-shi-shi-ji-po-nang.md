@@ -1,0 +1,45 @@
+---
+id: yu-fu-fu-song-pan-xian-shi-shi-ji-po-nang
+title: 送潘咸
+author: 喻凫
+authorSlug: yu-fu-fu
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: song4 pan1 xian2
+authorPinyin: yu4 fu2
+dynastyPinyin: tang2
+canonicalPoemId: 473223
+canonicalAuthorId: 5101
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 时时赍破囊，访我息闲坊。
+
+- 煮雪问茶味，当风看雁行。
+
+- 心齐山鹿逸，句敌柳花狂。
+
+- 坚苦今如此，前程岂渺茫。
+
+## 拼音
+
+- shi2 shi2 ji1 po4 nang2 ， fang3 wo3 xi1 xian2 fang1 。
+
+- zhu3 xue3 wen4 cha2 wei4 ， dang1 feng1 kan4 yan4 xing2 。
+
+- xin1 qi2 shan1 lu4 yi4 ， ju4 di2 liu3 hua1 kuang2 。
+
+- jian1 ku3 jin1 ru2 ci3 ， qian2 cheng2 qi3 miao3 mang2 。
+
+## 译文
+
+时时带着破囊，访问我们休息休闲坊。煮雪问茶的味道，当风看雁行。心齐山鹿跑，句敌人柳花狂。坚苦现在这样，前程是渺茫。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+时时带着破囊，访问我们休息休闲坊。煮雪问茶的味道，当风看雁行。心齐山鹿跑，句敌人柳花狂。坚苦现在这样，前程是渺茫。
+	* 此部分翻译来自AI，仅供参考

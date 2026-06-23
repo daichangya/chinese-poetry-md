@@ -1,0 +1,49 @@
+---
+id: yu-chou-he-wang-tian-ren-xi-xue-wo-jia-si-bi-zhen-xiang-ru
+title: 和王天任喜雪
+author: 虞俦
+authorSlug: yu-chou
+dynasty: 宋
+dynastySlug: song
+titlePinyin: he2 wang2 tian1 ren4 xi3 xue3
+authorPinyin: yu2 chou2
+dynastyPinyin: song4
+canonicalPoemId: 540714
+canonicalAuthorId: 714
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 我家四壁真相如，晨兴欲出无车舆。
+
+- 独骑瘦马南坡下，阆风十二仙人居。
+
+- 书生一朝忽富贵，瑶林琼树环玉除。
+
+- 梅花失喜为三白，一枝放我眉冰舒。
+
+- 春风醉眼红绿乱，尔时独醒如三闾。
+
+## 拼音
+
+- wo3 jia1 si4 bi4 zhen1 xiang4 ru2 ， chen2 xing1 yu4 chu1 wu2 che1 yu2 。
+
+- du2 qi2 shou4 ma3 nan2 po1 xia4 ， lang2 feng1 shi2 er4 xian1 ren2 ju1 。
+
+- shu1 sheng1 yi4 chao2 hu1 fu4 gui4 ， yao2 lin2 qiong2 shu4 huan2 yu4 chu2 。
+
+- mei2 hua1 shi1 xi3 wei4 san1 bai2 ， yi4 zhi1 fang4 wo3 mei2 bing1 shu1 。
+
+- chun1 feng1 zui4 yan3 hong2 lü4 luan4 ， er3 shi2 du2 xing3 ru2 san1 lü2 。
+
+## 译文
+
+我们家四周墙壁真相如，早晨要出门没有车辆。独自骑瘦马南坡下，阆风十二仙人居住。书生突然富贵，瑶林琼树环玉除。梅花不高兴为三白，一枝放我眉冰舒。春风醉眼红绿混乱，这时独醒和三间。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+我们家四周墙壁真相如，早晨要出门没有车辆。独自骑瘦马南坡下，阆风十二仙人居住。书生突然富贵，瑶林琼树环玉除。梅花不高兴为三白，一枝放我眉冰舒。春风醉眼红绿混乱，这时独醒和三间。
+	* 此部分翻译来自AI，仅供参考

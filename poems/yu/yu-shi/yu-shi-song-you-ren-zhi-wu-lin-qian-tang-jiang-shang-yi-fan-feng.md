@@ -1,0 +1,45 @@
+---
+id: yu-shi-song-you-ren-zhi-wu-lin-qian-tang-jiang-shang-yi-fan-feng
+title: 送友人之武林
+author: 于石
+authorSlug: yu-shi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: song4 you3 ren2 zhi1 wu3 lin2
+authorPinyin: yu2 shi2
+dynastyPinyin: song4
+canonicalPoemId: 638446
+canonicalAuthorId: 1454
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 钱塘江上一帆风，为我重寻旧日踪。
+
+- 十里湖山空战舰，千年宫阙咽僧钟。
+
+- 潮生潮落东西浙，云去云来南北峰。
+
+- 往事茫茫何处问，残烟衰草泣寒蛩。
+
+## 拼音
+
+- qian2 tang2 jiang1 shang4 yi4 fan1 feng1 ， wei4 wo3 zhong4 xun2 jiu4 ri4 zong1 。
+
+- shi2 li3 hu2 shan1 kong1 zhan4 jian4 ， qian1 nian2 gong1 que1 yan4 seng1 zhong1 。
+
+- chao2 sheng1 chao2 luo4 dong1 xi1 zhe4 ， yun2 qu4 yun2 lai2 nan2 bei3 feng1 。
+
+- wang3 shi4 mang2 mang2 he2 chu4 wen4 ， can2 yan1 shuai1 cao3 qi4 han2 qiong2 。
+
+## 译文
+
+钱塘江上一帆风，为我们重寻旧天跟踪。十里湖山虚空战舰，千年宫殿咽僧钟。潮生潮落东西浙，云去云来南北峰。往事茫茫何处问，残烟衰草哭寒蛩。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+钱塘江上一帆风，为我们重寻旧天跟踪。十里湖山虚空战舰，千年宫殿咽僧钟。潮生潮落东西浙，云去云来南北峰。往事茫茫何处问，残烟衰草哭寒蛩。
+	* 此部分翻译来自AI，仅供参考

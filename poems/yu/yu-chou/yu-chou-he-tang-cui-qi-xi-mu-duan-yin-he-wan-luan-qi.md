@@ -1,0 +1,45 @@
+---
+id: yu-chou-he-tang-cui-qi-xi-mu-duan-yin-he-wan-luan-qi
+title: 和汤倅七夕
+author: 虞俦
+authorSlug: yu-chou
+dynasty: 宋
+dynastySlug: song
+titlePinyin: he2 tang1 cui4 qi1 xi1
+authorPinyin: yu2 chou2
+dynastyPinyin: song4
+canonicalPoemId: 541064
+canonicalAuthorId: 714
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 目断银河婉娈期，彩云香雾转馡馡。
+
+- 天孙无赖能专巧，世俗由来亦妄祈。
+
+- 穉子唤人占蟢网，老妻怜我泣牛衣。
+
+- 客星若就群肛平卜，更问金穰与木饥。
+
+## 拼音
+
+- mu4 duan4 yin2 he2 wan3 luan2 qi1 ， cai3 yun2 xiang1 wu4 zhuan3 fei1 fei1 。
+
+- tian1 sun1 wu2 lai4 neng2 zhuan1 qiao3 ， shi4 su2 you2 lai2 yi4 wang4 qi2 。
+
+- zhi4 zi3 huan4 ren2 zhan4 xi3 wang3 ， lao3 qi1 lian2 wo3 qi4 niu2 yi1 。
+
+- ke4 xing1 ruo4 jiu4 qun2 gang1 ping2 bu3 ， geng4 wen4 jin1 rang2 yu3 mu4 ji1 。
+
+## 译文
+
+眼睛断银河地美好期，彩云香雾转馡馡。天孙无赖能专门技巧，一般从来也我祈祷。穉子叫人占蟢网，年老的妻子可怜我哭牛衣。客星如果在群肛平卜，再问金穰和木饥荒。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+眼睛断银河地美好期，彩云香雾转馡馡。天孙无赖能专门技巧，一般从来也我祈祷。穉子叫人占蟢网，年老的妻子可怜我哭牛衣。客星如果在群肛平卜，再问金穰和木饥荒。
+	* 此部分翻译来自AI，仅供参考
