@@ -1,0 +1,41 @@
+---
+id: sun-wo-ji-du-xian-sheng-shi-shu-guo-xin-nan-yu
+title: 寄杜先生诗
+author: 孙偓
+authorSlug: sun-wo
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: ji4 du4 xian1 sheng1 shi1
+authorPinyin: sun1 wo4
+dynastyPinyin: tang2
+canonicalPoemId: 536658
+canonicalAuthorId: 5343
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 蜀国信难遇，楚乡心更愁。
+
+- 我行同范蠡，师举效浮丘。
+
+- 他日相逢处，多应在十洲。
+
+## 拼音
+
+- shu3 guo2 xin4 nan2 yu4 ， chu3 xiang1 xin1 geng4 chou2 。
+
+- wo3 xing2 tong2 fan4 li2 ， shi1 ju3 xiao4 fu2 qiu1 。
+
+- ta1 ri4 xiang1 feng2 chu4 ， duo1 ying4 zai4 shi2 zhou1 。
+
+## 译文
+
+四川国信难得，楚乡心更愁。我行同范蠡，老师推荐效果浮丘。他日相逢处，多响应在十个洲。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+四川国信难得，楚乡心更愁。我行同范蠡，老师推荐效果浮丘。他日相逢处，多响应在十个洲。
+	* 此部分翻译来自AI，仅供参考

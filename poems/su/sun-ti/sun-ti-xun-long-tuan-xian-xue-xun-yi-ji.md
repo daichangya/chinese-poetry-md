@@ -1,0 +1,45 @@
+---
+id: sun-ti-xun-long-tuan-xian-xue-xun-yi-ji
+title: 寻龙湍
+author: 孙逖
+authorSlug: sun-ti
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: xun2 long2 tuan1
+authorPinyin: sun1 ti4
+dynastyPinyin: tang2
+canonicalPoemId: 437992
+canonicalAuthorId: 1950
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 仙穴寻遗迹，轻舟爱水乡。
+
+- 溪流一曲尽，山路九峰长。
+
+- 渔父歌金洞，江妃舞翠房。
+
+- 遥怜葛仙宅，真气共微茫。
+
+## 拼音
+
+- xian1 xue2 xun2 yi2 ji4 ， qing1 zhou1 ai4 shui3 xiang1 。
+
+- xi1 liu2 yi4 qu3 jin4 ， shan1 lu4 jiu3 feng1 chang2 。
+
+- yu2 fu4 ge1 jin1 dong4 ， jiang1 fei1 wu3 cui4 fang2 。
+
+- yao2 lian2 ge3 xian1 zhai2 ， zhen1 qi4 gong4 wei1 mang2 。
+
+## 译文
+
+仙人洞寻找遗迹，小船爱水乡。溪流一曲尽，山路九峰长。渔父歌金洞，江妃舞翠房。遥怜葛仙宅，真气都模糊。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+仙人洞寻找遗迹，小船爱水乡。溪流一曲尽，山路九峰长。渔父歌金洞，江妃舞翠房。遥怜葛仙宅，真气都模糊。
+	* 此部分翻译来自AI，仅供参考
