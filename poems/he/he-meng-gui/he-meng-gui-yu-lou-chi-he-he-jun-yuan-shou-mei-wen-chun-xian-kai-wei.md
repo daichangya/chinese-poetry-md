@@ -1,0 +1,69 @@
+---
+id: he-meng-gui-yu-lou-chi-he-he-jun-yuan-shou-mei-wen-chun-xian-kai-wei
+title: 玉漏迟（和何君元寿梅）
+author: 何梦桂
+authorSlug: he-meng-gui
+dynasty: 宋
+dynastySlug: song
+titlePinyin: yu4 lou4 chi2 （ he2 he2 jun1 yuan2 shou4 mei2 ）
+authorPinyin: he2 meng4 gui4
+dynastyPinyin: song4
+canonicalPoemId: 526470
+canonicalAuthorId: 4807
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 问春先开未，江南野水，得春初小。
+
+- 独殿群芳，却道花前开早。
+
+- 长苦冰霜压尽，更说甚、风标清窈。
+
+- 些子好。
+
+- 孤香冷艳，有谁知道。
+
+- 年年吹落还开，听画角楼头，送他昏晓。
+
+- 何处玉堂，满地苍苔不扫。
+
+- 谁是肝肠铁石，与共说、岁寒怀抱。
+
+- 花未老。
+
+- 无奈酒阑情好。
+
+## 拼音
+
+- wen4 chun1 xian1 kai1 wei4 ， jiang1 nan2 ye3 shui3 ， de2 chun1 chu1 xiao3 。
+
+- du2 dian4 qun2 fang1 ， que4 dao4 hua1 qian2 kai1 zao3 。
+
+- chang2 ku3 bing1 shuang1 ya1 jin4 ， geng4 shuo1 shen4 、 feng1 biao1 qing1 yao3 。
+
+- xie1 zi3 hao3 。
+
+- gu1 xiang1 leng3 yan4 ， you3 shui2 zhi1 dao4 。
+
+- nian2 nian2 chui1 luo4 hai2 kai1 ， ting1 hua4 jiao3 lou2 tou2 ， song4 ta1 hun1 xiao3 。
+
+- he2 chu4 yu4 tang2 ， man3 di4 cang1 tai2 bu4 sao3 。
+
+- shui2 shi4 gan1 chang2 tie3 shi2 ， yu3 gong4 shuo1 、 sui4 han2 huai2 bao4 。
+
+- hua1 wei4 lao3 。
+
+- wu2 nai4 jiu3 lan2 qing2 hao3 。
+
+## 译文
+
+问春先开了没有，江南野外水，到春初小。独殿群芳，她说花前开早。长苦冰霜压尽，还说什么、风标清她的。一丁点好。孤冷艳香，有谁知道道。年年吹落回开，听画角楼上，送他昏晓。哪里玉堂，满地青苔不扫。谁是肝肠铁石，与共同说、寒冬怀抱。花不老。无奈酒阑心情好。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+问春先开了没有，江南野外水，到春初小。独殿群芳，她说花前开早。长苦冰霜压尽，还说什么、风标清她的。一丁点好。孤冷艳香，有谁知道道。年年吹落回开，听画角楼上，送他昏晓。哪里玉堂，满地青苔不扫。谁是肝肠铁石，与共同说、寒冬怀抱。花不老。无奈酒阑心情好。
+	* 此部分翻译来自AI，仅供参考

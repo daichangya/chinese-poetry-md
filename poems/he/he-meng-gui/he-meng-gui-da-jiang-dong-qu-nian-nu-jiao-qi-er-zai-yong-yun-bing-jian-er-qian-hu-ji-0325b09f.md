@@ -1,0 +1,39 @@
+---
+id: he-meng-gui-da-jiang-dong-qu-nian-nu-jiao-qi-er-zai-yong-yun-bing-jian-er-qian-hu-ji-0325b09f
+title: 大江东去/念奴娇 其二 再用韵并简二千户
+author: 何梦桂
+authorSlug: he-meng-gui
+dynasty: 宋
+dynastySlug: song
+titlePinyin: da4 jiang1 dong1 qu4 / nian4 nu2 jiao1   qi2 er4   zai4 yong4 yun4 bing4 jian3 er4 qian1 hu4
+authorPinyin: he2 meng4 gui4
+dynastyPinyin: song4
+canonicalPoemId: 417848
+canonicalAuthorId: 4807
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 金紫山前山万重。
+
+- 山高云密下苍龙。
+
+- 春来好雨遍三峰。
+
+- 芳草郊原眠茧犊，垂杨营垒系花骢。
+
+- 趣归行有紫泥封。
+
+## 拼音
+
+- jin1 zi3 shan1 qian2 shan1 wan4 chong2 。
+
+- shan1 gao1 yun2 mi4 xia4 cang1 long2 。
+
+- chun1 lai2 hao3 yu3 bian4 san1 feng1 。
+
+- fang1 cao3 jiao1 yuan2 mian2 jian3 du2 ， chui2 yang2 ying2 lei3 xi4 hua1 cong1 。
+
+- qu4 gui1 xing2 you3 zi3 ni2 feng1 。

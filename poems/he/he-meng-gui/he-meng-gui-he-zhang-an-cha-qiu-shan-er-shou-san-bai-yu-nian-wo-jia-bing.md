@@ -1,0 +1,45 @@
+---
+id: he-meng-gui-he-zhang-an-cha-qiu-shan-er-shou-san-bai-yu-nian-wo-jia-bing
+title: 和张按察秋山二首·赋杭州
+author: 何梦桂
+authorSlug: he-meng-gui
+dynasty: 宋
+dynastySlug: song
+titlePinyin: he2 zhang1 an4 cha2 qiu1 shan1 er4 shou3 · fu4 hang2 zhou1
+authorPinyin: he2 meng4 gui4
+dynastyPinyin: song4
+canonicalPoemId: 417879
+canonicalAuthorId: 4807
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 三百余年卧甲兵，天低雨露此生成。
+
+- 万家都会楼台矗，千顷平湖舸舰轻。
+
+- 环佩玉堂人楚楚，靓妆珠箔女盈盈。
+
+- 回头万事俱尘土，惟有湖痕岁岁平。
+
+## 拼音
+
+- san1 bai3 yu2 nian2 wo4 jia3 bing1 ， tian1 di1 yu3 lu4 ci3 sheng1 cheng2 。
+
+- wan4 jia1 dou1 hui4 lou2 tai2 chu4 ， qian1 qing3 ping2 hu2 ge3 jian4 qing1 。
+
+- huan2 pei4 yu4 tang2 ren2 chu3 chu3 ， liang4 zhuang1 zhu1 bo2 nü3 ying2 ying2 。
+
+- hui2 tou2 wan4 shi4 ju4 chen2 tu3 ， wei2 you3 hu2 hen2 sui4 sui4 ping2 。
+
+## 译文
+
+三百多年睡在武器，天低雨露此生成就。万户城市楼台矗，千顷平湖舰队轻。环佩亿万人痛苦，妆饰珠箔女儿盈盈。回头万事都尘土，只有湖痕年年平。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+三百多年睡在武器，天低雨露此生成就。万户城市楼台矗，千顷平湖舰队轻。环佩亿万人痛苦，妆饰珠箔女儿盈盈。回头万事都尘土，只有湖痕年年平。
+	* 此部分翻译来自AI，仅供参考
