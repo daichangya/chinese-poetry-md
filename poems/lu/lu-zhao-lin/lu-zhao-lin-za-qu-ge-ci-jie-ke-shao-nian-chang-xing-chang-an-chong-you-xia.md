@@ -1,0 +1,73 @@
+---
+id: lu-zhao-lin-za-qu-ge-ci-jie-ke-shao-nian-chang-xing-chang-an-chong-you-xia
+title: 杂曲歌辞。结客少年场行
+author: 卢照邻
+authorSlug: lu-zhao-lin
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: za2 qu3 ge1 ci2 。 jie2 ke4 shao4 nian2 chang3 xing2
+authorPinyin: lu2 zhao4 lin2
+dynastyPinyin: tang2
+canonicalPoemId: 408387
+canonicalAuthorId: 142
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 长安重游侠，洛阳富才雄。
+
+- 玉剑浮云骑，金鞍明月弓。
+
+- 斗鸡过渭北，走马向关东。
+
+- 孙宾遥见待，郭解暗相通。
+
+- 不受千金爵，谁论万里功。
+
+- 将军下天上，虏骑入云中。
+
+- 烽火夜似月，兵气晓成虹。
+
+- 横行徇知己，负羽远从戎。
+
+- 龙旌昏朔雾，鸟阵卷寒风。
+
+- 追奔瀚海咽，战罢阴山空。
+
+- 归来谢天子，何如马上翁。
+
+## 拼音
+
+- chang2 an1 chong2 you2 xia2 ， luo4 yang2 fu4 cai2 xiong2 。
+
+- yu4 jian4 fu2 yun2 qi2 ， jin1 an1 ming2 yue4 gong1 。
+
+- dou4 ji1 guo4 wei4 bei3 ， zou3 ma3 xiang4 guan1 dong1 。
+
+- sun1 bin1 yao2 jian4 dai4 ， guo1 jie3 an4 xiang1 tong1 。
+
+- bu2 shou4 qian1 jin1 jue2 ， shui2 lun4 wan4 li3 gong1 。
+
+- jiang1 jun1 xia4 tian1 shang4 ， lu3 qi2 ru4 yun2 zhong1 。
+
+- feng1 huo3 ye4 si4 yue4 ， bing1 qi4 xiao3 cheng2 hong2 。
+
+- heng2 xing2 xun4 zhi1 ji3 ， fu4 yu3 yuan3 cong2 rong2 。
+
+- long2 jing1 hun1 shuo4 wu4 ， niao3 zhen4 juan4 han2 feng1 。
+
+- zhui1 ben1 han4 hai3 yan4 ， zhan4 ba4 yin1 shan1 kong1 。
+
+- gui1 lai2 xie4 tian1 zi3 ， he2 ru2 ma3 shang4 weng1 。
+
+## 译文
+
+长安重游侠，洛阳富雄才。玉剑浮云骑，金鞍明月弓。斗鸡过渭北，骑马向关东。孙宾远远看见等待，郭解暗中相通。不接受千金爵，谁评论里功。将军下天上，敌人的骑兵入侵云中。烽火夜似月，兵气理解成彩虹。横行为知己，背羽速从军。龙旗昏朔雾，鸟阵卷寒风。追赶瀚海咽，战斗结束后阴山空。回来向天子，怎样马上老头。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+长安重游侠，洛阳富雄才。玉剑浮云骑，金鞍明月弓。斗鸡过渭北，骑马向关东。孙宾远远看见等待，郭解暗中相通。不接受千金爵，谁评论里功。将军下天上，敌人的骑兵入侵云中。烽火夜似月，兵气理解成彩虹。横行为知己，背羽速从军。龙旗昏朔雾，鸟阵卷寒风。追赶瀚海咽，战斗结束后阴山空。回来向天子，怎样马上老头。
+	* 此部分翻译来自AI，仅供参考

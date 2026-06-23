@@ -1,0 +1,45 @@
+---
+id: lu-zhao-lin-heng-chui-qu-ci-guan-shan-yue-sai-yuan-tong-jie-shi
+title: 横吹曲辞。关山月
+author: 卢照邻
+authorSlug: lu-zhao-lin
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: heng2 chui1 qu3 ci2 。 guan1 shan1 yue4
+authorPinyin: lu2 zhao4 lin2
+dynastyPinyin: tang2
+canonicalPoemId: 533720
+canonicalAuthorId: 142
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 塞垣通碣石，虏障抵祁连。
+
+- 相思在万里，明月正孤悬。
+
+- 影移金岫北，光断玉门前。
+
+- 寄书谢中妇，时看鸿雁天。
+
+## 拼音
+
+- sai1 yuan2 tong1 jie2 shi2 ， lu3 zhang4 di3 qi2 lian2 。
+
+- xiang1 si1 zai4 wan4 li3 ， ming2 yue4 zheng4 gu1 xuan2 。
+
+- ying3 yi2 jin1 xiu4 bei3 ， guang1 duan4 yu4 men2 qian2 。
+
+- ji4 shu1 xie4 zhong1 fu4 ， shi2 kan4 hong2 yan4 tian1 。
+
+## 译文
+
+塞垣通碣石，虏障到达祁连。相思在万里之外，明月正孤悬。影移金帕北，光断玉门前。寄了一封信感谢中妇女，当时看鸿雁天。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+塞垣通碣石，虏障到达祁连。相思在万里之外，明月正孤悬。影移金帕北，光断玉门前。寄了一封信感谢中妇女，当时看鸿雁天。
+	* 此部分翻译来自AI，仅供参考

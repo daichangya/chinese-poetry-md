@@ -1,0 +1,51 @@
+---
+id: luo-qing-shui-diao-ge-tou-you-wu-yi-yu-qing-shan-po-cui
+title: 水调歌头 游武夷
+author: 罗庆
+authorSlug: luo-qing
+dynasty: 元
+dynastySlug: yuan
+titlePinyin: shui3 diao4 ge1 tou2   you2 wu3 yi2
+authorPinyin: luo2 qing4
+dynastyPinyin: yuan2
+canonicalPoemId: 335705
+canonicalAuthorId: 13136
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 雨晴山泼翠，溪净水拖蓝。
+
+- 闲来共陪杖屦，邂逅已成三。
+
+- 齿齿清泉白石，步步碧桃翠竹，是处辄幽探。
+
+- 行到钓台下，怪树荫空潭。
+
+- 踏芳洲，寻别馆，履巉岩。
+
+- 壶天日月长在，云气满东南。
+
+- 沽得一尊浊酒，唤取山花溪鸟，听我醉中谈。
+
+- 异日再过此，端为解征骖。
+
+## 拼音
+
+- yu3 qing2 shan1 po1 cui4 ， xi1 jing4 shui3 tuo1 lan2 。
+
+- xian2 lai2 gong4 pei2 zhang4 ju4 ， xie4 hou4 yi3 cheng2 san1 。
+
+- chi3 chi3 qing1 quan2 bai2 shi2 ， bu4 bu4 bi4 tao2 cui4 zhu2 ， shi4 chu4 zhe2 you1 tan4 。
+
+- xing2 dao4 diao4 tai2 xia4 ， guai4 shu4 yin1 kong1 tan2 。
+
+- ta4 fang1 zhou1 ， xun2 bie2 guan3 ， lü3 chan2 yan2 。
+
+- hu2 tian1 ri4 yue4 chang2 zai4 ， yun2 qi4 man3 dong1 nan2 。
+
+- gu1 de2 yi4 zun1 zhuo2 jiu3 ， huan4 qu3 shan1 hua1 xi1 niao3 ， ting1 wo3 zui4 zhong1 tan2 。
+
+- yi4 ri4 zai4 guo4 ci3 ， duan1 wei4 jie3 zheng1 can1 。

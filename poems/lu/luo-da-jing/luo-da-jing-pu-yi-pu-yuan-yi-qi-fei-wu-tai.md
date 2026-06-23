@@ -1,0 +1,37 @@
+---
+id: luo-da-jing-pu-yi-pu-yuan-yi-qi-fei-wu-tai
+title: 濮议
+author: 罗大经
+authorSlug: luo-da-jing
+dynasty: 宋
+dynastySlug: song
+titlePinyin: pu2 yi4
+authorPinyin: luo2 da4 jing1
+dynastyPinyin: song4
+canonicalPoemId: 645168
+canonicalAuthorId: 10011
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 濮园议起沸乌台，传语欧公莫怨猜。
+
+- 须记上坡持橐日，也曾寻探好题来。
+
+## 拼音
+
+- pu2 yuan2 yi4 qi3 fei4 wu1 tai2 ， chuan2 yu3 ou1 gong1 mo4 yuan4 cai1 。
+
+- xu1 ji4 shang4 po1 chi2 tuo2 ri4 ， ye3 ceng2 xun2 tan4 hao3 ti2 lai2 。
+
+## 译文
+
+濮园议起沸乌台，传语欧阳修没有怨恨猜疑。须记上坡拿着袋子日，也曾找好题目来探究。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+濮园议起沸乌台，传语欧阳修没有怨恨猜疑。须记上坡拿着袋子日，也曾找好题目来探究。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,45 @@
+---
+id: luo-zhi-ji-zi-guo-yuan-juan-feng-pan-shi-shou-mo-suo
+title: 资国院
+author: 罗之纪
+authorSlug: luo-zhi-ji
+dynasty: 宋
+dynastySlug: song
+titlePinyin: zi1 guo2 yuan4
+authorPinyin: luo2 zhi1 ji4
+dynastyPinyin: song4
+canonicalPoemId: 645265
+canonicalAuthorId: 10053
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 倦逢磐石手摩挲，横压乌藤漫啸歌。
+
+- 烟崦坡陀青玉案，寺山缥缈白云窝。
+
+- 纸窗竹屋小盘礴，林影溪光相荡磨。
+
+- 试共老僧参此意，一声唤醒读书魔。
+
+## 拼音
+
+- juan4 feng2 pan2 shi2 shou3 mo2 suo1 ， heng2 ya1 wu1 teng2 man4 xiao4 ge1 。
+
+- yan1 yan1 po1 tuo2 qing1 yu4 an4 ， si4 shan1 piao1 miao3 bai2 yun2 wo1 。
+
+- zhi3 chuang1 zhu2 wu1 xiao3 pan2 bo2 ， lin2 ying3 xi1 guang1 xiang1 dang4 mo2 。
+
+- shi4 gong4 lao3 seng1 can1 ci3 yi4 ， yi4 sheng1 huan4 xing3 du2 shu1 mo2 。
+
+## 译文
+
+疲倦逢磐石手抚摸，横压乌藤漫啸歌。烟崦山坡青玉案，寺山缥缈白云窝。纸窗竹屋小气势磅礴，林影溪光相荡磨。考试共我参与这个意思，一声唤醒了读书魔。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+疲倦逢磐石手抚摸，横压乌藤漫啸歌。烟崦山坡青玉案，寺山缥缈白云窝。纸窗竹屋小气势磅礴，林影溪光相荡磨。考试共我参与这个意思，一声唤醒了读书魔。
+	* 此部分翻译来自AI，仅供参考

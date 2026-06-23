@@ -1,0 +1,53 @@
+---
+id: lu-zhao-lin-zhong-he-le-jiu-zhang-ge-gong-qing-di-ba-jian-jian-san-shi
+title: 中和乐九章。歌公卿第八
+author: 卢照邻
+authorSlug: lu-zhao-lin
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: zhong1 he2 le4 jiu3 zhang1 。 ge1 gong1 qing1 di4 ba1
+authorPinyin: lu2 zhao4 lin2
+dynastyPinyin: tang2
+canonicalPoemId: 408384
+canonicalAuthorId: 142
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 蹇蹇三事，师师百僚。
+
+- 群龙在职，振鹭盈朝。
+
+- 丰金辉首，珮玉鸣腰。
+
+- 青蒲翼翼，丹地翘翘。
+
+- 歌云佐汉，捧日匡尧。
+
+- 天工人代，邈邈昭昭。
+
+## 拼音
+
+- jian3 jian3 san1 shi4 ， shi1 shi1 bai3 liao2 。
+
+- qun2 long2 zai4 zhi2 ， zhen4 lu4 ying2 chao2 。
+
+- feng1 jin1 hui1 shou3 ， pei4 yu4 ming2 yao1 。
+
+- qing1 pu2 yi4 yi4 ， dan1 di4 qiao4 qiao4 。
+
+- ge1 yun2 zuo3 han4 ， peng3 ri4 kuang1 yao2 。
+
+- tian1 gong1 ren2 dai4 ， miao3 miao3 zhao1 zhao1 。
+
+## 译文
+
+蹇蹇三件事，师师百官。群龙在职，振鹭满朝。丰金辉首，可佩玉鸣腰。青蒲小心翼翼，丹地翘尾巴。歌说佐汉，捧日匡尧。天工人代，飘渺明显。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+蹇蹇三件事，师师百官。群龙在职，振鹭满朝。丰金辉首，可佩玉鸣腰。青蒲小心翼翼，丹地翘尾巴。歌说佐汉，捧日匡尧。天工人代，飘渺明显。
+	* 此部分翻译来自AI，仅供参考

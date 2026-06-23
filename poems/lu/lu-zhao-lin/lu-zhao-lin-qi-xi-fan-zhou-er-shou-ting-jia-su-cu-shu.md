@@ -1,0 +1,62 @@
+---
+id: lu-zhao-lin-qi-xi-fan-zhou-er-shou-ting-jia-su-cu-shu
+title: 七夕泛舟二首
+author: 卢照邻
+authorSlug: lu-zhao-lin
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: qi1 xi1 fan4 zhou1 er4 shou3
+authorPinyin: lu2 zhao4 lin2
+dynastyPinyin: tang2
+canonicalPoemId: 407902
+canonicalAuthorId: 142
+tags:
+  - 诗词
+  - 御定全唐诗
+---
+
+## 正文
+
+- 汀葭肃徂暑，江树起初凉。
+
+- 水疑通织室，舟似泛仙潢。
+
+- 连桡渡急响，鸣棹下浮光。
+
+- 日晚菱歌唱，风烟满夕阳。
+
+- 凤杼秋期至，凫舟野望开。
+
+- 微吟翠塘侧，延想白云隈。
+
+- 石似支机罢，槎疑犯宿来。
+
+- 天潢殊漫漫，日暮独悠哉。
+
+## 拼音
+
+- ting1 jia1 su4 cu2 shu3 ， jiang1 shu4 qi3 chu1 liang2 。
+
+- shui3 yi2 tong1 zhi1 shi4 ， zhou1 si4 fan4 xian1 huang2 。
+
+- lian2 rao2 du4 ji2 xiang3 ， ming2 zhao4 xia4 fu2 guang1 。
+
+- ri4 wan3 ling2 ge1 chang4 ， feng1 yan1 man3 xi1 yang2 。
+
+- feng4 zhu4 qiu1 qi1 zhi4 ， fu2 zhou1 ye3 wang4 kai1 。
+
+- wei1 yin2 cui4 tang2 ce4 ， yan2 xiang3 bai2 yun2 wei1 。
+
+- shi2 si4 zhi1 ji1 ba4 ， cha2 yi2 fan4 su4 lai2 。
+
+- tian1 huang2 shu1 man4 man4 ， ri4 mu4 du2 you1 zai1 。
+
+## 译文
+
+汀葭肃徂暑，江树开始凉。水疑通织室，船似乎在神仙池。连续弯曲过紧急响应，在桌下浮动的月光。天晚菱唱歌，风烟满夕阳。凤杼秋期至，鸭子船野希望开。微吟翠塘旁边，请想象白云边。石头像支机停止，木筏怀疑犯住宿来。天潢特殊漫漫，每天傍晚独自悠久。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+汀葭肃徂暑，江树开始凉。水疑通织室，船似乎在神仙池。连续弯曲过紧急响应，在桌下浮动的月光。天晚菱唱歌，风烟满夕阳。凤杼秋期至，鸭子船野希望开。微吟翠塘旁边，请想象白云边。石头像支机停止，木筏怀疑犯住宿来。天潢特殊漫漫，每天傍晚独自悠久。
+	* 此部分翻译来自AI，仅供参考
