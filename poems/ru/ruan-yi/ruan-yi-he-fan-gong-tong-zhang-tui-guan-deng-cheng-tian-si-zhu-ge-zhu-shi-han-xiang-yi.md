@@ -1,0 +1,45 @@
+---
+id: ruan-yi-he-fan-gong-tong-zhang-tui-guan-deng-cheng-tian-si-zhu-ge-zhu-shi-han-xiang-yi
+title: 和范公同章推官登承天寺竹阁
+author: 阮逸
+authorSlug: ruan-yi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: he2 fan4 gong1 tong2 zhang1 tui1 guan1 deng1 cheng2 tian1 si4 zhu2 ge2
+authorPinyin: ruan3 yi4
+dynastyPinyin: song4
+canonicalPoemId: 502142
+canonicalAuthorId: 10443
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 竹石寒相倚，云窗晓共开。
+
+- 闲身方外去，幽意静中来。
+
+- 坠响风随箨，移阴日上苔。
+
+- 迟留秋更夜，待月露盈杯。
+
+## 拼音
+
+- zhu2 shi2 han2 xiang1 yi3 ， yun2 chuang1 xiao3 gong4 kai1 。
+
+- xian2 shen1 fang1 wai4 qu4 ， you1 yi4 jing4 zhong1 lai2 。
+
+- zhui4 xiang3 feng1 sui2 tuo4 ， yi2 yin1 ri4 shang4 tai2 。
+
+- chi2 liu2 qiu1 geng4 ye4 ， dai4 yue4 lu4 ying2 bei1 。
+
+## 译文
+
+竹石寒相倚，云窗晓一起开。闲游方外去，幽意静中来。跌落响风随壳，将阴太阳上青苔。滞留秋更夜，待月露一杯。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+竹石寒相倚，云窗晓一起开。闲游方外去，幽意静中来。跌落响风随壳，将阴太阳上青苔。滞留秋更夜，待月露一杯。
+	* 此部分翻译来自AI，仅供参考
