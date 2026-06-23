@@ -1,0 +1,35 @@
+---
+id: guo-xiang-zheng-wang-niu-zhu-you-gan-san-shou-qi-san-jiang-jiong-pian-liu-yue
+title: 望牛渚有感三首 其三
+author: 郭祥正
+authorSlug: guo-xiang-zheng
+dynasty: 宋
+dynastySlug: song
+titlePinyin: wang4 niu2 zhu3 you3 gan3 san1 shou3   qi2 san1
+authorPinyin: guo1 xiang2 zheng4
+dynastyPinyin: song4
+canonicalPoemId: 502242
+canonicalAuthorId: 11792
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 江迥偏留月，山空不住云。
+
+- 遥怜李太白，曾忆谢将军。
+
+- 帆影随潮上，樵声隔岸闻。
+
+- 柳花迷客眼，三月雪纷纷。
+
+## 拼音
+
+- jiang1 jiong3 pian1 liu2 yue4 ， shan1 kong1 bu2 zhu4 yun2 。
+
+- yao2 lian2 li3 tai4 bai2 ， ceng2 yi4 xie4 jiang1 jun1 。
+
+- fan1 ying3 sui2 chao2 shang4 ， qiao2 sheng1 ge2 an4 wen2 。
+
+- liu3 hua1 mi2 ke4 yan3 ， san1 yue4 xue3 fen1 fen1 。

@@ -1,0 +1,45 @@
+---
+id: guo-yin-la-xue-hao-xue-hai-cong-la-ri-fei
+title: 腊雪
+author: 郭印
+authorSlug: guo-yin
+dynasty: 宋
+dynastySlug: song
+titlePinyin: la4 xue3
+authorPinyin: guo1 yin4
+dynastyPinyin: song4
+canonicalPoemId: 606583
+canonicalAuthorId: 6054
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 好雪还从腊日飞，空庭委积路淋漓。
+
+- 寒深闭户难延客，兴发乘舟欲访谁。
+
+- 没谷沉崖真快意，撒盐飞絮敢言诗。
+
+- 儿童诧见千山缟，来岁丰登定可期。
+
+## 拼音
+
+- hao3 xue3 hai2 cong2 la4 ri4 fei1 ， kong1 ting2 wei3 ji1 lu4 lin2 li2 。
+
+- han2 shen1 bi4 hu4 nan2 yan2 ke4 ， xing1 fa1 cheng2 zhou1 yu4 fang3 shui2 。
+
+- mei2 gu3 chen2 ya2 zhen1 kuai4 yi4 ， sa1 yan2 fei1 xu4 gan3 yan2 shi1 。
+
+- er2 tong2 cha4 jian4 qian1 shan1 gao3 ， lai2 sui4 feng1 deng1 ding4 ke3 qi1 。
+
+## 译文
+
+喜欢雪还从腊月天飞，空庭堆积路淋漓。寒深闭户不请客，征发乘船要采访谁。淹没山谷沉崖真痛快，撒盐飞絮敢说诗。儿童惊讶看到千山白色，来年丰收定可期。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+喜欢雪还从腊月天飞，空庭堆积路淋漓。寒深闭户不请客，征发乘船要采访谁。淹没山谷沉崖真痛快，撒盐飞絮敢说诗。儿童惊讶看到千山白色，来年丰收定可期。
+	* 此部分翻译来自AI，仅供参考

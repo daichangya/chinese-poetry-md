@@ -1,0 +1,49 @@
+---
+id: guo-yin-fan-zhou-zhi-lin-jiang-yuan-qing-jiang-jie-gao-shi
+title: 泛舟至临江院
+author: 郭印
+authorSlug: guo-yin
+dynasty: 宋
+dynastySlug: song
+titlePinyin: fan4 zhou1 zhi4 lin2 jiang1 yuan4
+authorPinyin: guo1 yin4
+dynastyPinyin: song4
+canonicalPoemId: 606377
+canonicalAuthorId: 6054
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 清江借篙师，津流不须问。
+
+- 行行镜中天，水鸟嗔人近。
+
+- 绝岸得危亭，一目千里尽。
+
+- 山川草木妍，造物无少吝。
+
+- 谁知天壤间，眇然一方寸。
+
+## 拼音
+
+- qing1 jiang1 jie4 gao1 shi1 ， jin1 liu2 bu4 xu1 wen4 。
+
+- xing2 xing2 jing4 zhong1 tian1 ， shui3 niao3 chen1 ren2 jin4 。
+
+- jue2 an4 de2 wei1 ting2 ， yi2 mu4 qian1 li3 jin4 。
+
+- shan1 chuan1 cao3 mu4 yan2 ， zao4 wu4 wu2 shao3 lin4 。
+
+- shui2 zhi1 tian1 rang3 jian1 ， miao3 ran2 yi4 fang1 cun4 。
+
+## 译文
+
+清江借篙师，水流不须问。走镜子中天，水鸟生人接近。悬崖找到危亭，一目千里尽。山川草木美，大自然没有少吝啬。谁知天地间，渺小但一方寸。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+清江借篙师，水流不须问。走镜子中天，水鸟生人接近。悬崖找到危亭，一目千里尽。山川草木美，大自然没有少吝啬。谁知天地间，渺小但一方寸。
+	* 此部分翻译来自AI，仅供参考

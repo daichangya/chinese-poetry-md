@@ -1,0 +1,45 @@
+---
+id: guo-yin-song-zheng-ji-wan-ci-er-shou-zhen-yu-ceng-can-shang-guo-hong
+title: 宋正纪挽词二首
+author: 郭印
+authorSlug: guo-yin
+dynasty: 宋
+dynastySlug: song
+titlePinyin: song4 zheng4 ji4 wan3 ci2 er4 shou3
+authorPinyin: guo1 yin4
+dynastyPinyin: song4
+canonicalPoemId: 605902
+canonicalAuthorId: 6054
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 振羽曾参上国鸿，偶飞不到广寒宫。
+
+- 诗书教子心尤切，孝友承家德自丰。
+
+- 一命未酬耽学志，半途何负摄生功。
+
+- 新阡郁郁今埋骨，想见哀吟万国风。
+
+## 拼音
+
+- zhen4 yu3 ceng2 can1 shang4 guo2 hong2 ， ou3 fei1 bu2 dao4 guang3 han2 gong1 。
+
+- shi1 shu1 jiao4 zi3 xin1 you2 qie4 ， xiao4 you3 cheng2 jia1 de2 zi4 feng1 。
+
+- yi2 ming4 wei4 chou2 dan1 xue2 zhi4 ， ban4 tu2 he2 fu4 she4 sheng1 gong1 。
+
+- xin1 qian1 yu4 yu4 jin1 mai2 gu3 ， xiang3 jian4 ai1 yin2 wan4 guo2 feng1 。
+
+## 译文
+
+振羽曾参与上国鸿，偶尔飞不到广寒宫。《诗》、《书》教你心尤为迫切，孝友继承家德从丰。一命未酬专心学习目的，半路怎么背养生功。新阡郁闷现在埋骨，想象哀吟天下风。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+振羽曾参与上国鸿，偶尔飞不到广寒宫。《诗》、《书》教你心尤为迫切，孝友继承家德从丰。一命未酬专心学习目的，半路怎么背养生功。新阡郁闷现在埋骨，想象哀吟天下风。
+	* 此部分翻译来自AI，仅供参考
