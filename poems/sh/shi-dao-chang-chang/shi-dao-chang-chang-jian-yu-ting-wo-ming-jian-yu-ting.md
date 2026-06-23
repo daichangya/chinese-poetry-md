@@ -1,0 +1,69 @@
+---
+id: shi-dao-chang-chang-jian-yu-ting-wo-ming-jian-yu-ting
+title: 溅玉亭
+author: 释道常
+authorSlug: shi-dao-chang-chang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: jian4 yu4 ting2
+authorPinyin: shi4 dao4 chang2
+dynastyPinyin: song4
+canonicalPoemId: 647475
+canonicalAuthorId: 10666
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 我名溅玉亭，五字仍一扫。
+
+- 苍崖立积铁，悬瀑翻轻缟。
+
+- 霏霏冰奁倾，粲粲玉匣倒。
+
+- 殷勤点翠竹，散漫沾芳草。
+
+- 喧轰雷霆怒，澒洞金石考。
+
+- 直疑青山严，顿失赵盾杲。
+
+- 飞帘吹不断，接景照逾皓。
+
+- 初非智巧成，端自神物造。
+
+- 凭栏熟自听，归来想怀抱。
+
+- 拂除朱丝弦，写之流水操。
+
+## 拼音
+
+- wo3 ming2 jian4 yu4 ting2 ， wu3 zi4 reng2 yi4 sao3 。
+
+- cang1 ya2 li4 ji1 tie3 ， xuan2 pu4 fan1 qing1 gao3 。
+
+- fei1 fei1 bing1 lian2 qing1 ， can4 can4 yu4 xia2 dao3 。
+
+- yin1 qin2 dian3 cui4 zhu2 ， san3 man4 zhan1 fang1 cao3 。
+
+- xuan1 hong1 lei2 ting2 nu4 ， hong4 dong4 jin1 shi2 kao3 。
+
+- zhi2 yi2 qing1 shan1 yan2 ， dun4 shi1 zhao4 dun4 gao3 。
+
+- fei1 lian2 chui1 bu2 duan4 ， jie1 jing3 zhao4 yu2 hao4 。
+
+- chu1 fei1 zhi4 qiao3 cheng2 ， duan1 zi4 shen2 wu4 zao4 。
+
+- ping2 lan2 shu2 zi4 ting1 ， gui1 lai2 xiang3 huai2 bao4 。
+
+- fu2 chu2 zhu1 si1 xian2 ， xie3 zhi1 liu2 shui3 cao1 。
+
+## 译文
+
+我叫溅玉亭，五字仍然一扫。苍崖立积铁，高悬的瀑布翻轻丧服。霏霏冰盒倾，粲笑玉匣倒。关注点翠绿的竹子，零散沾芳草。喧嚣轰鸣雷霆大怒，晃晃洞金石考证。直疑心青山严，顿时失去了赵盾呆。飞帘吹不断，接照过皓景。当初不是智慧巧成，端从神物制造。凭栏仔细听从自己，回来想怀抱。拂除红色丝弦，写的流水操。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+我叫溅玉亭，五字仍然一扫。苍崖立积铁，高悬的瀑布翻轻丧服。霏霏冰盒倾，粲笑玉匣倒。关注点翠绿的竹子，零散沾芳草。喧嚣轰鸣雷霆大怒，晃晃洞金石考证。直疑心青山严，顿时失去了赵盾呆。飞帘吹不断，接照过皓景。当初不是智慧巧成，端从神物制造。凭栏仔细听从自己，回来想怀抱。拂除红色丝弦，写的流水操。
+	* 此部分翻译来自AI，仅供参考

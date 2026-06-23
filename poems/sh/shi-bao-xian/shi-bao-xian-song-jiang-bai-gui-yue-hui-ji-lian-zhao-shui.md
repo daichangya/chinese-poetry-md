@@ -1,0 +1,45 @@
+---
+id: shi-bao-xian-song-jiang-bai-gui-yue-hui-ji-lian-zhao-shui
+title: 送蒋白归越
+author: 释保暹
+authorSlug: shi-bao-xian
+dynasty: 宋
+dynastySlug: song
+titlePinyin: song4 jiang3 bai2 gui1 yue4
+authorPinyin: shi4 bao3 xian1
+dynastyPinyin: song4
+canonicalPoemId: 629257
+canonicalAuthorId: 7311
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 会稽连照水，归意两何亲。
+
+- 山影到平地，湖光生四邻。
+
+- 虚窗寒对晓，孤棹远浮春。
+
+- 未可从耕钓，青云懒致身。
+
+## 拼音
+
+- hui4 ji1 lian2 zhao4 shui3 ， gui1 yi4 liang3 he2 qin1 。
+
+- shan1 ying3 dao4 ping2 di4 ， hu2 guang1 sheng1 si4 lin2 。
+
+- xu1 chuang1 han2 dui4 xiao3 ， gu1 zhao4 yuan3 fu2 chun1 。
+
+- wei4 ke3 cong2 geng1 diao4 ， qing1 yun2 lan3 zhi4 shen1 。
+
+## 译文
+
+会稽郡连照水，归意两个什么关系。山影到平地，湖光生四邻。虚窗寒回答理解，我划着远从春天。不能从种田钓鱼，青云懒致身。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+会稽郡连照水，归意两个什么关系。山影到平地，湖光生四邻。虚窗寒回答理解，我划着远从春天。不能从种田钓鱼，青云懒致身。
+	* 此部分翻译来自AI，仅供参考

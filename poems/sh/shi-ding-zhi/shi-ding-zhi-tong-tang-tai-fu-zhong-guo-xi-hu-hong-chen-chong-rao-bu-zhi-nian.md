@@ -1,0 +1,46 @@
+---
+id: shi-ding-zhi-tong-tang-tai-fu-zhong-guo-xi-hu-hong-chen-chong-rao-bu-zhi-nian
+title: 同唐太傅重过西湖
+author: 史定之
+authorSlug: shi-ding-zhi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: tong2 tang2 tai4 fu4 zhong4 guo4 xi1 hu2
+authorPinyin: shi3 ding4 zhi1
+dynastyPinyin: song4
+canonicalPoemId: 647171
+canonicalAuthorId: 10598
+tags:
+  - 诗词
+  - 西湖
+---
+
+## 正文
+
+- 红尘憧扰不知年，一望西湖思豁然。
+
+- 上下层楼涵倒影，联翩飞鸟没寒烟。
+
+- 未须梅萼催诗兴，好藉岚光作画笺。
+
+- 安得扁舟去招隐，蓬窗相对听鸣泉。
+
+## 拼音
+
+- hong2 chen2 chong1 rao3 bu4 zhi1 nian2 ， yi2 wang4 xi1 hu2 si1 huo1 ran2 。
+
+- shang4 xia4 ceng2 lou2 han2 dao3 ying3 ， lian2 pian1 fei1 niao3 mei2 han2 yan1 。
+
+- wei4 xu1 mei2 e4 cui1 shi1 xing4 ， hao3 jie4 lan2 guang1 zuo4 hua4 jian1 。
+
+- an1 de2 pian1 zhou1 qu4 zhao1 yin3 ， peng2 chuang1 xiang1 dui4 ting1 ming2 quan2 。
+
+## 译文
+
+红尘不侵扰不知道年，一望西湖思考豁然开朗。上下层楼涵倒影，联翩飞翔的鸟没冷烟。不须梅花催促诗兴起，喜欢借助光影作画笺。怎能小船离开招隐，蓬窗相对听鸣泉。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+红尘不侵扰不知道年，一望西湖思考豁然开朗。上下层楼涵倒影，联翩飞翔的鸟没冷烟。不须梅花催促诗兴起，喜欢借助光影作画笺。怎能小船离开招隐，蓬窗相对听鸣泉。
+	* 此部分翻译来自AI，仅供参考

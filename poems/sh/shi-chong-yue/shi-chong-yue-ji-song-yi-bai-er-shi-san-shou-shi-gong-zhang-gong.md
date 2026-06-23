@@ -1,0 +1,37 @@
+---
+id: shi-chong-yue-ji-song-yi-bai-er-shi-san-shou-shi-gong-zhang-gong
+title: 偈颂一百二十三首
+author: 释崇岳
+authorSlug: shi-chong-yue
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ji4 song4 yi4 bai3 er4 shi2 san1 shou3
+authorPinyin: shi4 chong2 yue4
+dynastyPinyin: song4
+canonicalPoemId: 613575
+canonicalAuthorId: 6507
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 石巩张弓，鲁祖面壁。
+
+- 正令不行，拗曲作直。
+
+## 拼音
+
+- shi2 gong3 zhang1 gong1 ， lu3 zu3 mian4 bi4 。
+
+- zheng4 ling4 bu4 xing2 ， ao4 qu3 zuo4 zhi2 。
+
+## 译文
+
+石拱门张弓，鲁祖面壁。正令不能行，拗曲作直。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+石拱门张弓，鲁祖面壁。正令不能行，拗曲作直。
+	* 此部分翻译来自AI，仅供参考
