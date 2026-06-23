@@ -1,0 +1,57 @@
+---
+id: lian-jiu-dao-qing-ping-le-yu-fu-zhen-hong-jing-chu-2
+title: 清平乐（渔父）
+author: 连久道
+authorSlug: lian-jiu-dao
+dynasty: 宋
+dynastySlug: song
+titlePinyin: qing1 ping2 le4 （ yu2 fu4 ）
+authorPinyin: lian2 jiu3 dao4
+dynastyPinyin: song4
+canonicalPoemId: 464128
+canonicalAuthorId: 12112
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 阵鸿惊处。
+
+- 一网沉江渚。
+
+- 落叶乱风和细雨。
+
+- 拨棹不如归去。
+
+- 芦花轻泛微澜。
+
+- 蓬窗独自清闲。
+
+- 一觉游仙好梦，任它竹冷松寒。
+
+## 拼音
+
+- zhen4 hong2 jing1 chu4 。
+
+- yi4 wang3 chen2 jiang1 zhu3 。
+
+- luo4 ye4 luan4 feng1 he2 xi4 yu3 。
+
+- bo1 zhao4 bu4 ru2 gui1 qu4 。
+
+- lu2 hua1 qing1 fan4 wei1 lan2 。
+
+- peng2 chuang1 du2 zi4 qing1 xian2 。
+
+- yi2 jiao4 you2 xian1 hao3 meng4 ， ren4 ta1 zhu2 leng3 song1 han2 。
+
+## 译文
+
+阵大惊处。一网沉江渚。落叶混乱和风细雨。拨掉不如回去。芦花轻轻泛微起伏。蓬窗独自清静安闲。一觉游仙好梦，任它竹松寒冷。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+阵大惊处。一网沉江渚。落叶混乱和风细雨。拨掉不如回去。芦花轻轻泛微起伏。蓬窗独自清静安闲。一觉游仙好梦，任它竹松寒冷。
+	* 此部分翻译来自AI，仅供参考

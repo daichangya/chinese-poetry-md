@@ -1,0 +1,45 @@
+---
+id: li-zhi-3-ci-yun-dong-po-hai-zi-ling-nan-ping-ling-sui-yue-gu-nan-kan
+title: 次韵东坡还自岭南
+author: 李廌
+authorSlug: li-zhi-3
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ci4 yun4 dong1 po1 hai2 zi4 ling3 nan2
+authorPinyin: li3 zhi4
+dynastyPinyin: song4
+canonicalPoemId: 603324
+canonicalAuthorId: 5566
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 凭陵岁月固难堪，食蘖多来味却甘。
+
+- 时雨才闻遍中外，卧龙相继起东南。
+
+- 天边鹤驾瞻仙袂，云里诗牋带海岚。
+
+- 重见门生应不识，雪髯霜鬓两毵毵。
+
+## 拼音
+
+- ping2 ling2 sui4 yue4 gu4 nan2 kan1 ， shi2 nie4 duo1 lai2 wei4 que4 gan1 。
+
+- shi2 yu3 cai2 wen2 bian4 zhong1 wai4 ， wo4 long2 xiang1 ji4 qi3 dong1 nan2 。
+
+- tian1 bian1 he4 jia4 zhan1 xian1 mei4 ， yun2 li3 shi1 jian1 dai4 hai3 lan2 。
+
+- zhong4 jian4 men2 sheng1 ying4 bu4 shi2 ， xue3 ran2 shuang1 bin4 liang3 san1 san1 。
+
+## 译文
+
+欺凌岁月实在难以忍受，食蘖多来味却甘。时雨才听遍中外，卧龙相继出现在东南。天边鹤驾看仙袂，云里诗牋带海岚。重见门生应该不认识，雪髯霜鬓两毵毵。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+欺凌岁月实在难以忍受，食蘖多来味却甘。时雨才听遍中外，卧龙相继出现在东南。天边鹤驾看仙袂，云里诗牋带海岚。重见门生应该不认识，雪髯霜鬓两毵毵。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,45 @@
+---
+id: li-zhong-guang-que-qiao-xian-zi-shou-fen-xiang-qing-zuo-2
+title: 鹊桥仙（自寿）
+author: 李仲光
+authorSlug: li-zhong-guang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: que4 qiao2 xian1 （ zi4 shou4 ）
+authorPinyin: li3 zhong4 guang1
+dynastyPinyin: song4
+canonicalPoemId: 499832
+canonicalAuthorId: 12283
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 焚香清坐，呼童沦茗，聊当一杯春酒。
+
+- 不须歌舞倩红裙，为祝百千长寿。
+
+- 诗书万卷，绮琴三弄，更有新词千首。
+
+- 从今日日与遨游，便是天长地久。
+
+## 拼音
+
+- fen2 xiang1 qing1 zuo4 ， hu1 tong2 lun2 ming2 ， liao2 dang1 yi4 bei1 chun1 jiu3 。
+
+- bu4 xu1 ge1 wu3 qian4 hong2 qun2 ， wei4 zhu4 bai3 qian1 chang2 shou4 。
+
+- shi1 shu1 wan4 juan4 ， qi3 qin2 san1 nong4 ， geng4 you3 xin1 ci2 qian1 shou3 。
+
+- cong2 jin1 ri4 ri4 yu3 ao2 you2 ， bian4 shi4 tian1 chang2 di4 jiu3 。
+
+## 译文
+
+焚香清坐，把儿童沦茶，我要一杯春酒。不需要歌舞请红裙，为祝千长寿。万卷诗书，绮琴三弄，还有新词千首。从现在天天与遨游，这就是天长地久。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+焚香清坐，把儿童沦茶，我要一杯春酒。不需要歌舞请红裙，为祝千长寿。万卷诗书，绮琴三弄，还有新词千首。从现在天天与遨游，这就是天长地久。
+	* 此部分翻译来自AI，仅供参考
