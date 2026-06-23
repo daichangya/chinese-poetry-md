@@ -1,0 +1,45 @@
+---
+id: quan-de-yu-ku-li-hui-qun-cui-ji-wen-er-chu-shi-hua-feng-xi-zhu-yao
+title: 哭李晦群崔季文二处士
+author: 权德舆
+authorSlug: quan-de-yu
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: ku1 li3 hui4 qun2 cui1 ji4 wen2 er4 chu3 shi4
+authorPinyin: quan2 de2 yu2
+dynastyPinyin: tang2
+canonicalPoemId: 395712
+canonicalAuthorId: 557
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 华封西祝尧，贵寿多男子。
+
+- 二贤无主后，贫贱大壮齿。
+
+- 未成鸿鹄姿，遽顿骅骝趾。
+
+- 子渊将叔度，自古不得已。
+
+## 拼音
+
+- hua2 feng1 xi1 zhu4 yao2 ， gui4 shou4 duo1 nan2 zi3 。
+
+- er4 xian2 wu2 zhu3 hou4 ， pin2 jian4 da4 zhuang4 chi3 。
+
+- wei4 cheng2 hong2 hu2 zi1 ， ju4 dun4 hua2 liu2 zhi3 。
+
+- zi3 yuan1 jiang1 shu1 du4 ， zi4 gu3 bu4 de2 yi3 。
+
+## 译文
+
+华封祝尧西，贵寿多男子。二贤无主后，贫贱大壮牙齿。未成天鹅姿态，就在骅骝趾。子渊将叔度，自古以来不停。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+华封祝尧西，贵寿多男子。二贤无主后，贫贱大壮牙齿。未成天鹅姿态，就在骅骝趾。子渊将叔度，自古以来不停。
+	* 此部分翻译来自AI，仅供参考

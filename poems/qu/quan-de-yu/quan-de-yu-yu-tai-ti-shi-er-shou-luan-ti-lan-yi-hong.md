@@ -1,0 +1,130 @@
+---
+id: quan-de-yu-yu-tai-ti-shi-er-shou-luan-ti-lan-yi-hong
+title: 玉台体十二首
+author: 权德舆
+authorSlug: quan-de-yu
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: yu4 tai2 ti3 shi2 er4 shou3
+authorPinyin: quan2 de2 yu2
+dynastyPinyin: tang2
+canonicalPoemId: 395536
+canonicalAuthorId: 557
+tags:
+  - 诗词
+  - 御定全唐诗
+---
+
+## 正文
+
+- 鸾啼兰已红，见出凤城东。
+
+- 粉汗宜斜日，衣香逐上风。
+
+- 情来不自觉，暗驻五花骢。
+
+- 婵娟二八正娇羞，日暮相逢南陌头。
+
+- 试问佳期不肯道，落花深处指青楼。
+
+- 隐映罗衫薄，轻盈玉腕圆。
+
+- 相逢不肯语，微笑画屏前。
+
+- 知向辽东去，由来几许愁。
+
+- 破颜君莫怪，娇小不禁羞。
+
+- 楼上吹箫罢，闺中刺绣阑。
+
+- 佳期不可见，尽日泪潺潺。
+
+- 泪尽珊瑚枕，魂销玳瑁床。
+
+- 罗衣不忍著，羞见绣鸳鸯。
+
+- 君去期花时，花时君不至。
+
+- 檐前双燕飞，落妾相思泪。
+
+- 空闺灭烛后，罗幌独眠时。
+
+- 泪尽肠欲断，心知人不知。
+
+- 秋风一夜至，吹尽后庭花。
+
+- 莫作经时别，西邻是宋家。
+
+- 独自披衣坐，更深月露寒。
+
+- 隔帘肠欲断，争敢下阶看。
+
+- 昨夜裙带解，今朝蟢子飞。
+
+- 铅华不可弃，莫是藁砧归。
+
+- 万里行人至，深闺夜未眠。
+
+- 双眉灯下扫，不待镜台前。
+
+## 拼音
+
+- luan2 ti2 lan2 yi3 hong2 ， jian4 chu1 feng4 cheng2 dong1 。
+
+- fen3 han4 yi2 xie2 ri4 ， yi1 xiang1 zhu2 shang4 feng1 。
+
+- qing2 lai2 bu2 zi4 jue2 ， an4 zhu4 wu3 hua1 cong1 。
+
+- chan2 juan1 er4 ba1 zheng4 jiao1 xiu1 ， ri4 mu4 xiang1 feng2 nan2 mo4 tou2 。
+
+- shi4 wen4 jia1 qi1 bu4 ken3 dao4 ， luo4 hua1 shen1 chu4 zhi3 qing1 lou2 。
+
+- yin3 ying4 luo2 shan1 bao2 ， qing1 ying2 yu4 wan4 yuan2 。
+
+- xiang1 feng2 bu4 ken3 yu3 ， wei1 xiao4 hua4 ping2 qian2 。
+
+- zhi1 xiang4 liao2 dong1 qu4 ， you2 lai2 ji3 xu3 chou2 。
+
+- po4 yan2 jun1 mo4 guai4 ， jiao1 xiao3 bu4 jin1 xiu1 。
+
+- lou2 shang4 chui1 xiao1 ba4 ， gui1 zhong1 ci4 xiu4 lan2 。
+
+- jia1 qi1 bu4 ke3 jian4 ， jin4 ri4 lei4 chan2 chan2 。
+
+- lei4 jin4 shan1 hu2 zhen3 ， hun2 xiao1 dai4 mao4 chuang2 。
+
+- luo2 yi1 bu4 ren3 zhu4 ， xiu1 jian4 xiu4 yuan1 yang1 。
+
+- jun1 qu4 qi1 hua1 shi2 ， hua1 shi2 jun1 bu2 zhi4 。
+
+- yan2 qian2 shuang1 yan4 fei1 ， luo4 qie4 xiang1 si1 lei4 。
+
+- kong1 gui1 mie4 zhu2 hou4 ， luo2 huang3 du2 mian2 shi2 。
+
+- lei4 jin4 chang2 yu4 duan4 ， xin1 zhi1 ren2 bu4 zhi1 。
+
+- qiu1 feng1 yi2 ye4 zhi4 ， chui1 jin4 hou4 ting2 hua1 。
+
+- mo4 zuo4 jing1 shi2 bie2 ， xi1 lin2 shi4 song4 jia1 。
+
+- du2 zi4 pi1 yi1 zuo4 ， geng4 shen1 yue4 lu4 han2 。
+
+- ge2 lian2 chang2 yu4 duan4 ， zheng1 gan3 xia4 jie1 kan4 。
+
+- zuo2 ye4 qun2 dai4 jie3 ， jin1 chao2 xi3 zi3 fei1 。
+
+- qian1 hua2 bu4 ke3 qi4 ， mo4 shi4 gao3 zhen1 gui1 。
+
+- wan4 li3 xing2 ren2 zhi4 ， shen1 gui1 ye4 wei4 mian2 。
+
+- shuang1 mei2 deng1 xia4 sao3 ， bu2 dai4 jing4 tai2 qian2 。
+
+## 译文
+
+莺啼兰已经红，见出凤城东。粉汗应该斜日，衣服上的香气赶上风。情来不自觉，黑暗在五花马。婵娟乐队正娇羞，天晚相逢南陌头。试问佳期不肯说，落花深处指妓院。躲在罗衫薄，轻盈玉手腕圆。相逢不肯说话，微笑画屏风前。知道向辽东去，由于来多少愁。破颜你别说，娇小不禁羞愧。楼上吹箫罢，闺房刺绣尽。佳期不见，整天泪潺潺。泪尽珊瑚枕头，魂销玳瑁床。罗衣忍不住著，羞见绣鸳鸯。你去花时间日期，花时你不到。檐前双燕飞，落我相思的泪水。空在熄灯后，罗之中独眠时。泪尽肠欲断，心知道人不知道。秋风一夜到，吹尽后庭花。莫作经时别，西边的邻居是宋室。独自披衣坐，再深月露冷。隔着帘子肠欲断，争敢下台阶看。昨天晚上裙子带解，早晨又看见蟢子双双飞来。涂脂抹粉不可以放弃，莫非是我的丈夫快要回来。万行人到，深闺夜没有睡觉。双眉灯下扫，等不到镜台前。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+莺啼兰已经红，见出凤城东。粉汗应该斜日，衣服上的香气赶上风。情来不自觉，黑暗在五花马。婵娟乐队正娇羞，天晚相逢南陌头。试问佳期不肯说，落花深处指妓院。躲在罗衫薄，轻盈玉手腕圆。相逢不肯说话，微笑画屏风前。知道向辽东去，由于来多少愁。破颜你别说，娇小不禁羞愧。楼上吹箫罢，闺房刺绣尽。佳期不见，整天泪潺潺。泪尽珊瑚枕头，魂销玳瑁床。罗衣忍不住著，羞见绣鸳鸯。你去花时间日期，花时你不到。檐前双燕飞，落我相思的泪水。空在熄灯后，罗之中独眠时。泪尽肠欲断，心知道人不知道。秋风一夜到，吹尽后庭花。莫作经时别，西边的邻居是宋室。独自披衣坐，再深月露冷。隔着帘子肠欲断，争敢下台阶看。昨天晚上裙子带解，早晨又看见蟢子双双飞来。涂脂抹粉不可以放弃，莫非是我的丈夫快要回来。万行人到，深闺夜没有睡觉。双眉灯下扫，等不到镜台前。
+	* 此部分翻译来自AI，仅供参考
