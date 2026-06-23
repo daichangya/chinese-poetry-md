@@ -1,0 +1,35 @@
+---
+id: wu-long-han-guo-jing-yi-shui-xi-xian-yin-xian-bo-zu-chang-wei-yi-bo-ling-qi-ru-you-s-499a1997
+title: 过泾邑水西县尹先伯祖尝为邑簿领耆儒有识者
+author: 吴龙翰
+authorSlug: wu-long-han
+dynasty: 宋
+dynastySlug: song
+titlePinyin: guo4 jing1 yi4 shui3 xi1 xian4 yin3 xian1 bo2 zu3 chang2 wei4 yi4 bo2 ling3 qi2 ru2 you3 shi2 zhe3
+authorPinyin: wu2 long2 han4
+dynastyPinyin: song4
+canonicalPoemId: 441971
+canonicalAuthorId: 569
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 客里身无事，乘闲过水西。
+
+- 清波明白鹭，绿树带黄鹂。
+
+- 酤酒道旁饮，吟诗石上题。
+
+- 邑中逢旧故，坐定说环溪。
+
+## 拼音
+
+- ke4 li3 shen1 wu2 shi4 ， cheng2 xian2 guo4 shui3 xi1 。
+
+- qing1 bo1 ming2 bai2 lu4 ， lü4 shu4 dai4 huang2 li2 。
+
+- gu1 jiu3 dao4 pang2 yin3 ， yin2 shi1 shi2 shang4 ti2 。
+
+- yi4 zhong1 feng2 jiu4 gu4 ， zuo4 ding4 shuo1 huan2 xi1 。

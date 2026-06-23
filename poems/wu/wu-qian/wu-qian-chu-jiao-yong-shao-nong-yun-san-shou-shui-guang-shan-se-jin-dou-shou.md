@@ -1,0 +1,45 @@
+---
+id: wu-qian-chu-jiao-yong-shao-nong-yun-san-shou-shui-guang-shan-se-jin-dou-shou
+title: 出郊用劭农韵三首
+author: 吴潜
+authorSlug: wu-qian
+dynasty: 宋
+dynastySlug: song
+titlePinyin: chu1 jiao1 yong4 shao4 nong2 yun4 san1 shou3
+authorPinyin: wu2 qian2
+dynastyPinyin: song4
+canonicalPoemId: 521990
+canonicalAuthorId: 3670
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 水光山色尽兜收，老子穿林兴尚悠。
+
+- 眼底有诗皆锦野，心头无事即瀛洲。
+
+- 鷃鸠岂较物和我，蟪蛄何知春与秋。
+
+- 所谓人生行乐耳，如斯逝者可追不。
+
+## 拼音
+
+- shui3 guang1 shan1 se4 jin4 dou1 shou1 ， lao3 zi3 chuan1 lin2 xing1 shang4 you1 。
+
+- yan3 di3 you3 shi1 jie1 jin3 ye3 ， xin1 tou2 wu2 shi4 ji2 ying2 zhou1 。
+
+- yan4 jiu1 qi3 jiao4 wu4 he2 wo3 ， hui4 gu1 he2 zhi1 chun1 yu3 qiu1 。
+
+- suo3 wei4 ren2 sheng1 xing2 le4 er3 ， ru2 si1 shi4 zhe3 ke3 zhui1 bu4 。
+
+## 译文
+
+水光山色尽兜收，老子穿林兴还悠悠。眼底有诗都锦野，心里头无事就瀛洲。鹊鸿岂比物和我，寒蝉怎么知道春季和秋季。所谓人生行乐罢了，像这样死去的人可以追不。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+水光山色尽兜收，老子穿林兴还悠悠。眼底有诗都锦野，心里头无事就瀛洲。鹊鸿岂比物和我，寒蝉怎么知道春季和秋季。所谓人生行乐罢了，像这样死去的人可以追不。
+	* 此部分翻译来自AI，仅供参考

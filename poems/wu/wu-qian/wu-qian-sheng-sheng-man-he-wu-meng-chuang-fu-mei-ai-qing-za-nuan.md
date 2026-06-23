@@ -1,0 +1,61 @@
+---
+id: wu-qian-sheng-sheng-man-he-wu-meng-chuang-fu-mei-ai-qing-za-nuan
+title: 声声慢（和吴梦窗赋梅）
+author: 吴潜
+authorSlug: wu-qian
+dynasty: 宋
+dynastySlug: song
+titlePinyin: sheng1 sheng1 man4 （ he2 wu2 meng4 chuang1 fu4 mei2 ）
+authorPinyin: wu2 qian2
+dynastyPinyin: song4
+canonicalPoemId: 527387
+canonicalAuthorId: 3670
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 挨晴拶暖，载酒呼朋，夷犹东圃西园。
+
+- 绿萼枝头，两三初破轻寒。
+
+- 平生自甘寂寞，占冷妆、不为人妍。
+
+- 林逋去，问影疏香暗，谁赋其间。
+
+- 空想故山奇事，正烟横岭曲，月浸溪湾。
+
+- 杏错桃讹，那时青子都圆。
+
+- 惟饶梦窗知处，对翠禽、依约神仙。
+
+- 休引角，怕征人、泪落塞边。
+
+## 拼音
+
+- ai1 qing2 za1 nuan3 ， zai3 jiu3 hu1 peng2 ， yi2 you2 dong1 pu3 xi1 yuan2 。
+
+- lü4 e4 zhi1 tou2 ， liang3 san1 chu1 po4 qing1 han2 。
+
+- ping2 sheng1 zi4 gan1 ji4 mo4 ， zhan4 leng3 zhuang1 、 bu2 wei4 ren2 yan2 。
+
+- lin2 bu1 qu4 ， wen4 ying3 shu1 xiang1 an4 ， shui2 fu4 qi2 jian1 。
+
+- kong1 xiang3 gu4 shan1 qi2 shi4 ， zheng4 yan1 heng2 ling3 qu3 ， yue4 jin4 xi1 wan1 。
+
+- xing4 cuo4 tao2 e2 ， na4 shi2 qing1 zi3 dou1 yuan2 。
+
+- wei2 rao2 meng4 chuang1 zhi1 chu4 ， dui4 cui4 qin2 、 yi1 yue1 shen2 xian1 。
+
+- xiu1 yin3 jiao3 ， pa4 zheng1 ren2 、 lei4 luo4 sai1 bian1 。
+
+## 译文
+
+大晴天碾压温暖，载酒叫朋，夷犹东圃西园。绿萼枝头，两个三初破轻寒。平生自甘寂寞，预测冷妆、不为人美丽。林逋离开，问影疏香暗，谁赋予他们之间。空想到故乡奇怪的事，正烟横岭曲，月亮渐渐溪湾。杏桃讹错，那时候的儿子都圆。只有富饶梦窗知道处，对翡翠禽、依照约定神仙。休拉角，被征收人、泪落塞边。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+大晴天碾压温暖，载酒叫朋，夷犹东圃西园。绿萼枝头，两个三初破轻寒。平生自甘寂寞，预测冷妆、不为人美丽。林逋离开，问影疏香暗，谁赋予他们之间。空想到故乡奇怪的事，正烟横岭曲，月亮渐渐溪湾。杏桃讹错，那时候的儿子都圆。只有富饶梦窗知道处，对翡翠禽、依照约定神仙。休拉角，被征收人、泪落塞边。
+	* 此部分翻译来自AI，仅供参考

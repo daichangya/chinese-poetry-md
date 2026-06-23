@@ -1,0 +1,47 @@
+---
+id: wu-wen-ying-qing-ping-le-shu-zhi-zi-shan-rou-ke-jian-cui
+title: 清平乐 书栀子扇
+author: 吴文英
+authorSlug: wu-wen-ying
+dynasty: 宋
+dynastySlug: song
+titlePinyin: qing1 ping2 le4   shu1 zhi1 zi3 shan4
+authorPinyin: wu2 wen2 ying1
+dynastyPinyin: song4
+canonicalPoemId: 393856
+canonicalAuthorId: 5216
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 柔柯剪翠。
+
+- 胡蝶双飞起。
+
+- 谁堕玉钿花径里。
+
+- 香带熏风临水。
+
+- 露红滴□秋枝。
+
+- 金泥不染禅衣。
+
+- 结得同心成了，任教春去多时。
+
+## 拼音
+
+- rou2 ke1 jian3 cui4 。
+
+- hu2 die2 shuang1 fei1 qi3 。
+
+- shui2 duo4 yu4 dian4 hua1 jing4 li3 。
+
+- xiang1 dai4 xun1 feng1 lin2 shui3 。
+
+- lu4 hong2 di1 □ qiu1 zhi1 。
+
+- jin1 ni2 bu4 ran3 chan2 yi1 。
+
+- jie2 de2 tong2 xin1 cheng2 le0 ， ren4 jiao4 chun1 qu4 duo1 shi2 。

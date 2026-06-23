@@ -1,0 +1,35 @@
+---
+id: wu-long-han-jia-he-shen-yuan-jing-wu-he-qi-yi
+title: 嘉禾沈园
+author: 吴龙翰
+authorSlug: wu-long-han
+dynasty: 宋
+dynastySlug: song
+titlePinyin: jia1 he2 shen3 yuan2
+authorPinyin: wu2 long2 han4
+dynastyPinyin: song4
+canonicalPoemId: 441837
+canonicalAuthorId: 569
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 景物何其异，虚岩人力成。
+
+- 清池沈鸟影，高树落蝉声。
+
+- 花日楼台丽，香风帘幕轻。
+
+- 我来一吟赏，不惜买杯倾。
+
+## 拼音
+
+- jing3 wu4 he2 qi2 yi4 ， xu1 yan2 ren2 li4 cheng2 。
+
+- qing1 chi2 shen3 niao3 ying3 ， gao1 shu4 luo4 chan2 sheng1 。
+
+- hua1 ri4 lou2 tai2 li4 ， xiang1 feng1 lian2 mu4 qing1 。
+
+- wo3 lai2 yi4 yin2 shang3 ， bu4 xi1 mai3 bei1 qing1 。
