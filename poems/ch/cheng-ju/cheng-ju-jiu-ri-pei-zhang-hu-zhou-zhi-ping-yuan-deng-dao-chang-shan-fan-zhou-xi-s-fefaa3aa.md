@@ -1,0 +1,35 @@
+---
+id: cheng-ju-jiu-ri-pei-zhang-hu-zhou-zhi-ping-yuan-deng-dao-chang-shan-fan-zhou-xi-s-fefaa3aa
+title: 九日陪章湖州致平援登道场山泛舟溪上
+author: 程俱
+authorSlug: cheng-ju
+dynasty: 宋
+dynastySlug: song
+titlePinyin: jiu3 ri4 pei2 zhang1 hu2 zhou1 zhi4 ping2 yuan2 deng1 dao4 chang3 shan1 fan4 zhou1 xi1 shang4
+authorPinyin: cheng2 ju4
+dynastyPinyin: song4
+canonicalPoemId: 329770
+canonicalAuthorId: 7349
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 九日登临得翠微，拂天松竹引丹梯。
+
+- 神游八表层霄近，目尽千山落日低。
+
+- 人散飞云留画栋，舟回初月照清溪。
+
+- 故知王谢风流在，吹帽何人醉似泥。
+
+## 拼音
+
+- jiu3 ri4 deng1 lin2 de2 cui4 wei1 ， fu2 tian1 song1 zhu2 yin3 dan1 ti1 。
+
+- shen2 you2 ba1 biao3 ceng2 xiao1 jin4 ， mu4 jin4 qian1 shan1 luo4 ri4 di1 。
+
+- ren2 san4 fei1 yun2 liu2 hua4 dong4 ， zhou1 hui2 chu1 yue4 zhao4 qing1 xi1 。
+
+- gu4 zhi1 wang2 xie4 feng1 liu2 zai4 ， chui1 mao4 he2 ren2 zui4 si4 ni2 。

@@ -1,0 +1,45 @@
+---
+id: chen-zhu-yu-di-guan-zhi-jin-ku-bo-qiu-di-dao-mao-shan-bo-dong-lin-si-zuo-yu-xi-la-e6aead37
+title: 与弟观侄津哭伯求弟道茅山泊东林寺坐雨
+author: 陈著
+authorSlug: chen-zhu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: yu3 di4 guan1 zhi2 jin1 ku1 bo2 qiu2 di4 dao4 mao2 shan1 bo2 dong1 lin2 si4 zuo4 yu3
+authorPinyin: chen2 zhu4
+dynastyPinyin: song4
+canonicalPoemId: 477839
+canonicalAuthorId: 4346
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 西来本自趁晴天，雨卧东林日似年。
+
+- 百念已成沈水石，一行真坐逆滩船。
+
+- 何妨华鄂添诗集，暂与阇黎结饭缘。
+
+- 决意明朝向东去，山堂未到已潸然。
+
+## 拼音
+
+- xi1 lai2 ben3 zi4 chen4 qing2 tian1 ， yu3 wo4 dong1 lin2 ri4 si4 nian2 。
+
+- bai3 nian4 yi3 cheng2 shen3 shui3 shi2 ， yi4 hang2 zhen1 zuo4 ni4 tan1 chuan2 。
+
+- he2 fang2 hua2 e4 tian1 shi1 ji2 ， zan4 yu3 du1 li2 jie2 fan4 yuan2 。
+
+- jue2 yi4 ming2 chao2 xiang4 dong1 qu4 ， shan1 tang2 wei4 dao4 yi3 shan1 ran2 。
+
+## 译文
+
+西来本来趁晴天，雨在东林天似年。百念已成沈水、石，一行是因逆滩船。何妨华鄂添诗集，暂时与阇黎结饭缘。决定明天向东走，山堂不到已经伤心。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+西来本来趁晴天，雨在东林天似年。百念已成沈水、石，一行是因逆滩船。何妨华鄂添诗集，暂时与阇黎结饭缘。决定明天向东走，山堂不到已经伤心。
+	* 此部分翻译来自AI，仅供参考

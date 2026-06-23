@@ -1,0 +1,45 @@
+---
+id: chen-yun-ping-he-bo-fu-da-zi-xiu-zhi-bu-lian-qing-shi-bai-yu-dang
+title: 贺伯父大资休致
+author: 陈允平
+authorSlug: chen-yun-ping
+dynasty: 宋
+dynastySlug: song
+titlePinyin: he4 bo2 fu4 da4 zi1 xiu1 zhi4
+authorPinyin: chen2 yun3 ping2
+dynastyPinyin: song4
+canonicalPoemId: 371862
+canonicalAuthorId: 4756
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 不恋清时白玉珰，便将身世寄沧浪。
+
+- 三朝元老黄枢阁，四海闲人绿野堂。
+
+- 楚楚菁兰秋带雨，萧萧寒菊晚宜霜。
+
+- 拟成东甬耆英社，賸乐壶天日月长。
+
+## 拼音
+
+- bu2 lian4 qing1 shi2 bai2 yu4 dang1 ， bian4 jiang1 shen1 shi4 ji4 cang1 lang4 。
+
+- san1 chao2 yuan2 lao3 huang2 shu1 ge2 ， si4 hai3 xian2 ren2 lü4 ye3 tang2 。
+
+- chu3 chu3 jing1 lan2 qiu1 dai4 yu3 ， xiao1 xiao1 han2 ju2 wan3 yi2 shuang1 。
+
+- ni3 cheng2 dong1 yong3 qi2 ying1 she4 ， sheng4 le4 hu2 tian1 ri4 yue4 chang2 。
+
+## 译文
+
+不留恋清当时白玉挡，便将一生托付沧浪。三朝元老黄枢阁，四海闲人绿野堂。楚国菁兰秋天带雨，萧萧寒花晚上应该霜。模拟成东雨耆英社，陪嫁乐壶天日月长。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+不留恋清当时白玉挡，便将一生托付沧浪。三朝元老黄枢阁，四海闲人绿野堂。楚国菁兰秋天带雨，萧萧寒花晚上应该霜。模拟成东雨耆英社，陪嫁乐壶天日月长。
+	* 此部分翻译来自AI，仅供参考

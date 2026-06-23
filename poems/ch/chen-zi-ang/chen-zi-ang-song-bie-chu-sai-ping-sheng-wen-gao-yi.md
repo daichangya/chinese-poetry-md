@@ -1,0 +1,53 @@
+---
+id: chen-zi-ang-song-bie-chu-sai-ping-sheng-wen-gao-yi
+title: 送别出塞
+author: 陈子昂
+authorSlug: chen-zi-ang
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: song4 bie2 chu1 sai4
+authorPinyin: chen2 zi3 ang2
+dynastyPinyin: tang2
+canonicalPoemId: 396689
+canonicalAuthorId: 1435
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 平生闻高义，书剑百夫雄。
+
+- 言登青云去，非此白头翁。
+
+- 胡兵屯塞下，汉骑属云中。
+
+- 君为白马将，腰佩骍角弓。
+
+- 单于不敢射，天子伫深功。
+
+- 蜀山余方隐，良会何时同。
+
+## 拼音
+
+- ping2 sheng1 wen2 gao1 yi4 ， shu1 jian4 bai3 fu1 xiong2 。
+
+- yan2 deng1 qing1 yun2 qu4 ， fei1 ci3 bai2 tou2 weng1 。
+
+- hu2 bing1 tun2 sai1 xia4 ， han4 qi2 shu3 yun2 zhong1 。
+
+- jun1 wei4 bai2 ma3 jiang1 ， yao1 pei4 xing1 jiao3 gong1 。
+
+- chan2 yu2 bu4 gan3 she4 ， tian1 zi3 zhu4 shen1 gong1 。
+
+- shu3 shan1 yu2 fang1 yin3 ， liang2 hui4 he2 shi2 tong2 。
+
+## 译文
+
+平时听说高义，书剑百夫英雄。说登上青云离开，这不是白头翁。胡军队驻守边塞，汉朝骑兵隶属云中。君为白马将，腰佩骍角弓。单于不敢射击，天子停很成功。蜀山我方隐藏，好机会什么时候同。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+平时听说高义，书剑百夫英雄。说登上青云离开，这不是白头翁。胡军队驻守边塞，汉朝骑兵隶属云中。君为白马将，腰佩骍角弓。单于不敢射击，天子停很成功。蜀山我方隐藏，好机会什么时候同。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,45 @@
+---
+id: chen-zi-ang-wei-shi-yuan-lin-ren-fu-yi-wu-de-qiu-ting-xuan-cao-xi-shi-you-jing-li
+title: 魏氏园林人赋一物得秋亭萱草
+author: 陈子昂
+authorSlug: chen-zi-ang
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: wei4 shi4 yuan2 lin2 ren2 fu4 yi2 wu4 de2 qiu1 ting2 xuan1 cao3
+authorPinyin: chen2 zi3 ang2
+dynastyPinyin: tang2
+canonicalPoemId: 396702
+canonicalAuthorId: 1435
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 昔时幽径里，荣耀杂春丛。
+
+- 今来玉墀上，销歇畏秋风。
+
+- 细叶犹含绿，鲜花未吐红。
+
+- 忘忧谁见赏，空此北堂中。
+
+## 拼音
+
+- xi1 shi2 you1 jing4 li3 ， rong2 yao4 za2 chun1 cong2 。
+
+- jin1 lai2 yu4 chi2 shang4 ， xiao1 xie1 wei4 qiu1 feng1 。
+
+- xi4 ye4 you2 han2 lü4 ， xian1 hua1 wei4 tu3 hong2 。
+
+- wang4 you1 shui2 jian4 shang3 ， kong1 ci3 bei3 tang2 zhong1 。
+
+## 译文
+
+过去小路里，荣耀杂春丛。现在来玉阶上，销歇惧怕秋风。细叶还含有绿色，鲜花不吐红。忘记忧愁谁赏识，空这北堂中。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+过去小路里，荣耀杂春丛。现在来玉阶上，销歇惧怕秋风。细叶还含有绿色，鲜花不吐红。忘记忧愁谁赏识，空这北堂中。
+	* 此部分翻译来自AI，仅供参考

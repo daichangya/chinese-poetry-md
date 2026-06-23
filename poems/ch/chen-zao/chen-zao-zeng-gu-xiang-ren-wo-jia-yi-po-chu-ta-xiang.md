@@ -1,0 +1,45 @@
+---
+id: chen-zao-zeng-gu-xiang-ren-wo-jia-yi-po-chu-ta-xiang
+title: 赠故乡人
+author: 陈藻
+authorSlug: chen-zao
+dynasty: 宋
+dynastySlug: song
+titlePinyin: zeng4 gu4 xiang1 ren2
+authorPinyin: chen2 zao3
+dynastyPinyin: song4
+canonicalPoemId: 577152
+canonicalAuthorId: 5009
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 我家已破出他乡，如连如卓方阜昌。
+
+- 岂料囊金随后散，一齐开铺鬻文章。
+
+- 我今滨死祗如许，二友犹堪望轩翥。
+
+- 从头借问向来谁，十室九人非旧主。
+
+## 拼音
+
+- wo3 jia1 yi3 po4 chu1 ta1 xiang1 ， ru2 lian2 ru2 zhuo2 fang1 fu4 chang1 。
+
+- qi3 liao4 nang2 jin1 sui2 hou4 san4 ， yi4 qi2 kai1 pu4 yu4 wen2 zhang1 。
+
+- wo3 jin1 bin1 si3 zhi1 ru2 xu3 ， er4 you3 you2 kan1 wang4 xuan1 zhu4 。
+
+- cong2 tou2 jie4 wen4 xiang4 lai2 shui2 ， shi2 shi4 jiu3 ren2 fei1 jiu4 zhu3 。
+
+## 译文
+
+我的家已经被从他乡，如果连像董卓正在阜昌。岂料钱随后解散，一个齐开铺卖文章。我现在濒临死亡只如许，两个朋友还可以望见轩翥。从头上前打听刚才谁，十室九人非旧主。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+我的家已经被从他乡，如果连像董卓正在阜昌。岂料钱随后解散，一个齐开铺卖文章。我现在濒临死亡只如许，两个朋友还可以望见轩翥。从头上前打听刚才谁，十室九人非旧主。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,57 @@
+---
+id: chen-zao-zao-ji-meng-shi-shi-shi-qing-deng-han-ye-si-wu-xiang
+title: 记梦示师是
+author: 陈造
+authorSlug: chen-zao-zao
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ji4 meng4 shi4 shi1 shi4
+authorPinyin: chen2 zao4
+dynastyPinyin: song4
+canonicalPoemId: 600091
+canonicalAuthorId: 5371
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 青灯寒夜思吾乡，合眼便坐吾家堂。
+
+- 阿丁炯然目如水，彩服蹁跹趋我傍。
+
+- 中心喜之谬督过，还为遨嬉废书课。
+
+- 指似斜日西窗红，小赋未破书未供。
+
+- 向渠不敢恩胜义，亦怜扭缩不自容。
+
+- 蝶蜚鹿失忽惊寤，摵摵霜风在庭树。
+
+- 几时笔分跨乃父，与汝相忘不关虑。
+
+## 拼音
+
+- qing1 deng1 han2 ye4 si1 wu2 xiang1 ， he2 yan3 bian4 zuo4 wu2 jia1 tang2 。
+
+- a1 ding1 jiong3 ran2 mu4 ru2 shui3 ， cai3 fu2 pian2 xian1 qu1 wo3 bang4 。
+
+- zhong1 xin1 xi3 zhi1 miu4 du1 guo4 ， hai2 wei4 ao2 xi1 fei4 shu1 ke4 。
+
+- zhi3 si4 xie2 ri4 xi1 chuang1 hong2 ， xiao3 fu4 wei4 po4 shu1 wei4 gong4 。
+
+- xiang4 qu2 bu4 gan3 en1 sheng4 yi4 ， yi4 lian2 niu3 suo1 bu2 zi4 rong2 。
+
+- die2 fei1 lu4 shi1 hu1 jing1 wu4 ， se4 se4 shuang1 feng1 zai4 ting2 shu4 。
+
+- ji3 shi2 bi3 fen1 kua4 nai3 fu4 ， yu3 ru3 xiang1 wang4 bu4 guan1 lü4 。
+
+## 译文
+
+寒冷的夜晚想念我乡青灯，合上眼就在我家堂。阿丁灿烂目光如水，彩服蹁跃到我身边。心中喜欢的错误率超过，还为游乐嬉戏废书课。指似夕阳西窗红，小赋不破书没有提供。向他不敢恩胜义，也可怜扭缩容不。蝴蝶飞鹿失去忽然惊醒，摵摵霜风在庭院的树上。几时笔分跨你父亲，与你相忘不关考虑。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+寒冷的夜晚想念我乡青灯，合上眼就在我家堂。阿丁灿烂目光如水，彩服蹁跃到我身边。心中喜欢的错误率超过，还为游乐嬉戏废书课。指似夕阳西窗红，小赋不破书没有提供。向他不敢恩胜义，也可怜扭缩容不。蝴蝶飞鹿失去忽然惊醒，摵摵霜风在庭院的树上。几时笔分跨你父亲，与你相忘不关考虑。
+	* 此部分翻译来自AI，仅供参考

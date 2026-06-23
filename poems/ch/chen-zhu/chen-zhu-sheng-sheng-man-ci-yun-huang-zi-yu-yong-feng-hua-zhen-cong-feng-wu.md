@@ -1,0 +1,65 @@
+---
+id: chen-zhu-sheng-sheng-man-ci-yun-huang-zi-yu-yong-feng-hua-zhen-cong-feng-wu
+title: 声声慢（次韵黄子羽咏凤花）
+author: 陈著
+authorSlug: chen-zhu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: sheng1 sheng1 man4 （ ci4 yun4 huang2 zi3 yu3 yong3 feng4 hua1 ）
+authorPinyin: chen2 zhu4
+dynastyPinyin: song4
+canonicalPoemId: 526683
+canonicalAuthorId: 4346
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 珍丛凤舞。
+
+- 曾是宣和，春风送归禁幄。
+
+- 翠浅红深，婉娩步空金落。
+
+- 腥尘未飞动处，是先知、早辞华萼。
+
+- 好在□，四并难多少，怨怀无托。
+
+- 猛拍阑干谁会，浮世事、悠悠白云黄鹤。
+
+- 有酒当花，休得是今非昨。
+
+- 花犹百年宁耐，算人生、能几欢乐。
+
+- 又匆匆，醉梦里、春去不觉。
+
+## 拼音
+
+- zhen1 cong2 feng4 wu3 。
+
+- ceng2 shi4 xuan1 he2 ， chun1 feng1 song4 gui1 jin4 wo4 。
+
+- cui4 qian3 hong2 shen1 ， wan3 mian3 bu4 kong1 jin1 luo4 。
+
+- xing1 chen2 wei4 fei1 dong4 chu4 ， shi4 xian1 zhi1 、 zao3 ci2 hua2 e4 。
+
+- hao3 zai4 □ ， si4 bing4 nan2 duo1 shao3 ， yuan4 huai2 wu2 tuo1 。
+
+- meng3 pai1 lan2 gan1 shui2 hui4 ， fu2 shi4 shi4 、 you1 you1 bai2 yun2 huang2 he4 。
+
+- you3 jiu3 dang1 hua1 ， xiu1 de2 shi4 jin1 fei1 zuo2 。
+
+- hua1 you2 bai3 nian2 ning2 nai4 ， suan4 ren2 sheng1 、 neng2 ji3 huan1 le4 。
+
+- you4 cong1 cong1 ， zui4 meng4 li3 、 chun1 qu4 bu4 jue2 。
+
+## 译文
+
+珍丛林凤舞。曾是宣和，春风送归禁止帐。翡翠浅红色深，自然分娩步空落在。腥尘不动的地方飞，这是先知、早文辞华粤。喜欢在…，四都难多少，怨恨怀无托。猛拍栏杆谁会，从社会、悠悠白云黄鹤。有酒就花，不得是现在不是昨天。花还百年宁耐，计算人生、能有多少欢乐。又匆匆，醉梦里、春去不觉得。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+珍丛林凤舞。曾是宣和，春风送归禁止帐。翡翠浅红色深，自然分娩步空落在。腥尘不动的地方飞，这是先知、早文辞华粤。喜欢在…，四都难多少，怨恨怀无托。猛拍栏杆谁会，从社会、悠悠白云黄鹤。有酒就花，不得是现在不是昨天。花还百年宁耐，计算人生、能有多少欢乐。又匆匆，醉梦里、春去不觉得。
+	* 此部分翻译来自AI，仅供参考

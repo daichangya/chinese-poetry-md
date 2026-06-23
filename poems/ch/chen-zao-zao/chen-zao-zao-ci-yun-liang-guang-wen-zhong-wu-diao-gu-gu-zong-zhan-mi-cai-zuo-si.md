@@ -1,0 +1,73 @@
+---
+id: chen-zao-zao-ci-yun-liang-guang-wen-zhong-wu-diao-gu-gu-zong-zhan-mi-cai-zuo-si
+title: 次韵梁广文重午吊古
+author: 陈造
+authorSlug: chen-zao-zao
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ci4 yun4 liang2 guang3 wen2 zhong4 wu3 diao4 gu3
+authorPinyin: chen2 zao4
+dynastyPinyin: song4
+canonicalPoemId: 598839
+canonicalAuthorId: 5371
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 菰粽蘸蜜彩作丝，竹萌尚箨榴未子。
+
+- 官居端午不可孤，小却文移谢胥史。
+
+- 酒社切戒屐声疎，诗邮莫漫奚奴寄。
+
+- 与君相望淮南北，宦游适偕乱山里。
+
+- 老纡章绂我不称，路指云霄君未已。
+
+- 相期玳席醉九室，先向花笺惊八米。
+
+- 自昔词源浩千顷，粗许老子窥涯涘。
+
+- 明朝酒罢诧里闾，颇尝见客今有此。
+
+- 古人独醒怨不逢，时搴施薋弃蘅芷。
+
+- 吏隐顾窃诗酒乐，自公委蛇容食寐。
+
+- 一欢况复酬佳节，豪饮当观建瓴水。
+
+## 拼音
+
+- gu1 zong4 zhan4 mi4 cai3 zuo4 si1 ， zhu2 meng2 shang4 tuo4 liu2 wei4 zi3 。
+
+- guan1 ju1 duan1 wu3 bu4 ke3 gu1 ， xiao3 que4 wen2 yi2 xie4 xu1 shi3 。
+
+- jiu3 she4 qie4 jie4 ji1 sheng1 shu1 ， shi1 you2 mo4 man4 xi1 nu2 ji4 。
+
+- yu3 jun1 xiang1 wang4 huai2 nan2 bei3 ， huan4 you2 shi4 xie2 luan4 shan1 li3 。
+
+- lao3 yu1 zhang1 fu2 wo3 bu4 cheng1 ， lu4 zhi3 yun2 xiao1 jun1 wei4 yi3 。
+
+- xiang1 qi1 dai4 xi2 zui4 jiu3 shi4 ， xian1 xiang4 hua1 jian1 jing1 ba1 mi3 。
+
+- zi4 xi1 ci2 yuan2 hao4 qian1 qing3 ， cu1 xu3 lao3 zi3 kui1 ya2 si4 。
+
+- ming2 chao2 jiu3 ba4 cha4 li3 lü2 ， po1 chang2 jian4 ke4 jin1 you3 ci3 。
+
+- gu3 ren2 du2 xing3 yuan4 bu4 feng2 ， shi2 qian1 shi1 ci2 qi4 heng2 zhi3 。
+
+- li4 yin3 gu4 qie4 shi1 jiu3 le4 ， zi4 gong1 wei3 she2 rong2 shi2 mei4 。
+
+- yi4 huan1 kuang4 fu4 chou2 jia1 jie2 ， hao2 yin3 dang1 guan1 jian4 ling2 shui3 。
+
+## 译文
+
+菰米粽蘸蜂蜜彩作丝，竹箨石榴子萌还没有。官居端午不可孤立，最低公文向小吏。酒社切戒屐声疏远，诗邮没有浪漫奚奴寄。与你相对淮南北，宦官游玩和群山里。老系章丝带我不相称，路指向云霄你不止。相期用席醉九室，先向花笺吃惊八米。从前词源浩千顷，基本同意老子看边际。明天酒后在乡里，也曾见客现在有这。古人独醒怨恨不逢，当时我用薋放弃杜蘅芷。官吏隐瞒看着我诗酒乐，自从您从容容吃睡。一欢再说酬佳节，豪饮会观高屋建瓴水。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+菰米粽蘸蜂蜜彩作丝，竹箨石榴子萌还没有。官居端午不可孤立，最低公文向小吏。酒社切戒屐声疏远，诗邮没有浪漫奚奴寄。与你相对淮南北，宦官游玩和群山里。老系章丝带我不相称，路指向云霄你不止。相期用席醉九室，先向花笺吃惊八米。从前词源浩千顷，基本同意老子看边际。明天酒后在乡里，也曾见客现在有这。古人独醒怨恨不逢，当时我用薋放弃杜蘅芷。官吏隐瞒看着我诗酒乐，自从您从容容吃睡。一欢再说酬佳节，豪饮会观高屋建瓴水。
+	* 此部分翻译来自AI，仅供参考

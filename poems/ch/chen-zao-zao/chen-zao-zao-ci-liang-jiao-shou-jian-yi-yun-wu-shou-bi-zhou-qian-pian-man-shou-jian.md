@@ -1,0 +1,37 @@
+---
+id: chen-zao-zao-ci-liang-jiao-shou-jian-yi-yun-wu-shou-bi-zhou-qian-pian-man-shou-jian
+title: 次梁教授见贻韵五首
+author: 陈造
+authorSlug: chen-zao-zao
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ci4 liang2 jiao4 shou4 jian4 yi2 yun4 wu3 shou3
+authorPinyin: chen2 zao4
+dynastyPinyin: song4
+canonicalPoemId: 598491
+canonicalAuthorId: 5371
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 敝帚千篇漫手缄，分无三字入官衔。
+
+- 消磨不尽干云气，时作长虹贯夜岩。
+
+## 拼音
+
+- bi4 zhou3 qian1 pian1 man4 shou3 jian1 ， fen1 wu2 san1 zi4 ru4 guan1 xian2 。
+
+- xiao1 mo2 bu2 jin4 gan1 yun2 qi4 ， shi2 zuo4 chang2 hong2 guan4 ye4 yan2 。
+
+## 译文
+
+敝帚千篇漫手信，分无三字入官头衔。消磨不尽干云气，不时有长虹贯夜岩。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+敝帚千篇漫手信，分无三字入官头衔。消磨不尽干云气，不时有长虹贯夜岩。
+	* 此部分翻译来自AI，仅供参考

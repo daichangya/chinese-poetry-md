@@ -1,0 +1,37 @@
+---
+id: chen-zhu-you-xue-dou-zhang-xi-qi-shou-xue-pu-fan-ya-zhi-xia-shen
+title: 游雪窦杖锡七首·飞雪亭
+author: 陈著
+authorSlug: chen-zhu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: you2 xue3 dou4 zhang4 xi1 qi1 shou3 · fei1 xue3 ting2
+authorPinyin: chen2 zhu4
+dynastyPinyin: song4
+canonicalPoemId: 477800
+canonicalAuthorId: 4346
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 雪瀑翻崖直下深，自从开辟到如今。
+
+- 天寒水涩山风急，不断朝宗一派心。
+
+## 拼音
+
+- xue3 pu4 fan1 ya2 zhi2 xia4 shen1 ， zi4 cong2 kai1 pi4 dao4 ru2 jin1 。
+
+- tian1 han2 shui3 se4 shan1 feng1 ji2 ， bu2 duan4 chao2 zong1 yi2 pai4 xin1 。
+
+## 译文
+
+雪瀑翻崖直下深，自从开天辟地到如今。天冷水涩山风急，不断朝宗一股心。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+雪瀑翻崖直下深，自从开天辟地到如今。天冷水涩山风急，不断朝宗一股心。
+	* 此部分翻译来自AI，仅供参考

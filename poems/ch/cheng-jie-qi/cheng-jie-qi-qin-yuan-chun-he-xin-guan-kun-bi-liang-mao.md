@@ -1,0 +1,65 @@
+---
+id: cheng-jie-qi-qin-yuan-chun-he-xin-guan-kun-bi-liang-mao
+title: 沁园春（贺新冠）
+author: 程节齐
+authorSlug: cheng-jie-qi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: qin4 yuan2 chun1 （ he4 xin1 guan1 ）
+authorPinyin: cheng2 jie2 qi2
+dynastyPinyin: song4
+canonicalPoemId: 523466
+canonicalAuthorId: 12690
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 髡彼两髦，末几见兮，突而弁兮。
+
+- 记昔年犀玉，奇资秀质，今朝簪佩，丰颊修眉。
+
+- 满面春风，一团和气，发露胸中书与诗。
+
+- 人都羡，是君家驹子，天上麟儿。
+
+- 画堂人物熙熙。
+
+- 会簪履雍容举庆宜。
+
+- 看筮日礼宾，陈钟列俎，三加致祝，一献成仪。
+
+- 绿鬓貂蝉，朱颜豸角，早有君臣庆会期。
+
+- 荣冠带，看绶悬若若，印佩累累。
+
+## 拼音
+
+- kun1 bi3 liang3 mao2 ， mo4 ji3 jian4 xi1 ， tu1 er2 bian4 xi1 。
+
+- ji4 xi1 nian2 xi1 yu4 ， qi2 zi1 xiu4 zhi4 ， jin1 chao2 zan1 pei4 ， feng1 jia2 xiu1 mei2 。
+
+- man3 mian4 chun1 feng1 ， yi4 tuan2 he2 qi4 ， fa1 lu4 xiong1 zhong1 shu1 yu3 shi1 。
+
+- ren2 dou1 xian4 ， shi4 jun1 jia1 ju1 zi3 ， tian1 shang4 lin2 er2 。
+
+- hua4 tang2 ren2 wu4 xi1 xi1 。
+
+- hui4 zan1 lü3 yong1 rong2 ju3 qing4 yi2 。
+
+- kan4 shi4 ri4 li3 bin1 ， chen2 zhong1 lie4 zu3 ， san1 jia1 zhi4 zhu4 ， yi2 xian4 cheng2 yi2 。
+
+- lü4 bin4 diao1 chan2 ， zhu1 yan2 zhi4 jiao3 ， zao3 you3 jun1 chen2 qing4 hui4 qi1 。
+
+- rong2 guan1 dai4 ， kan4 shou4 xuan2 ruo4 ruo4 ， yin4 pei4 lei4 lei4 。
+
+## 译文
+
+我那两个英俊，没过多久到啊，转眼成人戴上帽。记得当年犀玉，奇异资秀质，今天早上穿戴起来，丰颊修眉毛。满面春风，一团和气，暴露于中书省和诗。人都羡慕，这是你家驹您，天上麒麟儿。画堂人物熙熙攘攘。会显贵雍容推举庆应。看筮日礼宾，陈钟列上，三加送祝福，一个贡献成仪。绿鬓貂蝉，朱颜华角，早有君臣庆贺期。荣冠带，看看绶带悬挂若，印和累累。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+我那两个英俊，没过多久到啊，转眼成人戴上帽。记得当年犀玉，奇异资秀质，今天早上穿戴起来，丰颊修眉毛。满面春风，一团和气，暴露于中书省和诗。人都羡慕，这是你家驹您，天上麒麟儿。画堂人物熙熙攘攘。会显贵雍容推举庆应。看筮日礼宾，陈钟列上，三加送祝福，一个贡献成仪。绿鬓貂蝉，朱颜华角，早有君臣庆贺期。荣冠带，看看绶带悬挂若，印和累累。
+	* 此部分翻译来自AI，仅供参考

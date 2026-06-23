@@ -1,0 +1,45 @@
+---
+id: chen-zao-zao-ci-yun-yan-wen-bing-jian-jian-zhang-shou-er-shou-mei-mei-liu-liu-hu-shen-xing
+title: 次韵严文炳兼简张守二首
+author: 陈造
+authorSlug: chen-zao-zao
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ci4 yun4 yan2 wen2 bing3 jian1 jian3 zhang1 shou3 er4 shou3
+authorPinyin: chen2 zao4
+dynastyPinyin: song4
+canonicalPoemId: 598873
+canonicalAuthorId: 5371
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 梅梅柳柳护深行，倦客重游眼更明。
+
+- 谷鸟自应寻旧约，渚兰潜欲换新萌。
+
+- 诗工已可醒人醉，赋就当须冰坐清。
+
+- 老我客渠真得计，梦魂无复凤凰城。
+
+## 拼音
+
+- mei2 mei2 liu3 liu3 hu4 shen1 xing2 ， juan4 ke4 chong2 you2 yan3 geng4 ming2 。
+
+- gu3 niao3 zi4 ying4 xun2 jiu4 yue1 ， zhu3 lan2 qian2 yu4 huan4 xin1 meng2 。
+
+- shi1 gong1 yi3 ke3 xing3 ren2 zui4 ， fu4 jiu4 dang1 xu1 bing1 zuo4 qing1 。
+
+- lao3 wo3 ke4 qu2 zhen1 de2 ji4 ， meng4 hun2 wu2 fu4 feng4 huang2 cheng2 。
+
+## 译文
+
+梅梅柳柳护深行，倦客重游眼睛更明亮。谷鸟从响应寻旧约，清兰偷偷想换新萌。诗工已经可以唤醒人喝醉了，赋就需要冰因清。老我客人他真得考虑，梦魂不再凤凰城。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+梅梅柳柳护深行，倦客重游眼睛更明亮。谷鸟从响应寻旧约，清兰偷偷想换新萌。诗工已经可以唤醒人喝醉了，赋就需要冰因清。老我客人他真得考虑，梦魂不再凤凰城。
+	* 此部分翻译来自AI，仅供参考

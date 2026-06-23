@@ -1,0 +1,45 @@
+---
+id: chen-zi-ang-ju-yan-hai-shu-wen-ying-tong-zuo-bian-di-wu-fang-shu
+title: 居延海树闻莺同作
+author: 陈子昂
+authorSlug: chen-zi-ang
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: ju1 yan2 hai3 shu4 wen2 ying1 tong2 zuo4
+authorPinyin: chen2 zi3 ang2
+dynastyPinyin: tang2
+canonicalPoemId: 396627
+canonicalAuthorId: 1435
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 边地无芳树，莺声忽听新。
+
+- 间关如有意，愁绝若怀人。
+
+- 明妃失汉宠，蔡女没胡尘。
+
+- 坐闻应落泪，况忆故园春。
+
+## 拼音
+
+- bian1 di4 wu2 fang1 shu4 ， ying1 sheng1 hu1 ting1 xin1 。
+
+- jian1 guan1 ru2 you3 yi4 ， chou2 jue2 ruo4 huai2 ren2 。
+
+- ming2 fei1 shi1 han4 chong3 ， cai4 nü3 mei2 hu2 chen2 。
+
+- zuo4 wen2 ying4 luo4 lei4 ， kuang4 yi4 gu4 yuan2 chun1 。
+
+## 译文
+
+边地无芳树，莺声忽听新。之间关如有意思，如果有人愁绝。明妃失去汉朝宠爱，蔡女没胡尘。因听说应落泪，何况想起旧园春。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+边地无芳树，莺声忽听新。之间关如有意思，如果有人愁绝。明妃失去汉朝宠爱，蔡女没胡尘。因听说应落泪，何况想起旧园春。
+	* 此部分翻译来自AI，仅供参考

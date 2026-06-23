@@ -1,0 +1,45 @@
+---
+id: chen-zao-zao-yong-zeng-pu-weng-jiu-yun-er-shi-song-xu-nan-qing-nan-gui-mo-jiang-ban-s-d371d072
+title: 用赠朴翁旧韵二诗送徐南卿南归
+author: 陈造
+authorSlug: chen-zao-zao
+dynasty: 宋
+dynastySlug: song
+titlePinyin: yong4 zeng4 pu3 weng1 jiu4 yun4 er4 shi1 song4 xu2 nan2 qing1 nan2 gui1
+authorPinyin: chen2 zao4
+dynastyPinyin: song4
+canonicalPoemId: 599641
+canonicalAuthorId: 5371
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 莫将半菽羡千钟，生世谁非囿数中。
+
+- 荐福议碑雷已震，浩然遻意句徒工。
+
+- 我知寒饿怜颜阖，人说乘除有志公。
+
+- 穷鬼趁渠来败类，秋禾一昔仆霜风。
+
+## 拼音
+
+- mo4 jiang1 ban4 shu1 xian4 qian1 zhong1 ， sheng1 shi4 shui2 fei1 you4 shu4 zhong1 。
+
+- jian4 fu2 yi4 bei1 lei2 yi3 zhen4 ， hao4 ran2 e4 yi4 ju4 tu2 gong1 。
+
+- wo3 zhi1 han2 e4 lian2 yan2 he2 ， ren2 shuo1 cheng2 chu2 you3 zhi4 gong1 。
+
+- qiong2 gui3 chen4 qu2 lai2 bai4 lei4 ， qiu1 he2 yi4 xi1 pu2 shuang1 feng1 。
+
+## 译文
+
+不要将半菽羡千钟，人生在世谁不是囿几中。祈福议碑雷已经震惊，浩然逢意句只是工。我知道寒冷饥饿可怜颜阖，有人说乘除志公。穷鬼趁他来打败类，秋天的庄稼一过去我霜风。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+不要将半菽羡千钟，人生在世谁不是囿几中。祈福议碑雷已经震惊，浩然逢意句只是工。我知道寒冷饥饿可怜颜阖，有人说乘除志公。穷鬼趁他来打败类，秋天的庄稼一过去我霜风。
+	* 此部分翻译来自AI，仅供参考

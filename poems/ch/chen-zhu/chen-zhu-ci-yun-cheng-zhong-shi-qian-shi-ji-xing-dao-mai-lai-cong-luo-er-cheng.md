@@ -1,0 +1,45 @@
+---
+id: chen-zhu-ci-yun-cheng-zhong-shi-qian-shi-ji-xing-dao-mai-lai-cong-luo-er-cheng
+title: 次韵程仲实佥事纪行
+author: 陈著
+authorSlug: chen-zhu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ci4 yun4 cheng2 zhong4 shi2 qian1 shi4 ji4 xing2
+authorPinyin: chen2 zhu4
+dynastyPinyin: song4
+canonicalPoemId: 477673
+canonicalAuthorId: 4346
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 道脉来从洛二程，天教驰辔福东瀛。
+
+- 笔头有海清尘浊，胸次如春放雪晴。
+
+- 喜拍蓬壶鳌亦抃，攀遮梅驿马难行。
+
+- 恨无老翼飞随去，岁晚江空潮自生。
+
+## 拼音
+
+- dao4 mai4 lai2 cong2 luo4 er4 cheng2 ， tian1 jiao4 chi2 pei4 fu2 dong1 ying2 。
+
+- bi3 tou2 you3 hai3 qing1 chen2 zhuo2 ， xiong1 ci4 ru2 chun1 fang4 xue3 qing2 。
+
+- xi3 pai1 peng2 hu2 ao2 yi4 bian4 ， pan1 zhe1 mei2 yi4 ma3 nan2 xing2 。
+
+- hen4 wu2 lao3 yi4 fei1 sui2 qu4 ， sui4 wan3 jiang1 kong1 chao2 zi4 sheng1 。
+
+## 译文
+
+道脉来从洛阳二程，天教乘马福东赢。笔头有海清尘浊，胸中像春天放雪晴。喜欢拍蓬壶鳌也鼓掌，攀着遮梅驿马难行。遗憾没有老翼飞随走，每年晚上江空潮从生。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+道脉来从洛阳二程，天教乘马福东赢。笔头有海清尘浊，胸中像春天放雪晴。喜欢拍蓬壶鳌也鼓掌，攀着遮梅驿马难行。遗憾没有老翼飞随走，每年晚上江空潮从生。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,45 @@
+---
+id: chen-yu-yi-tong-xin-dao-wan-deng-gu-yuan-you-huai-hu-lao-luo
+title: 同信道晚登古原
+author: 陈与义
+authorSlug: chen-yu-yi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: tong2 xin4 dao4 wan3 deng1 gu3 yuan2
+authorPinyin: chen2 yu3 yi4
+dynastyPinyin: song4
+canonicalPoemId: 564803
+canonicalAuthorId: 4531
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 幽怀忽牢落，起望登古原。
+
+- 微吹度修竹，半林白翻翻。
+
+- 日暮纷物态，山空销客魂。
+
+- 惜无一樽酒，与子醉中言。
+
+## 拼音
+
+- you1 huai2 hu1 lao2 luo4 ， qi3 wang4 deng1 gu3 yuan2 。
+
+- wei1 chui1 du4 xiu1 zhu2 ， ban4 lin2 bai2 fan1 fan1 。
+
+- ri4 mu4 fen1 wu4 tai4 ， shan1 kong1 xiao1 ke4 hun2 。
+
+- xi1 wu2 yi4 zun1 jiu3 ， yu3 zi3 zui4 zhong1 yan2 。
+
+## 译文
+
+幽怀着忽然牢落，起身望登古原。微吹度修竹，半林白翻翻。天黑纷纷物形态，山空销客魂。可惜无一樽酒，与你醉中说。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+幽怀着忽然牢落，起身望登古原。微吹度修竹，半林白翻翻。天黑纷纷物形态，山空销客魂。可惜无一樽酒，与你醉中说。
+	* 此部分翻译来自AI，仅供参考

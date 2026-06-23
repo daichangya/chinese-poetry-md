@@ -1,0 +1,61 @@
+---
+id: chen-yu-yi-ba-yin-ge-jin-zhang-yu-xu-shi
+title: 八音歌
+author: 陈与义
+authorSlug: chen-yu-yi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ba1 yin1 ge1
+authorPinyin: chen2 yu3 yi4
+dynastyPinyin: song4
+canonicalPoemId: 363202
+canonicalAuthorId: 4531
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 金张与许史，不知寒士名。
+
+- 石交少瑕疵，但有一曲生。
+
+- 丝色随染异，择交士所贵。
+
+- 竹林固皆贤，山王以官累。
+
+- 匏酌可延客，藜羹无是非。
+
+- 土思非不深，无屋未能归。
+
+- 革华虽可侯，不敢践危地。
+
+- 木奴会足饱，宽作十年计。
+
+## 拼音
+
+- jin1 zhang1 yu3 xu3 shi3 ， bu4 zhi1 han2 shi4 ming2 。
+
+- shi2 jiao1 shao3 xia2 ci1 ， dan4 you3 yi4 qu3 sheng1 。
+
+- si1 se4 sui2 ran3 yi4 ， ze2 jiao1 shi4 suo3 gui4 。
+
+- zhu2 lin2 gu4 jie1 xian2 ， shan1 wang2 yi3 guan1 lei4 。
+
+- pao2 zhuo2 ke3 yan2 ke4 ， li2 geng1 wu2 shi4 fei1 。
+
+- tu3 si1 fei1 bu4 shen1 ， wu2 wu1 wei4 neng2 gui1 。
+
+- ge2 hua2 sui1 ke3 hou2 ， bu4 gan3 jian4 wei1 di4 。
+
+- mu4 nu2 hui4 zu2 bao3 ， kuan1 zuo4 shi2 nian2 ji4 。
+
+## 译文
+
+金张和许、史，不知道寒人姓名。石交小瑕疵，但有一个曲生。丝染不同颜色，选择交士人所重视。竹林本来都好，山王任命官员多次。杯酒可以延客，藜羹无是非。故土不是不深，没有房屋不能回家。革华虽然可以封侯，不敢踏上危险的地方。木奴会足够饱，宽作十年计划。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+金张和许、史，不知道寒人姓名。石交小瑕疵，但有一个曲生。丝染不同颜色，选择交士人所重视。竹林本来都好，山王任命官员多次。杯酒可以延客，藜羹无是非。故土不是不深，没有房屋不能回家。革华虽然可以封侯，不敢踏上危险的地方。木奴会足够饱，宽作十年计划。
+	* 此部分翻译来自AI，仅供参考

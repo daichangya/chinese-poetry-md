@@ -1,0 +1,45 @@
+---
+id: chen-zhu-ci-dai-shuai-chu-yu-ci-er-yue-shi-shi-bian-fen-lu-feng-die-cong
+title: 次戴帅初与次儿瀹诗
+author: 陈著
+authorSlug: chen-zhu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ci4 dai4 shuai4 chu1 yu3 ci4 er2 yue4 shi1
+authorPinyin: chen2 zhu4
+dynastyPinyin: song4
+canonicalPoemId: 477333
+canonicalAuthorId: 4346
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 世变纷绿蜂蝶丛，人情落落马牛风。
+
+- 山林犹喜典刑在，师友相从气义同。
+
+- 坎有亨心方善处，兑为丽泽要深穷。
+
+- 暮春乐处儿知否，好趁曾门咏舞童。
+
+## 拼音
+
+- shi4 bian4 fen1 lü4 feng1 die2 cong2 ， ren2 qing2 luo4 luo4 ma3 niu2 feng1 。
+
+- shan1 lin2 you2 xi3 dian3 xing2 zai4 ， shi1 you3 xiang1 cong2 qi4 yi4 tong2 。
+
+- kan3 you3 heng1 xin1 fang1 shan4 chu4 ， dui4 wei4 li4 ze2 yao4 shen1 qiong2 。
+
+- mu4 chun1 le4 chu4 er2 zhi1 fou3 ， hao3 chen4 ceng2 men2 yong3 wu3 tong2 。
+
+## 译文
+
+社会变化纷繁绿蜂蝶丛，人情落落马牛风。山林还是喜欢典刑在，师友相从正义同。坎有通心方妥善处理，兑为丽泽要深入探究。暮春乐处儿知道吗，喜欢趁曾门咏舞童。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+社会变化纷繁绿蜂蝶丛，人情落落马牛风。山林还是喜欢典刑在，师友相从正义同。坎有通心方妥善处理，兑为丽泽要深入探究。暮春乐处儿知道吗，喜欢趁曾门咏舞童。
+	* 此部分翻译来自AI，仅供参考

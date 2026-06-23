@@ -1,0 +1,45 @@
+---
+id: chen-zhu-yong-dai-shuai-chu-yun-ji-sun-chang-zhou-xi-rao-shan-yuan-yang-liu-zhe
+title: 用戴帅初韵寄孙常州
+author: 陈著
+authorSlug: chen-zhu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: yong4 dai4 shuai4 chu1 yun4 ji4 sun1 chang2 zhou1
+authorPinyin: chen2 zhu4
+dynastyPinyin: song4
+canonicalPoemId: 477898
+canonicalAuthorId: 4346
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 溪绕山园杨柳遮，战蜗国里退闲家。
+
+- 儿孙满眼堂万卷，宾客多贤馆五花。
+
+- 立脚东皋看倦鸟，回头温水笑跳蟆。
+
+- 相知惟有诗相寄，便羽一封三印斜。
+
+## 拼音
+
+- xi1 rao4 shan1 yuan2 yang2 liu3 zhe1 ， zhan4 wo1 guo2 li3 tui4 xian2 jia1 。
+
+- er2 sun1 man3 yan3 tang2 wan4 juan4 ， bin1 ke4 duo1 xian2 guan3 wu3 hua1 。
+
+- li4 jiao3 dong1 gao1 kan4 juan4 niao3 ， hui2 tou2 wen1 shui3 xiao4 tiao4 ma0 。
+
+- xiang1 zhi1 wei2 you3 shi1 xiang1 ji4 ， bian4 yu3 yi4 feng1 san1 yin4 xie2 。
+
+## 译文
+
+溪水绕山花园杨柳遮，在蜗国里退闲家。儿孙满眼万卷堂，宾客多贤馆五花。立足东皋看倦鸟，回头温水笑着跳膜。相知只有诗相寄，就羽一封三印斜。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+溪水绕山花园杨柳遮，在蜗国里退闲家。儿孙满眼万卷堂，宾客多贤馆五花。立足东皋看倦鸟，回头温水笑着跳膜。相知只有诗相寄，就羽一封三印斜。
+	* 此部分翻译来自AI，仅供参考

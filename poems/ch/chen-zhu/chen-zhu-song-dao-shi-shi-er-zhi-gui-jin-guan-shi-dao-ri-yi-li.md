@@ -1,0 +1,85 @@
+---
+id: chen-zhu-song-dao-shi-shi-er-zhi-gui-jin-guan-shi-dao-ri-yi-li
+title: 送道士十二侄归金观
+author: 陈著
+authorSlug: chen-zhu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: song4 dao4 shi4 shi2 er4 zhi2 gui1 jin1 guan1
+authorPinyin: chen2 zhu4
+dynastyPinyin: song4
+canonicalPoemId: 404328
+canonicalAuthorId: 4346
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 世道日以漓，人事日以非。
+
+- 吾宗昔昌繁，儒冠森巍巍。
+
+- 时节相会聚，燕笑芳菲菲。
+
+- 迩来岁复岁，存者星晨稀。
+
+- 我今七十九，奄奄一息微。
+
+- 汝亦七十八，褵褷旧羽衣。
+
+- 老我虽待尽，犹与坟墓依。
+
+- 而汝百里外，茕鹤傍孤飞。
+
+- 我非寿彭篯，汝非丁令威。
+
+- 年事已到此，余生露易晞。
+
+- 后会安可必，欲别增嘘欷。
+
+- 相送出门去，溪雪日无辉。
+
+- 我伫汝回首，此意知者希。
+
+- 丁宁且加餐，得健时一归。
+
+## 拼音
+
+- shi4 dao4 ri4 yi3 li2 ， ren2 shi4 ri4 yi3 fei1 。
+
+- wu2 zong1 xi1 chang1 fan2 ， ru2 guan1 sen1 wei1 wei1 。
+
+- shi2 jie2 xiang1 hui4 ju4 ， yan4 xiao4 fang1 fei1 fei1 。
+
+- er3 lai2 sui4 fu4 sui4 ， cun2 zhe3 xing1 chen2 xi1 。
+
+- wo3 jin1 qi1 shi2 jiu3 ， yan3 yan3 yi4 xi1 wei1 。
+
+- ru3 yi4 qi1 shi2 ba1 ， li2 shi1 jiu4 yu3 yi1 。
+
+- lao3 wo3 sui1 dai4 jin4 ， you2 yu3 fen2 mu4 yi1 。
+
+- er2 ru3 bai3 li3 wai4 ， qiong2 he4 bang4 gu1 fei1 。
+
+- wo3 fei1 shou4 peng2 jian3 ， ru3 fei1 ding1 ling4 wei1 。
+
+- nian2 shi4 yi3 dao4 ci3 ， yu2 sheng1 lu4 yi4 xi1 。
+
+- hou4 hui4 an1 ke3 bi4 ， yu4 bie2 zeng1 xu1 xi1 。
+
+- xiang1 song4 chu1 men2 qu4 ， xi1 xue3 ri4 wu2 hui1 。
+
+- wo3 zhu4 ru3 hui2 shou3 ， ci3 yi4 zhi1 zhe3 xi1 。
+
+- ding1 ning2 qie3 jia1 can1 ， de2 jian4 shi2 yi4 gui1 。
+
+## 译文
+
+世道日以漓江，人事天以不是。我们家族过去昌繁，儒冠森巍巍。时节相聚会，燕笑芳菲菲。近来一年又一年，存在的星清晨稀。我现在79，奄奄一息微。你也七十八，籀瞩旧羽毛做的衣服。老我虽然待尽，还与坟墓依。而你百里之外，孤独鹤旁我飞。我不是寿彭篯，你不是丁令威。年纪已经到这里，我生在易干。后会怎么能肯定，要另外增加感慨。相送出门走了，溪雪一天没有光辉。我等待你回头，这个想法知道的很少。丁宁且加餐，得到健康时一回。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+世道日以漓江，人事天以不是。我们家族过去昌繁，儒冠森巍巍。时节相聚会，燕笑芳菲菲。近来一年又一年，存在的星清晨稀。我现在79，奄奄一息微。你也七十八，籀瞩旧羽毛做的衣服。老我虽然待尽，还与坟墓依。而你百里之外，孤独鹤旁我飞。我不是寿彭篯，你不是丁令威。年纪已经到这里，我生在易干。后会怎么能肯定，要另外增加感慨。相送出门走了，溪雪一天没有光辉。我等待你回头，这个想法知道的很少。丁宁且加餐，得到健康时一回。
+	* 此部分翻译来自AI，仅供参考

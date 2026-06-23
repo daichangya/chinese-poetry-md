@@ -1,0 +1,45 @@
+---
+id: chen-yu-yi-shu-huai-shi-you-shi-shou-zhong-shu-lao-yi-jing
+title: 书怀示友十首
+author: 陈与义
+authorSlug: chen-yu-yi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: shu1 huai2 shi4 you3 shi2 shou3
+authorPinyin: chen2 yu3 yi4
+dynastyPinyin: song4
+canonicalPoemId: 564104
+canonicalAuthorId: 4531
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 仲舒老一经，策世非所长。
+
+- 瓦鼎荐蔬食，但取充饥肠。
+
+- 伟哉贾生书，开阖有耿光。
+
+- 既珍亦可饱，举俗不见尝。
+
+## 拼音
+
+- zhong4 shu1 lao3 yi4 jing1 ， ce4 shi4 fei1 suo3 chang2 。
+
+- wa3 ding3 jian4 shu1 shi2 ， dan4 qu3 chong1 ji1 chang2 。
+
+- wei3 zai1 jia3 sheng1 shu1 ， kai1 he2 you3 geng3 guang1 。
+
+- ji4 zhen1 yi4 ke3 bao3 ， ju3 su2 bu2 jian4 chang2 。
+
+## 译文
+
+董仲舒老一经，孙策世不是长处。瓦鼎推荐素食，只要充饥肠。伟大贾谊书，开合有耿光。既珍也可以饱，世俗不见曾。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+董仲舒老一经，孙策世不是长处。瓦鼎推荐素食，只要充饥肠。伟大贾谊书，开合有耿光。既珍也可以饱，世俗不见曾。
+	* 此部分翻译来自AI，仅供参考

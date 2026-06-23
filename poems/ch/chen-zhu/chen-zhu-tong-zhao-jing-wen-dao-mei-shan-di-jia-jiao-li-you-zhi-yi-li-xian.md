@@ -1,0 +1,45 @@
+---
+id: chen-zhu-tong-zhao-jing-wen-dao-mei-shan-di-jia-jiao-li-you-zhi-yi-li-xian
+title: 同赵景文到梅山弟家
+author: 陈著
+authorSlug: chen-zhu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: tong2 zhao4 jing3 wen2 dao4 mei2 shan1 di4 jia1
+authorPinyin: chen2 zhu4
+dynastyPinyin: song4
+canonicalPoemId: 477668
+canonicalAuthorId: 4346
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 脚力犹支一里闲，得闲便不记艰难。
+
+- 可人本色山林屋，避世珍羞芋栗盘。
+
+- 来往任教诗眼热，笑谈能化老身寒。
+
+- 感怀棠棣诗章在，试把丝桐檃括弹。
+
+## 拼音
+
+- jiao3 li4 you2 zhi1 yi4 li3 xian2 ， de2 xian2 bian4 bu2 ji4 jian1 nan2 。
+
+- ke3 ren2 ben3 se4 shan1 lin2 wu1 ， bi4 shi4 zhen1 xiu1 yu4 li4 pan2 。
+
+- lai2 wang3 ren4 jiao4 shi1 yan3 re4 ， xiao4 tan2 neng2 hua4 lao3 shen1 han2 。
+
+- gan3 huai2 tang2 di4 shi1 zhang1 zai4 ， shi4 ba3 si1 tong2 yin3 kuo4 tan2 。
+
+## 译文
+
+腿力还支持一里闲，得闲就不记得艰难。可以人本色山林屋，避世山珍海味芋栗盘。来往任教诗眼热，笑话能变老身体寒冷。感念棠棣诗文在，试着把丝桐檃括弹。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+腿力还支持一里闲，得闲就不记得艰难。可以人本色山林屋，避世山珍海味芋栗盘。来往任教诗眼热，笑话能变老身体寒冷。感念棠棣诗文在，试着把丝桐檃括弹。
+	* 此部分翻译来自AI，仅供参考

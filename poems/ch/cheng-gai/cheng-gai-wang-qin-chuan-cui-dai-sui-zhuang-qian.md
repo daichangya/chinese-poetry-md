@@ -1,0 +1,53 @@
+---
+id: cheng-gai-wang-qin-chuan-cui-dai-sui-zhuang-qian
+title: 望秦川
+author: 程垓
+authorSlug: cheng-gai
+dynasty: 宋
+dynastySlug: song
+titlePinyin: wang4 qin2 chuan1
+authorPinyin: cheng2 gai1
+dynastyPinyin: song4
+canonicalPoemId: 398396
+canonicalAuthorId: 12116
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 翠黛随妆浅，铢衣称体香。
+
+- 好风偏与十分凉。
+
+- 却扇含情独自、绕池塘。
+
+- 碧藕丝丝嫩，红榴叶叶双。
+
+- 牵丝摘叶为谁忙。
+
+- 情到厌厌拚醉、又何妨。
+
+## 拼音
+
+- cui4 dai4 sui2 zhuang1 qian3 ， zhu1 yi1 cheng1 ti3 xiang1 。
+
+- hao3 feng1 pian1 yu3 shi2 fen1 liang2 。
+
+- que4 shan4 han2 qing2 du2 zi4 、 rao4 chi2 tang2 。
+
+- bi4 ou3 si1 si1 nen4 ， hong2 liu2 ye4 ye4 shuang1 。
+
+- qian1 si1 zhai1 ye4 wei4 shui2 mang2 。
+
+- qing2 dao4 yan4 yan4 pin1 zui4 、 you4 he2 fang2 。
+
+## 译文
+
+翠眉跟妆浅，刘铢衣称体香。好风偏和十分凉。却煽动含情独自、绕着池塘。碧藕丝丝嫩，红石榴叶叶双。牵丝摘叶为谁忙。情到厌厌拼陶醉、又何妨。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+翠眉跟妆浅，刘铢衣称体香。好风偏和十分凉。却煽动含情独自、绕着池塘。碧藕丝丝嫩，红石榴叶叶双。牵丝摘叶为谁忙。情到厌厌拼陶醉、又何妨。
+	* 此部分翻译来自AI，仅供参考

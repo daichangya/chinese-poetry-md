@@ -1,0 +1,45 @@
+---
+id: chen-zhu-ci-yun-dong-gao-si-zhu-seng-zhi-gong-jian-ji-ping-di-qi-cong-lin
+title: 次韵东皋寺主僧知恭见寄
+author: 陈著
+authorSlug: chen-zhu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ci4 yun4 dong1 gao1 si4 zhu3 seng1 zhi1 gong1 jian4 ji4
+authorPinyin: chen2 zhu4
+dynastyPinyin: song4
+canonicalPoemId: 404167
+canonicalAuthorId: 4346
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 平地起丛林，工夫岁月深。
+
+- 百吟三教髓，一饭十方心。
+
+- 惯听人传说，闲将梦去寻。
+
+- 书来足自慰，亦是老知音。
+
+## 拼音
+
+- ping2 di4 qi3 cong2 lin2 ， gong1 fu1 sui4 yue4 shen1 。
+
+- bai3 yin2 san1 jiao4 sui3 ， yi2 fan4 shi2 fang1 xin1 。
+
+- guan4 ting1 ren2 chuan2 shuo1 ， xian2 jiang1 meng4 qu4 xun2 。
+
+- shu1 lai2 zu2 zi4 wei4 ， yi4 shi4 lao3 zhi1 yin1 。
+
+## 译文
+
+平地起丛林，工夫岁月深。百吟三教髓，一顿饭十方心。惯听人传说，熟悉将梦去寻。书来满足自我安慰，这也是老知音。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+平地起丛林，工夫岁月深。百吟三教髓，一顿饭十方心。惯听人传说，熟悉将梦去寻。书来满足自我安慰，这也是老知音。
+	* 此部分翻译来自AI，仅供参考

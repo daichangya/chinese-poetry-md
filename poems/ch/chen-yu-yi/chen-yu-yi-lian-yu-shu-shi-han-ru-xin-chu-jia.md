@@ -1,0 +1,45 @@
+---
+id: chen-yu-yi-lian-yu-shu-shi-han-ru-xin-chu-jia
+title: 连雨书事
+author: 陈与义
+authorSlug: chen-yu-yi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: lian2 yu3 shu1 shi4
+authorPinyin: chen2 yu3 yi4
+dynastyPinyin: song4
+canonicalPoemId: 362860
+canonicalAuthorId: 4531
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 寒入薪刍价，连天两眼愁。
+
+- 生涯赤藤杖，契分黑貂裘。
+
+- 乌鹊无言暮，蓬蒿满意秋。
+
+- 同时不同味，世事剧悠悠。
+
+## 拼音
+
+- han2 ru4 xin1 chu2 jia4 ， lian2 tian1 liang3 yan3 chou2 。
+
+- sheng1 ya2 chi4 teng2 zhang4 ， qi4 fen1 hei1 diao1 qiu2 。
+
+- wu1 que4 wu2 yan2 mu4 ， peng2 hao1 man3 yi4 qiu1 。
+
+- tong2 shi2 bu4 tong2 wei4 ， shi4 shi4 ju4 you1 you1 。
+
+## 译文
+
+寒入柴草价，连续天两眼愁。生涯红色藤条杖，契分貂裘。乌鹊没有说晚上，蓬蒿满意秋季。同时不一样，时事剧悠悠。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+寒入柴草价，连续天两眼愁。生涯红色藤条杖，契分貂裘。乌鹊没有说晚上，蓬蒿满意秋季。同时不一样，时事剧悠悠。
+	* 此部分翻译来自AI，仅供参考

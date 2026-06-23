@@ -1,0 +1,73 @@
+---
+id: chen-zhu-kan-hua-yin-shao-ling-ye-lao-lao-geng-chi
+title: 看花吟
+author: 陈著
+authorSlug: chen-zhu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: kan4 hua1 yin2
+authorPinyin: chen2 zhu4
+dynastyPinyin: song4
+canonicalPoemId: 477600
+canonicalAuthorId: 4346
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 少陵野老老更痴，看花看开千万枝。
+
+- 安乐窝中打乖叟，看花只看半开时。
+
+- 二贤看花各有意，我亦有意看离披。
+
+- 红飞换得绿阴出，潇洒颇与老眼宜。
+
+- 麦风扬尘野色秀，梅雨蒸叶香气滋。
+
+- 避人好鸟著巢稳，争春蜂蝶今何之。
+
+- 本来生意无间断，静看游戏造物儿。
+
+- 不观圣人画剥卦，剥穷于上复下随。
+
+- 嗟乎人事正如此，盛非终盛衰非衰。
+
+- 衰盛相乘乃常理，盛不必喜衰奚悲。
+
+- 谁知世情偏喜盛，我看花衰我自知。
+
+## 拼音
+
+- shao3 ling2 ye3 lao3 lao3 geng4 chi1 ， kan4 hua1 kan4 kai1 qian1 wan4 zhi1 。
+
+- an1 le4 wo1 zhong1 da3 guai1 sou3 ， kan4 hua1 zhi1 kan4 ban4 kai1 shi2 。
+
+- er4 xian2 kan4 hua1 ge4 you3 yi4 ， wo3 yi4 you3 yi4 kan4 li2 pi1 。
+
+- hong2 fei1 huan4 de2 lü4 yin1 chu1 ， xiao1 sa3 po1 yu3 lao3 yan3 yi2 。
+
+- mai4 feng1 yang2 chen2 ye3 se4 xiu4 ， mei2 yu3 zheng1 ye4 xiang1 qi4 zi1 。
+
+- bi4 ren2 hao3 niao3 zhu4 chao2 wen3 ， zheng1 chun1 feng1 die2 jin1 he2 zhi1 。
+
+- ben3 lai2 sheng1 yi4 wu2 jian4 duan4 ， jing4 kan4 you2 xi4 zao4 wu4 er2 。
+
+- bu4 guan1 sheng4 ren2 hua4 bao1 gua4 ， bao1 qiong2 yu2 shang4 fu4 xia4 sui2 。
+
+- jie1 hu1 ren2 shi4 zheng4 ru2 ci3 ， sheng4 fei1 zhong1 sheng4 shuai1 fei1 shuai1 。
+
+- shuai1 sheng4 xiang1 cheng2 nai3 chang2 li3 ， sheng4 bu2 bi4 xi3 shuai1 xi1 bei1 。
+
+- shui2 zhi1 shi4 qing2 pian1 xi3 sheng4 ， wo3 kan4 hua1 shuai1 wo3 zi4 zhi1 。
+
+## 译文
+
+少陵野老老更傻，看花看开千万枝。安乐窝中打违背老人，看花只看半开时。二贤看花各有意思，我也有意看分散。红飞换到绿阴出，潇洒很老了，眼睛应与。麦风扬起尘土野色秀，梅雨蒸腾叶香气更。避人喜欢鸟在巢稳，争春蜂蝶现在什么的。本来生意不间断，静看游戏造物主孩子。不看圣人剥卦画，剥尽在上再下随。唉人事情正是这样，盛不是最终盛衰不衰。盛衰相继就常理，盛不一定喜欢穿什么悲伤。谁知道世情偏喜盛，我自己知道我看花衰。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+少陵野老老更傻，看花看开千万枝。安乐窝中打违背老人，看花只看半开时。二贤看花各有意思，我也有意看分散。红飞换到绿阴出，潇洒很老了，眼睛应与。麦风扬起尘土野色秀，梅雨蒸腾叶香气更。避人喜欢鸟在巢稳，争春蜂蝶现在什么的。本来生意不间断，静看游戏造物主孩子。不看圣人剥卦画，剥尽在上再下随。唉人事情正是这样，盛不是最终盛衰不衰。盛衰相继就常理，盛不一定喜欢穿什么悲伤。谁知道世情偏喜盛，我自己知道我看花衰。
+	* 此部分翻译来自AI，仅供参考

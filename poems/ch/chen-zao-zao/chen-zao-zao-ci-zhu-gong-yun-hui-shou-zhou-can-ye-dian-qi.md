@@ -1,0 +1,45 @@
+---
+id: chen-zao-zao-ci-zhu-gong-yun-hui-shou-zhou-can-ye-dian-qi
+title: 次诸公韵
+author: 陈造
+authorSlug: chen-zao-zao
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ci4 zhu1 gong1 yun4
+authorPinyin: chen2 zao4
+dynastyPinyin: song4
+canonicalPoemId: 600000
+canonicalAuthorId: 5371
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 回首舟餐野店栖，何殊子美咏青泥。
+
+- 朅来贤将先回盼，径上诗坛许命题。
+
+- 举白烂陪山简醉，凝香到有武陵迷。
+
+- 异时过计今方悔，曾虑谈间彼子西。
+
+## 拼音
+
+- hui2 shou3 zhou1 can1 ye3 dian4 qi1 ， he2 shu1 zi3 mei3 yong3 qing1 ni2 。
+
+- qie4 lai2 xian2 jiang1 xian1 hui2 pan4 ， jing4 shang4 shi1 tan2 xu3 ming4 ti2 。
+
+- ju3 bai2 lan4 pei2 shan1 jian3 zui4 ， ning2 xiang1 dao4 you3 wu3 ling2 mi2 。
+
+- yi4 shi2 guo4 ji4 jin1 fang1 hui3 ， ceng2 lü4 tan2 jian1 bi3 zi3 xi1 。
+
+## 译文
+
+回首船餐野店栖，为什么你赞美咏青泥。归来贤能的将领先回盼，经上诗坛允许命题。举白烂陪山简醉，凝香到有武陵迷。异时超过估计现在才后悔，曾担心谈话间他子西。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+回首船餐野店栖，为什么你赞美咏青泥。归来贤能的将领先回盼，经上诗坛允许命题。举白烂陪山简醉，凝香到有武陵迷。异时超过估计现在才后悔，曾担心谈话间他子西。
+	* 此部分翻译来自AI，仅供参考

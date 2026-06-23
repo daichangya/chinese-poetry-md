@@ -1,0 +1,62 @@
+---
+id: cheng-da-chang-shui-diao-ge-tou-lu-jing-guan-huan-hui
+title: 水调歌头
+author: 程大昌
+authorSlug: cheng-da-chang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: shui3 diao4 ge1 tou2
+authorPinyin: cheng2 da4 chang1
+dynastyPinyin: song4
+canonicalPoemId: 335773
+canonicalAuthorId: 11618
+rhythmic: 水调歌头
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 绿净贯阛阓，夹岸是楼台。
+
+- 楼台分影倒卧，千丈郁崔嵬。
+
+- 此是化人奇变，能使山巅水底，对出两蓬莱。
+
+- 溪浒有仙观，苕霅信佳哉。
+
+- 水晶宫，谁著语，半嘲诙。
+
+- 世间那有，如许磊砢栋梁材。
+
+- 每遇天容全碧，仍更苹风不动，相与夜深来。
+
+- 饮子以明月，净洗旧尘埃。
+
+## 拼音
+
+- lü4 jing4 guan4 huan2 hui4 ， jia2 an4 shi4 lou2 tai2 。
+
+- lou2 tai2 fen1 ying3 dao3 wo4 ， qian1 zhang4 yu4 cui1 wei2 。
+
+- ci3 shi4 hua4 ren2 qi2 bian4 ， neng2 shi3 shan1 dian1 shui3 di3 ， dui4 chu1 liang3 peng2 lai2 。
+
+- xi1 hu3 you3 xian1 guan1 ， tiao2 zha4 xin4 jia1 zai1 。
+
+- shui3 jing1 gong1 ， shui2 zhu4 yu3 ， ban4 chao2 hui1 。
+
+- shi4 jian1 na4 you3 ， ru2 xu3 lei3 luo3 dong4 liang2 cai2 。
+
+- mei3 yu4 tian1 rong2 quan2 bi4 ， reng2 geng4 ping2 feng1 bu2 dong4 ， xiang1 yu3 ye4 shen1 lai2 。
+
+- yin3 zi3 yi3 ming2 yue4 ， jing4 xi3 jiu4 chen2 ai1 。
+
+## 译文
+
+绿色净穿透阛店铺，两岸是楼台。楼台分影倒躺在，千丈郁崔嵬。这是化人奇变，能使山顶水底，对从两个蓬莱。溪两岸有仙观，凌霄霅信好吗。水晶宫，谁在说话，半嘲讽诙谐。世上那有，如果允许累累栋梁材。每遇天能完成碧，并且更苹风不动，一起深夜来。喝子以明月，净洗旧尘埃。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+绿色净穿透阛店铺，两岸是楼台。楼台分影倒躺在，千丈郁崔嵬。这是化人奇变，能使山顶水底，对从两个蓬莱。溪两岸有仙观，凌霄霅信好吗。水晶宫，谁在说话，半嘲讽诙谐。世上那有，如果允许累累栋梁材。每遇天能完成碧，并且更苹风不动，一起深夜来。喝子以明月，净洗旧尘埃。
+	* 此部分翻译来自AI，仅供参考

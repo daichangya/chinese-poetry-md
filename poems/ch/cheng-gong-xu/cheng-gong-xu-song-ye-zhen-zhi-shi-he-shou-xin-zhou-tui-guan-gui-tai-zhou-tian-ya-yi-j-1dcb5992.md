@@ -1,0 +1,45 @@
+---
+id: cheng-gong-xu-song-ye-zhen-zhi-shi-he-shou-xin-zhou-tui-guan-gui-tai-zhou-tian-ya-yi-j-1dcb5992
+title: 送叶镇之释褐授信州推官归台州
+author: 程公许
+authorSlug: cheng-gong-xu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: song4 ye4 zhen4 zhi1 shi4 he4 shou4 xin4 zhou1 tui1 guan1 gui1 tai2 zhou1
+authorPinyin: cheng2 gong1 xu3
+dynastyPinyin: song4
+canonicalPoemId: 554808
+canonicalAuthorId: 3135
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 天涯一见便绸缪，二十年间诧两优。
+
+- 不以声名夸众隽，欲将文行辈前修。
+
+- 怀章趁酌椒觞寿，分幙还寻璧水游。
+
+- 蜀客念归归路醒，卜邻偿许傍丹丘。
+
+## 拼音
+
+- tian1 ya2 yi2 jian4 bian4 chou2 mou2 ， er4 shi2 nian2 jian1 cha4 liang3 you1 。
+
+- bu4 yi3 sheng1 ming2 kua1 zhong4 jun4 ， yu4 jiang1 wen2 hang2 bei4 qian2 xiu1 。
+
+- huai2 zhang1 chen4 zhuo2 jiao1 shang1 shou4 ， fen1 mu4 hai2 xun2 bi4 shui3 you2 。
+
+- shu3 ke4 nian4 gui1 gui1 lu4 xing3 ， bu3 lin2 chang2 xu3 bang4 dan1 qiu1 。
+
+## 译文
+
+天涯一出现便亲热，二十年之间在两优。不以名声夸耀大家隽，要将文行批前修。怀章借助喝椒酒祝寿，分官回来不久璧水游。蜀人念归归路醒，占卜邻居补偿允许旁边丹丘。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+天涯一出现便亲热，二十年之间在两优。不以名声夸耀大家隽，要将文行批前修。怀章借助喝椒酒祝寿，分官回来不久璧水游。蜀人念归归路醒，占卜邻居补偿允许旁边丹丘。
+	* 此部分翻译来自AI，仅供参考

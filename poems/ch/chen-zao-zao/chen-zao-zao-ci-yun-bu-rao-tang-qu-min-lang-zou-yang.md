@@ -1,0 +1,85 @@
+---
+id: chen-zao-zao-ci-yun-bu-rao-tang-qu-min-lang-zou-yang
+title: 次韵不扰堂
+author: 陈造
+authorSlug: chen-zao-zao
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ci4 yun4 bu4 rao3 tang2
+authorPinyin: chen2 zao4
+dynastyPinyin: song4
+canonicalPoemId: 601105
+canonicalAuthorId: 5371
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 取民狼走羊，胜之楚克庸。
+
+- 孰知召初，已赋大小东。
+
+- 贤侯守此道，力若拔山雄。
+
+- 深堂玩閴寂，翠影环蒙笼。
+
+- 泛应得天游，静镇副上衷。
+
+- 乐知前池鱼，吟当北窗风。
+
+- 情寄埃壒外，俗自和气中。
+
+- 高吟与杰作，铿谹而舂容。
+
+- 无欲民自朴，契钥今古同。
+
+- 即今美公孚，袖手自即功。
+
+- 坐令鞭蒲捐，宁遣马力穷。
+
+- 我心偕郡人，会当志原从。
+
+- 新年锋车南，帝渥看稠重。
+
+- 政声颍川上，可庸不作公。
+
+## 拼音
+
+- qu3 min2 lang2 zou3 yang2 ， sheng4 zhi1 chu3 ke4 yong1 。
+
+- shu2 zhi1 zhao4 chu1 ， yi3 fu4 da4 xiao3 dong1 。
+
+- xian2 hou2 shou3 ci3 dao4 ， li4 ruo4 ba2 shan1 xiong2 。
+
+- shen1 tang2 wan2 qu4 ji4 ， cui4 ying3 huan2 meng2 long2 。
+
+- fan4 ying1 de2 tian1 you2 ， jing4 zhen4 fu4 shang4 zhong1 。
+
+- le4 zhi1 qian2 chi2 yu2 ， yin2 dang1 bei3 chuang1 feng1 。
+
+- qing2 ji4 ai1 ai4 wai4 ， su2 zi4 he2 qi4 zhong1 。
+
+- gao1 yin2 yu3 jie2 zuo4 ， keng1 hong2 er2 chong1 rong2 。
+
+- wu2 yu4 min2 zi4 pu3 ， qi4 yao4 jin1 gu3 tong2 。
+
+- ji2 jin1 mei3 gong1 fu2 ， xiu4 shou3 zi4 ji2 gong1 。
+
+- zuo4 ling4 bian1 pu2 juan1 ， ning2 qian3 ma3 li4 qiong2 。
+
+- wo3 xin1 xie2 jun4 ren2 ， hui4 dang1 zhi4 yuan2 cong2 。
+
+- xin1 nian2 feng1 che1 nan2 ， di4 wo4 kan4 chou2 zhong4 。
+
+- zheng4 sheng1 ying3 chuan1 shang4 ， ke3 yong1 bu2 zuo4 gong1 。
+
+## 译文
+
+取民狼逃跑羊，胜利的楚克平庸。谁知道将开始，已分配大小东。您遵守这些原则，努力像拔山雄。深堂玩静养寂寞，翠影环绕笼罩。泛应得到天游，镇静副上适当。乐知前池中的鱼，在位于北窗风。情寄到壒外，一般从和气中。高吟和杰作，铿谹而舂容。没有要求从朴，契钥匙古今同。就是现在美公孚，袖手自己就是成功。坐令鞭蒲捐，宁派马力尽。我心同郡人，会志原从。新年锋车南，皇帝渥看稠重。政绩颖川上，可以一般不作公。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+取民狼逃跑羊，胜利的楚克平庸。谁知道将开始，已分配大小东。您遵守这些原则，努力像拔山雄。深堂玩静养寂寞，翠影环绕笼罩。泛应得到天游，镇静副上适当。乐知前池中的鱼，在位于北窗风。情寄到壒外，一般从和气中。高吟和杰作，铿谹而舂容。没有要求从朴，契钥匙古今同。就是现在美公孚，袖手自己就是成功。坐令鞭蒲捐，宁派马力尽。我心同郡人，会志原从。新年锋车南，皇帝渥看稠重。政绩颖川上，可以一般不作公。
+	* 此部分翻译来自AI，仅供参考

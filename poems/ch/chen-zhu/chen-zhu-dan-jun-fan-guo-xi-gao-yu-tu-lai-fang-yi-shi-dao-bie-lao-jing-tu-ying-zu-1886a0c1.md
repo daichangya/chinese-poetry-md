@@ -1,0 +1,45 @@
+---
+id: chen-zhu-dan-jun-fan-guo-xi-gao-yu-tu-lai-fang-yi-shi-dao-bie-lao-jing-tu-ying-zu-1886a0c1
+title: 单君范过西皋迂途来访一诗道别
+author: 陈著
+authorSlug: chen-zhu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: dan1 jun1 fan4 guo4 xi1 gao1 yu1 tu2 lai2 fang3 yi4 shi1 dao4 bie2
+authorPinyin: chen2 zhu4
+dynastyPinyin: song4
+canonicalPoemId: 404103
+canonicalAuthorId: 4346
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 老境途迎作梦看，出门相送是愁端。
+
+- 分携不去有心在，长揖无言回首难。
+
+- 雾雨暗山家信远，春风吹笠客心寒。
+
+- 儒生例是多劳役，幸得琴书路尚宽。
+
+## 拼音
+
+- lao3 jing4 tu2 ying2 zuo4 meng4 kan4 ， chu1 men2 xiang1 song4 shi4 chou2 duan1 。
+
+- fen1 xie2 bu2 qu4 you3 xin1 zai4 ， chang2 yi1 wu2 yan2 hui2 shou3 nan2 。
+
+- wu4 yu3 an4 shan1 jia1 xin4 yuan3 ， chun1 feng1 chui1 li4 ke4 xin1 han2 。
+
+- ru2 sheng1 li4 shi4 duo1 lao2 yi4 ， xing4 de2 qin2 shu1 lu4 shang4 kuan1 。
+
+## 译文
+
+老边境半路迎接作梦看，出门相送是愁端。分带不走有决心在，作揖不说回头难。雾雨暗山家相信远，春风吹着斗笠客人心里寒。儒生体例是多劳累，希望能够弹琴读书路还宽。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+老边境半路迎接作梦看，出门相送是愁端。分带不走有决心在，作揖不说回头难。雾雨暗山家相信远，春风吹着斗笠客人心里寒。儒生体例是多劳累，希望能够弹琴读书路还宽。
+	* 此部分翻译来自AI，仅供参考

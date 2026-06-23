@@ -1,0 +1,45 @@
+---
+id: chen-yu-yi-ji-de-sheng-da-guang-jun-wang-you-zhao-qi-qun-gong
+title: 寄德升大光
+author: 陈与义
+authorSlug: chen-yu-yi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ji4 de2 sheng1 da4 guang1
+authorPinyin: chen2 yu3 yi4
+dynastyPinyin: song4
+canonicalPoemId: 363091
+canonicalAuthorId: 4531
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 君王优诏起群公，也寘樵夫尺一中。
+
+- 易着青衫随世事，难将白发犯秋风。
+
+- 共谈太极非无意，能系苍生本不同。
+
+- 却倚紫阳千丈岭，遥瞻黄鹄九霄东。
+
+## 拼音
+
+- jun1 wang2 you1 zhao4 qi3 qun2 gong1 ， ye3 zhi4 qiao2 fu1 chi3 yi4 zhong1 。
+
+- yi4 zhe0 qing1 shan1 sui2 shi4 shi4 ， nan2 jiang1 bai2 fa4 fan4 qiu1 feng1 。
+
+- gong4 tan2 tai4 ji2 fei1 wu2 yi4 ， neng2 xi4 cang1 sheng1 ben3 bu4 tong2 。
+
+- que4 yi3 zi3 yang2 qian1 zhang4 ling3 ， yao2 zhan1 huang2 hu2 jiu3 xiao1 dong1 。
+
+## 译文
+
+君王优诏起群公，樵夫一中的婴儿。容易穿着青衫随世事，很难将白发犯秋风。共谈太极不是没有意义，能被人类本不相同。却靠紫阳千丈岭，遥瞻鹊九霄东。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+君王优诏起群公，樵夫一中的婴儿。容易穿着青衫随世事，很难将白发犯秋风。共谈太极不是没有意义，能被人类本不相同。却靠紫阳千丈岭，遥瞻鹊九霄东。
+	* 此部分翻译来自AI，仅供参考

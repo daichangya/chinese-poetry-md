@@ -1,0 +1,45 @@
+---
+id: cheng-gong-xu-ye-guo-ma-dang-shan-du-zai-shi-shu-chen-ye-hang
+title: 夜过马当山
+author: 程公许
+authorSlug: cheng-gong-xu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ye4 guo4 ma3 dang1 shan1
+authorPinyin: cheng2 gong1 xu3
+dynastyPinyin: song4
+canonicalPoemId: 554737
+canonicalAuthorId: 3135
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 独载诗书趁野航，自怜漂泊时光。
+
+- 残年准拟登牛首，连夜匆忙过马当。
+
+- 古庙荒寒江浸影，断岩凄惨石凝霜。
+
+- 壮怀未分甘衰老，回首长怀恨更长。
+
+## 拼音
+
+- du2 zai3 shi1 shu1 chen4 ye3 hang2 ， zi4 lian2 piao1 bo2 shi2 guang1 。
+
+- can2 nian2 zhun3 ni3 deng1 niu2 shou3 ， lian2 ye4 cong1 mang2 guo4 ma3 dang1 。
+
+- gu3 miao4 huang1 han2 jiang1 jin4 ying3 ， duan4 yan2 qi1 can3 shi2 ning2 shuang1 。
+
+- zhuang4 huai2 wei4 fen1 gan1 shuai1 lao3 ， hui2 shou3 zhang3 huai2 hen4 geng4 chang2 。
+
+## 译文
+
+只有把《诗》、《书》趁野航，自怜漂泊时光。残年准备登牛头，连夜匆匆忙过马当。古庙荒寒江浸影，断岩凄惨石凝霜。壮怀不甘愿衰老，回首长怀恨更长。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+只有把《诗》、《书》趁野航，自怜漂泊时光。残年准备登牛头，连夜匆匆忙过马当。古庙荒寒江浸影，断岩凄惨石凝霜。壮怀不甘愿衰老，回首长怀恨更长。
+	* 此部分翻译来自AI，仅供参考
