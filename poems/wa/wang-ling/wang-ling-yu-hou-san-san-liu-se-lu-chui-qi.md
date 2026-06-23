@@ -1,0 +1,45 @@
+---
+id: wang-ling-yu-hou-san-san-liu-se-lu-chui-qi
+title: 雨后
+author: 王令
+authorSlug: wang-ling
+dynasty: 宋
+dynastySlug: song
+titlePinyin: yu3 hou4
+authorPinyin: wang2 ling4
+dynastyPinyin: song4
+canonicalPoemId: 449253
+canonicalAuthorId: 4127
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 毵毵柳色绿垂齐，草引青天去自迷。
+
+- 人说春园有寻路，我嗟荒径正行泥。
+
+- 蝶多平日浑如梦，花好谁家又有蹊。
+
+- 儿女狂娇随马逐，高眠可惜日垂西。
+
+## 拼音
+
+- san1 san1 liu3 se4 lü4 chui2 qi2 ， cao3 yin3 qing1 tian1 qu4 zi4 mi2 。
+
+- ren2 shuo1 chun1 yuan2 you3 xun2 lu4 ， wo3 jie1 huang1 jing4 zheng4 xing2 ni2 。
+
+- die2 duo1 ping2 ri4 hun2 ru2 meng4 ， hua1 hao3 shui2 jia1 you4 you3 qi1 。
+
+- er2 nü3 kuang2 jiao1 sui2 ma3 zhu2 ， gao1 mian2 ke3 xi1 ri4 chui2 xi1 。
+
+## 译文
+
+毵毵柳绿色垂齐，草引青天离开自己迷惑。人说春园有寻路，我感叹荒径正行泥。蝴蝶多平时浑如梦，花喜欢谁家又有路。儿女狂娇随马追逐，高眠可惜天垂西。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+毵毵柳绿色垂齐，草引青天离开自己迷惑。人说春园有寻路，我感叹荒径正行泥。蝴蝶多平时浑如梦，花喜欢谁家又有路。儿女狂娇随马追逐，高眠可惜天垂西。
+	* 此部分翻译来自AI，仅供参考

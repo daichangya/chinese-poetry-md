@@ -1,0 +1,45 @@
+---
+id: wang-ruan-ci-lu-wu-guan-yun-ji-wang-jing-wen-yi-shou-shuo-feng-yao-chu-shui
+title: 次陆务观韵寄王景文一首
+author: 王阮
+authorSlug: wang-ruan
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ci4 lu4 wu4 guan1 yun4 ji4 wang2 jing3 wen2 yi4 shou3
+authorPinyin: wang2 ruan3
+dynastyPinyin: song4
+canonicalPoemId: 634835
+canonicalAuthorId: 7940
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 朔风摇楚水，国步益艰辛。
+
+- 往事忽成梦，逆胡何日臣。
+
+- 凡今天下士，皆昔座中人。
+
+- 尚被中原发，烦君与正巾。
+
+## 拼音
+
+- shuo4 feng1 yao2 chu3 shui3 ， guo2 bu4 yi4 jian1 xin1 。
+
+- wang3 shi4 hu1 cheng2 meng4 ， ni4 hu2 he2 ri4 chen2 。
+
+- fan2 jin1 tian1 xia4 shi4 ， jie1 xi1 zuo4 zhong1 ren2 。
+
+- shang4 bei4 zhong1 yuan2 fa1 ， fan2 jun1 yu3 zheng4 jin1 。
+
+## 译文
+
+北风摇楚水，国家更加艰辛。往事突然成梦，叛逆的胡人何天我。现在天下的士人，都从前座中的人。还被中原发，麻烦你与正巾。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+北风摇楚水，国家更加艰辛。往事突然成梦，叛逆的胡人何天我。现在天下的士人，都从前座中的人。还被中原发，麻烦你与正巾。
+	* 此部分翻译来自AI，仅供参考

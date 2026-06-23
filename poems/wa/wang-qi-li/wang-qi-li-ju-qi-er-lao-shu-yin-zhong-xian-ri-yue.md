@@ -1,0 +1,23 @@
+---
+id: wang-qi-li-ju-qi-er-lao-shu-yin-zhong-xian-ri-yue
+title: 句 其二
+author: 王企立
+authorSlug: wang-qi-li
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ju4   qi2 er4
+authorPinyin: wang2 qi3 li4
+dynastyPinyin: song4
+canonicalPoemId: 455155
+canonicalAuthorId: 16126
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 老树阴中闲日月，小池波面醉家乡。
+
+## 拼音
+
+- lao3 shu4 yin1 zhong1 xian2 ri4 yue4 ， xiao3 chi2 bo1 mian4 zui4 jia1 xiang1 。

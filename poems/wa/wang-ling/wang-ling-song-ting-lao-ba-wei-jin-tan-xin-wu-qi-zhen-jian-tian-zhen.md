@@ -1,0 +1,45 @@
+---
+id: wang-ling-song-ting-lao-ba-wei-jin-tan-xin-wu-qi-zhen-jian-tian-zhen
+title: 送庭老罢尉金坛
+author: 王令
+authorSlug: wang-ling
+dynasty: 宋
+dynastySlug: song
+titlePinyin: song4 ting2 lao3 ba4 wei4 jin1 tan2
+authorPinyin: wang2 ling4
+dynastyPinyin: song4
+canonicalPoemId: 449369
+canonicalAuthorId: 4127
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 心无畦畛见天真，落落男儿七尺身。
+
+- 莫叹一官淹圣代，聊将三釜慰慈亲。
+
+- 月明空照居民侣，风急随飘去马尘。
+
+- 寂寞西轩人别后，海棠花好为谁春。
+
+## 拼音
+
+- xin1 wu2 qi2 zhen3 jian4 tian1 zhen1 ， luo4 luo4 nan2 er2 qi1 chi3 shen1 。
+
+- mo4 tan4 yi4 guan1 yan1 sheng4 dai4 ， liao2 jiang1 san1 fu3 wei4 ci2 qin1 。
+
+- yue4 ming2 kong1 zhao4 ju1 min2 lü3 ， feng1 ji2 sui2 piao1 qu4 ma3 chen2 。
+
+- ji4 mo4 xi1 xuan1 ren2 bie2 hou4 ， hai3 tang2 hua1 hao3 wei4 shui2 chun1 。
+
+## 译文
+
+心不在区分见天真，孤独男孩七尺身。莫叹一官淹巨变，姑且将三锅安慰父母。月空照居民伴侣，风急随着飘离马尘。寂寞西轩人分手后，海棠花好为谁春。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+心不在区分见天真，孤独男孩七尺身。莫叹一官淹巨变，姑且将三锅安慰父母。月空照居民伴侣，风急随着飘离马尘。寂寞西轩人分手后，海棠花好为谁春。
+	* 此部分翻译来自AI，仅供参考
