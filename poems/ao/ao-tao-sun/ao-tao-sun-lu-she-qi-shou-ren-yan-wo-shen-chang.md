@@ -1,0 +1,53 @@
+---
+id: ao-tao-sun-lu-she-qi-shou-ren-yan-wo-shen-chang
+title: 旅舍七首
+author: 敖陶孙
+authorSlug: ao-tao-sun
+dynasty: 宋
+dynastySlug: song
+titlePinyin: lü3 she4 qi1 shou3
+authorPinyin: ao2 tao2 sun1
+dynastyPinyin: song4
+canonicalPoemId: 333998
+canonicalAuthorId: 7361
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 人言我身长，尽度难为裁。
+
+- 居然一瓠壶，略可当酒杯。
+
+- 只交市井谈，面涴俗子埃。
+
+- 谓予倘不化，未觉逆旅猜。
+
+- 但恐醉语误，积毁能焚骸。
+
+- 殷勤王先生，脱袜何贤哉。
+
+## 拼音
+
+- ren2 yan2 wo3 shen1 chang2 ， jin4 du4 nan2 wei2 cai2 。
+
+- ju1 ran2 yi2 hu4 hu2 ， lüe4 ke3 dang1 jiu3 bei1 。
+
+- zhi1 jiao1 shi4 jing3 tan2 ， mian4 wo4 su2 zi3 ai1 。
+
+- wei4 yu3 tang3 bu2 hua4 ， wei4 jue2 ni4 lü3 cai1 。
+
+- dan4 kong3 zui4 yu3 wu4 ， ji1 hui3 neng2 fen2 hai2 。
+
+- yin1 qin2 wang2 xian1 sheng1 ， tuo1 wa4 he2 xian2 zai1 。
+
+## 译文
+
+人们说我身高，尽估计很难被裁定。居然一只葫芦，大致可将酒杯。只交市场谈，面沾到俗人埃。说如果我不化，没有发现旅馆猜疑。恐怕醉语错误，积毁能焚烧尸体。殷勤王先生，脱袜怎么贤良呢。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+人们说我身高，尽估计很难被裁定。居然一只葫芦，大致可将酒杯。只交市场谈，面沾到俗人埃。说如果我不化，没有发现旅馆猜疑。恐怕醉语错误，积毁能焚烧尸体。殷勤王先生，脱袜怎么贤良呢。
+	* 此部分翻译来自AI，仅供参考
