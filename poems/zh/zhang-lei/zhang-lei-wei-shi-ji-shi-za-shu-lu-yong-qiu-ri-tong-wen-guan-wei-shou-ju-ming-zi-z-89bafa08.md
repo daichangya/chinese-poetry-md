@@ -1,0 +1,45 @@
+---
+id: zhang-lei-wei-shi-ji-shi-za-shu-lu-yong-qiu-ri-tong-wen-guan-wei-shou-ju-ming-zi-z-89bafa08
+title: 未试即事杂书率用秋日同文馆为首句
+author: 张耒
+authorSlug: zhang-lei
+dynasty: 宋
+dynastySlug: song
+titlePinyin: wei4 shi4 ji2 shi4 za2 shu1 lü4 yong4 qiu1 ri4 tong2 wen2 guan3 wei2 shou3 ju4
+authorPinyin: zhang1 lei3
+dynastyPinyin: song4
+canonicalPoemId: 608266
+canonicalAuthorId: 6074
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 名自诸侯选，功收一日长。
+
+- 文章杂蛟蚓，丹墨有淡凉。
+
+- 平昔曾充贡，酸寒未易忘。
+
+- 书生成底事，饱死笑东方。
+
+## 拼音
+
+- ming2 zi4 zhu1 hou2 xuan3 ， gong1 shou1 yi2 ri4 chang2 。
+
+- wen2 zhang1 za2 jiao1 yin3 ， dan1 mo4 you3 dan4 liang2 。
+
+- ping2 xi1 ceng2 chong1 gong4 ， suan1 han2 wei4 yi4 wang4 。
+
+- shu1 sheng1 cheng2 di3 shi4 ， bao3 si3 xiao4 dong1 fang1 。
+
+## 译文
+
+名自诸侯选，成功收集一日长。文章杂蛟蚯蚓，丹墨有淡凉。过去曾充任贡，酸寒不容易忘记。书生成底事，饱死笑着东方。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+名自诸侯选，成功收集一日长。文章杂蛟蚯蚓，丹墨有淡凉。过去曾充任贡，酸寒不容易忘记。书生成底事，饱死笑着东方。
+	* 此部分翻译来自AI，仅供参考

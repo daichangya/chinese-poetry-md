@@ -1,0 +1,45 @@
+---
+id: zhang-ji-shi-zhi-lan-xi-yi-ji-tai-chang-wang-cheng-du-shang-qi-pan-qu
+title: 使至蓝谿驿，寄太常王丞
+author: 张籍
+authorSlug: zhang-ji
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: shi3 zhi4 lan2 xi1 yi4 ， ji4 tai4 chang2 wang2 cheng2
+authorPinyin: zhang1 ji2
+dynastyPinyin: tang2
+canonicalPoemId: 388303
+canonicalAuthorId: 139
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 独上七盘去，峰峦转转稠。
+
+- 云中迷象鼻，雨里下筝头。
+
+- 水没荒桥路，鸦啼古驿楼。
+
+- 君今在城阙，肯见此中愁。
+
+## 拼音
+
+- du2 shang4 qi1 pan2 qu4 ， feng1 luan2 zhuan3 zhuan3 chou2 。
+
+- yun2 zhong1 mi2 xiang4 bi2 ， yu3 li3 xia4 zheng1 tou2 。
+
+- shui3 mei2 huang1 qiao2 lu4 ， ya1 ti2 gu3 yi4 lou2 。
+
+- jun1 jin1 zai4 cheng2 que1 ， ken3 jian4 ci3 zhong1 chou2 。
+
+## 译文
+
+独上七盘去，峰峦转转稠。云中迷象鼻，雨里下筝头。水没荒废桥路，鸦啼古驿楼。你现在在城市，肯看到这里面愁。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+独上七盘去，峰峦转转稠。云中迷象鼻，雨里下筝头。水没荒废桥路，鸦啼古驿楼。你现在在城市，肯看到这里面愁。
+	* 此部分翻译来自AI，仅供参考

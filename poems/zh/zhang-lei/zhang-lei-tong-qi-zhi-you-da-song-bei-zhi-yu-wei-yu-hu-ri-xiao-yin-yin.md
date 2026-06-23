@@ -1,0 +1,45 @@
+---
+id: zhang-lei-tong-qi-zhi-you-da-song-bei-zhi-yu-wei-yu-hu-ri-xiao-yin-yin
+title: 同器之游大宋陂值雨
+author: 张耒
+authorSlug: zhang-lei
+dynasty: 宋
+dynastySlug: song
+titlePinyin: tong2 qi4 zhi1 you2 da4 song4 bei1 zhi2 yu3
+authorPinyin: zhang1 lei3
+dynastyPinyin: song4
+canonicalPoemId: 418085
+canonicalAuthorId: 6074
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 微雨护日晓阴阴，春去余芳尚可寻。
+
+- 诗倚醉豪连卷写，酒逢勍敌百分斟。
+
+- 山光左右双屏画，雨脚峥嵘万羽林。
+
+- 沙路晚晴归马疾，一梳新月上烟岑。
+
+## 拼音
+
+- wei1 yu3 hu4 ri4 xiao3 yin1 yin1 ， chun1 qu4 yu2 fang1 shang4 ke3 xun2 。
+
+- shi1 yi3 zui4 hao2 lian2 juan4 xie3 ， jiu3 feng2 qing2 di2 bai3 fen1 zhen1 。
+
+- shan1 guang1 zuo3 you4 shuang1 ping2 hua4 ， yu3 jiao3 zheng1 rong2 wan4 yu3 lin2 。
+
+- sha1 lu4 wan3 qing2 gui1 ma3 ji2 ， yi4 shu1 xin1 yue4 shang4 yan1 cen2 。
+
+## 译文
+
+小雨护一天阴阴，春去芬芳还可以找到。诗倚醉豪连卷写，酒逢强敌百分比较。山光左右双屏风画，下脚峥嵘万羽。沙路晚晴回到马病，一梳新月上烟岑。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+小雨护一天阴阴，春去芬芳还可以找到。诗倚醉豪连卷写，酒逢强敌百分比较。山光左右双屏风画，下脚峥嵘万羽。沙路晚晴回到马病，一梳新月上烟岑。
+	* 此部分翻译来自AI，仅供参考

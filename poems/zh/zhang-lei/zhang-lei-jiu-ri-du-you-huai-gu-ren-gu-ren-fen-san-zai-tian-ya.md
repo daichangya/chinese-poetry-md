@@ -1,0 +1,45 @@
+---
+id: zhang-lei-jiu-ri-du-you-huai-gu-ren-gu-ren-fen-san-zai-tian-ya
+title: 九日独游怀故人
+author: 张耒
+authorSlug: zhang-lei
+dynasty: 宋
+dynastySlug: song
+titlePinyin: jiu3 ri4 du2 you2 huai2 gu4 ren2
+authorPinyin: zhang1 lei3
+dynastyPinyin: song4
+canonicalPoemId: 609824
+canonicalAuthorId: 6074
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 故人分散在天涯，九日登临独叹嗟。
+
+- 人世光阴催日日，乡闾时节自家家。
+
+- 风烟满眼临秋尽，鼓角荒城送日斜。
+
+- 取醉凭谁正乌帽，遣愁犹强插黄花。
+
+## 拼音
+
+- gu4 ren2 fen1 san4 zai4 tian1 ya2 ， jiu3 ri4 deng1 lin2 du2 tan4 jie1 。
+
+- ren2 shi4 guang1 yin1 cui1 ri4 ri4 ， xiang1 lü2 shi2 jie2 zi4 jia1 jia1 。
+
+- feng1 yan1 man3 yan3 lin2 qiu1 jin4 ， gu3 jiao3 huang1 cheng2 song4 ri4 xie2 。
+
+- qu3 zui4 ping2 shui2 zheng4 wu1 mao4 ， qian3 chou2 you2 qiang2 cha1 huang2 hua1 。
+
+## 译文
+
+所以人都分散在天涯，九天登临独自叹息。人世光阴催天天，乡里时节从家中家。风烟满眼临秋尽，鼓角荒城送太阳斜。取醉凭谁正黑帽，派忧愁还强插菊花。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+所以人都分散在天涯，九天登临独自叹息。人世光阴催天天，乡里时节从家中家。风烟满眼临秋尽，鼓角荒城送太阳斜。取醉凭谁正黑帽，派忧愁还强插菊花。
+	* 此部分翻译来自AI，仅供参考

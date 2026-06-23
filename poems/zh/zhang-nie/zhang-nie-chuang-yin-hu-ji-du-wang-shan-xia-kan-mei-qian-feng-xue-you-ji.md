@@ -1,0 +1,65 @@
+---
+id: zhang-nie-chuang-yin-hu-ji-du-wang-shan-xia-kan-mei-qian-feng-xue-you-ji
+title: 窗阴忽霁独往山下看梅
+author: 张嵲
+authorSlug: zhang-nie
+dynasty: 宋
+dynastySlug: song
+titlePinyin: chuang1 yin1 hu1 ji4 du2 wang3 shan1 xia4 kan4 mei2
+authorPinyin: zhang1 nie4
+dynastyPinyin: song4
+canonicalPoemId: 582689
+canonicalAuthorId: 5083
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 千峰雪犹积，万木春已回。
+
+- 穷阴倦羇束，忽欣阳景开。
+
+- 徐步出衡门，中野展幽怀。
+
+- 杖策遂侵寻，独下前山隈。
+
+- 惊湍激远飚，疏篁耿寒梅。
+
+- 婆娑时动容，似与客徘徊。
+
+- 岁晏益多感，况斯韶景催。
+
+- 暂赏岂所懽，离念方摧颓。
+
+- 还观增怆恻，三叹为谁来。
+
+## 拼音
+
+- qian1 feng1 xue3 you2 ji1 ， wan4 mu4 chun1 yi3 hui2 。
+
+- qiong2 yin1 juan4 ji1 shu4 ， hu1 xin1 yang2 jing3 kai1 。
+
+- xu2 bu4 chu1 heng2 men2 ， zhong1 ye3 zhan3 you1 huai2 。
+
+- zhang4 ce4 sui4 qin1 xun2 ， du2 xia4 qian2 shan1 wei1 。
+
+- jing1 tuan1 ji1 yuan3 biao1 ， shu1 huang2 geng3 han2 mei2 。
+
+- po2 suo1 shi2 dong4 rong2 ， si4 yu3 ke4 pai2 huai2 。
+
+- sui4 yan4 yi4 duo1 gan3 ， kuang4 si1 shao2 jing3 cui1 。
+
+- zan4 shang3 qi3 suo3 huan1 ， li2 nian4 fang1 cui1 tui2 。
+
+- hai2 guan1 zeng1 chuang4 ce4 ， san1 tan4 wei4 shui2 lai2 。
+
+## 译文
+
+千峰雪还积，万木春已回。穷阴疲倦羇束，忽然欣阳景开。慢慢步出衡门，田野中展幽怀。拄着拐杖就不久，只有下前山限。惊湍急远飙，疏竹耿冷梅。婆娑时感动，似乎与客人徘徊。岁末更多感，何况这美丽风景催。暂时赏赐怎么开心，离念正在毁坏。回看增伤心，三叹为谁来。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+千峰雪还积，万木春已回。穷阴疲倦羇束，忽然欣阳景开。慢慢步出衡门，田野中展幽怀。拄着拐杖就不久，只有下前山限。惊湍急远飙，疏竹耿冷梅。婆娑时感动，似乎与客人徘徊。岁末更多感，何况这美丽风景催。暂时赏赐怎么开心，离念正在毁坏。回看增伤心，三叹为谁来。
+	* 此部分翻译来自AI，仅供参考

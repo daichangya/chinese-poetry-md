@@ -1,0 +1,45 @@
+---
+id: zhang-lei-shi-er-yue-shi-qi-ri-yi-bing-jia-ju-cheng-wu-chang-ju-zhi-chuang-di-xia--6cd2198e
+title: 十二月十七日移病家居成五长句
+author: 张耒
+authorSlug: zhang-lei
+dynasty: 宋
+dynastySlug: song
+titlePinyin: shi2 er4 yue4 shi2 qi1 ri4 yi2 bing4 jia1 ju1 cheng2 wu3 chang2 ju4
+authorPinyin: zhang1 lei3
+dynastyPinyin: song4
+canonicalPoemId: 607160
+canonicalAuthorId: 6074
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 纸窗低下火炉边，有底直人意若便。
+
+- 移疾何妨闲五日，放慵犹欲醉终年。
+
+- 平生亲友怀天末，谈笑妻儿在目前。
+
+- 谁似匡庐白居士，暮年华发洛阳仙。
+
+## 拼音
+
+- zhi3 chuang1 di1 xia4 huo3 lu2 bian1 ， you3 di3 zhi2 ren2 yi4 ruo4 bian4 。
+
+- yi2 ji2 he2 fang2 xian2 wu3 ri4 ， fang4 yong1 you2 yu4 zui4 zhong1 nian2 。
+
+- ping2 sheng1 qin1 you3 huai2 tian1 mo4 ， tan2 xiao4 qi1 er2 zai4 mu4 qian2 。
+
+- shui2 si4 kuang1 lu2 bai2 ju1 shi4 ， mu4 nian2 hua2 fa4 luo4 yang2 xian1 。
+
+## 译文
+
+纸窗低火炉边，有人想到如果我们底直。称病何妨闲五天，放慵还想醉一年。平生亲友怀天际，谈笑妻子孩子在眼前。谁像庐山白居士，暮年华发洛阳仙。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+纸窗低火炉边，有人想到如果我们底直。称病何妨闲五天，放慵还想醉一年。平生亲友怀天际，谈笑妻子孩子在眼前。谁像庐山白居士，暮年华发洛阳仙。
+	* 此部分翻译来自AI，仅供参考

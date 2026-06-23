@@ -1,0 +1,45 @@
+---
+id: zhang-lei-tan-chun-you-gan-er-shou-chu-cheng-dan-guai-feng-guang-lao
+title: 探春有感二首
+author: 张耒
+authorSlug: zhang-lei
+dynasty: 宋
+dynastySlug: song
+titlePinyin: tan4 chun1 you3 gan3 er4 shou3
+authorPinyin: zhang1 lei3
+dynastyPinyin: song4
+canonicalPoemId: 607841
+canonicalAuthorId: 6074
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 出城但怪风光老，草色苍茫柳色深。
+
+- 烟树远浮春缥缈，风光不动日阴沉。
+
+- 芳郊未厌萦纡人，美酒何妨取次斟。
+
+- 羸马青衫亦何事，一生空负野人心。
+
+## 拼音
+
+- chu1 cheng2 dan4 guai4 feng1 guang1 lao3 ， cao3 se4 cang1 mang2 liu3 se4 shen1 。
+
+- yan1 shu4 yuan3 fu2 chun1 piao1 miao3 ， feng1 guang1 bu2 dong4 ri4 yin1 chen2 。
+
+- fang1 jiao1 wei4 yan4 ying2 yu1 ren2 ， mei3 jiu3 he2 fang2 qu3 ci4 zhen1 。
+
+- lei2 ma3 qing1 shan1 yi4 he2 shi4 ， yi4 sheng1 kong1 fu4 ye3 ren2 xin1 。
+
+## 译文
+
+出了城只怪风光老，草色苍茫柳色深。烟树远从春缥缈，风光不动天阴沉。芳郊祀不满足心绪人，不妨取次斟美酒。瘦马青衫也什么事，一生空背野人心。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+出了城只怪风光老，草色苍茫柳色深。烟树远从春缥缈，风光不动天阴沉。芳郊祀不满足心绪人，不妨取次斟美酒。瘦马青衫也什么事，一生空背野人心。
+	* 此部分翻译来自AI，仅供参考

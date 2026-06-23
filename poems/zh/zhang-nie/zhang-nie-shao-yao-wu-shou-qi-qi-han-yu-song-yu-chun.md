@@ -1,0 +1,37 @@
+---
+id: zhang-nie-shao-yao-wu-shou-qi-qi-han-yu-song-yu-chun
+title: 芍药五首
+author: 张嵲
+authorSlug: zhang-nie
+dynasty: 宋
+dynastySlug: song
+titlePinyin: shao2 yao4 wu3 shou3
+authorPinyin: zhang1 nie4
+dynastyPinyin: song4
+canonicalPoemId: 427236
+canonicalAuthorId: 5083
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 凄凄寒雨送余春，繁艳浓香慰病身。
+
+- 忽作暖风迟日想，慨然如在汉江滨。
+
+## 拼音
+
+- qi1 qi1 han2 yu3 song4 yu2 chun1 ， fan2 yan4 nong2 xiang1 wei4 bing4 shen1 。
+
+- hu1 zuo4 nuan3 feng1 chi2 ri4 xiang3 ， kai3 ran2 ru2 zai4 han4 jiang1 bin1 。
+
+## 译文
+
+凄凄寒雨送了我春，繁艳浓浓的香味安慰病人身。忽然变成暖风迟日想，慷慨好像在汉江边。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+凄凄寒雨送了我春，繁艳浓浓的香味安慰病人身。忽然变成暖风迟日想，慷慨好像在汉江边。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,45 @@
+---
+id: zhang-nie-he-shi-yuan-ci-yu-shu-yi-de-ge-tian-zhi-ge-pai-bing-du-jin-qi-min-qing-l-ab9a4093
+title: 贺师垣赐御书一德格天之阁牌并镀金器皿青罗
+author: 张嵲
+authorSlug: zhang-nie
+dynasty: 宋
+dynastySlug: song
+titlePinyin: he4 shi1 yuan2 ci4 yu4 shu1 yi4 de2 ge2 tian1 zhi1 ge2 pai2 bing4 du4 jin1 qi4 min3 qing1 luo2
+authorPinyin: zhang1 nie4
+dynastyPinyin: song4
+canonicalPoemId: 426952
+canonicalAuthorId: 5083
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 柳丝摇曳拂堤沙，瑞气中藏上相家。
+
+- 风动五云迷御俎，香从双阙赐天花。
+
+- 仙韶合奏尘飞尽，中使宣斟日未斜。
+
+- 既醉太平谁事业，为倾恩意入流霞。
+
+## 拼音
+
+- liu3 si1 yao2 ye4 fu2 di1 sha1 ， rui4 qi4 zhong1 cang2 shang4 xiang1 jia1 。
+
+- feng1 dong4 wu3 yun2 mi2 yu4 zu3 ， xiang1 cong2 shuang1 que1 ci4 tian1 hua1 。
+
+- xian1 shao2 he2 zou4 chen2 fei1 jin4 ， zhong1 shi3 xuan1 zhen1 ri4 wei4 xie2 。
+
+- ji4 zui4 tai4 ping2 shui2 shi4 ye4 ， wei4 qing1 en1 yi4 ru4 liu2 xia2 。
+
+## 译文
+
+柳丝摇荡拂堤沙，瑞气中藏上相家。风动五云迷御姐，香从双阙赐天花。仙韶合奏尘飞尽，中使前去斟一日斜。既醉太平谁事业，为使恩意入流霞。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+柳丝摇荡拂堤沙，瑞气中藏上相家。风动五云迷御姐，香从双阙赐天花。仙韶合奏尘飞尽，中使前去斟一日斜。既醉太平谁事业，为使恩意入流霞。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,70 @@
+---
+id: zhang-jiu-ling-nan-shan-xia-jiu-ju-xian-fang-zhi-yi-yi-yun-jiu
+title: 南山下旧居闲放
+author: 张九龄
+authorSlug: zhang-jiu-ling
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: nan2 shan1 xia4 jiu4 ju1 xian2 fang4
+authorPinyin: zhang1 jiu3 ling2
+dynastyPinyin: tang2
+canonicalPoemId: 498906
+canonicalAuthorId: 904
+tags:
+  - 诗词
+  - 御定全唐诗
+---
+
+## 正文
+
+- 祗役已云久，乘闲返服初。
+
+- 块然屏尘事，幽独坐林闾。
+
+- 清旷前山远，纷喧此地疏。
+
+- 乔木凌青霭，修篁媚绿渠。
+
+- 耳和绣翼鸟，目畅锦鳞鱼。
+
+- 寂寞心还间，飘飖体自虚。
+
+- 兴来命旨酒，临罢阅仙书。
+
+- 但乐多幽意，宁知有毁誉。
+
+- 尚想争名者，谁云要路居。
+
+- 都忘下流叹，倾夺竟何如。
+
+## 拼音
+
+- zhi1 yi4 yi3 yun2 jiu3 ， cheng2 xian2 fan3 fu2 chu1 。
+
+- kuai4 ran2 ping2 chen2 shi4 ， you1 du2 zuo4 lin2 lü2 。
+
+- qing1 kuang4 qian2 shan1 yuan3 ， fen1 xuan1 ci3 di4 shu1 。
+
+- qiao2 mu4 ling2 qing1 ai3 ， xiu1 huang2 mei4 lü4 qu2 。
+
+- er3 he2 xiu4 yi4 niao3 ， mu4 chang4 jin3 lin2 yu2 。
+
+- ji4 mo4 xin1 hai2 jian1 ， piao1 yao2 ti3 zi4 xu1 。
+
+- xing1 lai2 ming4 zhi3 jiu3 ， lin2 ba4 yue4 xian1 shu1 。
+
+- dan4 le4 duo1 you1 yi4 ， ning2 zhi1 you3 hui3 yu4 。
+
+- shang4 xiang3 zheng1 ming2 zhe3 ， shui2 yun2 yao4 lu4 ju1 。
+
+- dou1 wang4 xia4 liu2 tan4 ， qing1 duo2 jing4 he2 ru2 。
+
+## 译文
+
+祗战役已经说很久，乘闲返服初。孤独地摒弃尘事情，在独自坐在树林间。清旷前山远，繁华喧闹此地疏。乔木凌青霭，修竹林媚绿色渠道。耳和绣翼鸟，眼睛畅锦鳞鱼。寂寞心回之间，飘飘摇摇体从虚。兴来命令美酒，在停止阅读仙书。只是快乐多幽意，怎么知道有偏见。回想争名的人，谁说要路在。都忘记下游叹息，争夺怎么样。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+祗战役已经说很久，乘闲返服初。孤独地摒弃尘事情，在独自坐在树林间。清旷前山远，繁华喧闹此地疏。乔木凌青霭，修竹林媚绿色渠道。耳和绣翼鸟，眼睛畅锦鳞鱼。寂寞心回之间，飘飘摇摇体从虚。兴来命令美酒，在停止阅读仙书。只是快乐多幽意，怎么知道有偏见。回想争名的人，谁说要路在。都忘记下游叹息，争夺怎么样。
+	* 此部分翻译来自AI，仅供参考

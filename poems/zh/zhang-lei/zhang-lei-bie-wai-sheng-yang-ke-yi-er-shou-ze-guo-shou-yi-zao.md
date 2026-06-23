@@ -1,0 +1,45 @@
+---
+id: zhang-lei-bie-wai-sheng-yang-ke-yi-er-shou-ze-guo-shou-yi-zao
+title: 别外甥杨克一二首
+author: 张耒
+authorSlug: zhang-lei
+dynasty: 宋
+dynastySlug: song
+titlePinyin: bie2 wai4 sheng1 yang2 ke4 yi1 er4 shou3
+authorPinyin: zhang1 lei3
+dynastyPinyin: song4
+canonicalPoemId: 607531
+canonicalAuthorId: 6074
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 泽国授衣早，今辰𫄨纻单。
+
+- 孤城远目断，秋水去帆寒。
+
+- 相见不再少，此生何日闲。
+
+- 殷勤换美酒，要对蟹螫盘。
+
+## 拼音
+
+- ze2 guo2 shou4 yi1 zao3 ， jin1 chen2 chi1 zhu4 dan1 。
+
+- gu1 cheng2 yuan3 mu4 duan4 ， qiu1 shui3 qu4 fan1 han2 。
+
+- xiang1 jian4 bu2 zai4 shao3 ， ci3 sheng1 he2 ri4 xian2 。
+
+- yin1 qin2 huan4 mei3 jiu3 ， yao4 dui4 xie4 shi4 pan2 。
+
+## 译文
+
+泽国家授衣早，今天早晨麻制品单。孤城远目断，秋水去帆寒。相见却不能再少，这产生什么闲暇。殷勤换美酒，要对蟹螫盘。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+泽国家授衣早，今天早晨麻制品单。孤城远目断，秋水去帆寒。相见却不能再少，这产生什么闲暇。殷勤换美酒，要对蟹螫盘。
+	* 此部分翻译来自AI，仅供参考

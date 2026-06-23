@@ -1,0 +1,45 @@
+---
+id: zhang-ji-xian-jin-dan-shi-si-shi-ba-shou-jing-zuo-fen-xiang-nian-nian-zhong
+title: 金丹诗四十八首
+author: 张继先
+authorSlug: zhang-ji-xian
+dynasty: 宋
+dynastySlug: song
+titlePinyin: jin1 dan1 shi1 si4 shi2 ba1 shou3
+authorPinyin: zhang1 ji4 xian1
+dynastyPinyin: song4
+canonicalPoemId: 604719
+canonicalAuthorId: 5922
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 静坐焚香念念中，念中须见己形容。
+
+- 生成本藉铅中汞，变化端由火裹龙。
+
+- 二八莫辞频采造，一三还用苦交冲。
+
+- 此中有路通天去，可把尘踪继赤松。
+
+## 拼音
+
+- jing4 zuo4 fen2 xiang1 nian4 nian4 zhong1 ， nian4 zhong1 xu1 jian4 ji3 xing2 rong2 。
+
+- sheng1 cheng2 ben3 jie4 qian1 zhong1 gong3 ， bian4 hua4 duan1 you2 huo3 guo3 long2 。
+
+- er4 ba1 mo4 ci2 pin2 cai3 zao4 ， yi1 san1 hai2 yong4 ku3 jiao1 chong1 。
+
+- ci3 zhong1 you3 lu4 tong1 tian1 qu4 ， ke3 ba3 chen2 zong1 ji4 chi4 song1 。
+
+## 译文
+
+静坐焚香念念之中，念中需要看到自己形象。生成本藉铅中汞，变化原因火包龙。乐队没有推辞频繁采造，一个三后用苦交冲。此处有路通去，可以把灰尘足迹继赤松。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+静坐焚香念念之中，念中需要看到自己形象。生成本藉铅中汞，变化原因火包龙。乐队没有推辞频繁采造，一个三后用苦交冲。此处有路通去，可以把灰尘足迹继赤松。
+	* 此部分翻译来自AI，仅供参考

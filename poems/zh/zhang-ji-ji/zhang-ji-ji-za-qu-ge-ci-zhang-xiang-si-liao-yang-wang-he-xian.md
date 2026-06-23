@@ -1,0 +1,37 @@
+---
+id: zhang-ji-ji-za-qu-ge-ci-zhang-xiang-si-liao-yang-wang-he-xian
+title: 杂曲歌辞。长相思
+author: 张继
+authorSlug: zhang-ji-ji
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: za2 qu3 ge1 ci2 。 zhang3 xiang4 si1
+authorPinyin: zhang1 ji4
+dynastyPinyin: tang2
+canonicalPoemId: 442914
+canonicalAuthorId: 517
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 辽阳望河县，白首无由见。
+
+- 海上珊瑚枝，年年寄春燕。
+
+## 拼音
+
+- liao2 yang2 wang4 he2 xian4 ， bai2 shou3 wu2 you2 jian4 。
+
+- hai3 shang4 shan1 hu2 zhi1 ， nian2 nian2 ji4 chun1 yan4 。
+
+## 译文
+
+辽阳望河县，老无法看到。海上珊瑚枝，每年春天燕子寄。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+辽阳望河县，老无法看到。海上珊瑚枝，每年春天燕子寄。
+	* 此部分翻译来自AI，仅供参考

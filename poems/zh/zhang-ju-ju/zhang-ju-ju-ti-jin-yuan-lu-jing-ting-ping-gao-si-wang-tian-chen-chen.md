@@ -1,0 +1,35 @@
+---
+id: zhang-ju-ju-ti-jin-yuan-lu-jing-ting-ping-gao-si-wang-tian-chen-chen
+title: 题金渊绿净亭
+author: 张矩
+authorSlug: zhang-ju-ju
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ti2 jin1 yuan1 lü4 jing4 ting2
+authorPinyin: zhang1 ju3
+dynastyPinyin: song4
+canonicalPoemId: 417315
+canonicalAuthorId: 11760
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 凭高四望天沉沉，平芜远树横夕阴。
+
+- 碧云吐吞献奇象，乃知造物得我心。
+
+- 渔舟两两叠烟棹，白鸟出没沧波深。
+
+- 悠然呼酒纳幽致，须臾寒月照古琴。
+
+## 拼音
+
+- ping2 gao1 si4 wang4 tian1 chen2 chen2 ， ping2 wu2 yuan3 shu4 heng2 xi1 yin1 。
+
+- bi4 yun2 tu3 tun1 xian4 qi2 xiang4 ， nai3 zhi1 zao4 wu4 de2 wo3 xin1 。
+
+- yu2 zhou1 liang3 liang3 die2 yan1 zhao4 ， bai2 niao3 chu1 mo4 cang1 bo1 shen1 。
+
+- you1 ran2 hu1 jiu3 na4 you1 zhi4 ， xu1 yu2 han2 yue4 zhao4 gu3 qin2 。

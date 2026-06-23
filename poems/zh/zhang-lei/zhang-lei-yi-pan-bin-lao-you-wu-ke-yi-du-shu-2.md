@@ -1,0 +1,65 @@
+---
+id: zhang-lei-yi-pan-bin-lao-you-wu-ke-yi-du-shu-2
+title: 贻潘邠老：
+author: 张耒
+authorSlug: zhang-lei
+dynasty: 宋
+dynastySlug: song
+titlePinyin: yi2 pan1 bin1 lao3 ：
+authorPinyin: zhang1 lei3
+dynastyPinyin: song4
+canonicalPoemId: 608303
+canonicalAuthorId: 6074
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 有屋可以读书，有竹可以忘忧。
+
+- 采庭之菊香有余，烹园之蔬甘且柔。
+
+- 贤哉二子，又复何求。
+
+- 鬼不尔责，人不尔仇。
+
+- 沽酒可饮，江鱼可羞。
+
+- 又安用列鼎食珍，佩印封侯。
+
+- 我居柯西，相隔一里，可以杖履朝往而夕游。
+
+- 必未厌我乞醯与借马，但只恐勤君赤脚与露头。
+
+- 不然将吾颜子箪食瓢饮屡空之乐，又欲翻董生清明玉杯繁露之春秋。
+
+## 拼音
+
+- you3 wu1 ke3 yi3 du2 shu1 ， you3 zhu2 ke3 yi3 wang4 you1 。
+
+- cai3 ting2 zhi1 ju2 xiang1 you3 yu2 ， peng1 yuan2 zhi1 shu1 gan1 qie3 rou2 。
+
+- xian2 zai1 er4 zi3 ， you4 fu4 he2 qiu2 。
+
+- gui3 bu4 er3 ze2 ， ren2 bu4 er3 chou2 。
+
+- gu1 jiu3 ke3 yin3 ， jiang1 yu2 ke3 xiu1 。
+
+- you4 an1 yong4 lie4 ding3 shi2 zhen1 ， pei4 yin4 feng1 hou2 。
+
+- wo3 ju1 ke1 xi1 ， xiang1 ge2 yi4 li3 ， ke3 yi3 zhang4 lü3 chao2 wang3 er2 xi1 you2 。
+
+- bi4 wei4 yan4 wo3 qi3 xi1 yu3 jie4 ma3 ， dan4 zhi1 kong3 qin2 jun1 chi4 jiao3 yu3 lu4 tou2 。
+
+- bu4 ran2 jiang1 wu2 yan2 zi3 dan1 si4 piao2 yin3 lü3 kong1 zhi1 le4 ， you4 yu4 fan1 dong3 sheng1 qing1 ming2 yu4 bei1 fan2 lu4 zhi1 chun1 qiu1 。
+
+## 译文
+
+有屋顶可以读书，有竹子可以忘记忧愁。采院子里的菊花香有多，煮蔬菜园的甜而且温柔。贤哉二子，又还有什么要求。鬼不这样要求，人不你仇人。买酒可喝，江鱼可以吃。又怎么用列鼎进食珍，佩印封侯。我在柯西，相隔一里，可以用杖履朝去，晚上游。一定不能满足我乞醯与借马，只只恐怕勤你赤脚和露头。否则将我颜回粗茶淡饭经常是空的，又想翻董生清明玉杯的《春秋繁露。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+有屋顶可以读书，有竹子可以忘记忧愁。采院子里的菊花香有多，煮蔬菜园的甜而且温柔。贤哉二子，又还有什么要求。鬼不这样要求，人不你仇人。买酒可喝，江鱼可以吃。又怎么用列鼎进食珍，佩印封侯。我在柯西，相隔一里，可以用杖履朝去，晚上游。一定不能满足我乞醯与借马，只只恐怕勤你赤脚和露头。否则将我颜回粗茶淡饭经常是空的，又想翻董生清明玉杯的《春秋繁露。
+	* 此部分翻译来自AI，仅供参考

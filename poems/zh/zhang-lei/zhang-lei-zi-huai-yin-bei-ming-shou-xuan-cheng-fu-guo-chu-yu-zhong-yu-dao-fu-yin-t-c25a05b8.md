@@ -1,0 +1,57 @@
+---
+id: zhang-lei-zi-huai-yin-bei-ming-shou-xuan-cheng-fu-guo-chu-yu-zhong-yu-dao-fu-yin-t-c25a05b8
+title: 自淮阴被命守宣城复过楚雨中遇道孚因同诵楚
+author: 张耒
+authorSlug: zhang-lei
+dynasty: 宋
+dynastySlug: song
+titlePinyin: zi4 huai2 yin1 bei4 ming4 shou3 xuan1 cheng2 fu4 guo4 chu3 yu3 zhong1 yu4 dao4 fu2 yin1 tong2 song4 chu3
+authorPinyin: zhang1 lei3
+dynastyPinyin: song4
+canonicalPoemId: 609685
+canonicalAuthorId: 6074
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 秋庭新过雨，佳菊独秀先。
+
+- 含芳良未展，风气已清妍。
+
+- 金凤汝婢妾，红紫徒相鲜。
+
+- 老人对节物，昏昏只欲眼。
+
+- 与子读楚词，亹亹忽尽编。
+
+- 袅袅兮秋风，憀栗在远行。
+
+- 蟋蟀鸣西堂，淹留了无成。
+
+## 拼音
+
+- qiu1 ting2 xin1 guo4 yu3 ， jia1 ju2 du2 xiu4 xian1 。
+
+- han2 fang1 liang2 wei4 zhan3 ， feng1 qi4 yi3 qing1 yan2 。
+
+- jin1 feng4 ru3 bi4 qie4 ， hong2 zi3 tu2 xiang1 xian1 。
+
+- lao3 ren2 dui4 jie2 wu4 ， hun1 hun1 zhi1 yu4 yan3 。
+
+- yu3 zi3 du2 chu3 ci2 ， wei3 wei3 hu1 jin4 bian1 。
+
+- niao3 niao3 xi1 qiu1 feng1 ， liao2 li4 zai4 yuan3 xing2 。
+
+- xi1 shuai4 ming2 xi1 tang2 ， yan1 liu2 le0 wu2 cheng2 。
+
+## 译文
+
+秋庭新过雨，美菊独秀峰先。含芳好未展，风已清妍。金凤你婢妾，红紫人相少。老人回答节物，昏昏只想眼。给儿子读楚辞，勤勉不倦忽然全部编。袅袅兮秋风，憀栗在远行。蟋蟀鸣叫西堂，停留了不成。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+秋庭新过雨，美菊独秀峰先。含芳好未展，风已清妍。金凤你婢妾，红紫人相少。老人回答节物，昏昏只想眼。给儿子读楚辞，勤勉不倦忽然全部编。袅袅兮秋风，憀栗在远行。蟋蟀鸣叫西堂，停留了不成。
+	* 此部分翻译来自AI，仅供参考
