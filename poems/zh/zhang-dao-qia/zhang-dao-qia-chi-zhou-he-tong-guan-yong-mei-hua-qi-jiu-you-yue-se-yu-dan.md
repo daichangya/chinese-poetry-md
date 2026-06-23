@@ -1,0 +1,35 @@
+---
+id: zhang-dao-qia-chi-zhou-he-tong-guan-yong-mei-hua-qi-jiu-you-yue-se-yu-dan
+title: 池州和同官咏梅花 其九
+author: 张道洽
+authorSlug: zhang-dao-qia
+dynasty: 宋
+dynastySlug: song
+titlePinyin: chi2 zhou1 he2 tong2 guan1 yong3 mei2 hua1   qi2 jiu3
+authorPinyin: zhang1 dao4 qia4
+dynastyPinyin: song4
+canonicalPoemId: 438375
+canonicalAuthorId: 7370
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 有月色逾淡，无风香自生。
+
+- 霜崖和树瘦，冰壑养花清。
+
+- 政尔疏还冷，忽然斜又横。
+
+- 千林成独韵，难弟又难兄。
+
+## 拼音
+
+- you3 yue4 se4 yu2 dan4 ， wu2 feng1 xiang1 zi4 sheng1 。
+
+- shuang1 ya2 he2 shu4 shou4 ， bing1 he4 yang3 hua1 qing1 。
+
+- zheng4 er3 shu1 hai2 leng3 ， hu1 ran2 xie2 you4 heng2 。
+
+- qian1 lin2 cheng2 du2 yun4 ， nan2 di4 you4 nan2 xiong1 。

@@ -1,0 +1,69 @@
+---
+id: zhang-fu-3-song-feng-yuan-zhong-ru-shu-wo-ben-shan-zhong-ren
+title: 送冯圆仲入蜀
+author: 章甫
+authorSlug: zhang-fu-3
+dynasty: 宋
+dynastySlug: song
+titlePinyin: song4 feng2 yuan2 zhong4 ru4 shu3
+authorPinyin: zhang1 fu3
+dynastyPinyin: song4
+canonicalPoemId: 584200
+canonicalAuthorId: 5149
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 我本山中人，早信云无心。
+
+- 卷舒随清风，或作三日霖。
+
+- 十年江湖游，复识水之性。
+
+- 东西因地形，圆折初无定。
+
+- 却来阅世人，惟公多古风。
+
+- 用舍不系怀，略与云水同。
+
+- 还乘明月舟，西溯弄云水。
+
+- 云水远送迎，鸥鹭皆知己。
+
+- 我今与公别，亦若云水然。
+
+- 相望渺江湖，万里同青天。
+
+## 拼音
+
+- wo3 ben3 shan1 zhong1 ren2 ， zao3 xin4 yun2 wu2 xin1 。
+
+- juan4 shu1 sui2 qing1 feng1 ， huo4 zuo4 san1 ri4 lin2 。
+
+- shi2 nian2 jiang1 hu2 you2 ， fu4 shi2 shui3 zhi1 xing4 。
+
+- dong1 xi1 yin1 di4 xing2 ， yuan2 zhe2 chu1 wu2 ding4 。
+
+- que4 lai2 yue4 shi4 ren2 ， wei2 gong1 duo1 gu3 feng1 。
+
+- yong4 she4 bu2 xi4 huai2 ， lüe4 yu3 yun2 shui3 tong2 。
+
+- hai2 cheng2 ming2 yue4 zhou1 ， xi1 su4 nong4 yun2 shui3 。
+
+- yun2 shui3 yuan3 song4 ying2 ， ou1 lu4 jie1 zhi1 ji3 。
+
+- wo3 jin1 yu3 gong1 bie2 ， yi4 ruo4 yun2 shui3 ran2 。
+
+- xiang1 wang4 miao3 jiang1 hu2 ， wan4 li3 tong2 qing1 tian1 。
+
+## 译文
+
+我本来中人，早就相信云无心。卷舒随清风，有人作三天霖。十年江湖游，重新认识水性。东西根据地形，圆折初无定。却来检阅世人，希望您多古代风俗。取舍不系怀，大致与云水同。回到乘明月船，西溯弄说水。说水远送去，鸥鹭都知道自己。我今天与您告别，也如果说水是。相望消逝江湖，万里同青天。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+我本来中人，早就相信云无心。卷舒随清风，有人作三天霖。十年江湖游，重新认识水性。东西根据地形，圆折初无定。却来检阅世人，希望您多古代风俗。取舍不系怀，大致与云水同。回到乘明月船，西溯弄说水。说水远送去，鸥鹭都知道自己。我今天与您告别，也如果说水是。相望消逝江湖，万里同青天。
+	* 此部分翻译来自AI，仅供参考

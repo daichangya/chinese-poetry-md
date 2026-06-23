@@ -1,0 +1,66 @@
+---
+id: zhang-duan-yi-juan-xun-fang-xiao-ting-she-yu
+title: 倦寻芳
+author: 张端义
+authorSlug: zhang-duan-yi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: juan4 xun2 fang1
+authorPinyin: zhang1 duan1 yi4
+dynastyPinyin: song4
+canonicalPoemId: 449654
+canonicalAuthorId: 12288
+rhythmic: 倦寻芳
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 晓听社雨，犹带馀寒，尚侵襟袖。
+
+- 插柳千门，相近禁烟时候。
+
+- 鬓坠搔头深旧恨，臂宽条脱添新瘦。
+
+- 卷重帘，看双飞燕羽，舞庭花昼。
+
+- 谁共语、春来怕酒。
+
+- 一段情怀，灯暗更后。
+
+- 罨画屏山，今夜梦魂还又。
+
+- 愁墨题笺鱼浪远，粉香染泪鲛绡透。
+
+- 待相逢，想鸳衾、凤帏依旧。
+
+## 拼音
+
+- xiao3 ting1 she4 yu3 ， you2 dai4 yu2 han2 ， shang4 qin1 jin1 xiu4 。
+
+- cha1 liu3 qian1 men2 ， xiang1 jin4 jin4 yan1 shi2 hou4 。
+
+- bin4 zhui4 sao1 tou2 shen1 jiu4 hen4 ， bi4 kuan1 tiao2 tuo1 tian1 xin1 shou4 。
+
+- juan4 zhong4 lian2 ， kan4 shuang1 fei1 yan4 yu3 ， wu3 ting2 hua1 zhou4 。
+
+- shui2 gong4 yu3 、 chun1 lai2 pa4 jiu3 。
+
+- yi2 duan4 qing2 huai2 ， deng1 an4 geng4 hou4 。
+
+- yan3 hua4 ping2 shan1 ， jin1 ye4 meng4 hun2 hai2 you4 。
+
+- chou2 mo4 ti2 jian1 yu2 lang4 yuan3 ， fen3 xiang1 ran3 lei4 jiao1 xiao1 tou4 。
+
+- dai4 xiang1 feng2 ， xiang3 yuan1 qin1 、 feng4 wei2 yi1 jiu4 。
+
+## 译文
+
+早上听社雨，还带着余寒，还侵襟袖。插柳千门，相近禁烟时候。鬓坠挠头深旧遗憾，臂宽条脱添新瘦。卷重帘，看双飞燕子羽毛，舞庭花白天。谁交谈、春来怕酒。一段情怀，灯暗更改后。罨画屏风山，今夜梦魂回又。愁墨题笺鱼浪速，粉香染泪鲨鱼绡透。等到相逢，想鸳被子、凤帷依旧。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+早上听社雨，还带着余寒，还侵襟袖。插柳千门，相近禁烟时候。鬓坠挠头深旧遗憾，臂宽条脱添新瘦。卷重帘，看双飞燕子羽毛，舞庭花白天。谁交谈、春来怕酒。一段情怀，灯暗更改后。罨画屏风山，今夜梦魂回又。愁墨题笺鱼浪速，粉香染泪鲨鱼绡透。等到相逢，想鸳被子、凤帷依旧。
+	* 此部分翻译来自AI，仅供参考
