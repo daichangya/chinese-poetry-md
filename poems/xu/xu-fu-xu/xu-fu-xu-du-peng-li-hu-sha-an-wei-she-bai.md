@@ -1,0 +1,35 @@
+---
+id: xu-fu-xu-du-peng-li-hu-sha-an-wei-she-bai
+title: 渡彭蠡湖
+author: 徐俯
+authorSlug: xu-fu-xu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: du4 peng2 li2 hu2
+authorPinyin: xu2 fu3
+dynastyPinyin: song4
+canonicalPoemId: 422947
+canonicalAuthorId: 11581
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 沙岸委蛇白，云林迤逦青。
+
+- 千山拥庐岳，百水会宫庭。
+
+- 旋食犹能饭，丛祠更乞灵。
+
+- 江湖万里浪，政尔片帆轻。
+
+## 拼音
+
+- sha1 an4 wei3 she2 bai2 ， yun2 lin2 yi3 li3 qing1 。
+
+- qian1 shan1 yong1 lu2 yue4 ， bai3 shui3 hui4 gong1 ting2 。
+
+- xuan2 shi2 you2 neng2 fan4 ， cong2 ci2 geng4 qi3 ling2 。
+
+- jiang1 hu2 wan4 li3 lang4 ， zheng4 er3 pian4 fan1 qing1 。

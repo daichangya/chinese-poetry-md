@@ -1,0 +1,45 @@
+---
+id: xu-an-zhen-song-lu-xiang-bu-que-xi-yue-le-bei-sheng-zuo-xi-shan-song
+title: 送吕向补阙西岳勒碑
+author: 徐安贞
+authorSlug: xu-an-zhen
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: song4 lü3 xiang4 bu3 que1 xi1 yue4 le4 bei1
+authorPinyin: xu2 an1 zhen1
+dynastyPinyin: tang2
+canonicalPoemId: 452692
+canonicalAuthorId: 2012
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 圣作西山颂，君其出使年。
+
+- 勒碑悬日月，驱传接云烟。
+
+- 寒尽函关路，春归洛水边。
+
+- 别离能几许，朝暮玉墀前。
+
+## 拼音
+
+- sheng4 zuo4 xi1 shan1 song4 ， jun1 qi2 chu1 shi3 nian2 。
+
+- le4 bei1 xuan2 ri4 yue4 ， qu1 chuan2 jie1 yun2 yan1 。
+
+- han2 jin4 han2 guan1 lu4 ， chun1 gui1 luo4 shui3 bian1 。
+
+- bie2 li2 neng2 ji3 xu3 ， chao2 mu4 yu4 chi2 qian2 。
+
+## 译文
+
+圣人作西山颂，你的出现让年。刻碑悬日月，把传接云烟。寒全部函关路，春天回到洛水边。分离能多少，早晚宫阶前。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+圣人作西山颂，你的出现让年。刻碑悬日月，把传接云烟。寒全部函关路，春天回到洛水边。分离能多少，早晚宫阶前。
+	* 此部分翻译来自AI，仅供参考

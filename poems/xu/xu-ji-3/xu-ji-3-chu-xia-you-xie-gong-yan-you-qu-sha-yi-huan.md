@@ -1,0 +1,45 @@
+---
+id: xu-ji-3-chu-xia-you-xie-gong-yan-you-qu-sha-yi-huan
+title: 初夏游谢公岩
+author: 徐玑
+authorSlug: xu-ji-3
+dynasty: 宋
+dynastySlug: song
+titlePinyin: chu1 xia4 you2 xie4 gong1 yan2
+authorPinyin: xu2 ji1
+dynastyPinyin: song4
+canonicalPoemId: 428935
+canonicalAuthorId: 11645
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 又取纱衣换，天晴起细风。
+
+- 清阴花落后，长日鸟啼中。
+
+- 水国乘舟乐，岩扉有路通。
+
+- 州民多到此，独自忆髯公。
+
+## 拼音
+
+- you4 qu3 sha1 yi1 huan4 ， tian1 qing2 qi3 xi4 feng1 。
+
+- qing1 yin1 hua1 luo4 hou4 ， chang2 ri4 niao3 ti2 zhong1 。
+
+- shui3 guo2 cheng2 zhou1 le4 ， yan2 fei1 you3 lu4 tong1 。
+
+- zhou1 min2 duo1 dao4 ci3 ， du2 zi4 yi4 ran2 gong1 。
+
+## 译文
+
+又取纱衣换，天气晴朗起来细风。清阴花落后，长天鸟啼中。水国家乘舟乐，岩门有路通。州百姓多到这，独自回忆有你。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+又取纱衣换，天气晴朗起来细风。清阴花落后，长天鸟啼中。水国家乘舟乐，岩门有路通。州百姓多到这，独自回忆有你。
+	* 此部分翻译来自AI，仅供参考

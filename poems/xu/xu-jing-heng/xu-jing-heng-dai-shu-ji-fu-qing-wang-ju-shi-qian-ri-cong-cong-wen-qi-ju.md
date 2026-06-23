@@ -1,0 +1,35 @@
+---
+id: xu-jing-heng-dai-shu-ji-fu-qing-wang-ju-shi-qian-ri-cong-cong-wen-qi-ju
+title: 代书寄福清王居士
+author: 许景衡
+authorSlug: xu-jing-heng
+dynasty: 宋
+dynastySlug: song
+titlePinyin: dai4 shu1 ji4 fu2 qing1 wang2 ju1 shi4
+authorPinyin: xu3 jing3 heng2
+dynastyPinyin: song4
+canonicalPoemId: 333781
+canonicalAuthorId: 13727
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 前日匆匆问起居，此心耿耿复何如。
+
+- 身从驿骑三千里，人在天涯八十馀。
+
+- 自是浮云有南北，谁知明月满空虚。
+
+- 半生俯仰今尘土，安得从容扣草庐。
+
+## 拼音
+
+- qian2 ri4 cong1 cong1 wen4 qi3 ju1 ， ci3 xin1 geng3 geng3 fu4 he2 ru2 。
+
+- shen1 cong2 yi4 qi2 san1 qian1 li3 ， ren2 zai4 tian1 ya2 ba1 shi2 yu2 。
+
+- zi4 shi4 fu2 yun2 you3 nan2 bei3 ， shui2 zhi1 ming2 yue4 man3 kong1 xu1 。
+
+- ban4 sheng1 fu3 yang3 jin1 chen2 tu3 ， an1 de2 cong2 rong2 kou4 cao3 lu2 。
