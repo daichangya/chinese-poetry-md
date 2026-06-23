@@ -1,0 +1,45 @@
+---
+id: lin-bu-hua-yang-dong-hua-yang-shan-yu-fu-qing-chen
+title: 华阳洞
+author: 林逋
+authorSlug: lin-bu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: hua2 yang2 dong4
+authorPinyin: lin2 bu1
+dynastyPinyin: song4
+canonicalPoemId: 541243
+canonicalAuthorId: 851
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 华阳山雨拂轻尘，独步烟霞访隐真。
+
+- 笑傲太平云外客，安闲清世梦中身。
+
+- 金章名重人称贵，布褐才高道不贫。
+
+- 吟罢洞天风正淡，自知凡骨定逢人。
+
+## 拼音
+
+- hua2 yang2 shan1 yu3 fu2 qing1 chen2 ， du2 bu4 yan1 xia2 fang3 yin3 zhen1 。
+
+- xiao4 ao4 tai4 ping2 yun2 wai4 ke4 ， an1 xian2 qing1 shi4 meng4 zhong1 shen1 。
+
+- jin1 zhang1 ming2 zhong4 ren2 cheng1 gui4 ， bu4 he4 cai2 gao1 dao4 bu4 pin2 。
+
+- yin2 ba4 dong4 tian1 feng1 zheng4 dan4 ， zi4 zhi1 fan2 gu3 ding4 feng2 ren2 。
+
+## 译文
+
+华阳山雨拂轻尘，只有步烟霞拜访隐真。笑傲太平云外客，安闲清代梦中身体。金章名重人称贵，粗布衣服才高道不穷。吟罢洞天风正淡，自己知道所有骨定逢人。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+华阳山雨拂轻尘，只有步烟霞拜访隐真。笑傲太平云外客，安闲清代梦中身体。金章名重人称贵，粗布衣服才高道不穷。吟罢洞天风正淡，自己知道所有骨定逢人。
+	* 此部分翻译来自AI，仅供参考

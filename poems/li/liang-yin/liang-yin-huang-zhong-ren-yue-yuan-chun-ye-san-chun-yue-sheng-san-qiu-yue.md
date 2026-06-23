@@ -1,0 +1,43 @@
+---
+id: liang-yin-huang-zhong-ren-yue-yuan-chun-ye-san-chun-yue-sheng-san-qiu-yue
+title: 【黄钟】人月圆　春夜
+author: 梁寅
+authorSlug: liang-yin
+dynasty: 元
+dynastySlug: yuan
+titlePinyin: 【 huang2 zhong1 】 ren2 yue4 yuan2 　 chun1 ye4
+authorPinyin: liang2 yin2
+dynastyPinyin: yuan2
+canonicalPoemId: 522881
+canonicalAuthorId: 6944
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 三春月胜三秋月，花下惜清阴，锦围绣阵，香生革履，光动兰襟。
+
+- 棠梨枝颤，
+
+- 乍惊栖鹊，夜久寒侵。
+
+- 明朝风雨，休孤此夕，一刻千金。
+
+## 拼音
+
+- san1 chun1 yue4 sheng4 san1 qiu1 yue4 ， hua1 xia4 xi1 qing1 yin1 ， jin3 wei2 xiu4 zhen4 ， xiang1 sheng1 ge2 lü3 ， guang1 dong4 lan2 jin1 。
+
+- tang2 li2 zhi1 chan4 ，
+
+- zha4 jing1 qi1 que4 ， ye4 jiu3 han2 qin1 。
+
+- ming2 chao2 feng1 yu3 ， xiu1 gu1 ci3 xi1 ， yi2 ke4 qian1 jin1 。
+
+## 译文
+
+* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+* 此部分翻译来自AI，仅供参考

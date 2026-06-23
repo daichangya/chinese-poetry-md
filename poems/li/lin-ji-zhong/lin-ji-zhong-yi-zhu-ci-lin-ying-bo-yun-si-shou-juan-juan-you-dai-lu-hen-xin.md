@@ -1,0 +1,45 @@
+---
+id: lin-ji-zhong-yi-zhu-ci-lin-ying-bo-yun-si-shou-juan-juan-you-dai-lu-hen-xin
+title: 移竹次林英伯韵四首
+author: 林季仲
+authorSlug: lin-ji-zhong
+dynasty: 宋
+dynastySlug: song
+titlePinyin: yi2 zhu2 ci4 lin2 ying1 bo2 yun4 si4 shou3
+authorPinyin: lin2 ji4 zhong4
+dynastyPinyin: song4
+canonicalPoemId: 651486
+canonicalAuthorId: 12107
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 娟娟犹带露痕新，分得江潭未化身。
+
+- 岁晚定知堪傲雪，生来不肯强随人。
+
+- 心如庞老空诸有，节比原思不恨贫。
+
+- 月淡风清卧寒谷，倡予和女复谁亲。
+
+## 拼音
+
+- juan1 juan1 you2 dai4 lu4 hen2 xin1 ， fen1 de0 jiang1 tan2 wei4 hua4 shen1 。
+
+- sui4 wan3 ding4 zhi1 kan1 ao4 xue3 ， sheng1 lai2 bu4 ken3 qiang2 sui2 ren2 。
+
+- xin1 ru2 pang2 lao3 kong1 zhu1 you3 ， jie2 bi3 yuan2 si1 bu2 hen4 pin2 。
+
+- yue4 dan4 feng1 qing1 wo4 han2 gu3 ， chang4 yu3 he2 nü3 fu4 shui2 qin1 。
+
+## 译文
+
+娟娟还带露痕新，分到江边没有化身。岁晚定知能傲雪，生来不肯强随人。心如庞老空所有，节比原想不恨穷。月淡风清躺在寒冷的山谷，我和女儿又是谁亲自倡导。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+娟娟还带露痕新，分到江边没有化身。岁晚定知能傲雪，生来不肯强随人。心如庞老空所有，节比原想不恨穷。月淡风清躺在寒冷的山谷，我和女儿又是谁亲自倡导。
+	* 此部分翻译来自AI，仅供参考

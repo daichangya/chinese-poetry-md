@@ -1,0 +1,45 @@
+---
+id: lin-jing-xi-li-chun-jiao-xing-ci-tang-yu-qian-dao-ren-qing-shi-fan-xi-shu
+title: 立春郊行次唐玉潜
+author: 林景熙
+authorSlug: lin-jing-xi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: li4 chun1 jiao1 xing2 ci4 tang2 yu4 qian2
+authorPinyin: lin2 jing3 xi1
+dynastyPinyin: song4
+canonicalPoemId: 447020
+canonicalAuthorId: 5283
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 道人清事饭溪蔬，无酒闲愁已破除。
+
+- 五夜雪声梅角底，一春烟景竹筇初。
+
+- 园林芳信醒愁蝶，田野丰年入梦鱼。
+
+- 冰下流泉清老耳，东风先已到郊居。
+
+## 拼音
+
+- dao4 ren2 qing1 shi4 fan4 xi1 shu1 ， wu2 jiu3 xian2 chou2 yi3 po4 chu2 。
+
+- wu3 ye4 xue3 sheng1 mei2 jiao3 di3 ， yi4 chun1 yan1 jing3 zhu2 qiong2 chu1 。
+
+- yuan2 lin2 fang1 xin4 xing3 chou2 die2 ， tian2 ye3 feng1 nian2 ru4 meng4 yu2 。
+
+- bing1 xia4 liu2 quan2 qing1 lao3 er3 ， dong1 feng1 xian1 yi3 dao4 jiao1 ju1 。
+
+## 译文
+
+道士清事饭溪菜，没有酒闲愁已破除。五晚上下雪声梅角底，一春烟景竹拐杖开始。园林芳相信醒愁蝴蝶，农田丰收年入梦见鱼。冰下流动的泉水清老了，东风已经先到郊居。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+道士清事饭溪菜，没有酒闲愁已破除。五晚上下雪声梅角底，一春烟景竹拐杖开始。园林芳相信醒愁蝴蝶，农田丰收年入梦见鱼。冰下流动的泉水清老了，东风已经先到郊居。
+	* 此部分翻译来自AI，仅供参考

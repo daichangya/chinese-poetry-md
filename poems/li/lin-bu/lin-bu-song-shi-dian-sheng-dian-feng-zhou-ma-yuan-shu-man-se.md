@@ -1,0 +1,45 @@
+---
+id: lin-bu-song-shi-dian-sheng-dian-feng-zhou-ma-yuan-shu-man-se
+title: 送史殿省典封州
+author: 林逋
+authorSlug: lin-bu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: song4 shi3 dian4 sheng3 dian3 feng1 zhou1
+authorPinyin: lin2 bu1
+dynastyPinyin: song4
+canonicalPoemId: 491548
+canonicalAuthorId: 851
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 马援疏蛮色，铜标何可穷。
+
+- 人烟时亦有，海色自如空。
+
+- 髭发梅分白，旌旗瘴减红。
+
+- 惟应莳药罢，都在酒醪中。
+
+## 拼音
+
+- ma3 yuan2 shu1 man2 se4 ， tong2 biao1 he2 ke3 qiong2 。
+
+- ren2 yan1 shi2 yi4 you3 ， hai3 se4 zi4 ru2 kong1 。
+
+- zi1 fa1 mei2 fen1 bai2 ， jing1 qi2 zhang4 jian3 hong2 。
+
+- wei2 ying4 shi4 yao4 ba4 ， dou1 zai4 jiu3 lao2 zhong1 。
+
+## 译文
+
+马援上书蛮颜色，铜标什么可能。人烟时也有，海色如空自。髭发梅分白，旌旗瘴减少红。只应种药结束，都在酒醪中。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+马援上书蛮颜色，铜标什么可能。人烟时也有，海色如空自。髭发梅分白，旌旗瘴减少红。只应种药结束，都在酒醪中。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,53 @@
+---
+id: liao-xing-zhi-jiang-gao-ji-shi-shuang-su-shou-kong-qing-yi-li
+title: 江皋即事
+author: 廖行之
+authorSlug: liao-xing-zhi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: jiang1 gao1 ji2 shi4
+authorPinyin: liao4 xing2 zhi1
+dynastyPinyin: song4
+canonicalPoemId: 458699
+canonicalAuthorId: 413
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 霜肃守空晴意力，江清一带玻璃碧。
+
+- 微波漾日光浮浮，万顷无声流寂寂。
+
+- 湾头轻舠一叶微，篙工急刺驰如飞。
+
+- 饥鸦见人自惊去，未若鸥鸟能忘机。
+
+- 船头午后炊烟起，飒飒微风掠苹尾。
+
+- 江皋有客意何如，独立无言望江水。
+
+## 拼音
+
+- shuang1 su4 shou3 kong1 qing2 yi4 li4 ， jiang1 qing1 yi2 dai4 bo1 li2 bi4 。
+
+- wei1 bo1 yang4 ri4 guang1 fu2 fu2 ， wan4 qing3 wu2 sheng1 liu2 ji4 ji4 。
+
+- wan1 tou2 qing1 dao1 yi2 ye4 wei1 ， gao1 gong1 ji2 ci4 chi2 ru2 fei1 。
+
+- ji1 ya1 jian4 ren2 zi4 jing1 qu4 ， wei4 ruo4 ou1 niao3 neng2 wang4 ji1 。
+
+- chuan2 tou2 wu3 hou4 chui1 yan1 qi3 ， sa4 sa4 wei1 feng1 lüe4 ping2 wei3 。
+
+- jiang1 gao1 you3 ke4 yi4 he2 ru2 ， du2 li4 wu2 yan2 wang4 jiang1 shui3 。
+
+## 译文
+
+霜肃守空晴意力，长江清一带玻璃片。微波荡漾日光浮浮，万顷没有声音流寂静。湾头轻舠一代微，篙工急刺奔驰如飞。饥饿鸦被人从惊恐离去，没有如果只鸥鸟会忘记机。船头午后炊烟升起，飒飒微风掠过苹尾。江边有客意怎么样，独立无言望长江水。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+霜肃守空晴意力，长江清一带玻璃片。微波荡漾日光浮浮，万顷没有声音流寂静。湾头轻舠一代微，篙工急刺奔驰如飞。饥饿鸦被人从惊恐离去，没有如果只鸥鸟会忘记机。船头午后炊烟升起，飒飒微风掠过苹尾。江边有客意怎么样，独立无言望长江水。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,61 @@
+---
+id: lin-jing-xi-chang-yuan-huai-gu-niu-tou-yi-xing-hua-wei-shi
+title: 昌原怀古
+author: 林景熙
+authorSlug: lin-jing-xi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: chang1 yuan2 huai2 gu3
+authorPinyin: lin2 jing3 xi1
+dynastyPinyin: song4
+canonicalPoemId: 446709
+canonicalAuthorId: 5283
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 牛头一星化为石，千仞棱层垂铁脊。
+
+- 隆隆隐隐佳气藏，列峰环拱效圭璧。
+
+- 玉棺何代埋云根，三朝万乘子复孙。
+
+- 典册辉煌照九土，岁时园庙严骏奔。
+
+- 轮支自古几翻覆，山灵不守松柏秃。
+
+- 离离荒草鬼火青，麦饭无人洒林麓。
+
+- 我来吊古欲雪天，梵宫金碧栖寒烟。
+
+- 残僧相对语寂寞，苔梅隔岭春年年。
+
+## 拼音
+
+- niu2 tou2 yi4 xing1 hua4 wei2 shi2 ， qian1 ren4 leng2 ceng2 chui2 tie3 ji3 。
+
+- long2 long2 yin3 yin3 jia1 qi4 cang2 ， lie4 feng1 huan2 gong3 xiao4 gui1 bi4 。
+
+- yu4 guan1 he2 dai4 mai2 yun2 gen1 ， san1 chao2 wan4 sheng4 zi3 fu4 sun1 。
+
+- dian3 ce4 hui1 huang2 zhao4 jiu3 tu3 ， sui4 shi2 yuan2 miao4 yan2 jun4 ben1 。
+
+- lun2 zhi1 zi4 gu3 ji3 fan1 fu4 ， shan1 ling2 bu4 shou3 song1 bai3 tu1 。
+
+- li2 li2 huang1 cao3 gui3 huo3 qing1 ， mai4 fan4 wu2 ren2 sa3 lin2 lu4 。
+
+- wo3 lai2 diao4 gu3 yu4 xue3 tian1 ， fan4 gong1 jin1 bi4 qi1 han2 yan1 。
+
+- can2 seng1 xiang1 dui4 yu3 ji4 mo4 ， tai2 mei2 ge2 ling3 chun1 nian2 nian2 。
+
+## 译文
+
+牛头一颗星变成石头，千仞棱层垂铁脊。隆隆隐隐佳气藏，列山峰环绕效果圭璧。玉棺什么代替埋云根，三朝万乘子又孙。典册辉煌照九州，一年四季园庙严飞奔。轮支自古以来几乎反复，山灵不守松柏秃。离离荒草鬼火青，没有人洒林麓面食。我来凭吊古人要下雪天，印度宫金碧辉煌在冷烟。残和尚相对对寂寞，苔梅隔岭春年年。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+牛头一颗星变成石头，千仞棱层垂铁脊。隆隆隐隐佳气藏，列山峰环绕效果圭璧。玉棺什么代替埋云根，三朝万乘子又孙。典册辉煌照九州，一年四季园庙严飞奔。轮支自古以来几乎反复，山灵不守松柏秃。离离荒草鬼火青，没有人洒林麓面食。我来凭吊古人要下雪天，印度宫金碧辉煌在冷烟。残和尚相对对寂寞，苔梅隔岭春年年。
+	* 此部分翻译来自AI，仅供参考

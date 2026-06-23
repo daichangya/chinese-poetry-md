@@ -1,0 +1,45 @@
+---
+id: liao-xing-zhi-wan-gong-zhu-bo-gai-qing-qi-shi-ru-gong-shao
+title: 挽龚主簿盖卿
+author: 廖行之
+authorSlug: liao-xing-zhi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: wan3 gong1 zhu3 bo2 gai4 qing1
+authorPinyin: liao4 xing2 zhi1
+dynastyPinyin: song4
+canonicalPoemId: 458615
+canonicalAuthorId: 413
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 奇士如公少，居然得誉尊。
+
+- 绩文追古作，戏策达修门。
+
+- 梁坏吾安仰，人亡道尚存。
+
+- 伤心南野路，天迥暮云昏。
+
+## 拼音
+
+- qi2 shi4 ru2 gong1 shao3 ， ju1 ran2 de2 yu4 zun1 。
+
+- ji4 wen2 zhui1 gu3 zuo4 ， xi4 ce4 da2 xiu1 men2 。
+
+- liang2 huai4 wu2 an1 yang3 ， ren2 wang2 dao4 shang4 cun2 。
+
+- shang1 xin1 nan2 ye3 lu4 ， tian1 jiong3 mu4 yun2 hun1 。
+
+## 译文
+
+奇才如公少，显然得到赞誉尊。政绩文仿古作，游戏策略达到提高门。梁坏我怎么抬头，人没有道还活着。伤心南野路，天空迥暮云昏。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+奇才如公少，显然得到赞誉尊。政绩文仿古作，游戏策略达到提高门。梁坏我怎么抬头，人没有道还活着。伤心南野路，天空迥暮云昏。
+	* 此部分翻译来自AI，仅供参考
