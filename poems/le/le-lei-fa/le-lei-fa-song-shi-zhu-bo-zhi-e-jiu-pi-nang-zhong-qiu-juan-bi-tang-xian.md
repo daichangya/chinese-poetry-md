@@ -1,0 +1,45 @@
+---
+id: le-lei-fa-song-shi-zhu-bo-zhi-e-jiu-pi-nang-zhong-qiu-juan-bi-tang-xian
+title: 送史主簿之鄂就辟
+author: 乐雷发
+authorSlug: le-lei-fa
+dynasty: 宋
+dynastySlug: song
+titlePinyin: song4 shi3 zhu3 bo2 zhi1 e4 jiu4 pi4
+authorPinyin: le4 lei2 fa1
+dynastyPinyin: song4
+canonicalPoemId: 630565
+canonicalAuthorId: 7369
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 囊中秋卷逼唐贤，门外侯芭问太玄。
+
+- 才大岂堪栖枳棘，官清应只友兰荃。
+
+- 湘行又泛君山月，淮绩曾冲赤壁烟。
+
+- 拟借从君新句看，试寻黄帽寄纲船。
+
+## 拼音
+
+- nang2 zhong1 qiu1 juan4 bi1 tang2 xian2 ， men2 wai4 hou2 ba1 wen4 tai4 xuan2 。
+
+- cai2 da4 qi3 kan1 qi1 zhi3 ji2 ， guan1 qing1 ying4 zhi1 you3 lan2 quan2 。
+
+- xiang1 xing2 you4 fan4 jun1 shan1 yue4 ， huai2 ji4 ceng2 chong1 chi4 bi4 yan1 。
+
+- ni3 jie4 cong2 jun1 xin1 ju4 kan4 ， shi4 xun2 huang2 mao4 ji4 gang1 chuan2 。
+
+## 译文
+
+囊中秋卷逼迫唐贤，门外侯芭问太玄。才大怎么忍受住荆棘，官清应只友兰荃。湘行又泛君山月，淮成绩曾经冲赤壁烟。拟借从你新句子看，试着寻找黄帽子寄纲船。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+囊中秋卷逼迫唐贤，门外侯芭问太玄。才大怎么忍受住荆棘，官清应只友兰荃。湘行又泛君山月，淮成绩曾经冲赤壁烟。拟借从你新句子看，试着寻找黄帽子寄纲船。
+	* 此部分翻译来自AI，仅供参考
