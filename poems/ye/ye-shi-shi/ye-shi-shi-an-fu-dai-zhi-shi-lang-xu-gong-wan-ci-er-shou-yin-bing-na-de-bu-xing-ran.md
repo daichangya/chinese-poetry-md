@@ -1,0 +1,45 @@
+---
+id: ye-shi-shi-an-fu-dai-zhi-shi-lang-xu-gong-wan-ci-er-shou-yin-bing-na-de-bu-xing-ran
+title: 安扶待制侍郎徐公挽词二首
+author: 叶适
+authorSlug: ye-shi-shi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: an1 fu2 dai4 zhi4 shi4 lang2 xu2 gong1 wan3 ci2 er4 shou3
+authorPinyin: ye4 shi4
+dynastyPinyin: song4
+canonicalPoemId: 548305
+canonicalAuthorId: 2408
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 饮冰那得不醒然，北看成南丑又妍。
+
+- 建策须为万世虑，孤忠亦有一身全。
+
+- 星文忍向生前坠，梦事方从死日传。
+
+- 莫指鸣山归路熟，青林黄叶度年年。
+
+## 拼音
+
+- yin3 bing1 na4 de2 bu4 xing3 ran2 ， bei3 kan4 cheng2 nan2 chou3 you4 yan2 。
+
+- jian4 ce4 xu1 wei4 wan4 shi4 lü4 ， gu1 zhong1 yi4 you3 yi4 shen1 quan2 。
+
+- xing1 wen2 ren3 xiang4 sheng1 qian2 zhui4 ， meng4 shi4 fang1 cong2 si3 ri4 chuan2 。
+
+- mo4 zhi3 ming2 shan1 gui1 lu4 shu2 ， qing1 lin2 huang2 ye4 du4 nian2 nian2 。
+
+## 译文
+
+喝冰哪能不醒地，往北看成南丑陋又美丽。建议要为长远打算，我忠诚也有一身全。星象忍心向生堕落，梦见事情正在从死日传。没有指鸣山归路成熟，青林黄叶度每一年。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+喝冰哪能不醒地，往北看成南丑陋又美丽。建议要为长远打算，我忠诚也有一身全。星象忍心向生堕落，梦见事情正在从死日传。没有指鸣山归路成熟，青林黄叶度每一年。
+	* 此部分翻译来自AI，仅供参考

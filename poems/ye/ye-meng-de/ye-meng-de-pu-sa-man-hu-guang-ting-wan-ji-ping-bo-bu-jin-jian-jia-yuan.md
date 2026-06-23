@@ -1,0 +1,61 @@
+---
+id: ye-meng-de-pu-sa-man-hu-guang-ting-wan-ji-ping-bo-bu-jin-jian-jia-yuan
+title: 菩萨蛮（湖光亭晚集）
+author: 叶梦得
+authorSlug: ye-meng-de
+dynasty: 宋
+dynastySlug: song
+titlePinyin: pu2 sa4 man2 （ hu2 guang1 ting2 wan3 ji2 ）
+authorPinyin: ye4 meng4 de2
+dynastyPinyin: song4
+canonicalPoemId: 507245
+canonicalAuthorId: 11583
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 平波不尽蒹葭远。
+
+- 清霜半落沙痕浅。
+
+- 烟树晚微茫。
+
+- 孤鸿下夕阳。
+
+- 梅花消息近。
+
+- 试向南枝问。
+
+- 记得水边春。
+
+- 江南别后人。
+
+## 拼音
+
+- ping2 bo1 bu2 jin4 jian1 jia1 yuan3 。
+
+- qing1 shuang1 ban4 luo4 sha1 hen2 qian3 。
+
+- yan1 shu4 wan3 wei1 mang2 。
+
+- gu1 hong2 xia4 xi1 yang2 。
+
+- mei2 hua1 xiao1 xi1 jin4 。
+
+- shi4 xiang4 nan2 zhi1 wen4 。
+
+- ji4 de0 shui3 bian1 chun1 。
+
+- jiang1 nan2 bie2 hou4 ren2 。
+
+## 译文
+
+平波不尽芦苇远。清霜半落沙痕浅。烟树晚模糊。孤鸿下夕阳。梅花消息近。试向南枝问。记得水边春。江南另后人。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+平波不尽芦苇远。清霜半落沙痕浅。烟树晚模糊。孤鸿下夕阳。梅花消息近。试向南枝问。记得水边春。江南另后人。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,35 @@
+---
+id: ye-shao-weng-jing-pei-zhi-yuan-you-shi-shang-yi-hou-yi-ri-xi-zhai-zhi-ji-qing-shi-tia-fd88be70
+title: 敬陪直院右史上已后一日西斋之集
+author: 叶绍翁
+authorSlug: ye-shao-weng
+dynasty: 宋
+dynastySlug: song
+titlePinyin: jing4 pei2 zhi2 yuan4 you4 shi3 shang4 yi3 hou4 yi2 ri4 xi1 zhai1 zhi1 ji2
+authorPinyin: ye4 shao4 weng1
+dynastyPinyin: song4
+canonicalPoemId: 407173
+canonicalAuthorId: 11648
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 清时天上诏书稀，曲水从游许布衣。
+
+- 插羽满浮寒食酒，倚栏同忆故山薇。
+
+- 碧桃绕观春风静，柔栌摇汀夕照微。
+
+- 慨想兰亭如昨日，沙鸥飞下钓钱矶。
+
+## 拼音
+
+- qing1 shi2 tian1 shang4 zhao4 shu1 xi1 ， qu1 shui3 cong2 you2 xu3 bu4 yi1 。
+
+- cha1 yu3 man3 fu2 han2 shi2 jiu3 ， yi3 lan2 tong2 yi4 gu4 shan1 wei1 。
+
+- bi4 tao2 rao4 guan1 chun1 feng1 jing4 ， rou2 lu2 yao2 ting1 xi1 zhao4 wei1 。
+
+- kai3 xiang3 lan2 ting2 ru2 zuo2 ri4 ， sha1 ou1 fei1 xia4 diao4 qian2 ji1 。
