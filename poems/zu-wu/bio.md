@@ -1,6 +1,0 @@
----
-title: 祖吴
-short_description: 祖吴，宋代词人。
-source: inferred
----
-祖吴，宋代词人。本目录收录其作品 2 首。
