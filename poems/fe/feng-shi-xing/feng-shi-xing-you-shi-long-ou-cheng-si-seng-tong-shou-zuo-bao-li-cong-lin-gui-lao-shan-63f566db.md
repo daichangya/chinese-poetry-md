@@ -1,0 +1,77 @@
+---
+id: feng-shi-xing-you-shi-long-ou-cheng-si-seng-tong-shou-zuo-bao-li-cong-lin-gui-lao-shan-63f566db
+title: 游石龙偶成寺僧通首坐饱历丛林归老山故诗多
+author: 冯时行
+authorSlug: feng-shi-xing
+dynasty: 宋
+dynastySlug: song
+titlePinyin: you2 shi2 long2 ou3 cheng2 si4 seng1 tong1 shou3 zuo4 bao3 li4 cong2 lin2 gui1 lao3 shan1 gu4 shi1 duo1
+authorPinyin: feng2 shi2 xing2
+dynastyPinyin: song4
+canonicalPoemId: 476659
+canonicalAuthorId: 6103
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 飞泉撼琳球，群山高崔嵬。
+
+- 中有古道场，紫烟笼观台。
+
+- 石门不施关，荣辱自不来。
+
+- 霜钟鸣万壑，日出山雾开。
+
+- 老僧挈筠篮，上山拾羹材。
+
+- 归煮南涧水，至味谢盐梅。
+
+- 食饱不下床，法身充九垓。
+
+- 破衲一甲子，云闲与徘徊。
+
+- 我欲吐情语，铭之古岩隈。
+
+- 云切戒多事，勿听龙作媒。
+
+- 为雨非不佳，世间多尘埃。
+
+- 预恐为雨罢，归来污苍苔。
+
+## 拼音
+
+- fei1 quan2 han4 lin2 qiu2 ， qun2 shan1 gao1 cui1 wei2 。
+
+- zhong1 you3 gu3 dao4 chang3 ， zi3 yan1 long2 guan1 tai2 。
+
+- shi2 men2 bu4 shi1 guan1 ， rong2 ru3 zi4 bu4 lai2 。
+
+- shuang1 zhong1 ming2 wan4 he4 ， ri4 chu1 shan1 wu4 kai1 。
+
+- lao3 seng1 qie4 yun2 lan2 ， shang4 shan1 shi2 geng1 cai2 。
+
+- gui1 zhu3 nan2 jian4 shui3 ， zhi4 wei4 xie4 yan2 mei2 。
+
+- shi2 bao3 bu2 xia4 chuang2 ， fa3 shen1 chong1 jiu3 gai1 。
+
+- po4 na4 yi4 jia3 zi3 ， yun2 xian2 yu3 pai2 huai2 。
+
+- wo3 yu4 tu3 qing2 yu3 ， ming2 zhi1 gu3 yan2 wei1 。
+
+- yun2 qie4 jie4 duo1 shi4 ， wu4 ting1 long2 zuo4 mei2 。
+
+- wei4 yu3 fei1 bu4 jia1 ， shi4 jian1 duo1 chen2 ai1 。
+
+- yu4 kong3 wei4 yu3 ba4 ， gui1 lai2 wu1 cang1 tai2 。
+
+## 译文
+
+瀑布和王琳球，群山高崔嵬。中间有古法，紫烟笼观察台。石门不用关，荣辱自己不来。霜钟响万壑，太阳从山雾开。老和尚带箔篮，上山拾羹材料。回家煮南涧水，到美味谢盐梅。吃饱不下床，法律本身当九天。破衲一甲子，说熟悉与徘徊。我要吐情语，铭文的历史岩隈。说切戒事多，不要听龙做媒。为雨并不是不好，世间多尘埃。提前恐怕是雨停止，回家来玷污青苔。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+瀑布和王琳球，群山高崔嵬。中间有古法，紫烟笼观察台。石门不用关，荣辱自己不来。霜钟响万壑，太阳从山雾开。老和尚带箔篮，上山拾羹材料。回家煮南涧水，到美味谢盐梅。吃饱不下床，法律本身当九天。破衲一甲子，说熟悉与徘徊。我要吐情语，铭文的历史岩隈。说切戒事多，不要听龙做媒。为雨并不是不好，世间多尘埃。提前恐怕是雨停止，回家来玷污青苔。
+	* 此部分翻译来自AI，仅供参考

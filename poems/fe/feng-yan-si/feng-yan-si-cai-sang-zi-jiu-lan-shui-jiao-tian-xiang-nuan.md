@@ -1,0 +1,51 @@
+---
+id: feng-yan-si-cai-sang-zi-jiu-lan-shui-jiao-tian-xiang-nuan
+title: 采桑子·酒阑睡觉天香暖
+author: 冯延巳
+authorSlug: feng-yan-si
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: cai3 sang1 zi3 · jiu3 lan2 shui4 jiao4 tian1 xiang1 nuan3
+authorPinyin: feng2 yan2 si4
+dynastyPinyin: tang2
+canonicalPoemId: 408222
+canonicalAuthorId: 5491
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 酒阑睡觉天香暖，
+
+- 绣户慵开。
+
+- 香印成灰，
+
+- 独背寒屏理旧眉。
+
+- 朦胧却向灯前卧，
+
+- 窗月徘徊。
+
+- 晓梦初回，
+
+- 一夜东风绽早梅。
+
+## 拼音
+
+- jiu3 lan2 shui4 jiao4 tian1 xiang1 nuan3 ，
+
+- xiu4 hu4 yong1 kai1 。
+
+- xiang1 yin4 cheng2 hui1 ，
+
+- du2 bei4 han2 ping2 li3 jiu4 mei2 。
+
+- meng2 long2 que4 xiang4 deng1 qian2 wo4 ，
+
+- chuang1 yue4 pai2 huai2 。
+
+- xiao3 meng4 chu1 hui2 ，
+
+- yi2 ye4 dong1 feng1 zhan4 zao3 mei2 。

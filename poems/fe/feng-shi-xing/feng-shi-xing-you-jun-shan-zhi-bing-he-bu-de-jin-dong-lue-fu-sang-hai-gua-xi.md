@@ -1,0 +1,54 @@
+---
+id: feng-shi-xing-you-jun-shan-zhi-bing-he-bu-de-jin-dong-lue-fu-sang-hai-gua-xi
+title: 游君山值冰合不得进
+author: 冯时行
+authorSlug: feng-shi-xing
+dynasty: 宋
+dynastySlug: song
+titlePinyin: you2 jun1 shan1 zhi2 bing1 he2 bu4 de2 jin4
+authorPinyin: feng2 shi2 xing2
+dynastyPinyin: song4
+canonicalPoemId: 476672
+canonicalAuthorId: 6103
+tags:
+  - 诗词
+  - 洞庭湖
+---
+
+## 正文
+
+- 东略扶桑还挂席，朔雪颠风经赤壁。
+
+- 欲呼龙伯出珠宫，戏上君山吹玉笛。
+
+- 仙人未熟长生酒，故遣玄冰冻湖口。
+
+- 洞庭千里一镜中，烟鬟黛抹空回首。
+
+- 丹经素书旧岩丘，长歌归去吾不留。
+
+- 他年酒熟当劝客，鹤使相寻缙云侧。
+
+## 拼音
+
+- dong1 lüe4 fu2 sang1 hai2 gua4 xi2 ， shuo4 xue3 dian1 feng1 jing1 chi4 bi4 。
+
+- yu4 hu1 long2 bo2 chu1 zhu1 gong1 ， xi4 shang4 jun1 shan1 chui1 yu4 di2 。
+
+- xian1 ren2 wei4 shu2 chang2 sheng1 jiu3 ， gu4 qian3 xuan2 bing1 dong4 hu2 kou3 。
+
+- dong4 ting2 qian1 li3 yi2 jing4 zhong1 ， yan1 huan2 dai4 mo3 kong1 hui2 shou3 。
+
+- dan1 jing1 su4 shu1 jiu4 yan2 qiu1 ， chang2 ge1 gui1 qu4 wu2 bu4 liu2 。
+
+- ta1 nian2 jiu3 shu2 dang1 quan4 ke4 ， he4 shi3 xiang1 xun2 jin4 yun2 ce4 。
+
+## 译文
+
+向东攻取扶桑还挂席，朔雪颠风经赤壁。想叫龙伯出珠宫，游戏上君山吹玉笛。仙人未成熟长生酒，所以派遣玄冰冻湖口。洞庭湖千里一面镜子中，烟鬟黛抹空回首。丹经素书原岩丘，长歌走我不留。其他年酒成熟会劝客人，鹤使不断缙云侧。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+向东攻取扶桑还挂席，朔雪颠风经赤壁。想叫龙伯出珠宫，游戏上君山吹玉笛。仙人未成熟长生酒，所以派遣玄冰冻湖口。洞庭湖千里一面镜子中，烟鬟黛抹空回首。丹经素书原岩丘，长歌走我不留。其他年酒成熟会劝客人，鹤使不断缙云侧。
+	* 此部分翻译来自AI，仅供参考

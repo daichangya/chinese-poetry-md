@@ -1,0 +1,45 @@
+---
+id: feng-shi-xing-peng-shan-dao-zhong-jie-jie-zhen-wu-wei
+title: 彭山道中
+author: 冯时行
+authorSlug: feng-shi-xing
+dynasty: 宋
+dynastySlug: song
+titlePinyin: peng2 shan1 dao4 zhong1
+authorPinyin: feng2 shi2 xing2
+dynastyPinyin: song4
+canonicalPoemId: 476609
+canonicalAuthorId: 6103
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 劫劫真无谓，迟迟再有行。
+
+- 断云峰出没，残照水分明。
+
+- 远意谁能共，长亭空有情。
+
+- 从今离别梦，逐夜到江城。
+
+## 拼音
+
+- jie2 jie2 zhen1 wu2 wei4 ， chi2 chi2 zai4 you3 xing2 。
+
+- duan4 yun2 feng1 chu1 mo4 ， can2 zhao4 shui3 fen4 ming2 。
+
+- yuan3 yi4 shui2 neng2 gong4 ， chang2 ting2 kong1 you3 qing2 。
+
+- cong2 jin1 li2 bie2 meng4 ， zhu2 ye4 dao4 jiang1 cheng2 。
+
+## 译文
+
+劫劫真无所谓，迟迟再有行。断云出没，残照水分明。远意谁能一起，长亭空有情。从现在离别梦，随着夜晚到江城。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+劫劫真无所谓，迟迟再有行。断云出没，残照水分明。远意谁能一起，长亭空有情。从现在离别梦，随着夜晚到江城。
+	* 此部分翻译来自AI，仅供参考

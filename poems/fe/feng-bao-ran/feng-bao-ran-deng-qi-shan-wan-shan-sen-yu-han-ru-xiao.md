@@ -1,0 +1,45 @@
+---
+id: feng-bao-ran-deng-qi-shan-wan-shan-sen-yu-han-ru-xiao
+title: 登齐山
+author: 冯裦然
+authorSlug: feng-bao-ran
+dynasty: 宋
+dynastySlug: song
+titlePinyin: deng1 qi2 shan1
+authorPinyin: feng2 bao1 ran2
+dynastyPinyin: song4
+canonicalPoemId: 637313
+canonicalAuthorId: 8435
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 万山森玉寒如削，一骑奔尘去欲飞。
+
+- 路阔并鞍同笑语，酒酣执手话依违。
+
+- 英名他日垂青史，好语今朝纪翠微。
+
+- 三月钱塘江上道，莫歌金缕易忘归。
+
+## 拼音
+
+- wan4 shan1 sen1 yu4 han2 ru2 xiao1 ， yi4 qi2 ben1 chen2 qu4 yu4 fei1 。
+
+- lu4 kuo4 bing4 an1 tong2 xiao4 yu3 ， jiu3 han1 zhi2 shou3 hua4 yi1 wei2 。
+
+- ying1 ming2 ta1 ri4 chui2 qing1 shi3 ， hao3 yu3 jin1 chao2 ji4 cui4 wei1 。
+
+- san1 yue4 qian2 tang2 jiang1 shang4 dao4 ， mo4 ge1 jin1 lü3 yi4 wang4 gui1 。
+
+## 译文
+
+万山森玉寒如削，一名骑兵奔去想要飞尘。道路宽和马鞍一起说笑，喝酒时握手话模棱两可。英名将来垂青史，喜欢谈论现在朝廷纲纪翠微。三月钱塘江上道，没有歌金丝易忘却归去。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+万山森玉寒如削，一名骑兵奔去想要飞尘。道路宽和马鞍一起说笑，喝酒时握手话模棱两可。英名将来垂青史，喜欢谈论现在朝廷纲纪翠微。三月钱塘江上道，没有歌金丝易忘却归去。
+	* 此部分翻译来自AI，仅供参考
