@@ -1,0 +1,37 @@
+---
+id: huang-gong-du-zao-chun-hong-mei-sheng-kai-you-gan-bu-yu-xue-shuang-fen-su-yan
+title: 早春红梅盛开有感
+author: 黄公度
+authorSlug: huang-gong-du
+dynasty: 宋
+dynastySlug: song
+titlePinyin: zao3 chun1 hong2 mei2 sheng4 kai1 you3 gan3
+authorPinyin: huang2 gong1 du4
+dynastyPinyin: song4
+canonicalPoemId: 423988
+canonicalAuthorId: 5080
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 不与雪霜分素艳，却随桃杏竞芳辰。
+
+- 自知孤洁群心妒，故著微红伴早春。
+
+## 拼音
+
+- bu4 yu3 xue3 shuang1 fen1 su4 yan4 ， que4 sui2 tao2 xing4 jing4 fang1 chen2 。
+
+- zi4 zhi1 gu1 jie2 qun2 xin1 du4 ， gu4 zhu4 wei1 hong2 ban4 zao3 chun1 。
+
+## 译文
+
+不与雪霜分素艳，但随着桃花杏花竞相芳辰。自知孤立洁净人心嫉妒，所以著微红伴早春。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+不与雪霜分素艳，但随着桃花杏花竞相芳辰。自知孤立洁净人心嫉妒，所以著微红伴早春。
+	* 此部分翻译来自AI，仅供参考

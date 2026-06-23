@@ -1,0 +1,45 @@
+---
+id: huang-gong-du-bie-chen-jing-ming-er-shou-dong-chao-da-ce-wu-jin-gu
+title: 别陈景明二首
+author: 黄公度
+authorSlug: huang-gong-du
+dynasty: 宋
+dynastySlug: song
+titlePinyin: bie2 chen2 jing3 ming2 er4 shou3
+authorPinyin: huang2 gong1 du4
+dynastyPinyin: song4
+canonicalPoemId: 424248
+canonicalAuthorId: 5080
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 董晁大策无今古，曾据龙头拜未央。
+
+- 天府带颁腰觉重，露门茗赐齿馀香。
+
+- 麻词一扫千言就，玉节三持万里强。
+
+- 自是中朝人第一，更将威信憺要荒。
+
+## 拼音
+
+- dong3 chao2 da4 ce4 wu2 jin1 gu3 ， ceng2 ju4 long2 tou2 bai4 wei4 yang1 。
+
+- tian1 fu3 dai4 ban1 yao1 jue2 zhong4 ， lu4 men2 ming2 ci4 chi3 yu2 xiang1 。
+
+- ma2 ci2 yi4 sao3 qian1 yan2 jiu4 ， yu4 jie2 san1 chi2 wan4 li3 qiang2 。
+
+- zi4 shi4 zhong1 chao2 ren2 di4 yi1 ， geng4 jiang1 wei1 xin4 dan4 yao4 huang1 。
+
+## 译文
+
+董晁大计没有古今，曾经占据龙头拜未央。天府带颁布腰觉重，露门茶给牙齿馀香。麻词一扫千言去，玉节三持万强。从此朝中人第一，再将威信怆蛮荒。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+董晁大计没有古今，曾经占据龙头拜未央。天府带颁布腰觉重，露门茶给牙齿馀香。麻词一扫千言去，玉节三持万强。从此朝中人第一，再将威信怆蛮荒。
+	* 此部分翻译来自AI，仅供参考

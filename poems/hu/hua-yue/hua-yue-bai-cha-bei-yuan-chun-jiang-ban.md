@@ -1,0 +1,35 @@
+---
+id: hua-yue-bai-cha-bei-yuan-chun-jiang-ban
+title: 拜茶
+author: 华岳
+authorSlug: hua-yue
+dynasty: 宋
+dynastySlug: song
+titlePinyin: bai4 cha2
+authorPinyin: hua2 yue4
+dynastyPinyin: song4
+canonicalPoemId: 519074
+canonicalAuthorId: 4843
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 北苑春将半，星槎欲奏功。
+
+- 杵鸣千臼雪，鎗卷一旗风。
+
+- 盝锦鹦毛翠，签罗象眼红。
+
+- 封成拜玄鹤，飞上紫微宫。
+
+## 拼音
+
+- bei3 yuan4 chun1 jiang1 ban4 ， xing1 cha2 yu4 zou4 gong1 。
+
+- chu3 ming2 qian1 jiu4 xue3 ， qiang1 juan4 yi4 qi2 feng1 。
+
+- lu4 jin3 ying1 mao2 cui4 ， qian1 luo2 xiang4 yan3 hong2 。
+
+- feng1 cheng2 bai4 xuan2 he4 ， fei1 shang4 zi3 wei1 gong1 。

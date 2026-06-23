@@ -1,0 +1,45 @@
+---
+id: huang-geng-song-jiang-shi-ke-qu-guan-xing-ren-fei-ren-ke-yu-mou
+title: 送姜仕可去馆
+author: 黄庚
+authorSlug: huang-geng
+dynasty: 宋
+dynastySlug: song
+titlePinyin: song4 jiang1 shi4 ke3 qu4 guan3
+authorPinyin: huang2 geng1
+dynastyPinyin: song4
+canonicalPoemId: 507628
+canonicalAuthorId: 6066
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 行人非人可豫谋，爱君无计为君留。
+
+- 张仪失策犹存舌，穆傅知机可掉头。
+
+- 黯黯别怀江路晚，萧萧行李驿亭秋。
+
+- 明年我亦携书去，不落人间第二筹。
+
+## 拼音
+
+- xing2 ren2 fei1 ren2 ke3 yu4 mou2 ， ai4 jun1 wu2 ji4 wei4 jun1 liu2 。
+
+- zhang1 yi2 shi1 ce4 you2 cun2 she2 ， mu4 fu4 zhi1 ji1 ke3 diao4 tou2 。
+
+- an4 an4 bie2 huai2 jiang1 lu4 wan3 ， xiao1 xiao1 xing2 li0 yi4 ting2 qiu1 。
+
+- ming2 nian2 wo3 yi4 xie2 shu1 qu4 ， bu2 luo4 ren2 jian1 di4 er4 chou2 。
+
+## 译文
+
+行为人没有人可以预先计划，爱你没有办法为你留。张仪失策还在舌头，穆师傅知道机可以掉头。黑油油另外怀江路晚，萧萧行李驿亭秋季。明年我也带着书去，不落人间第二筹。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+行为人没有人可以预先计划，爱你没有办法为你留。张仪失策还在舌头，穆师傅知道机可以掉头。黑油油另外怀江路晚，萧萧行李驿亭秋季。明年我也带着书去，不落人间第二筹。
+	* 此部分翻译来自AI，仅供参考

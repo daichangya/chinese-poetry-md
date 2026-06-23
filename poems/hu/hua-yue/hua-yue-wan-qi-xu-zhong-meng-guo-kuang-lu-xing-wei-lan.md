@@ -1,0 +1,46 @@
+---
+id: hua-yue-wan-qi-xu-zhong-meng-guo-kuang-lu-xing-wei-lan
+title: 挽戚虚中
+author: 华岳
+authorSlug: hua-yue
+dynasty: 宋
+dynastySlug: song
+titlePinyin: wan3 qi1 xu1 zhong1
+authorPinyin: hua2 yue4
+dynastyPinyin: song4
+canonicalPoemId: 518925
+canonicalAuthorId: 4843
+tags:
+  - 诗词
+  - 庐山
+---
+
+## 正文
+
+- 梦裹匡庐兴未阑，转头世事已辛酸。
+
+- 肥家有术疑非药，漉酒从人笑不冠。
+
+- 雁序向人群已失，凤雏过眼影何单。
+
+- 不堪回首原头路，一坞松楸生暮寒。
+
+## 拼音
+
+- meng4 guo3 kuang1 lu2 xing1 wei4 lan2 ， zhuan3 tou2 shi4 shi4 yi3 xin1 suan1 。
+
+- fei2 jia1 you3 shu4 yi2 fei1 yao4 ， lu4 jiu3 cong2 ren2 xiao4 bu4 guan1 。
+
+- yan4 xu4 xiang4 ren2 qun2 yi3 shi1 ， feng4 chu2 guo4 yan3 ying3 he2 dan1 。
+
+- bu4 kan1 hui2 shou3 yuan2 tou2 lu4 ， yi2 wu4 song1 qiu1 sheng1 mu4 han2 。
+
+## 译文
+
+梦见包裹庐山兴未满，旋转头世事已经辛酸。肥家有术怀疑不是药，漉酒从人笑不戴帽子。雁序向人群已经失去，凤雏经过眼影何单。不堪回首原头的路，一个山坞松楸生晚上冷。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+梦见包裹庐山兴未满，旋转头世事已经辛酸。肥家有术怀疑不是药，漉酒从人笑不戴帽子。雁序向人群已经失去，凤雏经过眼影何单。不堪回首原头的路，一个山坞松楸生晚上冷。
+	* 此部分翻译来自AI，仅供参考
