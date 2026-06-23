@@ -1,0 +1,45 @@
+---
+id: zhu-yi-zhu-qi-yue-yi-ri-fang-zuo-guan-xing-ban-ye-liang-sheng-guo-yu-chu
+title: 七月一日放坐观星
+author: 朱翌
+authorSlug: zhu-yi-zhu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: qi1 yue4 yi1 ri4 fang4 zuo4 guan1 xing1
+authorPinyin: zhu1 yi4
+dynastyPinyin: song4
+canonicalPoemId: 474561
+canonicalAuthorId: 5224
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 半夜凉生过雨初，起迎秋色扫庭除。
+
+- 西牛东女经年会，北客南风一笑疏。
+
+- 干鹊悲鸣桥渡汉，龙泉腾跃气凌虚。
+
+- 盆池水面萤飞过，上下天星总一如。
+
+## 拼音
+
+- ban4 ye4 liang2 sheng1 guo4 yu3 chu1 ， qi3 ying2 qiu1 se4 sao3 ting2 chu2 。
+
+- xi1 niu2 dong1 nü3 jing1 nian2 hui4 ， bei3 ke4 nan2 feng1 yi2 xiao4 shu1 。
+
+- gan1 que4 bei1 ming2 qiao2 du4 han4 ， long2 quan2 teng2 yue4 qi4 ling2 xu1 。
+
+- pen2 chi2 shui3 mian4 ying2 fei1 guo4 ， shang4 xia4 tian1 xing1 zong3 yi4 ru2 。
+
+## 译文
+
+半夜凉雨刚生过，站起来迎接秋天颜色扫院子。西牛东女一年会，北客南风一笑疏。喜鹊鸣叫桥渡汉水，龙泉腾跃气凌空。盆池水面萤火虫飞过，上下天星总一致。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+半夜凉雨刚生过，站起来迎接秋天颜色扫院子。西牛东女一年会，北客南风一笑疏。喜鹊鸣叫桥渡汉水，龙泉腾跃气凌空。盆池水面萤火虫飞过，上下天星总一致。
+	* 此部分翻译来自AI，仅供参考

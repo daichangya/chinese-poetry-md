@@ -1,0 +1,45 @@
+---
+id: zhu-yi-zhu-mu-dan-ci-yun-hua-fang-he-xu-zai-xi-zi
+title: 牡丹次韵
+author: 朱翌
+authorSlug: zhu-yi-zhu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: mu3 dan1 ci4 yun4
+authorPinyin: zhu1 yi4
+dynastyPinyin: song4
+canonicalPoemId: 587146
+canonicalAuthorId: 5224
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 画舫何须载西子，青裙今幸拜东王。
+
+- 佛谈非想色界色，天造玉皇香案香。
+
+- 兴庆池边凝晓露，善和坊里借余光。
+
+- 行闻绮席开东省，飞鞚争驰御道黄。
+
+## 拼音
+
+- hua4 fang3 he2 xu1 zai3 xi1 zi3 ， qing1 qun2 jin1 xing4 bai4 dong1 wang2 。
+
+- fo2 tan2 fei1 xiang3 se4 jie4 se4 ， tian1 zao4 yu4 huang2 xiang1 an4 xiang1 。
+
+- xing1 qing4 chi2 bian1 ning2 xiao3 lu4 ， shan4 he2 fang1 li3 jie4 yu2 guang1 。
+
+- xing2 wen2 qi3 xi2 kai1 dong1 sheng3 ， fei1 kong4 zheng1 chi2 yu4 dao4 huang2 。
+
+## 译文
+
+为什么要记载西施画船，青裙现在有幸拜束王。佛谈不想颜色边界颜色，天造玉皇香案香。兴庆池边凝亮露，善于和坊里借我光。行得知绮席开东省，飞鞚争相追逐御道黄。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+为什么要记载西施画船，青裙现在有幸拜束王。佛谈不想颜色边界颜色，天造玉皇香案香。兴庆池边凝亮露，善于和坊里借我光。行得知绮席开东省，飞鞚争相追逐御道黄。
+	* 此部分翻译来自AI，仅供参考

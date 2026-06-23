@@ -1,0 +1,45 @@
+---
+id: zhu-yi-zhu-zheng-yue-er-shi-ri-guo-jiang-shi-yuan-wan-wan-qiao-hong-wo-bi-lian
+title: 正月二十日过江氏园
+author: 朱翌
+authorSlug: zhu-yi-zhu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: zheng1 yue4 er4 shi2 ri4 guo4 jiang1 shi4 yuan2
+authorPinyin: zhu1 yi4
+dynastyPinyin: song4
+canonicalPoemId: 474394
+canonicalAuthorId: 5224
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 宛宛桥虹卧碧涟，深深古屋背长川。
+
+- 园官送菜无虚日，溪友留鱼不问钱。
+
+- 历数旧交俱老矣，及时行乐且欣然。
+
+- 梅花更有黄千叶，携取一杯花下传。
+
+## 拼音
+
+- wan3 wan3 qiao2 hong2 wo4 bi4 lian2 ， shen1 shen1 gu3 wu1 bei4 chang2 chuan1 。
+
+- yuan2 guan1 song4 cai4 wu2 xu1 ri4 ， xi1 you3 liu2 yu2 bu2 wen4 qian2 。
+
+- li4 shu3 jiu4 jiao1 ju4 lao3 yi3 ， ji2 shi2 xing2 le4 qie3 xin1 ran2 。
+
+- mei2 hua1 geng4 you3 huang2 qian1 ye4 ， xie2 qu3 yi4 bei1 hua1 xia4 chuan2 。
+
+## 译文
+
+仿佛桥虹躺在绿色涟，深深古代房屋背长川。园官送菜无虚日，溪朋友留鱼不问钱。经历了几个老朋友都老了，及时行快乐而且欣然。梅花还有黄千叶，带上取一杯花下传。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+仿佛桥虹躺在绿色涟，深深古代房屋背长川。园官送菜无虚日，溪朋友留鱼不问钱。经历了几个老朋友都老了，及时行快乐而且欣然。梅花还有黄千叶，带上取一杯花下传。
+	* 此部分翻译来自AI，仅供参考

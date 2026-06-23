@@ -1,0 +1,53 @@
+---
+id: zhu-yi-zhu-shi-yue-dan-du-zi-mei-bei-feng-chui-zhang-li-lei-lao-si-san-ce-zhi-ju-ch-44728e67
+title: 十月旦读子美北风吹瘴疠羸老思散策之句初寮
+author: 朱翌
+authorSlug: zhu-yi-zhu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: shi2 yue4 dan4 du2 zi3 mei3 bei3 feng1 chui1 zhang4 li4 lei2 lao3 si1 san4 ce4 zhi1 ju4 chu1 liao2
+authorPinyin: zhu1 yi4
+dynastyPinyin: song4
+canonicalPoemId: 474377
+canonicalAuthorId: 5224
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 厌晴思滴沥，闵雨思开霁。
+
+- 姑欲快吾私，岂暇计丰岁。
+
+- 身如姑射山，物物无疵疠。
+
+- 可笑建除家，卜日论开闭。
+
+- 堂堂百年中，雇已阅半世。
+
+- 徭蜑且友朋，百粤即鲁卫。
+
+## 拼音
+
+- yan4 qing2 si1 di1 li4 ， min3 yu3 si1 kai1 ji4 。
+
+- gu1 yu4 kuai4 wu2 si1 ， qi3 xia2 ji4 feng1 sui4 。
+
+- shen1 ru2 gu1 she4 shan1 ， wu4 wu4 wu2 ci1 li4 。
+
+- ke3 xiao4 jian4 chu2 jia1 ， bu3 ri4 lun4 kai1 bi4 。
+
+- tang2 tang2 bai3 nian2 zhong1 ， gu4 yi3 yue4 ban4 shi4 。
+
+- yao2 dan4 qie3 you3 peng2 ， bai3 yue4 ji2 lu3 wei4 。
+
+## 译文
+
+满足天气考虑水滴，闵雨想念晴朗。姑要快我自己，难道时间计算丰岁。身如姑射山，万物没有疵疠。可笑建除家，卜天论开关。堂堂百年中，雇用已经历半辈子。摇蛋而且朋友，百粤即鲁、卫两国。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+满足天气考虑水滴，闵雨想念晴朗。姑要快我自己，难道时间计算丰岁。身如姑射山，万物没有疵疠。可笑建除家，卜天论开关。堂堂百年中，雇用已经历半辈子。摇蛋而且朋友，百粤即鲁、卫两国。
+	* 此部分翻译来自AI，仅供参考

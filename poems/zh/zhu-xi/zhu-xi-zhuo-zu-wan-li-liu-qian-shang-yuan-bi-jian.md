@@ -1,0 +1,35 @@
+---
+id: zhu-xi-zhuo-zu-wan-li-liu-qian-shang-yuan-bi-jian
+title: 濯足万里流
+author: 朱熹
+authorSlug: zhu-xi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: zhuo2 zu2 wan4 li3 liu2
+authorPinyin: zhu1 xi1
+dynastyPinyin: song4
+canonicalPoemId: 328836
+canonicalAuthorId: 11647
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 褰裳缘碧涧，濯足憩清幽。
+
+- 却拂千岩石，聊乘万里流。
+
+- 氛埃随脱屣，步武欲横秋。
+
+- 极目沧江晚，烟波殊未休。
+
+## 拼音
+
+- qian1 shang0 yuan2 bi4 jian4 ， zhuo2 zu2 qi4 qing1 you1 。
+
+- que4 fu2 qian1 yan2 shi2 ， liao2 cheng2 wan4 li3 liu2 。
+
+- fen1 ai1 sui2 tuo1 xi3 ， bu4 wu3 yu4 heng2 qiu1 。
+
+- ji2 mu4 cang1 jiang1 wan3 ， yan1 bo1 shu1 wei4 xiu1 。
