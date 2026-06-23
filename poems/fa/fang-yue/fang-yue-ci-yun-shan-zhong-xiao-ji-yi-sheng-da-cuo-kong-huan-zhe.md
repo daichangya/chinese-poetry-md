@@ -1,0 +1,61 @@
+---
+id: fang-yue-ci-yun-shan-zhong-xiao-ji-yi-sheng-da-cuo-kong-huan-zhe
+title: 次韵山中小集
+author: 方岳
+authorSlug: fang-yue
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ci4 yun4 shan1 zhong1 xiao3 ji2
+authorPinyin: fang1 yue4
+dynastyPinyin: song4
+canonicalPoemId: 513209
+canonicalAuthorId: 3980
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 一生大错空环辙，何啻糜渠六州铁。
+
+- 不如归来乎山中，山泉自香山酒冽。
+
+- 冰虀一釂累数觞，山中之乐那可量。
+
+- 梅花在傍具知状，落笔烟云生草堂。
+
+- 雪意催诗斗清绝，与巧而迟宁速拙。
+
+- 岂知世上多路岐，莫遣胸中少风月。
+
+- 酒酣胆热须髯张，老夫无复当年狂。
+
+- 乾坤许大不欠我，春猿秋鹤聊徜徉。
+
+## 拼音
+
+- yi4 sheng1 da4 cuo4 kong1 huan2 zhe2 ， he2 chi4 mi2 qu2 liu4 zhou1 tie3 。
+
+- bu4 ru2 gui1 lai2 hu1 shan1 zhong1 ， shan1 quan2 zi4 xiang1 shan1 jiu3 lie4 。
+
+- bing1 ji1 yi2 jiao4 lei4 shu4 shang1 ， shan1 zhong1 zhi1 le4 na4 ke3 liang2 。
+
+- mei2 hua1 zai4 bang4 ju4 zhi1 zhuang4 ， luo4 bi3 yan1 yun2 sheng1 cao3 tang2 。
+
+- xue3 yi4 cui1 shi1 dou4 qing1 jue2 ， yu3 qiao3 er2 chi2 ning2 su4 zhuo1 。
+
+- qi3 zhi1 shi4 shang4 duo1 lu4 qi2 ， mo4 qian3 xiong1 zhong1 shao3 feng1 yue4 。
+
+- jiu3 han1 dan3 re4 xu1 ran2 zhang1 ， lao3 fu1 wu2 fu4 dang1 nian2 kuang2 。
+
+- qian2 kun1 xu3 da4 bu2 qian4 wo3 ， chun1 yuan2 qiu1 he4 liao2 chang2 yang2 。
+
+## 译文
+
+一个大空环车辙交错，有什么比浪费渠六州铁。不如回家来山里，山上的泉水从香山清醇的美酒。冰虀一釂连续几杯，山中的那可量。梅花在旁边详细了解情况，落笔烟云生草堂。雪意催促诗斗清绝，与技巧而迟宁速笨拙。怎么知道世上有很多岔路，没有派胸中少风月。酒酣耳热胆热胡须张，我没有什么再当年疯狂。乾坤允许大不欠我，春季猿秋鹤聊闲步。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+一个大空环车辙交错，有什么比浪费渠六州铁。不如回家来山里，山上的泉水从香山清醇的美酒。冰虀一釂连续几杯，山中的那可量。梅花在旁边详细了解情况，落笔烟云生草堂。雪意催促诗斗清绝，与技巧而迟宁速笨拙。怎么知道世上有很多岔路，没有派胸中少风月。酒酣耳热胆热胡须张，我没有什么再当年疯狂。乾坤允许大不欠我，春季猿秋鹤聊闲步。
+	* 此部分翻译来自AI，仅供参考

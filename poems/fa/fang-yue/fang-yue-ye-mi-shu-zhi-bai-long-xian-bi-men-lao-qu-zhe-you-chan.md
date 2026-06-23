@@ -1,0 +1,45 @@
+---
+id: fang-yue-ye-mi-shu-zhi-bai-long-xian-bi-men-lao-qu-zhe-you-chan
+title: 叶秘书致白龙涎
+author: 方岳
+authorSlug: fang-yue
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ye4 mi4 shu1 zhi4 bai2 long2 xian2
+authorPinyin: fang1 yue4
+dynastyPinyin: song4
+canonicalPoemId: 513106
+canonicalAuthorId: 3980
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 闭门老去着幽禅，趺坐时参柏子烟。
+
+- 书册懒随黄犊角，岩霏宁识白龙涎。
+
+- 蓬莱山复在何处，杞菊赋今谁与传。
+
+- 不道宝书天尺五，肯分风月到林泉。
+
+## 拼音
+
+- bi4 men2 lao3 qu4 zhe0 you1 chan2 ， fu1 zuo4 shi2 can1 bai3 zi3 yan1 。
+
+- shu1 ce4 lan3 sui2 huang2 du2 jiao3 ， yan2 fei1 ning2 shi2 bai2 long2 xian2 。
+
+- peng2 lai2 shan1 fu4 zai4 he2 chu4 ， qi3 ju2 fu4 jin1 shui2 yu3 chuan2 。
+
+- bu2 dao4 bao3 shu1 tian1 chi3 wu3 ， ken3 fen1 feng1 yue4 dao4 lin2 quan2 。
+
+## 译文
+
+关闭门老去着幽禅，打坐时参柏子烟。书本懒随黄犊角，岩霏还记得白龙涎。蓬莱山又在何处，枸杞菊花赋现在谁与传。不道宝书天尺五，肯分风月到山林泉石。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+关闭门老去着幽禅，打坐时参柏子烟。书本懒随黄犊角，岩霏还记得白龙涎。蓬莱山又在何处，枸杞菊花赋现在谁与传。不道宝书天尺五，肯分风月到山林泉石。
+	* 此部分翻译来自AI，仅供参考

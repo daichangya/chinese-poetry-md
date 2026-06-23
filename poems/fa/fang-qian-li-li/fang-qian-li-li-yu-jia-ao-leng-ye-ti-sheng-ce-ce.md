@@ -1,0 +1,69 @@
+---
+id: fang-qian-li-li-yu-jia-ao-leng-ye-ti-sheng-ce-ce
+title: 渔家傲
+author: 方千里
+authorSlug: fang-qian-li-li
+dynasty: 宋
+dynastySlug: song
+titlePinyin: yu2 jia1 ao4
+authorPinyin: fang1 qian1 li3
+dynastyPinyin: song4
+canonicalPoemId: 528007
+canonicalAuthorId: 11892
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 冷叶啼＿声恻恻。
+
+- 银床晓起清霜积。
+
+- 魂断江南烟水国。
+
+- 书难得。
+
+- 想思此意无人识。
+
+- 绿鬓金钗年少客。
+
+- 愁来懒傍菱花仄。
+
+- 雾阁云窗闲枕席。
+
+- 情何适。
+
+- 杯盈珠泪还偷滴。
+
+## 拼音
+
+- leng3 ye4 ti2 ＿ sheng1 ce4 ce4 。
+
+- yin2 chuang2 xiao3 qi3 qing1 shuang1 ji1 。
+
+- hun2 duan4 jiang1 nan2 yan1 shui3 guo2 。
+
+- shu1 nan2 de2 。
+
+- xiang3 si1 ci3 yi4 wu2 ren2 shi2 。
+
+- lü4 bin4 jin1 chai1 nian2 shao4 ke4 。
+
+- chou2 lai2 lan3 bang4 ling2 hua1 ze4 。
+
+- wu4 ge2 yun2 chuang1 xian2 zhen3 xi2 。
+
+- qing2 he2 shi4 。
+
+- bei1 ying2 zhu1 lei4 hai2 tou1 di1 。
+
+## 译文
+
+冷叶啼＿声恳切。银床晓起清霜积。魂断江南烟水国。书难得。想思考这个想法没有人认识。绿鬓金钗年轻客人。愁来懒傍菱花倾斜。雾阁说窗户闲枕席。情何去。杯满泪珠还偷滴。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+冷叶啼＿声恳切。银床晓起清霜积。魂断江南烟水国。书难得。想思考这个想法没有人认识。绿鬓金钗年轻客人。愁来懒傍菱花倾斜。雾阁说窗户闲枕席。情何去。杯满泪珠还偷滴。
+	* 此部分翻译来自AI，仅供参考

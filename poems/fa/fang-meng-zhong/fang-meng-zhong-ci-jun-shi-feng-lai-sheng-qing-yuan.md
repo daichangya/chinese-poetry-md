@@ -1,0 +1,37 @@
+---
+id: fang-meng-zhong-ci-jun-shi-feng-lai-sheng-qing-yuan
+title: 此君室
+author: 方蒙仲
+authorSlug: fang-meng-zhong
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ci3 jun1 shi4
+authorPinyin: fang1 meng2 zhong4
+dynastyPinyin: song4
+canonicalPoemId: 604646
+canonicalAuthorId: 5921
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 风来声清圆，月明影婆娑。
+
+- 挺挺岩壑姿，时亦妩媚何。
+
+## 拼音
+
+- feng1 lai2 sheng1 qing1 yuan2 ， yue4 ming2 ying3 po2 suo1 。
+
+- ting3 ting3 yan2 he4 zi1 ， shi2 yi4 wu3 mei4 he2 。
+
+## 译文
+
+风来声清圆，明影婆娑。笔直岩壑姿态，当时也妩媚什么。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+风来声清圆，明影婆娑。笔直岩壑姿态，当时也妩媚什么。
+	* 此部分翻译来自AI，仅供参考

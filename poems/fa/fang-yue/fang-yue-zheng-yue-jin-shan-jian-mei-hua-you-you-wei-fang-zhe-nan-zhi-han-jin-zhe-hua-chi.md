@@ -1,0 +1,45 @@
+---
+id: fang-yue-zheng-yue-jin-shan-jian-mei-hua-you-you-wei-fang-zhe-nan-zhi-han-jin-zhe-hua-chi
+title: 正月尽山间梅花犹有未放者
+author: 方岳
+authorSlug: fang-yue
+dynasty: 宋
+dynastySlug: song
+titlePinyin: zheng1 yue4 jin4 shan1 jian1 mei2 hua1 you2 you3 wei4 fang4 zhe3
+authorPinyin: fang1 yue4
+dynastyPinyin: song4
+canonicalPoemId: 409478
+canonicalAuthorId: 3980
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 南枝寒尽着花迟，入我新年第一诗。
+
+- 明月向人应有语，老天于物本无私。
+
+- 自通之后谁相得，未雪以前春不知。
+
+- 尽让世间凡草木，再三守此岁寒姿。
+
+## 拼音
+
+- nan2 zhi1 han2 jin4 zhe0 hua1 chi2 ， ru4 wo3 xin1 nian2 di4 yi1 shi1 。
+
+- ming2 yue4 xiang4 ren2 ying1 you3 yu3 ， lao3 tian1 yu2 wu4 ben3 wu2 si1 。
+
+- zi4 tong1 zhi1 hou4 shui2 xiang1 de2 ， wei4 xue3 yi3 qian2 chun1 bu4 zhi1 。
+
+- jin4 rang4 shi4 jian1 fan2 cao3 mu4 ， zai4 san1 shou3 ci3 sui4 han2 zi1 。
+
+## 译文
+
+南枝寒都着花时间，入我新的一年第一首诗。明月向人应有对，老天对事物本无私心。从通畅后谁相处，没有雪以前春不知道。都让世间所有花草树木，再三坚持这岁寒姿。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+南枝寒都着花时间，入我新的一年第一首诗。明月向人应有对，老天对事物本无私心。从通畅后谁相处，没有雪以前春不知道。都让世间所有花草树木，再三坚持这岁寒姿。
+	* 此部分翻译来自AI，仅供参考
