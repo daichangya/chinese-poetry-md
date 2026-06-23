@@ -1,0 +1,37 @@
+---
+id: chao-shuo-zhi-san-song-xian-zhi-xiang-feng-wu-jiu-hen-ru-han
+title: 三送先之
+author: 晁说之
+authorSlug: chao-shuo-zhi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: san1 song4 xian1 zhi1
+authorPinyin: chao2 shuo1 zhi1
+dynastyPinyin: song4
+canonicalPoemId: 552266
+canonicalAuthorId: 2999
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 相逢无酒恨如酣，九市三玄俱不谈。
+
+- 秋雨迢迢催客别，别情雨色已江南。
+
+## 拼音
+
+- xiang1 feng2 wu2 jiu3 hen4 ru2 han1 ， jiu3 shi4 san1 xuan2 ju4 bu4 tan2 。
+
+- qiu1 yu3 tiao2 tiao2 cui1 ke4 bie2 ， bie2 qing2 yu3 se4 yi3 jiang1 nan2 。
+
+## 译文
+
+相逢无酒恨像喝酒，九市三玄都不谈。秋雨迢迢催促客人告别，另情雨已经江南。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+相逢无酒恨像喝酒，九市三玄都不谈。秋雨迢迢催促客人告别，另情雨已经江南。
+	* 此部分翻译来自AI，仅供参考

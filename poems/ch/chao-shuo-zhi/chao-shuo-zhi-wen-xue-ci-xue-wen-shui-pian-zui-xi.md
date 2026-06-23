@@ -1,0 +1,45 @@
+---
+id: chao-shuo-zhi-wen-xue-ci-xue-wen-shui-pian-zui-xi
+title: 问雪
+author: 晁说之
+authorSlug: chao-shuo-zhi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: wen4 xue3
+authorPinyin: chao2 shuo1 zhi1
+dynastyPinyin: song4
+canonicalPoemId: 553097
+canonicalAuthorId: 2999
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 此雪问谁偏最喜，羯胡得意逞天骄。
+
+- 黄河稳渡鱼龙静，白马增光剑甲豪。
+
+- 我有玉钤今震叠，尔看瑶璧莫呼号。
+
+- 何妨特敕近臣燕，肠断金樽费独谣。
+
+## 拼音
+
+- ci3 xue3 wen4 shui2 pian1 zui4 xi3 ， jie2 hu2 de2 yi4 cheng3 tian1 jiao1 。
+
+- huang2 he2 wen3 du4 yu2 long2 jing4 ， bai2 ma3 zeng1 guang1 jian4 jia3 hao2 。
+
+- wo3 you3 yu4 qian2 jin1 zhen4 die2 ， er3 kan4 yao2 bi4 mo4 hu1 hao2 。
+
+- he2 fang2 te4 chi4 jin4 chen2 yan4 ， chang2 duan4 jin1 zun1 fei4 du2 yao2 。
+
+## 译文
+
+这雪问谁偏最喜，羯胡得意满足天骄傲。黄河稳渡鱼龙静，白马增加光佩剑甲豪门。我有玉铃现在地震叠，你看玉璧没有呼叫。何妨特别诏令近臣燕，肠断金杯费只有谣言。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+这雪问谁偏最喜，羯胡得意满足天骄傲。黄河稳渡鱼龙静，白马增加光佩剑甲豪门。我有玉铃现在地震叠，你看玉璧没有呼叫。何妨特别诏令近臣燕，肠断金杯费只有谣言。
+	* 此部分翻译来自AI，仅供参考

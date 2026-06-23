@@ -1,0 +1,37 @@
+---
+id: chao-gong-su-mei-zhou-yan-you-za-yong-shi-shou-lin-chi-ke-shou-lan
+title: 眉州燕游杂咏十首·摇香亭
+author: 晁公溯
+authorSlug: chao-gong-su
+dynasty: 宋
+dynastySlug: song
+titlePinyin: mei2 zhou1 yan4 you2 za2 yong3 shi2 shou3 · yao2 xiang1 ting2
+authorPinyin: chao2 gong1 su4
+dynastyPinyin: song4
+canonicalPoemId: 592547
+canonicalAuthorId: 5306
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 临池可手揽，何似湘水中。
+
+- 冥冥望北渚，木末有芙蓉。
+
+## 拼音
+
+- lin2 chi2 ke3 shou3 lan3 ， he2 si4 xiang1 shui3 zhong1 。
+
+- ming2 ming2 wang4 bei3 zhu3 ， mu4 mo4 you3 fu2 rong2 。
+
+## 译文
+
+在池可以伸手揽，如何湘水中。黑暗望北渚，木末有芙蓉。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+在池可以伸手揽，如何湘水中。黑暗望北渚，木末有芙蓉。
+	* 此部分翻译来自AI，仅供参考

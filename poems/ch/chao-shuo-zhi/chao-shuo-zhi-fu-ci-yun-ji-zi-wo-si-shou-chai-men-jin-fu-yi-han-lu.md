@@ -1,0 +1,45 @@
+---
+id: chao-shuo-zhi-fu-ci-yun-ji-zi-wo-si-shou-chai-men-jin-fu-yi-han-lu
+title: 复次韵寄子我四首
+author: 晁说之
+authorSlug: chao-shuo-zhi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: fu4 ci4 yun4 ji4 zi3 wo3 si4 shou3
+authorPinyin: chao2 shuo1 zhi1
+dynastyPinyin: song4
+canonicalPoemId: 551879
+canonicalAuthorId: 2999
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 柴门仅付一寒卢，不内不妻深有模。
+
+- 每与筼筜同缱绻，好来箕筜共萧疏。
+
+- 谢娘莫道能联句，郑婢无烦亦读书。
+
+- 前日{女便}娟今不见，头槌眼臼却能如。
+
+## 拼音
+
+- chai2 men2 jin3 fu4 yi4 han2 lu2 ， bu2 nei4 bu4 qi1 shen1 you3 mo2 。
+
+- mei3 yu3 yun2 dang1 tong2 qian3 quan3 ， hao3 lai2 ji1 dang1 gong4 xiao1 shu1 。
+
+- xie4 niang2 mo4 dao4 neng2 lian2 ju4 ， zheng4 bi4 wu2 fan2 yi4 du2 shu1 。
+
+- qian2 ri4 { nü3 bian4 } juan1 jin1 bu2 jian4 ， tou2 chui2 yan3 jiu4 que4 neng2 ru2 。
+
+## 译文
+
+柴门仅交付一个寒冷卢，不让妻子很有规模不。常与筼筜同欢好，好来箕筜共萧疏。谢娘别说能联句，郑婢女没有麻烦也读书。以前{女便}娟今天不见，头槌眼臼却能像。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+柴门仅交付一个寒冷卢，不让妻子很有规模不。常与筼筜同欢好，好来箕筜共萧疏。谢娘别说能联句，郑婢女没有麻烦也读书。以前{女便}娟今天不见，头槌眼臼却能像。
+	* 此部分翻译来自AI，仅供参考

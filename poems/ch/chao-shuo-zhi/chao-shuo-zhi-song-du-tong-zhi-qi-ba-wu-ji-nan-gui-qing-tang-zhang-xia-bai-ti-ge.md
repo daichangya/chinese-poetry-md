@@ -1,0 +1,69 @@
+---
+id: chao-shuo-zhi-song-du-tong-zhi-qi-ba-wu-ji-nan-gui-qing-tang-zhang-xia-bai-ti-ge
+title: 送杜通直乞罢无极南归
+author: 晁说之
+authorSlug: chao-shuo-zhi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: song4 du4 tong1 zhi2 qi3 ba4 wu2 ji2 nan2 gui1
+authorPinyin: chao2 shuo1 zhi1
+dynastyPinyin: song4
+canonicalPoemId: 552654
+canonicalAuthorId: 2999
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 青堂帐下白题歌，王师城外横天戈。
+
+- 白首国母契丹女，泣问王师来谓何。
+
+- 将军突骑擅府库，羌儿逃死独峰驼。
+
+- 军中即日拜太守，兜鍪未脱群冠峨。
+
+- 杜侯别乘不愿行，自言壮志今消磨。
+
+- 顾岂不知金币饶，家有清风誓不颇。
+
+- 归来南北信所之，无极陋壤留则难。
+
+- 却卷前志随征雁，回首三吴风景和。
+
+- 怜君骨法可学道，此生肯与树婆娑。
+
+- 嗟予投帻亦不晚，君好访我嵩山阿。
+
+## 拼音
+
+- qing1 tang2 zhang4 xia4 bai2 ti2 ge1 ， wang2 shi1 cheng2 wai4 heng2 tian1 ge1 。
+
+- bai2 shou3 guo2 mu3 qi4 dan1 nü3 ， qi4 wen4 wang2 shi1 lai2 wei4 he2 。
+
+- jiang1 jun1 tu1 qi2 shan4 fu3 ku4 ， qiang1 er2 tao2 si3 du2 feng1 tuo2 。
+
+- jun1 zhong1 ji2 ri4 bai4 tai4 shou3 ， dou1 mou2 wei4 tuo1 qun2 guan1 e2 。
+
+- du4 hou2 bie2 cheng2 bu2 yuan4 xing2 ， zi4 yan2 zhuang4 zhi4 jin1 xiao1 mo2 。
+
+- gu4 qi3 bu4 zhi1 jin1 bi4 rao2 ， jia1 you3 qing1 feng1 shi4 bu4 po1 。
+
+- gui1 lai2 nan2 bei3 xin4 suo3 zhi1 ， wu2 ji2 lou4 rang3 liu2 ze2 nan2 。
+
+- que4 juan4 qian2 zhi4 sui2 zheng1 yan4 ， hui2 shou3 san1 wu2 feng1 jing3 he2 。
+
+- lian2 jun1 gu3 fa3 ke3 xue2 dao4 ， ci3 sheng1 ken3 yu3 shu4 po2 suo1 。
+
+- jie1 yu3 tou2 ze2 yi4 bu4 wan3 ， jun1 hao3 fang3 wo3 song1 shan1 a1 。
+
+## 译文
+
+青堂帐下白题歌，王师城外横天戈。白头国母契丹女，哭着问王来是什么。将军骑兵擅自仓库，羌儿逃亡独峰驼。军中当天就授他为太守，头盔还没有脱群冠高。杜侯另外乘不愿意走，从言壮志现在消磨。顾难道不知道金币饶，家有清风誓不多。归来南北相信所的，无极简陋地留那么难。退卷前志随征雁，回首三吴风景和。怜悯你骨骼可以学习方法，这生肯与树婆娑。叹我丢帧也不晚，你喜欢找我嵩山阿。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+青堂帐下白题歌，王师城外横天戈。白头国母契丹女，哭着问王来是什么。将军骑兵擅自仓库，羌儿逃亡独峰驼。军中当天就授他为太守，头盔还没有脱群冠高。杜侯另外乘不愿意走，从言壮志现在消磨。顾难道不知道金币饶，家有清风誓不多。归来南北相信所的，无极简陋地留那么难。退卷前志随征雁，回首三吴风景和。怜悯你骨骼可以学习方法，这生肯与树婆娑。叹我丢帧也不晚，你喜欢找我嵩山阿。
+	* 此部分翻译来自AI，仅供参考

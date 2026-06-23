@@ -1,0 +1,89 @@
+---
+id: chao-shuo-zhi-hu-meng-xiu-shi-nei-huang-xian-wei-ji-shu-qi-xu-chou-zhi-you-jing-shi-zh-fcbf07e7
+title: 忽蒙秀实内黄贤尉寄书期许稠至有经世之语辄
+author: 晁说之
+authorSlug: chao-shuo-zhi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: hu1 meng2 xiu4 shi2 nei4 huang2 xian2 wei4 ji4 shu1 qi1 xu3 chou2 zhi4 you3 jing1 shi4 zhi1 yu3 zhe2
+authorPinyin: chao2 shuo1 zhi1
+dynastyPinyin: song4
+canonicalPoemId: 552200
+canonicalAuthorId: 2999
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 岁宴慕群侣，鱼鸟各知息。
+
+- 故人音书来，怜我此时忆。
+
+- 忠言开靡靡，岂但问寝食。
+
+- 我有山耕愿，久矣君已得。
+
+- 中道忽献书，明时思自立。
+
+- 一官虽漫与，颇知民苦疾。
+
+- 豺狼不当路，雨露发天秩。
+
+- 植杖听班诏，去暴看甲乙。
+
+- 闾阎心欲速，廊庙虑匪棘。
+
+- 恨不死褚渊，叹嗟起安石。
+
+- 固云小人鄙，未易君子识。
+
+- 悠悠定谁堪，世事儿女剧。
+
+- 君才雄且锐，欲振排云翮。
+
+- 但恨张公子，蹶蹶难与适。
+
+- 功名良可图，燕然铭谩勒。
+
+## 拼音
+
+- sui4 yan4 mu4 qun2 lü3 ， yu2 niao3 ge4 zhi1 xi1 。
+
+- gu4 ren2 yin1 shu1 lai2 ， lian2 wo3 ci3 shi2 yi4 。
+
+- zhong1 yan2 kai1 mi2 mi2 ， qi3 dan4 wen4 qin3 shi2 。
+
+- wo3 you3 shan1 geng1 yuan4 ， jiu3 yi3 jun1 yi3 de2 。
+
+- zhong1 dao4 hu1 xian4 shu1 ， ming2 shi2 si1 zi4 li4 。
+
+- yi4 guan1 sui1 man4 yu3 ， po1 zhi1 min2 ku3 ji2 。
+
+- chai2 lang2 bu4 dang1 lu4 ， yu3 lu4 fa1 tian1 zhi4 。
+
+- zhi2 zhang4 ting1 ban1 zhao4 ， qu4 bao4 kan4 jia3 yi3 。
+
+- lü2 yan2 xin1 yu4 su4 ， lang2 miao4 lü4 fei3 ji2 。
+
+- hen4 bu4 si3 chu3 yuan1 ， tan4 jie1 qi3 an1 shi2 。
+
+- gu4 yun2 xiao3 ren2 bi3 ， wei4 yi4 jun1 zi3 shi2 。
+
+- you1 you1 ding4 shui2 kan1 ， shi4 shi4 er2 nü3 ju4 。
+
+- jun1 cai2 xiong2 qie3 rui4 ， yu4 zhen4 pai2 yun2 he2 。
+
+- dan4 hen4 zhang1 gong1 zi3 ， jue3 jue3 nan2 yu3 shi4 。
+
+- gong1 ming2 liang2 ke3 tu2 ， yan4 ran2 ming2 man4 le4 。
+
+## 译文
+
+每年在慕同伴，鱼鸟都知道休息。故人音书来，可怜我这个时候想起。忠言开靡靡之音，难道只是问吃睡。我有山耕希望，时间长了你已经得到。中途忽然献书，明时思自立。一官虽然浪漫与，很知道百姓苦疾。豺狼不该路，雨水从天秩。拄着拐杖听颁布韶，离开突然看甲乙。里巷心要快，朝廷担心不是棘。恨不得死褚渊，感叹起王安石。坚持说小人鄙视，君子知道不容易。悠悠确定谁可以，世上的事儿女剧。你才大且尖，要振兴排说翅膀。只恨张公子，踢踢很难与适应。功名真图，燕然铭谩勒。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+每年在慕同伴，鱼鸟都知道休息。故人音书来，可怜我这个时候想起。忠言开靡靡之音，难道只是问吃睡。我有山耕希望，时间长了你已经得到。中途忽然献书，明时思自立。一官虽然浪漫与，很知道百姓苦疾。豺狼不该路，雨水从天秩。拄着拐杖听颁布韶，离开突然看甲乙。里巷心要快，朝廷担心不是棘。恨不得死褚渊，感叹起王安石。坚持说小人鄙视，君子知道不容易。悠悠确定谁可以，世上的事儿女剧。你才大且尖，要振兴排说翅膀。只恨张公子，踢踢很难与适应。功名真图，燕然铭谩勒。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,45 @@
+---
+id: chao-bu-zhi-ci-yun-su-gong-he-nan-xin-dao-zhong-shi-er-shou-shan-yuan-fu-rong-kai
+title: 次韵苏公和南新道中诗二首
+author: 晁补之
+authorSlug: chao-bu-zhi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ci4 yun4 su1 gong1 he2 nan2 xin1 dao4 zhong1 shi1 er4 shou3
+authorPinyin: chao2 bu3 zhi1
+dynastyPinyin: song4
+canonicalPoemId: 573317
+canonicalAuthorId: 4858
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 山园芙容开，寂莫岁云晚。
+
+- 公来无与同，念我百里远。
+
+- 寒飙吟空林，白日下重𪩘。
+
+- 兴尽还独归，挑灯古囊满。
+
+## 拼音
+
+- shan1 yuan2 fu2 rong2 kai1 ， ji4 mo4 sui4 yun2 wan3 。
+
+- gong1 lai2 wu2 yu3 tong2 ， nian4 wo3 bai3 li3 yuan3 。
+
+- han2 biao1 yin2 kong1 lin2 ， bai2 ri4 xia4 zhong4 yan3 。
+
+- xing1 jin4 hai2 du2 gui1 ， tiao3 deng1 gu3 nang2 man3 。
+
+## 译文
+
+山园芙容开，寂莫岁说晚。公来没有和同，想想我们百里远。寒狂吟空林，太阳下重重山峰。兴尽还独自回家，点灯古代口袋满。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+山园芙容开，寂莫岁说晚。公来没有和同，想想我们百里远。寒狂吟空林，太阳下重重山峰。兴尽还独自回家，点灯古代口袋满。
+	* 此部分翻译来自AI，仅供参考

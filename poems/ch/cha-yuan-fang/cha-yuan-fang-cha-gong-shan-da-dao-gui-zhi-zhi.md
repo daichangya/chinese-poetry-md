@@ -1,0 +1,121 @@
+---
+id: cha-yuan-fang-cha-gong-shan-da-dao-gui-zhi-zhi
+title: 查公山
+author: 查元方
+authorSlug: cha-yuan-fang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: cha2 gong1 shan1
+authorPinyin: cha2 yuan2 fang1
+dynastyPinyin: song4
+canonicalPoemId: 516197
+canonicalAuthorId: 7733
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 大道贵知止，昔贤称二疏。
+
+- 今来我季方，退身兹有余。
+
+- 潇洒去桎梏，放荡狎樵渔。
+
+- 疏泉离远窦，凿石构层庐。
+
+- 溪禽拂窗牖，山花满庭除。
+
+- 寒藤系舴艋，碧潭澄素舒。
+
+- 睹兹尘壒外，始见仁智居。
+
+- 痛哉方散适，溘然归丘墟。
+
+- 恨不同老彭，其乐永只且。
+
+- 自古千禄辈，知进不知退。
+
+- 立事名虽扬，全身理何昧，
+
+- 茂先赋鹪鹩，体物知显晦。
+
+- 一旦祸自速，临刑无以对。
+
+- 李斯恋富贵，下包周身智。
+
+- 及忆东门犬，已弃咸阳市。
+
+- 平子著归田，渊明舍彭泽。
+
+- 后来区区人，谁复挂书册。
+
+- 我喜从今云，吾宗有逋客。
+
+- 山号查公山，𫶇嵲云汉间。
+
+- 山下查公冢，溪声长潺潺。
+
+- 高台好怅望。
+
+- 绝磴堪跻攀。
+
+- 他年谢簪绂，永此继闲闲。
+
+## 拼音
+
+- da4 dao4 gui4 zhi1 zhi3 ， xi1 xian2 cheng1 er4 shu1 。
+
+- jin1 lai2 wo3 ji4 fang1 ， tui4 shen1 zi1 you3 yu2 。
+
+- xiao1 sa3 qu4 zhi4 gu4 ， fang4 dang4 xia2 qiao2 yu2 。
+
+- shu1 quan2 li2 yuan3 dou4 ， zao2 shi2 gou4 ceng2 lu2 。
+
+- xi1 qin2 fu2 chuang1 you3 ， shan1 hua1 man3 ting2 chu2 。
+
+- han2 teng2 xi4 ze2 meng3 ， bi4 tan2 cheng2 su4 shu1 。
+
+- du3 zi1 chen2 ai4 wai4 ， shi3 jian4 ren2 zhi4 ju1 。
+
+- tong4 zai1 fang1 san4 shi4 ， ke4 ran2 gui1 qiu1 xu1 。
+
+- hen4 bu4 tong2 lao3 peng2 ， qi2 le4 yong3 zhi1 qie3 。
+
+- zi4 gu3 qian1 lu4 bei4 ， zhi1 jin4 bu4 zhi1 tui4 。
+
+- li4 shi4 ming2 sui1 yang2 ， quan2 shen1 li3 he2 mei4 ，
+
+- mao4 xian1 fu4 jiao1 liao2 ， ti3 wu4 zhi1 xian3 hui4 。
+
+- yi2 dan4 huo4 zi4 su4 ， lin2 xing2 wu2 yi3 dui4 。
+
+- li3 si1 lian4 fu4 gui4 ， xia4 bao1 zhou1 shen1 zhi4 。
+
+- ji2 yi4 dong1 men2 quan3 ， yi3 qi4 xian2 yang2 shi4 。
+
+- ping2 zi3 zhu4 gui1 tian2 ， yuan1 ming2 she4 peng2 ze2 。
+
+- hou4 lai2 qu1 qu1 ren2 ， shui2 fu4 gua4 shu1 ce4 。
+
+- wo3 xi3 cong2 jin1 yun2 ， wu2 zong1 you3 bu1 ke4 。
+
+- shan1 hao4 cha2 gong1 shan1 ， die2 nie4 yun2 han4 jian1 。
+
+- shan1 xia4 cha2 gong1 zhong3 ， xi1 sheng1 chang2 chan2 chan2 。
+
+- gao1 tai2 hao3 chang4 wang4 。
+
+- jue2 deng4 kan1 ji1 pan1 。
+
+- ta1 nian2 xie4 zan1 fu2 ， yong3 ci3 ji4 xian2 xian2 。
+
+## 译文
+
+大道贵知止，从前贤称二疏。今天来我也，兹有我退身。潇洒离开桎梏，放荡轻视砍柴捕鱼。疏通泉水远离窦，凿石构层房屋。溪禽擦窗户，山花满院子。寒藤系舴艋，碧绿的潭水清澈白舒。看到这尘壒外，始见仁智过。痛心方散到，忽然地回到废墟。恨不能与老彭，他的音乐永远只将。自古千禄等，知道进不知道退。立事名虽然扬，全身理何不明，茂先赋鹅鹑，体物知显晦。一旦祸自速，临刑前无法回答。李斯贪恋富贵，下包周身智。和回忆东门狗，已放弃咸阳市。平子著回家，渊明舍彭泽。后来小小人，谁又挂书本。我喜欢从现在说，我们家族有欠客人。山号查公山，𫶇险峻天河间。山下查公墓，溪水潺潺声长。高台喜欢怅望。绝瞪起攀登。其他年谢簪丝带，永远这样继续闲闲。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+大道贵知止，从前贤称二疏。今天来我也，兹有我退身。潇洒离开桎梏，放荡轻视砍柴捕鱼。疏通泉水远离窦，凿石构层房屋。溪禽擦窗户，山花满院子。寒藤系舴艋，碧绿的潭水清澈白舒。看到这尘壒外，始见仁智过。痛心方散到，忽然地回到废墟。恨不能与老彭，他的音乐永远只将。自古千禄等，知道进不知道退。立事名虽然扬，全身理何不明，茂先赋鹅鹑，体物知显晦。一旦祸自速，临刑前无法回答。李斯贪恋富贵，下包周身智。和回忆东门狗，已放弃咸阳市。平子著回家，渊明舍彭泽。后来小小人，谁又挂书本。我喜欢从现在说，我们家族有欠客人。山号查公山，𫶇险峻天河间。山下查公墓，溪水潺潺声长。高台喜欢怅望。绝瞪起攀登。其他年谢簪丝带，永远这样继续闲闲。
+	* 此部分翻译来自AI，仅供参考

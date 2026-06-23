@@ -1,0 +1,45 @@
+---
+id: chao-gong-su-li-chun-wo-li-zhu-li-wang-qing-kong
+title: 立春
+author: 晁公溯
+authorSlug: chao-gong-su
+dynasty: 宋
+dynastySlug: song
+titlePinyin: li4 chun1
+authorPinyin: chao2 gong1 su4
+dynastyPinyin: song4
+canonicalPoemId: 591974
+canonicalAuthorId: 5306
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 我立伫立望晴空，目极苍茫万壑中。
+
+- 树色昏昏酣霁雾，江纹细细织柔风。
+
+- 一行殊俗犹为吏，三揖今年拟送穷。
+
+- 闻道东田耕帝藉，惭无赋奏大明宫。
+
+## 拼音
+
+- wo3 li4 zhu4 li4 wang4 qing2 kong1 ， mu4 ji2 cang1 mang2 wan4 he4 zhong1 。
+
+- shu4 se4 hun1 hun1 han1 ji4 wu4 ， jiang1 wen2 xi4 xi4 zhi1 rou2 feng1 。
+
+- yi4 hang2 shu1 su2 you2 wei4 li4 ， san1 yi1 jin1 nian2 ni3 song4 qiong2 。
+
+- wen2 dao4 dong1 tian2 geng1 di4 jie4 ， can2 wu2 fu4 zou4 da4 ming2 gong1 。
+
+## 译文
+
+我站伫立望晴空，目极苍茫万壑中。树色昏昏酣晴雾，江纹细细织柔风。一行不同的习俗仍为吏，三揖今年准备送穷。闻道东田耕藉田，惭愧没有赋奏大明宫。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+我站伫立望晴空，目极苍茫万壑中。树色昏昏酣晴雾，江纹细细织柔风。一行不同的习俗仍为吏，三揖今年准备送穷。闻道东田耕藉田，惭愧没有赋奏大明宫。
+	* 此部分翻译来自AI，仅供参考
