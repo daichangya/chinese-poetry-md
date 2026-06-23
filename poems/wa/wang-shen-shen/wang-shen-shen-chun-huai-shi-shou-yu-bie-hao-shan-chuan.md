@@ -1,0 +1,61 @@
+---
+id: wang-shen-shen-chun-huai-shi-shou-yu-bie-hao-shan-chuan
+title: 春怀十首
+author: 汪莘
+authorSlug: wang-shen-shen
+dynasty: 宋
+dynastySlug: song
+titlePinyin: chun1 huai2 shi2 shou3
+authorPinyin: wang1 shen1
+dynastyPinyin: song4
+canonicalPoemId: 549035
+canonicalAuthorId: 2556
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 鱼鳖好山川，鸟兽好在山。
+
+- 人皆好山水，所好非一端。
+
+- 君子抱仁智，寓意山水间。
+
+- 矧乃阳春月，富贵相追攀。
+
+- 靓装散香风，纤指发清弹。
+
+- 道旁起深羡，有识独长叹。
+
+- 我亦共春游，所遇得正观。
+
+- 可与达者悟，难与味者谈。
+
+## 拼音
+
+- yu2 bie1 hao3 shan1 chuan1 ， niao3 shou4 hao3 zai4 shan1 。
+
+- ren2 jie1 hao3 shan1 shui3 ， suo3 hao3 fei1 yi4 duan1 。
+
+- jun1 zi3 bao4 ren2 zhi4 ， yu4 yi4 shan1 shui3 jian1 。
+
+- shen3 nai3 yang2 chun1 yue4 ， fu4 gui4 xiang1 zhui1 pan1 。
+
+- liang4 zhuang1 san4 xiang1 feng1 ， xian1 zhi3 fa1 qing1 tan2 。
+
+- dao4 pang2 qi3 shen1 xian4 ， you3 shi2 du2 chang2 tan4 。
+
+- wo3 yi4 gong4 chun1 you2 ， suo3 yu4 de2 zheng4 guan1 。
+
+- ke3 yu3 da2 zhe3 wu4 ， nan2 yu3 wei4 zhe3 tan2 。
+
+## 译文
+
+鱼鳖好山川，鸟兽喜欢在山上。人都好山好水，我喜欢并不是一个方面。君子抱着仁智，寓意山水间。何况是阳春月，富贵来攀登。靓装散香风，手指纤细发清弹。路旁起很羡慕，有认识独长叹。我也一起春游，所遇得到正观。可以与达的领悟，很难与味道的谈话。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+鱼鳖好山川，鸟兽喜欢在山上。人都好山好水，我喜欢并不是一个方面。君子抱着仁智，寓意山水间。何况是阳春月，富贵来攀登。靓装散香风，手指纤细发清弹。路旁起很羡慕，有认识独长叹。我也一起春游，所遇得到正观。可以与达的领悟，很难与味道的谈话。
+	* 此部分翻译来自AI，仅供参考

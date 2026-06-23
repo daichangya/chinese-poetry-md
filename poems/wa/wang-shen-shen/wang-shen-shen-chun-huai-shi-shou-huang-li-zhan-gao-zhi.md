@@ -1,0 +1,61 @@
+---
+id: wang-shen-shen-chun-huai-shi-shou-huang-li-zhan-gao-zhi
+title: 春怀十首
+author: 汪莘
+authorSlug: wang-shen-shen
+dynasty: 宋
+dynastySlug: song
+titlePinyin: chun1 huai2 shi2 shou3
+authorPinyin: wang1 shen1
+dynastyPinyin: song4
+canonicalPoemId: 414677
+canonicalAuthorId: 2556
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 黄鹂占高枝，蝴蝶恋芳草，
+
+- 达人能岸胡，儿女被春恼。
+
+- 和风吹衣裳，白日照怀抱。
+
+- 天地为我园，众目一何小。
+
+- 东皇行仲月，南极现朱鸟。
+
+- 虞帝被袗衣，周五在灵沼。
+
+- 天飞既览德，于{左牛台刃}亦知道。
+
+- 感此弥恨长，冉冉以空老。
+
+## 拼音
+
+- huang2 li2 zhan4 gao1 zhi1 ， hu2 die2 lian4 fang1 cao3 ，
+
+- da2 ren2 neng2 an4 hu2 ， er2 nü3 bei4 chun1 nao3 。
+
+- he2 feng1 chui1 yi1 shang0 ， bai2 ri4 zhao4 huai2 bao4 。
+
+- tian1 di4 wei4 wo3 yuan2 ， zhong4 mu4 yi4 he2 xiao3 。
+
+- dong1 huang2 xing2 zhong4 yue4 ， nan2 ji2 xian4 zhu1 niao3 。
+
+- yu2 di4 bei4 zhen3 yi1 ， zhou1 wu3 zai4 ling2 zhao3 。
+
+- tian1 fei1 ji4 lan3 de2 ， yu2 { zuo3 niu2 tai2 ren4 } yi4 zhi1 dao4 。
+
+- gan3 ci3 mi2 hen4 chang2 ， ran3 ran3 yi3 kong1 lao3 。
+
+## 译文
+
+黄鹂占高枝，蝴蝶恋芳草，通达人能岸胡，女人被春烦恼。和风吹衣裳，太阳照耀着怀抱。天地为我园，大家眼睛多么小。东皇运行第二个月，南极出现红鸟。虞帝被身着衣服，周五在灵沼。天上飞已经看德，在{左牛台刀}也知道。感这更恨长，慢慢地把空老。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+黄鹂占高枝，蝴蝶恋芳草，通达人能岸胡，女人被春烦恼。和风吹衣裳，太阳照耀着怀抱。天地为我园，大家眼睛多么小。东皇运行第二个月，南极出现红鸟。虞帝被身着衣服，周五在灵沼。天上飞已经看德，在{左牛台刀}也知道。感这更恨长，慢慢地把空老。
+	* 此部分翻译来自AI，仅供参考

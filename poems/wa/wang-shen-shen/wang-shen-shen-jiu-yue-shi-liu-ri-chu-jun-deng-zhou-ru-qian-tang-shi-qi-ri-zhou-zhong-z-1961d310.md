@@ -1,0 +1,37 @@
+---
+id: wang-shen-shen-jiu-yue-shi-liu-ri-chu-jun-deng-zhou-ru-qian-tang-shi-qi-ri-zhou-zhong-z-1961d310
+title: 九月十六日出郡登舟如钱塘十七日舟中杂兴
+author: 汪莘
+authorSlug: wang-shen-shen
+dynasty: 宋
+dynastySlug: song
+titlePinyin: jiu3 yue4 shi2 liu4 ri4 chu1 jun4 deng1 zhou1 ru2 qian2 tang2 shi2 qi1 ri4 zhou1 zhong1 za2 xing1
+authorPinyin: wang1 shen1
+dynastyPinyin: song4
+canonicalPoemId: 414266
+canonicalAuthorId: 2556
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 天地穷时事不穷，最伤心处是凉风。
+
+- 少年每下悲秋泪，投老情如泪亦空。
+
+## 拼音
+
+- tian1 di4 qiong2 shi2 shi4 bu4 qiong2 ， zui4 shang1 xin1 chu4 shi4 liang2 feng1 。
+
+- shao4 nian2 mei3 xia4 bei1 qiu1 lei4 ， tou2 lao3 qing2 ru2 lei4 yi4 kong1 。
+
+## 译文
+
+天地尽头时事务不穷，最伤心处是凉风。少年每下悲秋泪，投老情如泪也空。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+天地尽头时事务不穷，最伤心处是凉风。少年每下悲秋泪，投老情如泪也空。
+	* 此部分翻译来自AI，仅供参考

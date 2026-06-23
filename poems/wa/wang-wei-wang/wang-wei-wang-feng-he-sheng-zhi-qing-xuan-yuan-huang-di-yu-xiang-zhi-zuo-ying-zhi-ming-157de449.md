@@ -1,0 +1,53 @@
+---
+id: wang-wei-wang-feng-he-sheng-zhi-qing-xuan-yuan-huang-di-yu-xiang-zhi-zuo-ying-zhi-ming-157de449
+title: 奉和圣制庆玄元皇帝玉像之作应制
+author: 王维
+authorSlug: wang-wei-wang
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: feng4 he2 sheng4 zhi4 qing4 xuan2 yuan2 huang2 di4 yu4 xiang4 zhi1 zuo4 ying4 zhi4
+authorPinyin: wang2 wei2
+dynastyPinyin: tang2
+canonicalPoemId: 448685
+canonicalAuthorId: 366
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 明君梦帝先，宝命上齐天。
+
+- 秦后徒闻乐，周王耻卜年。
+
+- 玉京移大像，金箓会群仙。
+
+- 承露调天供，临空敞御筵。
+
+- 斗回迎寿酒，山近起炉烟。
+
+- 愿奉无为化，斋心学自然。
+
+## 拼音
+
+- ming2 jun1 meng4 di4 xian1 ， bao3 ming4 shang4 qi2 tian1 。
+
+- qin2 hou4 tu2 wen2 le4 ， zhou1 wang2 chi3 bu3 nian2 。
+
+- yu4 jing1 yi2 da4 xiang4 ， jin1 lu4 hui4 qun2 xian1 。
+
+- cheng2 lu4 tiao2 tian1 gong4 ， lin2 kong1 chang3 yu4 yan2 。
+
+- dou4 hui2 ying2 shou4 jiu3 ， shan1 jin4 qi3 lu2 yan1 。
+
+- yuan4 feng4 wu2 wei2 hua4 ， zhai1 xin1 xue2 zi4 ran2 。
+
+## 译文
+
+第二你梦见先帝，天命上齐天。秦以后只是听音乐，周王以卜年。玉帝移大佛像，金录会群仙。承露调天供应，在空敞筵席。斗回迎寿酒，靠近山起炉烟。愿意无为化，他诚心学自然。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+第二你梦见先帝，天命上齐天。秦以后只是听音乐，周王以卜年。玉帝移大佛像，金录会群仙。承露调天供应，在空敞筵席。斗回迎寿酒，靠近山起炉烟。愿意无为化，他诚心学自然。
+	* 此部分翻译来自AI，仅供参考
