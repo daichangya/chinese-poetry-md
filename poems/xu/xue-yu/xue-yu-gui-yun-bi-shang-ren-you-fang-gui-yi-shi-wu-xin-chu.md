@@ -1,0 +1,45 @@
+---
+id: xue-yu-gui-yun-bi-shang-ren-you-fang-gui-yi-shi-wu-xin-chu
+title: 归云壁上人游方归
+author: 薛嵎
+authorSlug: xue-yu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: gui1 yun2 bi4 shang4 ren2 you2 fang1 gui1
+authorPinyin: xue1 yu2
+dynastyPinyin: song4
+canonicalPoemId: 636813
+canonicalAuthorId: 1095
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 亦是无心出，不如归意闲。
+
+- 一身随铁锡，十载住金山。
+
+- 定石沾花雨，清庙带病颜。
+
+- 常云迷觉路，只在片言间。
+
+## 拼音
+
+- yi4 shi4 wu2 xin1 chu1 ， bu4 ru2 gui1 yi4 xian2 。
+
+- yi4 shen1 sui2 tie3 xi1 ， shi2 zai3 zhu4 jin1 shan1 。
+
+- ding4 shi2 zhan1 hua1 yu3 ， qing1 miao4 dai4 bing4 yan2 。
+
+- chang2 yun2 mi2 jue2 lu4 ， zhi1 zai4 pian4 yan2 jian1 。
+
+## 译文
+
+这也是没有心出，不如归意闲。一身随铁锡，十年住在金山。定石沾花雨，清庙带病颜。常说迷觉路，只在句中。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+这也是没有心出，不如归意闲。一身随铁锡，十年住在金山。定石沾花雨，清庙带病颜。常说迷觉路，只在句中。
+	* 此部分翻译来自AI，仅供参考

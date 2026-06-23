@@ -1,0 +1,45 @@
+---
+id: xu-yue-qing-ji-guo-qu-zhou-bo-hai-huang-chi-dao
+title: 寄郭衢州
+author: 许月卿
+authorSlug: xu-yue-qing
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ji4 guo1 qu2 zhou1
+authorPinyin: xu3 yue4 qing1
+dynastyPinyin: song4
+canonicalPoemId: 588297
+canonicalAuthorId: 5271
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 渤海潢池盗，龚卿奉诏忧。
+
+- 东轩继芳躅，西府踵清流。
+
+- 同榜黄扉匹，中峰皂盖俦。
+
+- 中斋同一笑，山屋好中秋。
+
+## 拼音
+
+- bo2 hai3 huang2 chi2 dao4 ， gong1 qing1 feng4 zhao4 you1 。
+
+- dong1 xuan1 ji4 fang1 zhu2 ， xi1 fu3 zhong3 qing1 liu2 。
+
+- tong2 bang3 huang2 fei1 pi3 ， zhong1 feng1 zao4 gai4 chou2 。
+
+- zhong1 zhai1 tong2 yi2 xiao4 ， shan1 wu1 hao3 zhong1 qiu1 。
+
+## 译文
+
+渤海潢池盗贼，龚你奉命忧虑。东轩继芳躅，西府脚跟清流。同榜黄色门匹，中峰皂是谁。中斋同一笑，山房子喜欢中秋节。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+渤海潢池盗贼，龚你奉命忧虑。东轩继芳躅，西府脚跟清流。同榜黄色门匹，中峰皂是谁。中斋同一笑，山房子喜欢中秋节。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,51 @@
+---
+id: xue-ang-fu-shui-xian-zi-ji-nian-wu-shi-bang-jiang-hu
+title: 水仙子·几年无事傍江湖
+author: 薛昂夫
+authorSlug: xue-ang-fu
+dynasty: 元
+dynastySlug: yuan
+titlePinyin: shui3 xian1 zi3 · ji3 nian2 wu2 shi4 bang4 jiang1 hu2
+authorPinyin: xue1 ang2 fu1
+dynastyPinyin: yuan2
+canonicalPoemId: 493840
+canonicalAuthorId: 7129
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 几年无事傍江湖，
+
+- 醉倒黄公旧酒垆。
+
+- 人间纵有伤心处，
+
+- 也不到刘伶坟上土，
+
+- 醉乡中不辨贤愚。
+
+- 对风流人物，
+
+- 看江山画图，
+
+- 便醉倒何如！
+
+## 拼音
+
+- ji3 nian2 wu2 shi4 bang4 jiang1 hu2 ，
+
+- zui4 dao3 huang2 gong1 jiu4 jiu3 lu2 。
+
+- ren2 jian1 zong4 you3 shang1 xin1 chu4 ，
+
+- ye3 bu2 dao4 liu2 ling2 fen2 shang4 tu3 ，
+
+- zui4 xiang1 zhong1 bu2 bian4 xian2 yu2 。
+
+- dui4 feng1 liu2 ren2 wu4 ，
+
+- kan4 jiang1 shan1 hua4 tu2 ，
+
+- bian4 zui4 dao3 he2 ru2 ！

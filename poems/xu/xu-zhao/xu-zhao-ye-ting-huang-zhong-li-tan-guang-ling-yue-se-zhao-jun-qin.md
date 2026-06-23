@@ -1,0 +1,45 @@
+---
+id: xu-zhao-ye-ting-huang-zhong-li-tan-guang-ling-yue-se-zhao-jun-qin
+title: 夜听黄仲立弹广陵
+author: 徐照
+authorSlug: xu-zhao
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ye4 ting1 huang2 zhong4 li4 tan2 guang3 ling2
+authorPinyin: xu2 zhao4
+dynastyPinyin: song4
+canonicalPoemId: 551837
+canonicalAuthorId: 3009
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 月色照君琴，移床出木阴。
+
+- 数声广陵水，一片古人心。
+
+- 投剑功无补，冲冠怒亦深。
+
+- 踪能清客耳，还是乱时音。
+
+## 拼音
+
+- yue4 se4 zhao4 jun1 qin2 ， yi2 chuang2 chu1 mu4 yin1 。
+
+- shu4 sheng1 guang3 ling2 shui3 ， yi2 pian4 gu3 ren2 xin1 。
+
+- tou2 jian4 gong1 wu2 bu3 ， chong1 guan1 nu4 yi4 shen1 。
+
+- zong1 neng2 qing1 ke4 er3 ， hai2 shi4 luan4 shi2 yin1 。
+
+## 译文
+
+月光照耀着你琴，移动床出木阴。几声广陵水，一片古代人的心。投剑功无益，冲冠生气也很。踪能清客人而已，回到这混乱时音。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+月光照耀着你琴，移动床出木阴。几声广陵水，一片古代人的心。投剑功无益，冲冠生气也很。踪能清客人而已，回到这混乱时音。
+	* 此部分翻译来自AI，仅供参考

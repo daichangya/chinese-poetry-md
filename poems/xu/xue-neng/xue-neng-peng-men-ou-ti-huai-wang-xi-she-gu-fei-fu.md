@@ -1,0 +1,37 @@
+---
+id: xue-neng-peng-men-ou-ti-huai-wang-xi-she-gu-fei-fu
+title: 彭门偶题
+author: 薛能
+authorSlug: xue-neng
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: peng2 men2 ou3 ti2
+authorPinyin: xue1 neng2
+dynastyPinyin: tang2
+canonicalPoemId: 437666
+canonicalAuthorId: 229
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 淮王西舍固非夫，柳恽偏州未是都。
+
+- 直到春秋诸列国，拥旄才子也应无。
+
+## 拼音
+
+- huai2 wang2 xi1 she4 gu4 fei1 fu1 ， liu3 yun4 pian1 zhou1 wei4 shi4 dou1 。
+
+- zhi2 dao4 chun1 qiu1 zhu1 lie4 guo2 ， yong1 mao2 cai2 zi3 ye3 ying4 wu2 。
+
+## 译文
+
+淮王西舍本来不是那，柳惮偏州没有这都。一直到春秋各诸侯国，拥旄才子的响应没有。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+淮王西舍本来不是那，柳惮偏州没有这都。一直到春秋各诸侯国，拥旄才子的响应没有。
+	* 此部分翻译来自AI，仅供参考

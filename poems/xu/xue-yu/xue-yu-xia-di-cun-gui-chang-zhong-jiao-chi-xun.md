@@ -1,0 +1,45 @@
+---
+id: xue-yu-xia-di-cun-gui-chang-zhong-jiao-chi-xun
+title: 下第
+author: 薛嵎
+authorSlug: xue-yu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: xia4 di4
+authorPinyin: xue1 yu2
+dynastyPinyin: song4
+canonicalPoemId: 637040
+canonicalAuthorId: 1095
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 寸晷场中较尺寻，荣亲无路泪盈襟。
+
+- 一贫谁过箪瓢巷，百口难宽儿女心。
+
+- 昨梦重圆知误喜，平生失计为工吟。
+
+- 近来文体尤趋薄，古道何由可语今。
+
+## 拼音
+
+- cun4 gui3 chang3 zhong1 jiao4 chi3 xun2 ， rong2 qin1 wu2 lu4 lei4 ying2 jin1 。
+
+- yi4 pin2 shui2 guo4 dan1 piao2 xiang4 ， bai3 kou3 nan2 kuan1 er2 nü3 xin1 。
+
+- zuo2 meng4 zhong4 yuan2 zhi1 wu4 xi3 ， ping2 sheng1 shi1 ji4 wei4 gong1 yin2 。
+
+- jin4 lai2 wen2 ti3 you2 qu1 bao2 ， gu3 dao4 he2 you2 ke3 yu3 jin1 。
+
+## 译文
+
+一小段时间场中比尺不久，尔朱荣亲自无路泪盈衣襟。一穷人谁超过箪瓢巷，百口难宽儿女心。昨天梦见重圆知道误喜，平生失策为工吟。近来文体尤其趋薄，古代的道理怎么可能对现在。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+一小段时间场中比尺不久，尔朱荣亲自无路泪盈衣襟。一穷人谁超过箪瓢巷，百口难宽儿女心。昨天梦见重圆知道误喜，平生失策为工吟。近来文体尤其趋薄，古代的道理怎么可能对现在。
+	* 此部分翻译来自AI，仅供参考
