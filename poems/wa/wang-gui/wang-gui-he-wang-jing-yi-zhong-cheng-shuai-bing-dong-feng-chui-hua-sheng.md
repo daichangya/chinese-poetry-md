@@ -1,0 +1,45 @@
+---
+id: wang-gui-he-wang-jing-yi-zhong-cheng-shuai-bing-dong-feng-chui-hua-sheng
+title: 和王景彝中丞衰病
+author: 王珪
+authorSlug: wang-gui
+dynasty: 宋
+dynastySlug: song
+titlePinyin: he2 wang2 jing3 yi2 zhong1 cheng2 shuai1 bing4
+authorPinyin: wang2 gui1
+dynastyPinyin: song4
+canonicalPoemId: 591599
+canonicalAuthorId: 668
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 东风吹画省，衰病若为情。
+
+- 自惜春将过，相逢老已惊。
+
+- 夜愁聊把酒，早梦忽闻莺。
+
+- 犹喜年来事，门前桃李生。
+
+## 拼音
+
+- dong1 feng1 chui1 hua4 sheng3 ， shuai1 bing4 ruo4 wei4 qing2 。
+
+- zi4 xi1 chun1 jiang1 guo4 ， xiang1 feng2 lao3 yi3 jing1 。
+
+- ye4 chou2 liao2 ba3 jiu3 ， zao3 meng4 hu1 wen2 ying1 。
+
+- you2 xi3 nian2 lai2 shi4 ， men2 qian2 tao2 li3 sheng1 。
+
+## 译文
+
+东风吹画省，衰退病如果为情。自惜春将超过，相逢老已惊。夜愁我把酒，早梦忽然听到莺。还是喜欢年来工作，门前桃李长。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+东风吹画省，衰退病如果为情。自惜春将超过，相逢老已惊。夜愁我把酒，早梦忽然听到莺。还是喜欢年来工作，门前桃李长。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,45 @@
+---
+id: wang-gui-yi-yun-he-jia-zhi-ru-she-ren-chu-chun-ci-zuo-tai-yi-er-shou-yan-ci-chu-z-11bae2cd
+title: 依韵和贾直孺舍人初春祠左太乙二首
+author: 王珪
+authorSlug: wang-gui
+dynasty: 宋
+dynastySlug: song
+titlePinyin: yi1 yun4 he2 jia3 zhi2 ru2 she4 ren2 chu1 chun1 ci2 zuo3 tai4 yi3 er4 shou3
+authorPinyin: wang2 gui1
+dynastyPinyin: song4
+canonicalPoemId: 591633
+canonicalAuthorId: 668
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 严祠初缀汉墀班，爚爚珠𤈶照幄宽。
+
+- 玉殿威神来帝福，紫垣风骨敌春寒。
+
+- 芝华拥盖阴犹合，桂醑流觞饮欲残。
+
+- 拂晓东风迎马首，鸣珂归背月珊珊。
+
+## 拼音
+
+- yan2 ci2 chu1 zhui4 han4 chi2 ban1 ， yue4 yue4 zhu1 𤈶 zhao4 wo4 kuan1 。
+
+- yu4 dian4 wei1 shen2 lai2 di4 fu2 ， zi3 yuan2 feng1 gu3 di2 chun1 han2 。
+
+- zhi1 hua2 yong1 gai4 yin1 you2 he2 ， gui4 xu3 liu2 shang1 yin3 yu4 can2 。
+
+- fu2 xiao3 dong1 feng1 ying2 ma3 shou3 ， ming2 ke1 gui1 bei4 yue4 shan1 shan1 。
+
+## 译文
+
+严祠开始点缀汉台阶班，爚爚珠𤈶照在宽。玉石殿威严神灵来帝福，紫微垣风骨敌人春寒。芝华拥有阴间还合，桂花美酒流杯饮酒要残忍。拂晓东风迎接马头，鸣珂回去背月缓缓地。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+严祠开始点缀汉台阶班，爚爚珠𤈶照在宽。玉石殿威严神灵来帝福，紫微垣风骨敌人春寒。芝华拥有阴间还合，桂花美酒流杯饮酒要残忍。拂晓东风迎接马头，鸣珂回去背月缓缓地。
+	* 此部分翻译来自AI，仅供参考

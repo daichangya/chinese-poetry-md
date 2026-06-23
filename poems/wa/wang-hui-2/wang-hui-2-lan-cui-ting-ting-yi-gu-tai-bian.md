@@ -1,0 +1,45 @@
+---
+id: wang-hui-2-lan-cui-ting-ting-yi-gu-tai-bian
+title: 览翠亭
+author: 王辉
+authorSlug: wang-hui-2
+dynasty: 宋
+dynastySlug: song
+titlePinyin: lan3 cui4 ting2
+authorPinyin: wang2 hui1
+dynastyPinyin: song4
+canonicalPoemId: 650918
+canonicalAuthorId: 11478
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 亭倚古台边，环亭翠蔚然。
+
+- 芝兰深雨露，梧竹老风烟。
+
+- 窗户香霏湿，阑干爽气连。
+
+- 登临忘世虑，逸兴发林泉。
+
+## 拼音
+
+- ting2 yi3 gu3 tai2 bian1 ， huan2 ting2 cui4 wei4 ran2 。
+
+- zhi1 lan2 shen1 yu3 lu4 ， wu2 zhu2 lao3 feng1 yan1 。
+
+- chuang1 hu4 xiang1 fei1 shi1 ， lan2 gan1 shuang3 qi4 lian2 。
+
+- deng1 lin2 wang4 shi4 lü4 ， yi4 xing1 fa1 lin2 quan2 。
+
+## 译文
+
+亭坐落在古台边，环亭翠多彩。芝兰深雨露，梧桐竹子老风烟。窗户香消散湿，栏杆爽气连接。登临忘记世上考虑，逸兴发林泉。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+亭坐落在古台边，环亭翠多彩。芝兰深雨露，梧桐竹子老风烟。窗户香消散湿，栏杆爽气连接。登临忘记世上考虑，逸兴发林泉。
+	* 此部分翻译来自AI，仅供参考
