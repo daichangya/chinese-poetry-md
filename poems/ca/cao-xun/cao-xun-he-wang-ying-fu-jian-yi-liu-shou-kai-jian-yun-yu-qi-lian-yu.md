@@ -1,0 +1,45 @@
+---
+id: cao-xun-he-wang-ying-fu-jian-yi-liu-shou-kai-jian-yun-yu-qi-lian-yu
+title: 和王应夫见贻六首
+author: 曹勋
+authorSlug: cao-xun
+dynasty: 宋
+dynastySlug: song
+titlePinyin: he2 wang2 ying4 fu1 jian4 yi2 liu4 shou3
+authorPinyin: cao2 xun1
+dynastyPinyin: song4
+canonicalPoemId: 439780
+canonicalAuthorId: 6105
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 开缄韵语起帘隅，坐使心胸百想摅。
+
+- 公比士元方展骥，我如毛颖不中书。
+
+- 烛摇冷晕人方寂，犬吠寒云月上初。
+
+- 北首故关山万叠，几时艰棘一诛锄。
+
+## 拼音
+
+- kai1 jian1 yun4 yu3 qi3 lian2 yu2 ， zuo4 shi3 xin1 xiong1 bai3 xiang3 shu1 。
+
+- gong1 bi3 shi4 yuan2 fang1 zhan3 ji4 ， wo3 ru2 mao2 ying3 bu4 zhong1 shu1 。
+
+- zhu2 yao2 leng3 yun1 ren2 fang1 ji4 ， quan3 fei4 han2 yun2 yue4 shang4 chu1 。
+
+- bei3 shou3 gu4 guan1 shan1 wan4 die2 ， ji3 shi2 jian1 ji2 yi4 zhu1 chu2 。
+
+## 译文
+
+开缄韵语起帘角，因使心胸百想发泄。公与士元方展骥，我像毛颖不中书。烛动摇冷晕人正在寂，狗吠寒说月亮上开始。向北所以关山万叠，几时艰难险阻一铲除。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+开缄韵语起帘角，因使心胸百想发泄。公与士元方展骥，我像毛颖不中书。烛动摇冷晕人正在寂，狗吠寒说月亮上开始。向北所以关山万叠，几时艰难险阻一铲除。
+	* 此部分翻译来自AI，仅供参考

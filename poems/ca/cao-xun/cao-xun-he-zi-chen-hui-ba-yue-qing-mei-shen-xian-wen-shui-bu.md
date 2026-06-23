@@ -1,0 +1,49 @@
+---
+id: cao-xun-he-zi-chen-hui-ba-yue-qing-mei-shen-xian-wen-shui-bu
+title: 和子忱惠八月青梅
+author: 曹勋
+authorSlug: cao-xun
+dynasty: 宋
+dynastySlug: song
+titlePinyin: he2 zi3 chen2 hui4 ba1 yue4 qing1 mei2
+authorPinyin: cao2 xun1
+dynastyPinyin: song4
+canonicalPoemId: 609511
+canonicalAuthorId: 6105
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 神仙闻水部。
+
+- 妙物与长生。
+
+- 鼎饪元滋味，山樊好弟兄。
+
+- 佳音当有象，短韵已驰兵。
+
+- 试咽甘酸处，行看雪里英。
+
+## 拼音
+
+- shen2 xian1 wen2 shui3 bu4 。
+
+- miao4 wu4 yu3 chang2 sheng1 。
+
+- ding3 ren4 yuan2 zi1 wei4 ， shan1 fan2 hao3 di4 xiong0 。
+
+- jia1 yin1 dang1 you3 xiang4 ， duan3 yun4 yi3 chi2 bing1 。
+
+- shi4 yan4 gan1 suan1 chu4 ， xing2 kan4 xue3 li3 ying1 。
+
+## 译文
+
+神仙听说水部。妙物与生长。烹调美味鼎元，山樊好兄弟。好消息会有象，短韵已经迅速出兵。试咽甘酸处理，去看雪里英。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+神仙听说水部。妙物与生长。烹调美味鼎元，山樊好兄弟。好消息会有象，短韵已经迅速出兵。试咽甘酸处理，去看雪里英。
+	* 此部分翻译来自AI，仅供参考

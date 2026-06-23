@@ -1,0 +1,45 @@
+---
+id: cao-xun-tai-cheng-za-shi-qi-shou-yu-hou-qiu-feng-shi-ri-yin
+title: 台城杂诗七首
+author: 曹勋
+authorSlug: cao-xun
+dynasty: 宋
+dynastySlug: song
+titlePinyin: tai2 cheng2 za2 shi1 qi1 shou3
+authorPinyin: cao2 xun1
+dynastyPinyin: song4
+canonicalPoemId: 443858
+canonicalAuthorId: 6105
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 雨后秋风十日阴，罗衣初觉晓寒侵。
+
+- 清愁强欲亲欢伯，瘦骨何能举聚针。
+
+- 碧玉丽词残照晚，青楼秀色暮云深。
+
+- 中郎好句传茅屋，端比逃虚喜足音。
+
+## 拼音
+
+- yu3 hou4 qiu1 feng1 shi2 ri4 yin1 ， luo2 yi1 chu1 jue2 xiao3 han2 qin1 。
+
+- qing1 chou2 qiang2 yu4 qin1 huan1 bo2 ， shou4 gu3 he2 neng2 ju3 ju4 zhen1 。
+
+- bi4 yu4 li4 ci2 can2 zhao4 wan3 ， qing1 lou2 xiu4 se4 mu4 yun2 shen1 。
+
+- zhong1 lang2 hao3 ju4 chuan2 mao2 wu1 ， duan1 bi3 tao2 xu1 xi3 zu2 yin1 。
+
+## 译文
+
+秋风十天阴下雨之后，罗衣发觉拂晓寒侵。清愁硬要亲自欢伯，瘦骨怎么能举聚集针。碧玉丽词残照晚，青楼秀色暮云深。中郎好句传茅屋，端比逃避空虚高兴地脚步声。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+秋风十天阴下雨之后，罗衣发觉拂晓寒侵。清愁硬要亲自欢伯，瘦骨怎么能举聚集针。碧玉丽词残照晚，青楼秀色暮云深。中郎好句传茅屋，端比逃避空虚高兴地脚步声。
+	* 此部分翻译来自AI，仅供参考

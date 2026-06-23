@@ -1,0 +1,37 @@
+---
+id: cao-xun-de-shou-chun-tie-zi-ba-shou-jiao-fang-yi-de-qing-yuan-tong
+title: 德寿春帖子八首
+author: 曹勋
+authorSlug: cao-xun
+dynasty: 宋
+dynastySlug: song
+titlePinyin: de2 shou4 chun1 tie3 zi0 ba1 shou3
+authorPinyin: cao2 xun1
+dynastyPinyin: song4
+canonicalPoemId: 443544
+canonicalAuthorId: 6105
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 椒房懿德庆源同，环佩雍容冠六宫。
+
+- 妆罢朝元无一事，关雎诗咏二南风。
+
+## 拼音
+
+- jiao1 fang2 yi4 de2 qing4 yuan2 tong2 ， huan2 pei4 yong1 rong2 guan1 liu4 gong1 。
+
+- zhuang1 ba4 chao2 yuan2 wu2 yi2 shi4 ， guan1 ju1 shi1 yong3 er4 nan2 feng1 。
+
+## 译文
+
+椒房懿德庆源同，环佩雍容冠六宫。妆罢朝元没有一件事，关雎诗歌二南风。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+椒房懿德庆源同，环佩雍容冠六宫。妆罢朝元没有一件事，关雎诗歌二南风。
+	* 此部分翻译来自AI，仅供参考

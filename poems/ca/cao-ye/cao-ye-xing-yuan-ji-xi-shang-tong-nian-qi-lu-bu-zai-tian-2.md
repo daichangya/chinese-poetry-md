@@ -1,0 +1,69 @@
+---
+id: cao-ye-xing-yuan-ji-xi-shang-tong-nian-qi-lu-bu-zai-tian-2
+title: 杏园即席上同年
+author: 曹邺
+authorSlug: cao-ye
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: xing4 yuan2 ji2 xi2 shang4 tong2 nian2
+authorPinyin: cao2 ye4
+dynastyPinyin: tang2
+canonicalPoemId: 517031
+canonicalAuthorId: 5226
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 岐路不在天，十年行不至。
+
+- 一旦公道开，青云在平地。
+
+- 枕上数声鼓，衡门已如市。
+
+- 白日探得珠，不待骊龙睡。
+
+- 匆匆出九衢，僮仆颜色异。
+
+- 故衣未及换，尚有去年泪。
+
+- 晴阳照花影，落絮浮野翠。
+
+- 对酒时忽惊，犹疑梦中事。
+
+- 自怜孤飞鸟，得接鸾凤翅。
+
+- 永怀共济心，莫起胡越意。
+
+## 拼音
+
+- qi2 lu4 bu2 zai4 tian1 ， shi2 nian2 xing2 bu2 zhi4 。
+
+- yi2 dan4 gong1 dao4 kai1 ， qing1 yun2 zai4 ping2 di4 。
+
+- zhen3 shang4 shu4 sheng1 gu3 ， heng2 men2 yi3 ru2 shi4 。
+
+- bai2 ri4 tan4 de2 zhu1 ， bu2 dai4 li2 long2 shui4 。
+
+- cong1 cong1 chu1 jiu3 qu2 ， tong2 pu2 yan2 se4 yi4 。
+
+- gu4 yi1 wei4 ji2 huan4 ， shang4 you3 qu4 nian2 lei4 。
+
+- qing2 yang2 zhao4 hua1 ying3 ， luo4 xu4 fu2 ye3 cui4 。
+
+- dui4 jiu3 shi2 hu1 jing1 ， you2 yi2 meng4 zhong1 shi4 。
+
+- zi4 lian2 gu1 fei1 niao3 ， de2 jie1 luan2 feng4 chi4 。
+
+- yong3 huai2 gong4 ji4 xin1 ， mo4 qi3 hu2 yue4 yi4 。
+
+## 译文
+
+岐路不在天，十年做不到。一旦公道开，青云在平地。枕上几声鼓，衡门已如市场。白日探得珠，不需要骊龙睡。匆匆出四通八达，童仆颜色不同。旧衣服还没来得及换，还有去年泪。晴阳照花影，落絮漂浮野翠。对酒时忽然惊，还是怀疑梦中的事。自怜孤独鸟，得到连接鸾凤翅。永怀共济心，没有起胡越意。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+岐路不在天，十年做不到。一旦公道开，青云在平地。枕上几声鼓，衡门已如市场。白日探得珠，不需要骊龙睡。匆匆出四通八达，童仆颜色不同。旧衣服还没来得及换，还有去年泪。晴阳照花影，落絮漂浮野翠。对酒时忽然惊，还是怀疑梦中的事。自怜孤独鸟，得到连接鸾凤翅。永怀共济心，没有起胡越意。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,45 @@
+---
+id: cao-yan-yue-chu-jiao-ou-cheng-cheng-fu-pan-zhi-xian-san-zhang-er-shou-feng-xing-san-jin-ling
+title: 出郊偶成呈府判知县三丈二首
+author: 曹彦约
+authorSlug: cao-yan-yue
+dynasty: 宋
+dynastySlug: song
+titlePinyin: chu1 jiao1 ou3 cheng2 cheng2 fu3 pan4 zhi1 xian4 san1 zhang4 er4 shou3
+authorPinyin: cao2 yan4 yue1
+dynastyPinyin: song4
+canonicalPoemId: 442616
+canonicalAuthorId: 2628
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 奉行三尽令，问讯十分春。
+
+- 鸡犬柴门晓，牛羊草径新。
+
+- 远投双岭寺，频见耦耕人。
+
+- 我亦江南客，为农颇识真。
+
+## 拼音
+
+- feng4 xing2 san1 jin4 ling4 ， wen4 xun4 shi2 fen1 chun1 。
+
+- ji1 quan3 chai2 men2 xiao3 ， niu2 yang2 cao3 jing4 xin1 。
+
+- yuan3 tou2 shuang1 ling3 si4 ， pin2 jian4 ou3 geng1 ren2 。
+
+- wo3 yi4 jiang1 nan2 ke4 ， wei4 nong2 po1 shi2 zhen1 。
+
+## 译文
+
+奉行三尽令，问十分春。鸡犬柴门明白，牛和羊草经新。远方投双岭寺，多次被耦耕人。我也是江南客，为农民认识真。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+奉行三尽令，问十分春。鸡犬柴门明白，牛和羊草经新。远方投双岭寺，多次被耦耕人。我也是江南客，为农民认识真。
+	* 此部分翻译来自AI，仅供参考

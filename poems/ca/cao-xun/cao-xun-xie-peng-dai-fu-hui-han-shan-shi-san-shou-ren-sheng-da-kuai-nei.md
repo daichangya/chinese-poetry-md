@@ -1,0 +1,45 @@
+---
+id: cao-xun-xie-peng-dai-fu-hui-han-shan-shi-san-shou-ren-sheng-da-kuai-nei
+title: 谢彭大夫惠寒山诗三首
+author: 曹勋
+authorSlug: cao-xun
+dynasty: 宋
+dynastySlug: song
+titlePinyin: xie4 peng2 dai4 fu0 hui4 han2 shan1 shi1 san1 shou3
+authorPinyin: cao2 xun1
+dynastyPinyin: song4
+canonicalPoemId: 444271
+canonicalAuthorId: 6105
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 人生大块内，徒以蚁旋磨。
+
+- 不有明眼人，何能知己过。
+
+- 直指识自性，老甑必破堕。
+
+- 身诗忽兼忘，嘉惠天来大。
+
+## 拼音
+
+- ren2 sheng1 da4 kuai4 nei4 ， tu2 yi3 yi3 xuan2 mo2 。
+
+- bu4 you3 ming2 yan3 ren2 ， he2 neng2 zhi1 ji3 guo4 。
+
+- zhi2 zhi3 shi2 zi4 xing4 ， lao3 zeng4 bi4 po4 duo4 。
+
+- shen1 shi1 hu1 jian1 wang4 ， jia1 hui4 tian1 lai2 da4 。
+
+## 译文
+
+人生最大块内，只是因为蚂蚁旋转磨。不有明眼人，怎么能知道自己的过失。直指认识自性，老锅必须破掉。身诗忽然兼忘，嘉惠天来大。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+人生最大块内，只是因为蚂蚁旋转磨。不有明眼人，怎么能知道自己的过失。直指认识自性，老锅必须破掉。身诗忽然兼忘，嘉惠天来大。
+	* 此部分翻译来自AI，仅供参考

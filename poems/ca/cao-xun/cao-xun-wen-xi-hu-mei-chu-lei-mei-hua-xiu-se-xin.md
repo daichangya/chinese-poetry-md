@@ -1,0 +1,38 @@
+---
+id: cao-xun-wen-xi-hu-mei-chu-lei-mei-hua-xiu-se-xin
+title: 问西湖梅
+author: 曹勋
+authorSlug: cao-xun
+dynasty: 宋
+dynastySlug: song
+titlePinyin: wen4 xi1 hu2 mei2
+authorPinyin: cao2 xun1
+dynastyPinyin: song4
+canonicalPoemId: 439906
+canonicalAuthorId: 6105
+tags:
+  - 诗词
+  - 西湖
+---
+
+## 正文
+
+- 出肋梅花秀色新，不堪寒雨浥清尘。
+
+- 故应倒影澄澜碧，湿玉吹香烂熳春。
+
+## 拼音
+
+- chu1 lei4 mei2 hua1 xiu4 se4 xin1 ， bu4 kan1 han2 yu3 yi4 qing1 chen2 。
+
+- gu4 ying4 dao3 ying3 cheng2 lan2 bi4 ， shi1 yu4 chui1 xiang1 lan4 man4 chun1 。
+
+## 译文
+
+从肋骨梅花秀色新，受不了寒雨沾湿清洁灰尘。因此，应倒影澄澈碧绿，湿玉吹香烂熳春。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+从肋骨梅花秀色新，受不了寒雨沾湿清洁灰尘。因此，应倒影澄澈碧绿，湿玉吹香烂熳春。
+	* 此部分翻译来自AI，仅供参考

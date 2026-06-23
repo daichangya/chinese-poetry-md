@@ -1,0 +1,45 @@
+---
+id: cao-yan-yue-tong-jing-fu-deng-lou-yue-ji-shao-ling-ju-xu-bu-yi-ban-zhang
+title: 同景辅登楼约集少陵句
+author: 曹彦约
+authorSlug: cao-yan-yue
+dynasty: 宋
+dynastySlug: song
+titlePinyin: tong2 jing3 fu3 deng1 lou2 yue1 ji2 shao3 ling2 ju4
+authorPinyin: cao2 yan4 yue1
+dynastyPinyin: song4
+canonicalPoemId: 442497
+canonicalAuthorId: 2628
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 徐步移斑杖，登临意惘然。
+
+- 云霄遗暑湿，楼阁倚山巅。
+
+- 薄劣惭真隐，虚空不离禅。
+
+- 我生无倚著，自有一山川。
+
+## 拼音
+
+- xu2 bu4 yi2 ban1 zhang4 ， deng1 lin2 yi4 wang3 ran2 。
+
+- yun2 xiao1 yi2 shu3 shi1 ， lou2 ge2 yi3 shan1 dian1 。
+
+- bao2 lie4 can2 zhen1 yin3 ， xu1 kong1 bu4 li2 chan2 。
+
+- wo3 sheng1 wu2 yi3 zhu4 ， zi4 you3 yi4 shan1 chuan1 。
+
+## 译文
+
+慢慢把斑杖，登临心中茫茫然。云霄给炎热潮湿，楼阁背靠山顶。薄差感到真隐，虚空离不开禅。我生无靠著，自己有一个山川。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+慢慢把斑杖，登临心中茫茫然。云霄给炎热潮湿，楼阁背靠山顶。薄差感到真隐，虚空离不开禅。我生无靠著，自己有一个山川。
+	* 此部分翻译来自AI，仅供参考

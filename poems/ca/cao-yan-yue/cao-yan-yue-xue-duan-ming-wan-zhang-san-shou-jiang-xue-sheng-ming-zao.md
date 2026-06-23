@@ -1,0 +1,41 @@
+---
+id: cao-yan-yue-xue-duan-ming-wan-zhang-san-shou-jiang-xue-sheng-ming-zao
+title: 薛端明挽章三首
+author: 曹彦约
+authorSlug: cao-yan-yue
+dynasty: 宋
+dynastySlug: song
+titlePinyin: xue1 duan1 ming2 wan3 zhang1 san1 shou3
+authorPinyin: cao2 yan4 yue1
+dynastyPinyin: song4
+canonicalPoemId: 549359
+canonicalAuthorId: 2628
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 讲学声名早，飞胜蔼士林，九重嗟见晚，诸老愿交深。
+
+- 时有亨嘉会，天无平治心。
+
+- 每于当用处，梁父又重吟。
+
+## 拼音
+
+- jiang3 xue2 sheng1 ming2 zao3 ， fei1 sheng4 ai3 shi4 lin2 ， jiu3 chong2 jie1 jian4 wan3 ， zhu1 lao3 yuan4 jiao1 shen1 。
+
+- shi2 you3 heng1 jia1 hui4 ， tian1 wu2 ping2 zhi4 xin1 。
+
+- mei3 yu2 dang1 yong4 chu0 ， liang2 fu4 you4 zhong4 yin2 。
+
+## 译文
+
+学校名声早，飞胜迈士林，九重喂见晚，各位老愿意交深。时有亨盛会，天没有治理好心情。每次在当用处，梁父又重吟。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+学校名声早，飞胜迈士林，九重喂见晚，各位老愿意交深。时有亨盛会，天没有治理好心情。每次在当用处，梁父又重吟。
+	* 此部分翻译来自AI，仅供参考

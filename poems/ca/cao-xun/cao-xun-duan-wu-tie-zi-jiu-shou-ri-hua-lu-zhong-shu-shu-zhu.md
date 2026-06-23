@@ -1,0 +1,37 @@
+---
+id: cao-xun-duan-wu-tie-zi-jiu-shou-ri-hua-lu-zhong-shu-shu-zhu
+title: 端午帖子九首
+author: 曹勋
+authorSlug: cao-xun
+dynasty: 宋
+dynastySlug: song
+titlePinyin: duan1 wu3 tie3 zi0 jiu3 shou3
+authorPinyin: cao2 xun1
+dynastyPinyin: song4
+canonicalPoemId: 443933
+canonicalAuthorId: 6105
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 日华露重疏疏竹，宝砌风回楚楚松。
+
+- 酪粉冰壶驱薄暑，瑶琴永日得从容。
+
+## 拼音
+
+- ri4 hua2 lu4 zhong4 shu1 shu1 zhu2 ， bao3 qi4 feng1 hui2 chu3 chu3 song1 。
+
+- lao4 fen3 bing1 hu2 qu1 bao2 shu3 ， yao2 qin2 yong3 ri4 de2 cong2 rong2 。
+
+## 译文
+
+天华露重疏疏竹，宝砌风回楚国松。奶酪粉冰壶驱薄热，瑶琴永日能够从容。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+天华露重疏疏竹，宝砌风回楚国松。奶酪粉冰壶驱薄热，瑶琴永日能够从容。
+	* 此部分翻译来自AI，仅供参考
