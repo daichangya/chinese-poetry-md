@@ -1,0 +1,45 @@
+---
+id: di-zun-du-jia-cheng-pian-jia-cheng-yu-yu-tui-han-yan
+title: 佳城篇
+author: 狄遵度
+authorSlug: di-zun-du
+dynasty: 宋
+dynastySlug: song
+titlePinyin: jia1 cheng2 pian1
+authorPinyin: di2 zun1 du4
+dynastyPinyin: song4
+canonicalPoemId: 636097
+canonicalAuthorId: 8197
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 佳城郁郁颓寒烟，孤雏乳兔号荒阡。
+
+- 夜卧北斗寒挂枕，木落霜拱雁连天。
+
+- 浮云西去伴落日，行客东尽随长川。
+
+- 乾坤未死吾尚在，肯与蟪蛄论大年。
+
+## 拼音
+
+- jia1 cheng2 yu4 yu4 tui2 han2 yan1 ， gu1 chu2 ru3 tu4 hao4 huang1 qian1 。
+
+- ye4 wo4 bei3 dou4 han2 gua4 zhen3 ， mu4 luo4 shuang1 gong3 yan4 lian2 tian1 。
+
+- fu2 yun2 xi1 qu4 ban4 luo4 ri4 ， xing2 ke4 dong1 jin4 sui2 chang2 chuan1 。
+
+- qian2 kun1 wei4 si3 wu2 shang4 zai4 ， ken3 yu3 hui4 gu1 lun4 da4 nian2 。
+
+## 译文
+
+好沉闷颓冷烟，孤雏乳兔号荒田地。夜卧北斗寒挂枕，木落霜拱雁连天。浮云落日西去陪伴，行客东尽随长川。乾坤没死，我还活着，肯与寒蝉论大年。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+好沉闷颓冷烟，孤雏乳兔号荒田地。夜卧北斗寒挂枕，木落霜拱雁连天。浮云落日西去陪伴，行客东尽随长川。乾坤没死，我还活着，肯与寒蝉论大年。
+	* 此部分翻译来自AI，仅供参考

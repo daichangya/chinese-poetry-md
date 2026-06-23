@@ -1,0 +1,45 @@
+---
+id: ding-shi-chang-bing-zhong-wu-liao-hu-xu-yuan-zi-song-jiu-dan-gui-chuan-xiang-hou
+title: 病中无聊忽徐渊子送酒
+author: 丁世昌
+authorSlug: ding-shi-chang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: bing4 zhong1 wu2 liao2 hu1 xu2 yuan1 zi3 song4 jiu3
+authorPinyin: ding1 shi4 chang1
+dynastyPinyin: song4
+canonicalPoemId: 636195
+canonicalAuthorId: 8218
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 丹桂传香后，黄花著蕊时。
+
+- 老怀期欲赏，病足瘦难移。
+
+- 静对陶潜径，长吟杜甫诗。
+
+- 白衣人忽至，把酒慰愁眉。
+
+## 拼音
+
+- dan1 gui4 chuan2 xiang1 hou4 ， huang2 hua1 zhu4 rui3 shi2 。
+
+- lao3 huai2 qi1 yu4 shang3 ， bing4 zu2 shou4 nan2 yi2 。
+
+- jing4 dui4 tao2 qian2 jing4 ， chang2 yin2 du4 fu3 shi1 。
+
+- bai2 yi1 ren2 hu1 zhi4 ， ba3 jiu3 wei4 chou2 mei2 。
+
+## 译文
+
+丹桂传香后，黄花在蕊时。老怀期要奖赏，因脚病瘦难以改变。静对陶潜经，长吟诵杜甫的诗。穿白衣服的人忽然来临，把酒安慰愁眉。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+丹桂传香后，黄花在蕊时。老怀期要奖赏，因脚病瘦难以改变。静对陶潜经，长吟诵杜甫的诗。穿白衣服的人忽然来临，把酒安慰愁眉。
+	* 此部分翻译来自AI，仅供参考
