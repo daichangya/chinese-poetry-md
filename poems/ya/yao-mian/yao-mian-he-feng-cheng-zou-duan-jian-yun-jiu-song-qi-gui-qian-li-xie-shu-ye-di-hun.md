@@ -1,0 +1,45 @@
+---
+id: yao-mian-he-feng-cheng-zou-duan-jian-yun-jiu-song-qi-gui-qian-li-xie-shu-ye-di-hun
+title: 和丰城邹端简韵就送其归
+author: 姚勉
+authorSlug: yao-mian
+dynasty: 宋
+dynastySlug: song
+titlePinyin: he2 feng1 cheng2 zou1 duan1 jian3 yun4 jiu4 song4 qi2 gui1
+authorPinyin: yao2 mian3
+dynastyPinyin: song4
+canonicalPoemId: 565224
+canonicalAuthorId: 4670
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 千里携书谒帝阍，如君忠义出天根。
+
+- 筳篿已卜回渊听，寸草还思报厚恩。
+
+- 且共渔樵谈帝霸，岂无豪俊整乾坤。
+
+- 细吟窗下庐山句，亦欲乡人访道原。
+
+## 拼音
+
+- qian1 li3 xie2 shu1 ye4 di4 hun1 ， ru2 jun1 zhong1 yi4 chu1 tian1 gen1 。
+
+- ting2 tuan2 yi3 bu3 hui2 yuan1 ting1 ， cun4 cao3 hai2 si1 bao4 hou4 en1 。
+
+- qie3 gong4 yu2 qiao2 tan2 di4 ba4 ， qi3 wu2 hao2 jun4 zheng3 qian2 kun1 。
+
+- xi4 yin2 chuang1 xia4 lu2 shan1 ju4 ， yi4 yu4 xiang1 ren2 fang3 dao4 yuan2 。
+
+## 译文
+
+千里带着书去皇宫，如您忠义出天根。筳篿已卜回深渊听，寸草还想报答厚恩。并且共同渔樵谈帝霸，难道没有豪杰整顿乾坤。细吟窗下庐山句，也希望家乡人访道原。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+千里带着书去皇宫，如您忠义出天根。筳篿已卜回深渊听，寸草还想报答厚恩。并且共同渔樵谈帝霸，难道没有豪杰整顿乾坤。细吟窗下庐山句，也希望家乡人访道原。
+	* 此部分翻译来自AI，仅供参考
