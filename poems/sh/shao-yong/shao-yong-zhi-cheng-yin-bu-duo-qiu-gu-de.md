@@ -1,0 +1,37 @@
+---
+id: shao-yong-zhi-cheng-yin-bu-duo-qiu-gu-de
+title: 至诚吟
+author: 邵雍
+authorSlug: shao-yong
+dynasty: 宋
+dynastySlug: song
+titlePinyin: zhi4 cheng2 yin2
+authorPinyin: shao4 yong1
+dynastyPinyin: song4
+canonicalPoemId: 424458
+canonicalAuthorId: 4842
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 不多求故得，不杂学故明。
+
+- 欲得心常明，无过用至诚。
+
+## 拼音
+
+- bu4 duo1 qiu2 gu4 de2 ， bu4 za2 xue2 gu4 ming2 。
+
+- yu4 de2 xin1 chang2 ming2 ， wu2 guo4 yong4 zhi4 cheng2 。
+
+## 译文
+
+不多求所以得到，不随便学所以明白。想得心常明，没有用过真诚。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+不多求所以得到，不随便学所以明白。想得心常明，没有用过真诚。
+	* 此部分翻译来自AI，仅供参考
