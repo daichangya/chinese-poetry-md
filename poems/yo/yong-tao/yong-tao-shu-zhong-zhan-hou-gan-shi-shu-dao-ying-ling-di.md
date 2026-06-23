@@ -1,0 +1,69 @@
+---
+id: yong-tao-shu-zhong-zhan-hou-gan-shi-shu-dao-ying-ling-di
+title: 蜀中战后感事
+author: 雍陶
+authorSlug: yong-tao
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: shu3 zhong1 zhan4 hou4 gan3 shi4
+authorPinyin: yong1 tao2
+dynastyPinyin: tang2
+canonicalPoemId: 506894
+canonicalAuthorId: 341
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 蜀道英灵地，山重水又回。
+
+- 文章四子盛，道路五丁开。
+
+- 词客题桥去，忠臣叱驭来。
+
+- 卧龙同骇浪，跃马比浮埃。
+
+- 已谓无妖土，那知有祸胎。
+
+- 蕃兵依濮柳，蛮旆指江梅。
+
+- 战后悲逢血，烧馀恨见灰。
+
+- 空留犀厌怪，无复酒除灾。
+
+- 岁积苌弘怨，春深杜宇哀。
+
+- 家贫移未得，愁上望乡台。
+
+## 拼音
+
+- shu3 dao4 ying1 ling2 di4 ， shan1 zhong4 shui3 you4 hui2 。
+
+- wen2 zhang1 si4 zi3 sheng4 ， dao4 lu4 wu3 ding1 kai1 。
+
+- ci2 ke4 ti2 qiao2 qu4 ， zhong1 chen2 chi4 yu4 lai2 。
+
+- wo4 long2 tong2 hai4 lang4 ， yue4 ma3 bi3 fu2 ai1 。
+
+- yi3 wei4 wu2 yao1 tu3 ， na4 zhi1 you3 huo4 tai1 。
+
+- fan1 bing1 yi1 pu2 liu3 ， man2 pei4 zhi3 jiang1 mei2 。
+
+- zhan4 hou4 bei1 feng2 xue4 ， shao1 yu2 hen4 jian4 hui1 。
+
+- kong1 liu2 xi1 yan4 guai4 ， wu2 fu4 jiu3 chu2 zai1 。
+
+- sui4 ji1 chang2 hong2 yuan4 ， chun1 shen1 du4 yu3 ai1 。
+
+- jia1 pin2 yi2 wei4 de2 ， chou2 shang4 wang4 xiang1 tai2 。
+
+## 译文
+
+蜀道英灵地，水山重又回。文章四子盛，道路五丁开。词客题桥去，忠臣呵叱控制来。卧龙同骇浪，跃马比浮埃。已经对没有妖土，那知有祸胎。蕃兵依照濮柳，蛮军直指江梅。交战后悲伤逢血，烧余恨见灰。空留犀满足奇怪，不要再喝酒除灾。每年累积苌弘怨恨，春深杜宇哀。家贫移未得到，愁上望乡台。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+蜀道英灵地，水山重又回。文章四子盛，道路五丁开。词客题桥去，忠臣呵叱控制来。卧龙同骇浪，跃马比浮埃。已经对没有妖土，那知有祸胎。蕃兵依照濮柳，蛮军直指江梅。交战后悲伤逢血，烧余恨见灰。空留犀满足奇怪，不要再喝酒除灾。每年累积苌弘怨恨，春深杜宇哀。家贫移未得到，愁上望乡台。
+	* 此部分翻译来自AI，仅供参考

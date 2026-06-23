@@ -1,0 +1,77 @@
+---
+id: you-ci-gong-he-xin-lang-gong-ci-nuan-ai-fu-qing-yu-2
+title: 贺新郎（宫词）
+author: 游次公
+authorSlug: you-ci-gong
+dynasty: 宋
+dynastySlug: song
+titlePinyin: he4 xin1 lang2 （ gong1 ci2 ）
+authorPinyin: you2 ci4 gong1
+dynastyPinyin: song4
+canonicalPoemId: 434345
+canonicalAuthorId: 11930
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 暖霭浮晴御。
+
+- 锁垂杨、笼池罩阁，万丝千缕。
+
+- 池上晓光分宿雾，日近群芳易吐。
+
+- 寻并蒂、阑干凝伫。
+
+- 不信钗头飞凤去，但宝刀、被妾还留住。
+
+- 天一笑，万花妒。
+
+- 阿娇正好金屋贮。
+
+- 甚西风、易得萧疏，扇鸾尘土。
+
+- 一自昭阳扃玉户，墙角土花无数。
+
+- 况多病、情伤幽素。
+
+- 别殿时闻箫鼓奏，望红云、冉冉知何处。
+
+- 天尺五，去无路。
+
+## 拼音
+
+- nuan3 ai3 fu2 qing2 yu4 。
+
+- suo3 chui2 yang2 、 long2 chi2 zhao4 ge2 ， wan4 si1 qian1 lü3 。
+
+- chi2 shang4 xiao3 guang1 fen1 su4 wu4 ， ri4 jin4 qun2 fang1 yi4 tu3 。
+
+- xun2 bing4 di4 、 lan2 gan1 ning2 zhu4 。
+
+- bu2 xin4 chai1 tou2 fei1 feng4 qu4 ， dan4 bao3 dao1 、 bei4 qie4 hai2 liu2 zhu4 。
+
+- tian1 yi2 xiao4 ， wan4 hua1 du4 。
+
+- a1 jiao1 zheng4 hao3 jin1 wu1 zhu4 。
+
+- shen4 xi1 feng1 、 yi4 de2 xiao1 shu1 ， shan4 luan2 chen2 tu3 。
+
+- yi2 zi4 zhao1 yang2 jiong1 yu4 hu4 ， qiang2 jiao3 tu3 hua1 wu2 shu4 。
+
+- kuang4 duo1 bing4 、 qing2 shang1 you1 su4 。
+
+- bie2 dian4 shi2 wen2 xiao1 gu3 zou4 ， wang4 hong2 yun2 、 ran3 ran3 zhi1 he2 chu4 。
+
+- tian1 chi3 wu3 ， qu4 wu2 lu4 。
+
+## 译文
+
+暖雾浮晴到。锁垂杨、笼池罩合，万丝千缕。池塘上理解光分夜雾，天近百花易吐。不久并蒂、栏杆凝神伫立。不相信钗头飞凤离开，但宝刀、被我返回留住。天一笑，万花嫉妒。阿娇正好金屋贮。很西风、易得萧疏，扇鸾尘土。一从昭阳关玉户，墙角上花没有数。何况多病、情伤情书。别殿时听到箫鼓奏，望着红说、慢慢地知道何处。天尺五，去没有路。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+暖雾浮晴到。锁垂杨、笼池罩合，万丝千缕。池塘上理解光分夜雾，天近百花易吐。不久并蒂、栏杆凝神伫立。不相信钗头飞凤离开，但宝刀、被我返回留住。天一笑，万花嫉妒。阿娇正好金屋贮。很西风、易得萧疏，扇鸾尘土。一从昭阳关玉户，墙角上花没有数。何况多病、情伤情书。别殿时听到箫鼓奏，望着红说、慢慢地知道何处。天尺五，去没有路。
+	* 此部分翻译来自AI，仅供参考

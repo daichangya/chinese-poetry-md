@@ -1,0 +1,35 @@
+---
+id: you-mao-mao-tai-zhou-jun-zhai-za-yong-shi-er-shou-qing-shan-wei-jun-cheng
+title: 台州郡斋杂咏十二首·玉霄亭
+author: 尤袤
+authorSlug: you-mao-mao
+dynasty: 宋
+dynastySlug: song
+titlePinyin: tai2 zhou1 jun4 zhai1 za2 yong3 shi2 er4 shou3 · yu4 xiao1 ting2
+authorPinyin: you2 mao4
+dynastyPinyin: song4
+canonicalPoemId: 501813
+canonicalAuthorId: 11850
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 青山围郡城，东望独空远。
+
+- 苍茫溟海近，相像蓬莱浅。
+
+- 朝光上遗堞，云气接虚𪩘。
+
+- 羡门与安期，鸾鹤若在眼。
+
+## 拼音
+
+- qing1 shan1 wei2 jun4 cheng2 ， dong1 wang4 du2 kong1 yuan3 。
+
+- cang1 mang2 ming2 hai3 jin4 ， xiang1 xiang4 peng2 lai2 qian3 。
+
+- chao2 guang1 shang4 yi2 die2 ， yun2 qi4 jie1 xu1 yan3 。
+
+- xian4 men2 yu3 an1 qi1 ， luan2 he4 ruo4 zai4 yan3 。
