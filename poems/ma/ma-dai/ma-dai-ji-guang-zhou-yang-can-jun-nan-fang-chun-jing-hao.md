@@ -1,0 +1,61 @@
+---
+id: ma-dai-ji-guang-zhou-yang-can-jun-nan-fang-chun-jing-hao
+title: 寄广州杨参军
+author: 马戴
+authorSlug: ma-dai
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: ji4 guang3 zhou1 yang2 can1 jun1
+authorPinyin: ma3 dai4
+dynastyPinyin: tang2
+canonicalPoemId: 518230
+canonicalAuthorId: 256
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 南方春景好，念子缓归心。
+
+- 身方脱野服，冠未系朝簪。
+
+- 足恣平生赏，无虞外役侵。
+
+- 汀洲观鸟戏，向月和猿吟。
+
+- 税驾楚山广，扬帆湘水深。
+
+- 采奇搜石穴，怀胜即枫林。
+
+- 怅望极霞际，流情堕海阴。
+
+- 前朝杳难问，叹息洒鸣琴。
+
+## 拼音
+
+- nan2 fang1 chun1 jing3 hao3 ， nian4 zi3 huan3 gui1 xin1 。
+
+- shen1 fang1 tuo1 ye3 fu2 ， guan1 wei4 xi4 chao2 zan1 。
+
+- zu2 zi4 ping2 sheng1 shang3 ， wu2 yu2 wai4 yi4 qin1 。
+
+- ting1 zhou1 guan1 niao3 xi4 ， xiang4 yue4 he2 yuan2 yin2 。
+
+- shui4 jia4 chu3 shan1 guang3 ， yang2 fan1 xiang1 shui3 shen1 。
+
+- cai3 qi2 sou1 shi2 xue2 ， huai2 sheng4 ji2 feng1 lin2 。
+
+- chang4 wang4 ji2 xia2 ji4 ， liu2 qing2 duo4 hai3 yin1 。
+
+- qian2 chao2 yao3 nan2 wen4 ， tan4 xi1 sa3 ming2 qin2 。
+
+## 译文
+
+南方春景好，想想你缓回心。身正在脱衣服，冠日系朝簪。可以恣意平生奖赏，无忧外赋役。沙洲观察鸟戏，向月亮和猿吟。住宿楚山广，扬帆湘水深。采奇搜石洞穴，怀着胜利就是枫林。怅望极晚霞时，流情堕海阴。前朝幽深难问，叹息洒鸣琴。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+南方春景好，想想你缓回心。身正在脱衣服，冠日系朝簪。可以恣意平生奖赏，无忧外赋役。沙洲观察鸟戏，向月亮和猿吟。住宿楚山广，扬帆湘水深。采奇搜石洞穴，怀着胜利就是枫林。怅望极晚霞时，流情堕海阴。前朝幽深难问，叹息洒鸣琴。
+	* 此部分翻译来自AI，仅供参考

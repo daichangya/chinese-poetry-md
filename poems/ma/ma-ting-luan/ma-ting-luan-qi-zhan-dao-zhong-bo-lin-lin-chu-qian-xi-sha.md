@@ -1,0 +1,45 @@
+---
+id: ma-ting-luan-qi-zhan-dao-zhong-bo-lin-lin-chu-qian-xi-sha
+title: 屺瞻道中
+author: 马廷鸾
+authorSlug: ma-ting-luan
+dynasty: 宋
+dynastySlug: song
+titlePinyin: qi3 zhan1 dao4 zhong1
+authorPinyin: ma3 ting2 luan2
+dynastyPinyin: song4
+canonicalPoemId: 567492
+canonicalAuthorId: 4806
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 波粼粼处浅溪沙，渔屋低迷舴艋家。
+
+- 地老天荒原野静，江空岁晚水云赊。
+
+- 淤泥日课黄金粟，清泚时吹白浪花。
+
+- 漫喜时丰阡陌里，豚蹄行矣祝污邪。
+
+## 拼音
+
+- bo1 lin2 lin2 chu4 qian3 xi1 sha1 ， yu2 wu1 di1 mi2 ze2 meng3 jia1 。
+
+- di4 lao3 tian1 huang1 yuan2 ye3 jing4 ， jiang1 kong1 sui4 wan3 shui3 yun2 she1 。
+
+- yu1 ni2 ri4 ke4 huang2 jin1 su4 ， qing1 ci3 shi2 chui1 bai2 lang4 hua1 。
+
+- man4 xi3 shi2 feng1 qian1 mo4 li3 ， tun2 ti2 xing2 yi3 zhu4 wu1 xie2 。
+
+## 译文
+
+水波粼粼处浅溪沙，渔屋低迷舴艋家。地老天荒野外静，江空岁晚水说远。淤泥日课黄金米，清看时吹起白浪花。浪漫喜时丰田野里，猪蹄行了祝污染吗。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+水波粼粼处浅溪沙，渔屋低迷舴艋家。地老天荒野外静，江空岁晚水说远。淤泥日课黄金米，清看时吹起白浪花。浪漫喜时丰田野里，猪蹄行了祝污染吗。
+	* 此部分翻译来自AI，仅供参考
