@@ -1,0 +1,45 @@
+---
+id: fang-feng-chen-wan-song-shang-shu-yu-gong-er-shou-shi-yang-duo-qiu-he-he-sheng
+title: 挽宋尚书余公二首
+author: 方逢辰
+authorSlug: fang-feng-chen
+dynasty: 宋
+dynastySlug: song
+titlePinyin: wan3 song4 shang4 shu1 yu2 gong1 er4 shou3
+authorPinyin: fang1 feng2 chen2
+dynastyPinyin: song4
+canonicalPoemId: 636815
+canonicalAuthorId: 8362
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 时样多求赫赫声，惟公独韫玉精神。
+
+- 传无房杜可书一，心即羲皇太古人。
+
+- 日月升时先奋翼，风云浓处忽抽身。
+
+- 苍苍忍夺客星去，却使凌烟忆老臣。
+
+## 拼音
+
+- shi2 yang4 duo1 qiu2 he4 he4 sheng1 ， wei2 gong1 du2 yun4 yu4 jing1 shen2 。
+
+- chuan2 wu2 fang2 du4 ke3 shu1 yi1 ， xin1 ji2 xi1 huang2 tai4 gu3 ren2 。
+
+- ri4 yue4 sheng1 shi2 xian1 fen4 yi4 ， feng1 yun2 nong2 chu4 hu1 chou1 shen1 。
+
+- cang1 cang1 ren3 duo2 ke4 xing1 qu4 ， que4 shi3 ling2 yan1 yi4 lao3 chen2 。
+
+## 译文
+
+当时样多追求显赫声望，只有你独自藏玉精神。传没有房杜可以写一，心就是羲皇太古代人。日月升时先翅膀，风云浓处忽然抽出身。苍苍忍心剥夺彗星距离，却让凌云想起我。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+当时样多追求显赫声望，只有你独自藏玉精神。传没有房杜可以写一，心就是羲皇太古代人。日月升时先翅膀，风云浓处忽然抽出身。苍苍忍心剥夺彗星距离，却让凌云想起我。
+	* 此部分翻译来自AI，仅供参考

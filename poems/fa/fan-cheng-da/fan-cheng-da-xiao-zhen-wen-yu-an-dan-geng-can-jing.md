@@ -1,0 +1,45 @@
+---
+id: fan-cheng-da-xiao-zhen-wen-yu-an-dan-geng-can-jing
+title: 晓枕闻雨
+author: 范成大
+authorSlug: fan-cheng-da
+dynasty: 宋
+dynastySlug: song
+titlePinyin: xiao3 zhen3 wen2 yu3
+authorPinyin: fan4 cheng2 da4
+dynastyPinyin: song4
+canonicalPoemId: 401870
+canonicalAuthorId: 4965
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 暗淡更残景，低迷病酒怀。
+
+- 剔灯寒作伴，添被厚如埋。
+
+- 胆冷都无梦，心空却似齐。
+
+- 地炉煎粥沸，听作雨鸣阶。
+
+## 拼音
+
+- an4 dan4 geng4 can2 jing3 ， di1 mi2 bing4 jiu3 huai2 。
+
+- ti1 deng1 han2 zuo4 ban4 ， tian1 bei4 hou4 ru2 mai2 。
+
+- dan3 leng3 dou1 wu2 meng4 ， xin1 kong1 que4 si4 qi2 。
+
+- di4 lu2 jian1 zhou1 fei4 ， ting1 zuo4 yu3 ming2 jie1 。
+
+## 译文
+
+黑暗更残景，低迷病酒怀。剔灯冷作伴，添被厚如埋。胆冷都没有梦，心空却像齐。地炉煮粥煮沸，听起雨鸣阶。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+黑暗更残景，低迷病酒怀。剔灯冷作伴，添被厚如埋。胆冷都没有梦，心空却像齐。地炉煮粥煮沸，听起雨鸣阶。
+	* 此部分翻译来自AI，仅供参考

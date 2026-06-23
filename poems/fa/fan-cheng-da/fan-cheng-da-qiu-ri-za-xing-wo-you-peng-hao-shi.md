@@ -1,0 +1,69 @@
+---
+id: fan-cheng-da-qiu-ri-za-xing-wo-you-peng-hao-shi
+title: 秋日杂兴
+author: 范成大
+authorSlug: fan-cheng-da
+dynasty: 宋
+dynastySlug: song
+titlePinyin: qiu1 ri4 za2 xing1
+authorPinyin: fan4 cheng2 da4
+dynastyPinyin: song4
+canonicalPoemId: 576024
+canonicalAuthorId: 4965
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 我友蓬蒿士，郤扫谢四邻。
+
+- 内无三尺童，外无双蒲轮。
+
+- 岂非骐骥姿，执辔难其人。
+
+- 无衣可御冬，忍寒待阳春。
+
+- 仰云发永叹，夜作寒螀呻。
+
+- 奓户劝之起，怀宝善自珍。
+
+- 秋月耿清夜，秋风卷曾云。
+
+- 佳哉为谁欤？
+
+- 定为我与君。
+
+- 莫嫌酒味薄，聊复相欢欣。
+
+## 拼音
+
+- wo3 you3 peng2 hao1 shi4 ， xi4 sao3 xie4 si4 lin2 。
+
+- nei4 wu2 san1 chi3 tong2 ， wai4 wu2 shuang1 pu2 lun2 。
+
+- qi3 fei1 qi2 ji4 zi1 ， zhi2 pei4 nan2 qi2 ren2 。
+
+- wu2 yi1 ke3 yu4 dong1 ， ren3 han2 dai4 yang2 chun1 。
+
+- yang3 yun2 fa1 yong3 tan4 ， ye4 zuo4 han2 jiang1 shen1 。
+
+- zha4 hu4 quan4 zhi1 qi3 ， huai2 bao3 shan4 zi4 zhen1 。
+
+- qiu1 yue4 geng3 qing1 ye4 ， qiu1 feng1 juan4 ceng2 yun2 。
+
+- jia1 zai1 wei4 shui2 yu2 ？
+
+- ding4 wei4 wo3 yu3 jun1 。
+
+- mo4 xian2 jiu3 wei4 bao2 ， liao2 fu4 xiang1 huan1 xin1 。
+
+## 译文
+
+我的朋友蓬蒿人，郤扫向四邻。内无三尺童子，外面没有双蒲轮。难道不是骏马姿态，驾车的人很难。没有衣服可以抵御冬天，忍受寒冷等待春天。抬头说发长叹，晚上作冷螀呻吟。奓户劝他起来，怀宝好好珍。秋月耿清静的夜晚，秋风卷曾说。好呢是谁吗？定为我和你。莫嫌酒味淡薄，我也相欢欣。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+我的朋友蓬蒿人，郤扫向四邻。内无三尺童子，外面没有双蒲轮。难道不是骏马姿态，驾车的人很难。没有衣服可以抵御冬天，忍受寒冷等待春天。抬头说发长叹，晚上作冷螀呻吟。奓户劝他起来，怀宝好好珍。秋月耿清静的夜晚，秋风卷曾说。好呢是谁吗？定为我和你。莫嫌酒味淡薄，我也相欢欣。
+	* 此部分翻译来自AI，仅供参考

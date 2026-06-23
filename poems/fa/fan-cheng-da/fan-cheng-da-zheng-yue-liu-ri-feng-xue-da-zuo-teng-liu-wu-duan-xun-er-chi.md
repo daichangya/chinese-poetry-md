@@ -1,0 +1,37 @@
+---
+id: fan-cheng-da-zheng-yue-liu-ri-feng-xue-da-zuo-teng-liu-wu-duan-xun-er-chi
+title: 正月六日风雪大作
+author: 范成大
+authorSlug: fan-cheng-da
+dynasty: 宋
+dynastySlug: song
+titlePinyin: zheng1 yue4 liu4 ri4 feng1 xue3 da4 zuo4
+authorPinyin: fan4 cheng2 da4
+dynastyPinyin: song4
+canonicalPoemId: 401928
+canonicalAuthorId: 4965
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 滕六无端巽二痴，翻天作恶破春迟。
+
+- 邀梅勒柳何功业，谁与停杯一问之？
+
+## 拼音
+
+- teng2 liu4 wu2 duan1 xun4 er4 chi1 ， fan1 tian1 zuo4 e4 po4 chun1 chi2 。
+
+- yao1 mei2 le4 liu3 he2 gong1 ye4 ， shui2 yu3 ting2 bei1 yi2 wen4 zhi1 ？
+
+## 译文
+
+滕六无端哭二傻，翻天作恶破春迟。邀请梅勒柳树什么功业，谁与停杯一问的？
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+滕六无端哭二傻，翻天作恶破春迟。邀请梅勒柳树什么功业，谁与停杯一问的？
+	* 此部分翻译来自AI，仅供参考

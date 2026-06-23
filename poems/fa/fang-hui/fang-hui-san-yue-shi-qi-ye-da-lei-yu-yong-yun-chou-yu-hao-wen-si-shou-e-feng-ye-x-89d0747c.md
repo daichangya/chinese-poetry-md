@@ -1,0 +1,45 @@
+---
+id: fang-hui-san-yue-shi-qi-ye-da-lei-yu-yong-yun-chou-yu-hao-wen-si-shou-e-feng-ye-x-89d0747c
+title: 三月十七夜大雷雨用韵酬俞好问四首
+author: 方回
+authorSlug: fang-hui
+dynasty: 宋
+dynastySlug: song
+titlePinyin: san1 yue4 shi2 qi1 ye4 da4 lei2 yu3 yong4 yun4 chou2 yu2 hao3 wen4 si4 shou3
+authorPinyin: fang1 hui2
+dynastyPinyin: song4
+canonicalPoemId: 601512
+canonicalAuthorId: 5395
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 恶风夜汹疾雷频，稍卧还兴起倒身。
+
+- 政复花时如此雨，谁知我辈本无春。
+
+- 破衣垢腻疮饶痒，短被伴欹脚倦伸。
+
+- 挨耐天明招敢叟，能来破闷赖斯人。
+
+## 拼音
+
+- e4 feng1 ye4 xiong1 ji2 lei2 pin2 ， shao1 wo4 hai2 xing1 qi3 dao3 shen1 。
+
+- zheng4 fu4 hua1 shi2 ru2 ci3 yu3 ， shui2 zhi1 wo3 bei4 ben3 wu2 chun1 。
+
+- po4 yi1 gou4 ni4 chuang1 rao2 yang3 ， duan3 bei4 ban4 qi1 jiao3 juan4 shen1 。
+
+- ai1 nai4 tian1 ming2 zhao1 gan3 sou3 ， neng2 lai2 po4 men1 lai4 si1 ren2 。
+
+## 译文
+
+恶风夜晚汹涌迅雷频繁，稍微躺回兴起倒身。政又花时间这样下雨，谁知道我们根本就没有春天。破衣服脏腻疮很痒，短被伴斜伸脚疲倦。挨耐天第二招敢老人，能来打败闷依赖这样的人。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+恶风夜晚汹涌迅雷频繁，稍微躺回兴起倒身。政又花时间这样下雨，谁知道我们根本就没有春天。破衣服脏腻疮很痒，短被伴斜伸脚疲倦。挨耐天第二招敢老人，能来打败闷依赖这样的人。
+	* 此部分翻译来自AI，仅供参考

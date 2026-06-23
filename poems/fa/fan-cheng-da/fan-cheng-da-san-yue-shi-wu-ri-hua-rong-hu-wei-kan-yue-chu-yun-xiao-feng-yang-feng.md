@@ -1,0 +1,69 @@
+---
+id: fan-cheng-da-san-yue-shi-wu-ri-hua-rong-hu-wei-kan-yue-chu-yun-xiao-feng-yang-feng
+title: 三月十五日华容湖尾看月出
+author: 范成大
+authorSlug: fan-cheng-da
+dynasty: 宋
+dynastySlug: song
+titlePinyin: san1 yue4 shi2 wu3 ri4 hua2 rong2 hu2 wei3 kan4 yue4 chu1
+authorPinyin: fan4 cheng2 da4
+dynastyPinyin: song4
+canonicalPoemId: 370965
+canonicalAuthorId: 4965
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 云销沣阳风，月生岳阳水。
+
+- 谁推赤金盘，涌出白银地？
+
+- 徘徊忽腾上，蹀蹀恐颠坠。
+
+- 稍高轮渐安，飞彩到篷背。
+
+- 晶晶浪皆舞，靥靥星欲避。
+
+- 兜罗世界纲，普现无边际。
+
+- 官居束户庭，有眼如幻翳。
+
+- 向非行大荒，宁有此巨丽？
+
+- 乘除较得失，漂泊非左计。
+
+- 妻孥竞驩哗，渠亦知许事
+
+## 拼音
+
+- yun2 xiao1 feng1 yang2 feng1 ， yue4 sheng1 yue4 yang2 shui3 。
+
+- shui2 tui1 chi4 jin1 pan2 ， yong3 chu1 bai2 yin2 di4 ？
+
+- pai2 huai2 hu1 teng2 shang4 ， die2 die2 kong3 dian1 zhui4 。
+
+- shao1 gao1 lun2 jian4 an1 ， fei1 cai3 dao4 peng2 bei4 。
+
+- jing1 jing1 lang4 jie1 wu3 ， ye4 ye4 xing1 yu4 bi4 。
+
+- dou1 luo2 shi4 jie4 gang1 ， pu3 xian4 wu2 bian1 ji4 。
+
+- guan1 ju1 shu4 hu4 ting2 ， you3 yan3 ru2 huan4 yi4 。
+
+- xiang4 fei1 xing2 da4 huang1 ， ning2 you3 ci3 ju4 li4 ？
+
+- cheng2 chu2 jiao4 de2 shi1 ， piao1 bo2 fei1 zuo3 ji4 。
+
+- qi1 nu2 jing4 huan1 hua2 ， qu2 yi4 zhi1 xu3 shi4
+
+## 译文
+
+雨过澧阳风，月生岳阳水。谁推赤金盘，白银地涌出？徘徊忽然腾上，在在担心颠覆。稍高轮渐渐安定下来，飞帆背色彩到。晶晶浪都舞，容颜容颜星想躲避。兜罗世界网，普现无边际。官居束庭院，有眼如幻遮蔽。向非代理大饥荒，怎么会有这么大美丽？乘除计较得失，漂泊不是左计。上市竞争很吵闹，他也知道许事
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+雨过澧阳风，月生岳阳水。谁推赤金盘，白银地涌出？徘徊忽然腾上，在在担心颠覆。稍高轮渐渐安定下来，飞帆背色彩到。晶晶浪都舞，容颜容颜星想躲避。兜罗世界网，普现无边际。官居束庭院，有眼如幻遮蔽。向非代理大饥荒，怎么会有这么大美丽？乘除计较得失，漂泊不是左计。上市竞争很吵闹，他也知道许事
+	* 此部分翻译来自AI，仅供参考

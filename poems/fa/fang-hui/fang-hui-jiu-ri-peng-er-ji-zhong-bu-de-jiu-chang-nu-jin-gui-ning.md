@@ -1,0 +1,77 @@
+---
+id: fang-hui-jiu-ri-peng-er-ji-zhong-bu-de-jiu-chang-nu-jin-gui-ning
+title: 九日烹二鸡终不得酒
+author: 方回
+authorSlug: fang-hui
+dynasty: 宋
+dynastySlug: song
+titlePinyin: jiu3 ri4 peng1 er4 ji1 zhong1 bu4 de2 jiu3
+authorPinyin: fang1 hui2
+dynastyPinyin: song4
+canonicalPoemId: 348884
+canonicalAuthorId: 5395
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 长女近归宁，念母省所患。
+
+- 临别无可烹，仅余一老雁。
+
+- 兹辰遂重九，空庖绝刍豢。
+
+- 伏雌劣足膳，时醪靡由办。
+
+- 平生万卷肠，半世饫藜苋。
+
+- 中尝长军府，岂不宴集惯。
+
+- 晚年畏祸机，弃官老林涧。
+
+- 卖书辍架签，典衣解袍襻。
+
+- 佳节无一钱，终一羡配贯。
+
+- 瓶罄何耻为，更用奴隶讪。
+
+- 但甘颜乐瓢，宜免周誓轘。
+
+- 粲粲东篱英，聊与岁同晏。
+
+## 拼音
+
+- chang2 nü3 jin4 gui1 ning2 ， nian4 mu3 sheng3 suo3 huan4 。
+
+- lin2 bie2 wu2 ke3 peng1 ， jin3 yu2 yi4 lao3 yan4 。
+
+- zi1 chen2 sui4 chong2 jiu3 ， kong1 pao2 jue2 chu2 huan4 。
+
+- fu2 ci2 lie4 zu2 shan4 ， shi2 lao2 mi2 you2 ban4 。
+
+- ping2 sheng1 wan4 juan4 chang2 ， ban4 shi4 yu4 li2 xian4 。
+
+- zhong1 chang2 chang2 jun1 fu3 ， qi3 bu2 yan4 ji2 guan4 。
+
+- wan3 nian2 wei4 huo4 ji1 ， qi4 guan1 lao3 lin2 jian4 。
+
+- mai4 shu1 chuo4 jia4 qian1 ， dian3 yi1 jie3 pao2 pan4 。
+
+- jia1 jie2 wu2 yi4 qian2 ， zhong1 yi2 xian4 pei4 guan4 。
+
+- ping2 qing4 he2 chi3 wei4 ， geng4 yong4 nu2 li4 shan4 。
+
+- dan4 gan1 yan2 le4 piao2 ， yi2 mian3 zhou1 shi4 huan4 。
+
+- can4 can4 dong1 li2 ying1 ， liao2 yu3 sui4 tong2 yan4 。
+
+## 译文
+
+大女儿最近回家，想到母亲省所患。临别无可煮，仅剩下一个雁。此时就重九，空厨房拒绝肉食。伏雌差不足膳食，当时无酒由办。平生万卷肠，半辈子读藜苋。中曾经长军府，难道不是宴会习惯。晚年畏祸机，弃官老林涧。卖书停止架签，衣服解开袍子系带弄断。佳节没有一文钱，最后一张配穿。瓶没有什么耻辱为，再使用奴隶诽谤。但甘颜乐瓢，应该避免周发誓辍。粲笑东篱英，且与每年同晚。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+大女儿最近回家，想到母亲省所患。临别无可煮，仅剩下一个雁。此时就重九，空厨房拒绝肉食。伏雌差不足膳食，当时无酒由办。平生万卷肠，半辈子读藜苋。中曾经长军府，难道不是宴会习惯。晚年畏祸机，弃官老林涧。卖书停止架签，衣服解开袍子系带弄断。佳节没有一文钱，最后一张配穿。瓶没有什么耻辱为，再使用奴隶诽谤。但甘颜乐瓢，应该避免周发誓辍。粲笑东篱英，且与每年同晚。
+	* 此部分翻译来自AI，仅供参考

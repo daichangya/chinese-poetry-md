@@ -1,0 +1,37 @@
+---
+id: fan-cheng-da-jia-chen-ren-ri-bing-zhong-yin-liu-yan-liu-shou-yi-zi-chao-fu-ji-ji-qian-qi-ri
+title: 甲辰人日病中，吟六言六首以自嘲
+author: 范成大
+authorSlug: fan-cheng-da
+dynasty: 宋
+dynastySlug: song
+titlePinyin: jia3 chen2 ren2 ri4 bing4 zhong1 ， yin2 liu4 yan2 liu4 shou3 yi3 zi4 chao2
+authorPinyin: fan4 cheng2 da4
+dynastyPinyin: song4
+canonicalPoemId: 401632
+canonicalAuthorId: 4965
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 复吉既愆七日，泰来惟候三阳。
+
+- 历日今颁寅正，占星更候农祥。
+
+## 拼音
+
+- fu4 ji2 ji4 qian1 qi1 ri4 ， tai4 lai2 wei2 hou4 san1 yang2 。
+
+- li4 ri4 jin1 ban1 yin2 zheng4 ， zhan1 xing1 geng4 hou4 nong2 xiang2 。
+
+## 译文
+
+又吉已经过七天，泰来只有等到三个阳。日历现在颁布日正，占星改候农吉利。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+又吉已经过七天，泰来只有等到三个阳。日历现在颁布日正，占星改候农吉利。
+	* 此部分翻译来自AI，仅供参考

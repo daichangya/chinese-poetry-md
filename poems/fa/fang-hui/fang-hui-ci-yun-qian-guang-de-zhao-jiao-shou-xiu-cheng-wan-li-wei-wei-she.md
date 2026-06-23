@@ -1,0 +1,45 @@
+---
+id: fang-hui-ci-yun-qian-guang-de-zhao-jiao-shou-xiu-cheng-wan-li-wei-wei-she
+title: 次韵前广德赵教授
+author: 方回
+authorSlug: fang-hui
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ci4 yun4 qian2 guang3 de2 zhao4 jiao4 shou4
+authorPinyin: fang1 hui2
+dynastyPinyin: song4
+canonicalPoemId: 602922
+canonicalAuthorId: 5395
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 修程万里未为赊，年少曾逢世运嘉。
+
+- 早擢高科题雁塔，合班迩列餍龙茶。
+
+- 宦情划似云归岫，时事惊如雨送花。
+
+- 书林宝藏饶词藻，肯羡青霄富贵家。
+
+## 拼音
+
+- xiu1 cheng2 wan4 li3 wei4 wei4 she1 ， nian2 shao4 ceng2 feng2 shi4 yun4 jia1 。
+
+- zao3 zhuo2 gao1 ke1 ti2 yan4 ta3 ， he2 ban1 er3 lie4 yan4 long2 cha2 。
+
+- huan4 qing2 hua4 si4 yun2 gui1 xiu4 ， shi2 shi4 jing1 ru2 yu3 song4 hua1 。
+
+- shu1 lin2 bao3 zang4 rao2 ci2 zao3 ， ken3 xian4 qing1 xiao1 fu4 gui4 jia1 。
+
+## 译文
+
+修程万里不算远，年轻时曾遇上世道好。早提升高科题雁塔，全班近列满足龙茶。宦官划似云归帕，当时事情很像雨把花。藏书宝藏富有文采，肯羡青霄富贵人家。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+修程万里不算远，年轻时曾遇上世道好。早提升高科题雁塔，全班近列满足龙茶。宦官划似云归帕，当时事情很像雨把花。藏书宝藏富有文采，肯羡青霄富贵人家。
+	* 此部分翻译来自AI，仅供参考

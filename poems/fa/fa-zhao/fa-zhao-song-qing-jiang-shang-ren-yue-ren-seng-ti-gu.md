@@ -1,0 +1,45 @@
+---
+id: fa-zhao-song-qing-jiang-shang-ren-yue-ren-seng-ti-gu
+title: 送清江上人
+author: 法照
+authorSlug: fa-zhao
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: song4 qing1 jiang1 shang4 ren2
+authorPinyin: fa3 zhao4
+dynastyPinyin: tang2
+canonicalPoemId: 500067
+canonicalAuthorId: 6057
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 越人僧体古，清虑洗尘劳。
+
+- 一国诗名远，多生律行高。
+
+- 见山援葛藟，避世著方袍。
+
+- 早晚云门去，侬应逐尔曹。
+
+## 拼音
+
+- yue4 ren2 seng1 ti3 gu3 ， qing1 lü4 xi3 chen2 lao2 。
+
+- yi4 guo2 shi1 ming2 yuan3 ， duo1 sheng1 lü4 hang2 gao1 。
+
+- jian4 shan1 yuan2 ge3 lei3 ， bi4 shi4 zhu4 fang1 pao2 。
+
+- zao3 wan3 yun2 men2 qu4 ， nong2 ying4 zhu2 er3 cao2 。
+
+## 译文
+
+越人僧体古，清虑洗尘劳。一国诗名远，多生律行高。见山援助绑，躲避世人著方袍。早晚云门离开，我应该把你们。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+越人僧体古，清虑洗尘劳。一国诗名远，多生律行高。见山援助绑，躲避世人著方袍。早晚云门离开，我应该把你们。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,35 @@
+---
+id: fan-cheng-da-ling-shang-hong-mei-wu-yu-yan-zhi-zhao-song-zhu
+title: 岭上红梅
+author: 范成大
+authorSlug: fan-cheng-da
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ling3 shang4 hong2 mei2
+authorPinyin: fan4 cheng2 da4
+dynastyPinyin: song4
+canonicalPoemId: 401962
+canonicalAuthorId: 4965
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 雾雨胭脂照松竹，江南春风一枝足。
+
+- 满城桃李各嫣然，寂莫倾城在空谷。
+
+- 城中谁解惜娉婷，游子路傍空复情。
+
+- 花不能言客无语，日暮清愁相对生。
+
+## 拼音
+
+- wu4 yu3 yan1 zhi1 zhao4 song1 zhu2 ， jiang1 nan2 chun1 feng1 yi4 zhi1 zu2 。
+
+- man3 cheng2 tao2 li3 ge4 yan1 ran2 ， ji4 mo4 qing1 cheng2 zai4 kong1 gu3 。
+
+- cheng2 zhong1 shui2 jie3 xi1 ping1 ting2 ， you2 zi3 lu4 bang4 kong1 fu4 qing2 。
+
+- hua1 bu4 neng2 yan2 ke4 wu2 yu3 ， ri4 mu4 qing1 chou2 xiang1 dui4 sheng1 。

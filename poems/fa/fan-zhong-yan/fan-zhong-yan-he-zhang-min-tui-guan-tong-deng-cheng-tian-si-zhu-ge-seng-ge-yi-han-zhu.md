@@ -1,0 +1,41 @@
+---
+id: fan-zhong-yan-he-zhang-min-tui-guan-tong-deng-cheng-tian-si-zhu-ge-seng-ge-yi-han-zhu
+title: 和章岷推官同登承天寺竹阁
+author: 范仲淹
+authorSlug: fan-zhong-yan
+dynasty: 宋
+dynastySlug: song
+titlePinyin: he2 zhang1 min2 tui1 guan1 tong2 deng1 cheng2 tian1 si4 zhu2 ge2
+authorPinyin: fan4 zhong4 yan1
+dynastyPinyin: song4
+canonicalPoemId: 540027
+canonicalAuthorId: 516
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 僧阁倚寒竹，幽襟聊一开。
+
+- 清风曾未足，明月可重来，晚意烟垂草，秋姿露滴苔。
+
+- 佳宾何以伫，云瑟与霞杯。
+
+## 拼音
+
+- seng1 ge2 yi3 han2 zhu2 ， you1 jin1 liao2 yi4 kai1 。
+
+- qing1 feng1 ceng2 wei4 zu2 ， ming2 yue4 ke3 chong2 lai2 ， wan3 yi4 yan1 chui2 cao3 ， qiu1 zi1 lu4 di1 tai2 。
+
+- jia1 bin1 he2 yi3 zhu4 ， yun2 se4 yu3 xia2 bei1 。
+
+## 译文
+
+僧人阁傍靠在寒竹，在衣襟聊一开。清风曾经不值得，第二个可以重来，晚情意烟垂草，秋姿露滴苔藓。佳宾为什么站着，说瑟和霞杯。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+僧人阁傍靠在寒竹，在衣襟聊一开。清风曾经不值得，第二个可以重来，晚情意烟垂草，秋姿露滴苔藓。佳宾为什么站着，说瑟和霞杯。
+	* 此部分翻译来自AI，仅供参考

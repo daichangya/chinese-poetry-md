@@ -1,0 +1,37 @@
+---
+id: fan-cheng-da-an-shang-mei-hua-di-lu-huo-nuan-ri-hong-chuang
+title: 案上梅花
+author: 范成大
+authorSlug: fan-cheng-da
+dynasty: 宋
+dynastySlug: song
+titlePinyin: an4 shang4 mei2 hua1
+authorPinyin: fan4 cheng2 da4
+dynastyPinyin: song4
+canonicalPoemId: 402127
+canonicalAuthorId: 4965
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 地炉火暖日烘窗，一夜花须半吐黄。
+
+- 鼻观圆通熏百和，博山三夕罢烧香。
+
+## 拼音
+
+- di4 lu2 huo3 nuan3 ri4 hong1 chuang1 ， yi2 ye4 hua1 xu1 ban4 tu3 huang2 。
+
+- bi2 guan1 yuan2 tong1 xun1 bai3 he2 ， bo2 shan1 san1 xi1 ba4 shao1 xiang1 。
+
+## 译文
+
+炉火暖日烘窗地，一晚上花要半吐黄。鼻子看圆通熏百和，博山三晚上停止烧香。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+炉火暖日烘窗地，一晚上花要半吐黄。鼻子看圆通熏百和，博山三晚上停止烧香。
+	* 此部分翻译来自AI，仅供参考

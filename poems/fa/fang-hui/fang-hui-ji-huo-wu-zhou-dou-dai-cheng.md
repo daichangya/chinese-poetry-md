@@ -1,0 +1,105 @@
+---
+id: fang-hui-ji-huo-wu-zhou-dou-dai-cheng
+title: 记火
+author: 方回
+authorSlug: fang-hui
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ji4 huo3
+authorPinyin: fang1 hui2
+dynastyPinyin: song4
+canonicalPoemId: 603033
+canonicalAuthorId: 5395
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 吾州斗大城，辛丑𦶟于火。
+
+- 予时年十五，天地一蜾蠃。
+
+- 窜身城北门，尚忆双髻鬌。
+
+- 秋暑七月半，汹涌沸炎堁。
+
+- 日午饥无食，枝头得梨果。
+
+- 不谓心尚孩，析薪未克荷。
+
+- 先君儒起家，负冤踣奔播。
+
+- 赭垣获苟免，小宅亦云颇。
+
+- 先祖之旧居，竟弗脱此祸。
+
+- 二三叔父家，赀产素不伙。
+
+- 焚如既已酷，生理各坎坷。
+
+- 老者渐丧亡，赖尝教敕我。
+
+- 田屋悉破散，江湖走一舸。
+
+- 掇科敡历久，身幸青紫裹。
+
+- 中年营一区，稍于己意可，紫阳正面南，乌柳在其左。
+
+- 前荣艺花木，后圃莳菜蓏。
+
+- 军兴盗贼起，万卷破甑堕。
+
+- 乙未九月灾，天特赦幺麽。
+
+- 岿然七十翁，吾其理归柁。
+
+## 拼音
+
+- wu2 zhou1 dou4 dai4 cheng2 ， xin1 chou3 𦶟 yu2 huo3 。
+
+- yu3 shi2 nian2 shi2 wu3 ， tian1 di4 yi4 guo3 luo3 。
+
+- cuan4 shen1 cheng2 bei3 men2 ， shang4 yi4 shuang1 ji4 tuo3 。
+
+- qiu1 shu3 qi1 yue4 ban4 ， xiong1 yong3 fei4 yan2 ke4 。
+
+- ri4 wu3 ji1 wu2 shi2 ， zhi1 tou2 de2 li2 guo3 。
+
+- bu2 wei4 xin1 shang4 hai2 ， xi1 xin1 wei4 ke4 he2 。
+
+- xian1 jun1 ru2 qi3 jia1 ， fu4 yuan1 bo2 ben1 bo1 。
+
+- zhe3 yuan2 huo4 gou3 mian3 ， xiao3 zhai2 yi4 yun2 po1 。
+
+- xian1 zu3 zhi1 jiu4 ju1 ， jing4 fu2 tuo1 ci3 huo4 。
+
+- er4 san1 shu1 fu4 jia1 ， zi1 chan3 su4 bu4 huo3 。
+
+- fen2 ru2 ji4 yi3 ku4 ， sheng1 li3 ge4 kan3 ke3 。
+
+- lao3 zhe3 jian4 sang4 wang2 ， lai4 chang2 jiao4 chi4 wo3 。
+
+- tian2 wu1 xi1 po4 san4 ， jiang1 hu2 zou3 yi4 ge3 。
+
+- duo1 ke1 yi4 li4 jiu3 ， shen1 xing4 qing1 zi3 guo3 。
+
+- zhong1 nian2 ying2 yi4 qu1 ， shao1 yu2 ji3 yi4 ke3 ， zi3 yang2 zheng4 mian4 nan2 ， wu1 liu3 zai4 qi2 zuo3 。
+
+- qian2 rong2 yi4 hua1 mu4 ， hou4 pu3 shi4 cai4 luo3 。
+
+- jun1 xing1 dao4 zei2 qi3 ， wan4 juan4 po4 zeng4 duo4 。
+
+- yi3 wei4 jiu3 yue4 zai1 ， tian1 te4 she4 yao1 mo2 。
+
+- kui1 ran2 qi1 shi2 weng1 ， wu2 qi2 li3 gui1 tuo2 。
+
+## 译文
+
+我州斗大城，辛丑日烧在火。我当时十五岁，天地一蜾赢。逃身城北门，还记得双髻鬌。秋酷暑七月半，汹涌翻滚炎土。中午饿了没有食物，枝头得到梨果。不叫心儿孩，劈柴没有能够继承。先君儒士起家，蒙冤跌倒到播。储墙获得幸免，小宅也说很。祖先的故居，最终没有逃脱这场灾祸。二三叔父家，资产一向不多。焚如已经残酷，生理各坎坷。老年人逐渐丧失，依赖曾命令我。田产房屋都被打散，江湖走一条船。吸引科敡历久，我到青紫色包裹。中年营一区，逐渐在自己的心意可以，紫阳正朝南，乌柳在左边。前荣艺花木，后花园栽种蔬菜苽。军用盗贼兴起，万卷破甑掉。乙未九月灾害，天特赦幺麽。岿然七十岁老头，我的理回柁。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+我州斗大城，辛丑日烧在火。我当时十五岁，天地一蜾赢。逃身城北门，还记得双髻鬌。秋酷暑七月半，汹涌翻滚炎土。中午饿了没有食物，枝头得到梨果。不叫心儿孩，劈柴没有能够继承。先君儒士起家，蒙冤跌倒到播。储墙获得幸免，小宅也说很。祖先的故居，最终没有逃脱这场灾祸。二三叔父家，资产一向不多。焚如已经残酷，生理各坎坷。老年人逐渐丧失，依赖曾命令我。田产房屋都被打散，江湖走一条船。吸引科敡历久，我到青紫色包裹。中年营一区，逐渐在自己的心意可以，紫阳正朝南，乌柳在左边。前荣艺花木，后花园栽种蔬菜苽。军用盗贼兴起，万卷破甑掉。乙未九月灾害，天特赦幺麽。岿然七十岁老头，我的理回柁。
+	* 此部分翻译来自AI，仅供参考

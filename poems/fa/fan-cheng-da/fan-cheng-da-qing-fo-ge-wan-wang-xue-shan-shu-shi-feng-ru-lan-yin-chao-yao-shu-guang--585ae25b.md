@@ -1,0 +1,45 @@
+---
+id: fan-cheng-da-qing-fo-ge-wan-wang-xue-shan-shu-shi-feng-ru-lan-yin-chao-yao-shu-guang--585ae25b
+title: 请佛阁晚望，雪山数十峰如烂银，晁耀暑光中
+author: 范成大
+authorSlug: fan-cheng-da
+dynasty: 宋
+dynastySlug: song
+titlePinyin: qing3 fo2 ge2 wan3 wang4 ， xue3 shan1 shu4 shi2 feng1 ru2 lan4 yin2 ， chao2 yao4 shu3 guang1 zhong1
+authorPinyin: fan4 cheng2 da4
+dynastyPinyin: song4
+canonicalPoemId: 401177
+canonicalAuthorId: 4965
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 垒块苍然是九州，大千起灭更悠悠。
+
+- 雪兴正照天西角，日影长浮雨上头。
+
+- 峰顶何曾知六月，尘间想已别三秋。
+
+- 佛毫似欲留人住，横野金桥晚未收。
+
+## 拼音
+
+- lei3 kuai4 cang1 ran2 shi4 jiu3 zhou1 ， da4 qian1 qi3 mie4 geng4 you1 you1 。
+
+- xue3 xing1 zheng4 zhao4 tian1 xi1 jiao3 ， ri4 ying3 chang2 fu2 yu3 shang4 tou2 。
+
+- feng1 ding3 he2 ceng2 zhi1 liu4 yue4 ， chen2 jian1 xiang3 yi3 bie2 san1 qiu1 。
+
+- fo2 hao2 si4 yu4 liu2 ren2 zhu4 ， heng2 ye3 jin1 qiao2 wan3 wei4 shou1 。
+
+## 译文
+
+垒块苍然是九州，大干起来消灭再悠悠。雪兴正照天西角，日影长浮降上头。峰顶何曾知道六月，尘间想必已经另外三个秋季。佛毫似乎想留人居住，横野金桥晚未收。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+垒块苍然是九州，大干起来消灭再悠悠。雪兴正照天西角，日影长浮降上头。峰顶何曾知道六月，尘间想必已经另外三个秋季。佛毫似乎想留人居住，横野金桥晚未收。
+	* 此部分翻译来自AI，仅供参考

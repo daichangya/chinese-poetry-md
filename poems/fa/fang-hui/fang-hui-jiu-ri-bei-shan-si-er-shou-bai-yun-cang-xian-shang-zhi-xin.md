@@ -1,0 +1,45 @@
+---
+id: fang-hui-jiu-ri-bei-shan-si-er-shou-bai-yun-cang-xian-shang-zhi-xin
+title: 九日北山寺二首
+author: 方回
+authorSlug: fang-hui
+dynasty: 宋
+dynastySlug: song
+titlePinyin: jiu3 ri4 bei3 shan1 si4 er4 shou3
+authorPinyin: fang1 hui2
+dynastyPinyin: song4
+canonicalPoemId: 601295
+canonicalAuthorId: 5395
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 白云苍藓尚知心，野径荒泉杵重寻。
+
+- 一马出城元近近，万松藏寺已深深。
+
+- 同游似觉无先到，半醉谁知政独吟。
+
+- 十度重阳如瞬息，足知往古与来今。
+
+## 拼音
+
+- bai2 yun2 cang1 xian3 shang4 zhi1 xin1 ， ye3 jing4 huang1 quan2 chu3 zhong4 xun2 。
+
+- yi4 ma3 chu1 cheng2 yuan2 jin4 jin4 ， wan4 song1 cang2 si4 yi3 shen1 shen1 。
+
+- tong2 you2 si4 jue2 wu2 xian1 dao4 ， ban4 zui4 shui2 zhi1 zheng4 du2 yin2 。
+
+- shi2 du4 chong2 yang2 ru2 shun4 xi1 ， zu2 zhi1 wang3 gu3 yu3 lai2 jin1 。
+
+## 译文
+
+白云苍藓还知道心，野径荒泉杵重寻。一匹马出城元近年，万松寺已深深隐藏。同窗觉得似乎没有先到，一半醉谁知道政治独吟。十度重阳如眨眼之间，你知道过去和现在将来。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+白云苍藓还知道心，野径荒泉杵重寻。一匹马出城元近年，万松寺已深深隐藏。同窗觉得似乎没有先到，一半醉谁知道政治独吟。十度重阳如眨眼之间，你知道过去和现在将来。
+	* 此部分翻译来自AI，仅供参考

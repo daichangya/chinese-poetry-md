@@ -1,0 +1,35 @@
+---
+id: fan-cheng-da-zi-wen-jian-he-yun-yi-you-xiao-huan-neng-du-qu-fu-yong-yun-xi-zeng-san-n-44a2f617
+title: 子文见和云亦有小鬟能度曲复用韵戏赠
+author: 范成大
+authorSlug: fan-cheng-da
+dynasty: 宋
+dynastySlug: song
+titlePinyin: zi3 wen2 jian4 he2 yun2 yi4 you3 xiao3 huan2 neng2 du4 qu3 fu4 yong4 yun4 xi4 zeng4
+authorPinyin: fan4 cheng2 da4
+dynastyPinyin: song4
+canonicalPoemId: 400924
+canonicalAuthorId: 4965
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 三年屏杯酌，甚矣吾衰矣。
+
+- 眼中有淄渑，犹解商略此。
+
+- 花酒俱来事更奇，不妨禅心絮沾泥。
+
+- 翠眉何时真度曲，细意烦君画蛾绿。
+
+## 拼音
+
+- san1 nian2 ping2 bei1 zhuo2 ， shen4 yi3 wu2 shuai1 yi3 。
+
+- yan3 zhong1 you3 zi1 mian3 ， you2 jie3 shang1 lüe4 ci3 。
+
+- hua1 jiu3 ju4 lai2 shi4 geng4 qi2 ， bu4 fang2 chan2 xin1 xu4 zhan1 ni2 。
+
+- cui4 mei2 he2 shi2 zhen1 du4 qu3 ， xi4 yi4 fan2 jun1 hua4 e2 lü4 。

@@ -1,0 +1,45 @@
+---
+id: fang-hui-jiu-yue-ba-ri-bin-yang-xie-jiu-xi-zhai-wan-deng-xiu-ting-ci-qian-yun-she-02c57f06
+title: 九月八日宾旸携酒西斋晚登秀亭次前韵
+author: 方回
+authorSlug: fang-hui
+dynasty: 宋
+dynastySlug: song
+titlePinyin: jiu3 yue4 ba1 ri4 bin1 yang2 xie2 jiu3 xi1 zhai1 wan3 deng1 xiu4 ting2 ci4 qian2 yun4
+authorPinyin: fang1 hui2
+dynastyPinyin: song4
+canonicalPoemId: 601913
+canonicalAuthorId: 5395
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 深箝笑口似难开，顿喜诗仙载酒来。
+
+- 此道孰为今老笔，吾庐适有古荒台。
+
+- 焉知晚节逢陈厄，忽听高歌类郢哀。
+
+- 倚石自怜吟不就，频将拄杖划莓苔。
+
+## 拼音
+
+- shen1 qian2 xiao4 kou3 si4 nan2 kai1 ， dun4 xi3 shi1 xian1 zai3 jiu3 lai2 。
+
+- ci3 dao4 shu2 wei4 jin1 lao3 bi3 ， wu2 lu2 shi4 you3 gu3 huang1 tai2 。
+
+- yan1 zhi1 wan3 jie2 feng2 chen2 e4 ， hu1 ting1 gao1 ge1 lei4 ying3 ai1 。
+
+- yi3 shi2 zi4 lian2 yin2 bu2 jiu4 ， pin2 jiang1 zhu3 zhang4 hua4 mei2 tai2 。
+
+## 译文
+
+深嵌着嘴似乎很难开，在喜诗仙带着酒来。这道谁是现在老笔，吾庐正好有古荒台。怎么知道晚年遇到陈困境，忽听高声歌唱类郢哀。倚石自怜吟不去，多次将拄杖划莓苔。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+深嵌着嘴似乎很难开，在喜诗仙带着酒来。这道谁是现在老笔，吾庐正好有古荒台。怎么知道晚年遇到陈困境，忽听高声歌唱类郢哀。倚石自怜吟不去，多次将拄杖划莓苔。
+	* 此部分翻译来自AI，仅供参考

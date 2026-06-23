@@ -1,0 +1,45 @@
+---
+id: fan-cheng-da-cui-feng-si-lai-cong-di-jiu-tian
+title: 翠峰寺
+author: 范成大
+authorSlug: fan-cheng-da
+dynasty: 宋
+dynastySlug: song
+titlePinyin: cui4 feng1 si4
+authorPinyin: fan4 cheng2 da4
+dynastyPinyin: song4
+canonicalPoemId: 401767
+canonicalAuthorId: 4965
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 来从第九天，橘社系归船。
+
+- 借问翠峰路，谁参雪窦禅
+
+- 应真庭下木，说法井中泉。
+
+- 公案新翻出，诸方一任传。
+
+## 拼音
+
+- lai2 cong2 di4 jiu3 tian1 ， ju2 she4 xi4 gui1 chuan2 。
+
+- jie4 wen4 cui4 feng1 lu4 ， shui2 can1 xue3 dou4 chan2
+
+- ying4 zhen1 ting2 xia4 mu4 ， shuo1 fa3 jing3 zhong1 quan2 。
+
+- gong1 an4 xin1 fan1 chu1 ， zhu1 fang1 yi2 ren4 chuan2 。
+
+## 译文
+
+从第九天来，橘子社系归船。请问这翠峰路，谁参与雪窦禅应真庭下树木，说法井中泉水。公案新翻出来，各方一任传。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+从第九天来，橘子社系归船。请问这翠峰路，谁参与雪窦禅应真庭下树木，说法井中泉水。公案新翻出来，各方一任传。
+	* 此部分翻译来自AI，仅供参考

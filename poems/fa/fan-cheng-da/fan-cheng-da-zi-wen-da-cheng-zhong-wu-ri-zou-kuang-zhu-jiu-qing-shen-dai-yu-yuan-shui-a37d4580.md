@@ -1,0 +1,45 @@
+---
+id: fan-cheng-da-zi-wen-da-cheng-zhong-wu-ri-zou-kuang-zhu-jiu-qing-shen-dai-yu-yuan-shui-a37d4580
+title: 子文大丞重午日走贶煮酒，清甚，殆与远水一
+author: 范成大
+authorSlug: fan-cheng-da
+dynasty: 宋
+dynastySlug: song
+titlePinyin: zi3 wen2 da4 cheng2 zhong4 wu3 ri4 zou3 kuang4 zhu3 jiu3 ， qing1 shen4 ， dai4 yu3 yuan3 shui3 yi1
+authorPinyin: fan4 cheng2 da4
+dynastyPinyin: song4
+canonicalPoemId: 370872
+canonicalAuthorId: 4965
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 腊脚清若空，吾闻其语矣。
+
+- 今晨品义尊，公酒正如此。
+
+- 太常家有此段奇，销得不斋醉如泥。
+
+- 但恨今无遏云曲，送我菖蒲一杯绿。
+
+## 拼音
+
+- la4 jiao3 qing1 ruo4 kong1 ， wu2 wen2 qi2 yu3 yi3 。
+
+- jin1 chen2 pin3 yi4 zun1 ， gong1 jiu3 zheng4 ru2 ci3 。
+
+- tai4 chang2 jia1 you3 ci3 duan4 qi2 ， xiao1 de2 bu4 zhai1 zui4 ru2 ni2 。
+
+- dan4 hen4 jin1 wu2 e4 yun2 qu3 ， song4 wo3 chang1 pu2 yi4 bei1 lü4 。
+
+## 译文
+
+腊脚清如空，我听到他说话了。今天早晨品义尊，你的酒正是这样。太常家有这段奇妙，销得不斋醉得泥。只恨现在没有阻止云曲，送我菖蒲一杯绿。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+腊脚清如空，我听到他说话了。今天早晨品义尊，你的酒正是这样。太常家有这段奇妙，销得不斋醉得泥。只恨现在没有阻止云曲，送我菖蒲一杯绿。
+	* 此部分翻译来自AI，仅供参考
