@@ -1,0 +1,35 @@
+---
+id: chen-yu-4-yi-qi-zi-lu-yu-shan-zeng-xing-pi-ma-dong-huai-liang-yue-ji
+title: 以七字律羽扇赠行
+author: 陈郁
+authorSlug: chen-yu-4
+dynasty: 宋
+dynastySlug: song
+titlePinyin: yi3 qi1 zi4 lü4 yu3 shan4 zeng4 xing2
+authorPinyin: chen2 yu4
+dynastyPinyin: song4
+canonicalPoemId: 506483
+canonicalAuthorId: 12453
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 匹马东淮两月寄，归衔俄尔带新资。
+
+- 吟高已中唐人律，名重宜魁浙漕闱。
+
+- 彩舫香冲荷叶去，捷旗荣与菊花期。
+
+- 赠君羽扇还知否，文阵千军可一挥。
+
+## 拼音
+
+- pi3 ma3 dong1 huai2 liang3 yue4 ji4 ， gui1 xian2 e2 er3 dai4 xin1 zi1 。
+
+- yin2 gao1 yi3 zhong1 tang2 ren2 lü4 ， ming2 zhong4 yi2 kui2 zhe4 cao2 wei2 。
+
+- cai3 fang3 xiang1 chong1 he2 ye4 qu4 ， jie2 qi2 rong2 yu3 ju2 hua1 qi1 。
+
+- zeng4 jun1 yu3 shan4 hai2 zhi1 fou3 ， wen2 zhen4 qian1 jun1 ke3 yi4 hui1 。

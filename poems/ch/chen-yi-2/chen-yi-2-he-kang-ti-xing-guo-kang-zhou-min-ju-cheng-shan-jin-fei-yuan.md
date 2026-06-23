@@ -1,0 +1,45 @@
+---
+id: chen-yi-2-he-kang-ti-xing-guo-kang-zhou-min-ju-cheng-shan-jin-fei-yuan
+title: 和康提刑过康州
+author: 陈怿
+authorSlug: chen-yi-2
+dynasty: 宋
+dynastySlug: song
+titlePinyin: he2 kang1 ti2 xing2 guo4 kang1 zhou1
+authorPinyin: chen2 yi4
+dynastyPinyin: song4
+canonicalPoemId: 635010
+canonicalAuthorId: 7990
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 民居城栅尽非元，唯有江山似昔年。
+
+- 听讼棠阴遗旧址，按行台旆照晴川。
+
+- 重来自喜恩威洽，别后常嗟岁月迁。
+
+- 道侧老人曾卧辙，拜迎相顾倍怡然。
+
+## 拼音
+
+- min2 ju1 cheng2 shan1 jin4 fei1 yuan2 ， wei2 you3 jiang1 shan1 si4 xi1 nian2 。
+
+- ting1 song4 tang2 yin1 yi2 jiu4 zhi3 ， an4 xing2 tai2 pei4 zhao4 qing2 chuan1 。
+
+- chong2 lai2 zi4 xi3 en1 wei1 qia4 ， bie2 hou4 chang2 jie1 sui4 yue4 qian1 。
+
+- dao4 ce4 lao3 ren2 ceng2 wo4 zhe2 ， bai4 ying2 xiang1 gu4 bei4 yi2 ran2 。
+
+## 译文
+
+人民居住的城栅完全不是元，只有江山似当年。听讼棠阴遣旧址，按行台旗照晴川。重来自喜恩威融洽，分手后常感叹岁月迁。路旁老人曾躺在车道，为迎接照顾倍怡然自得。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+人民居住的城栅完全不是元，只有江山似当年。听讼棠阴遣旧址，按行台旗照晴川。重来自喜恩威融洽，分手后常感叹岁月迁。路旁老人曾躺在车道，为迎接照顾倍怡然自得。
+	* 此部分翻译来自AI，仅供参考
