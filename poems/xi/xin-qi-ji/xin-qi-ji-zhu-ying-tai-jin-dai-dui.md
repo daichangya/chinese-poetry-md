@@ -1,0 +1,69 @@
+---
+id: xin-qi-ji-zhu-ying-tai-jin-dai-dui
+title: 祝英台近
+author: 辛弃疾
+authorSlug: xin-qi-ji
+dynasty: 宋
+dynastySlug: song
+titlePinyin: zhu4 ying1 tai2 jin4
+authorPinyin: xin1 qi4 ji2
+dynastyPinyin: song4
+canonicalPoemId: 530002
+canonicalAuthorId: 5072
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 代对，意甚美矣。
+
+- 翌日，为赋此词褒之也
+
+- 水纵横，山远近。
+
+- 拄杖占千顷。
+
+- 老眼羞将，水底看山影。
+
+- 度教水动山摇，吾生堪笑，似此个、青山无定。
+
+- 一瓢饮。
+
+- 人问翁爱飞泉，来寻个中静。
+
+- 绕屋声喧，怎做静中境。
+
+- 我眠君且归休，维摩方丈，待天女、散花时问。
+
+## 拼音
+
+- dai4 dui4 ， yi4 shen4 mei3 yi3 。
+
+- yi4 ri4 ， wei4 fu4 ci3 ci2 bao1 zhi1 ye3
+
+- shui3 zong4 heng2 ， shan1 yuan3 jin4 。
+
+- zhu3 zhang4 zhan4 qian1 qing3 。
+
+- lao3 yan3 xiu1 jiang1 ， shui3 di3 kan4 shan1 ying3 。
+
+- du4 jiao4 shui3 dong4 shan1 yao2 ， wu2 sheng1 kan1 xiao4 ， si4 ci3 ge4 、 qing1 shan1 wu2 ding4 。
+
+- yi4 piao2 yin3 。
+
+- ren2 wen4 weng1 ai4 fei1 quan2 ， lai2 xun2 ge4 zhong1 jing4 。
+
+- rao4 wu1 sheng1 xuan1 ， zen3 zuo4 jing4 zhong1 jing4 。
+
+- wo3 mian2 jun1 qie3 gui1 xiu1 ， wei2 mo2 fang1 zhang4 ， dai4 tian1 nü3 、 san4 hua1 shi2 wen4 。
+
+## 译文
+
+苏代回答，想法很好了。第二天，作为赋税这词夸张了水纵横，山远近。拄杖占千顷。老了，眼睛也将，水底看山影。度教水动山摇，我生堪笑，像这样一个、青山不定。一瓢饮。人问老头爱飞溅，来寻找一个内心安静。绕屋声喧哗，怎么做静中境。我睡觉你先回家休息，维方丈，对天女散花时问、。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+苏代回答，想法很好了。第二天，作为赋税这词夸张了水纵横，山远近。拄杖占千顷。老了，眼睛也将，水底看山影。度教水动山摇，我生堪笑，像这样一个、青山不定。一瓢饮。人问老头爱飞溅，来寻找一个内心安静。绕屋声喧哗，怎么做静中境。我睡觉你先回家休息，维方丈，对天女散花时问、。
+	* 此部分翻译来自AI，仅供参考

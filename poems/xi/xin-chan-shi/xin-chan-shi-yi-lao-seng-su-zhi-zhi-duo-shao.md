@@ -1,0 +1,45 @@
+---
+id: xin-chan-shi-yi-lao-seng-su-zhi-zhi-duo-shao
+title: 贻老僧
+author: 信禅师
+authorSlug: xin-chan-shi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: yi2 lao3 seng1
+authorPinyin: xin4 chan2 shi1
+dynastyPinyin: song4
+canonicalPoemId: 460965
+canonicalAuthorId: 838
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 俗胝知多少，庞眉拥毳袍。
+
+- 看经嫌字小，间事爱声高。
+
+- 暴日终无厌，登阶渐觉劳。
+
+- 自言曾少庄，游岳两三遭。
+
+## 拼音
+
+- su2 zhi1 zhi1 duo1 shao3 ， pang2 mei2 yong1 cui4 pao2 。
+
+- kan4 jing1 xian2 zi4 xiao3 ， jian1 shi4 ai4 sheng1 gao1 。
+
+- bao4 ri4 zhong1 wu2 yan4 ， deng1 jie1 jian4 jue2 lao2 。
+
+- zi4 yan2 ceng2 shao3 zhuang1 ， you2 yue4 liang3 san1 zao1 。
+
+## 译文
+
+风俗老茧知多少，庞眉拥毳衣袍。看经嫌字小，世间的事情爱高声。暴天始终没有满足，登阶渐渐觉得劳累。说自己曾少庄，到贺拔岳两三遭遇。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+风俗老茧知多少，庞眉拥毳衣袍。看经嫌字小，世间的事情爱高声。暴天始终没有满足，登阶渐渐觉得劳累。说自己曾少庄，到贺拔岳两三遭遇。
+	* 此部分翻译来自AI，仅供参考
