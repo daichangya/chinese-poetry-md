@@ -1,0 +1,53 @@
+---
+id: li-yi-yi-feng-he-hui-ri-xing-kun-ming-chi-ying-zhi-yu-lu-xun-chun-shang
+title: 奉和晦日幸昆明池应制
+author: 李乂
+authorSlug: li-yi-yi
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: feng4 he2 hui4 ri4 xing4 kun1 ming2 chi2 ying4 zhi4
+authorPinyin: li3 yi4
+dynastyPinyin: tang2
+canonicalPoemId: 530458
+canonicalAuthorId: 58
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 玉辂寻春赏，金堤重晦游。
+
+- 川通黑水浸，地派紫泉流。
+
+- 晃朗扶桑出，绵联杞树周。
+
+- 乌疑填海处，人似隔河秋。
+
+- 劫尽灰犹识，年移石故留。
+
+- 汀洲归棹晚，箫鼓杂汾讴。
+
+## 拼音
+
+- yu4 lu4 xun2 chun1 shang3 ， jin1 di1 zhong4 hui4 you2 。
+
+- chuan1 tong1 hei1 shui3 jin4 ， di4 pai4 zi3 quan2 liu2 。
+
+- huang4 lang3 fu2 sang1 chu1 ， mian2 lian2 qi3 shu4 zhou1 。
+
+- wu1 yi2 tian2 hai3 chu4 ， ren2 si4 ge2 he2 qiu1 。
+
+- jie2 jin4 hui1 you2 shi2 ， nian2 yi2 shi2 gu4 liu2 。
+
+- ting1 zhou1 gui1 zhao4 wan3 ， xiao1 gu3 za2 fen2 ou1 。
+
+## 译文
+
+玉辖寻春赏，金重晦游。川打通黑水淹没，地派紫泉水。晃朗扶桑出来，绵联枸杞树周。乌怀疑填海处，人似乎隔河秋季。劫尽灰还认识，年移石所以留下。沙洲归棹晚，箫鼓杂汾唱歌。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+玉辖寻春赏，金重晦游。川打通黑水淹没，地派紫泉水。晃朗扶桑出来，绵联枸杞树周。乌怀疑填海处，人似乎隔河秋季。劫尽灰还认识，年移石所以留下。沙洲归棹晚，箫鼓杂汾唱歌。
+	* 此部分翻译来自AI，仅供参考

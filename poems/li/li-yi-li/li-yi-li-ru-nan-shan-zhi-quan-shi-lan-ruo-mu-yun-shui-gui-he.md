@@ -1,0 +1,45 @@
+---
+id: li-yi-li-ru-nan-shan-zhi-quan-shi-lan-ruo-mu-yun-shui-gui-he
+title: 入南山至全师兰若
+author: 李益
+authorSlug: li-yi-li
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: ru4 nan2 shan1 zhi4 quan2 shi1 lan2 ruo4
+authorPinyin: li3 yi4
+dynastyPinyin: tang2
+canonicalPoemId: 404436
+canonicalAuthorId: 232
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 木陨水归壑，寂然无念心。
+
+- 南行有真子，被褐息山阴。
+
+- 石路瑶草散，松门寒景深。
+
+- 吾师亦何爱，自起定中吟。
+
+## 拼音
+
+- mu4 yun3 shui3 gui1 he4 ， ji4 ran2 wu2 nian4 xin1 。
+
+- nan2 xing2 you3 zhen1 zi3 ， bei4 he4 xi1 shan1 yin1 。
+
+- shi2 lu4 yao2 cao3 san4 ， song1 men2 han2 jing3 shen1 。
+
+- wu2 shi1 yi4 he2 ai4 ， zi4 qi3 ding4 zhong1 yin2 。
+
+## 译文
+
+木降水回壑，寂寞无念心。往南走有真正的儿子，穿着粗布衣服息山阴。石头路瑶草散，松门寒景深。我师也怎样爱，从起定中吟。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+木降水回壑，寂寞无念心。往南走有真正的儿子，穿着粗布衣服息山阴。石头路瑶草散，松门寒景深。我师也怎样爱，从起定中吟。
+	* 此部分翻译来自AI，仅供参考

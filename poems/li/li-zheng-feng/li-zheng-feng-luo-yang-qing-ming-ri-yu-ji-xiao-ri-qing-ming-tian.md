@@ -1,0 +1,45 @@
+---
+id: li-zheng-feng-luo-yang-qing-ming-ri-yu-ji-xiao-ri-qing-ming-tian
+title: 洛阳清明日雨霁
+author: 李正封
+authorSlug: li-zheng-feng
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: luo4 yang2 qing1 ming2 ri4 yu3 ji4
+authorPinyin: li3 zheng4 feng1
+dynastyPinyin: tang2
+canonicalPoemId: 456915
+canonicalAuthorId: 4792
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 晓日清明天，夜来嵩少雨。
+
+- 千门尚烟火，九陌无尘土。
+
+- 酒绿河桥春，漏闲宫殿午。
+
+- 游人恋芳草，半犯严城鼓。
+
+## 拼音
+
+- xiao3 ri4 qing1 ming2 tian1 ， ye4 lai2 song1 shao3 yu3 。
+
+- qian1 men2 shang4 yan1 huo3 ， jiu3 mo4 wu2 chen2 tu3 。
+
+- jiu3 lü4 he2 qiao2 chun1 ， lou4 xian2 gong1 dian4 wu3 。
+
+- you2 ren2 lian4 fang1 cao3 ， ban4 fan4 yan2 cheng2 gu3 。
+
+## 译文
+
+晓日清明天，昨夜我少雨。千门还有烟火，九陌无尘土。酒绿河桥春，漏闲宫殿中午。游人留恋芳草，半侵犯严州城内击鼓。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+晓日清明天，昨夜我少雨。千门还有烟火，九陌无尘土。酒绿河桥春，漏闲宫殿中午。游人留恋芳草，半侵犯严州城内击鼓。
+	* 此部分翻译来自AI，仅供参考
