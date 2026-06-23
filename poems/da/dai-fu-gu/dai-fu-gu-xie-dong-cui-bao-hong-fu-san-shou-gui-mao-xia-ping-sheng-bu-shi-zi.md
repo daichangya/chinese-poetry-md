@@ -1,0 +1,53 @@
+---
+id: dai-fu-gu-xie-dong-cui-bao-hong-fu-san-shou-gui-mao-xia-ping-sheng-bu-shi-zi
+title: 谢东粹包宏父三首癸卯夏
+author: 戴复古
+authorSlug: dai-fu-gu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: xie4 dong1 cui4 bao1 hong2 fu4 san1 shou3 gui3 mao3 xia4
+authorPinyin: dai4 fu4 gu3
+dynastyPinyin: song4
+canonicalPoemId: 462948
+canonicalAuthorId: 4890
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 平生不识字，把笔学吟诗。
+
+- 旧说韦苏州，于余今见之。
+
+- 每遭饥寒厄，出吐辛酸辞。
+
+- 候虫鸣屋壁，凤蝉啭枯枝。
+
+- 但有可怜声，入耳终无奇。
+
+- 宏斋误题品，恐贻识者饥。
+
+## 拼音
+
+- ping2 sheng1 bu4 shi2 zi4 ， ba3 bi3 xue2 yin2 shi1 。
+
+- jiu4 shuo1 wei2 su1 zhou1 ， yu2 yu2 jin1 jian4 zhi1 。
+
+- mei3 zao1 ji1 han2 e4 ， chu1 tu3 xin1 suan1 ci2 。
+
+- hou4 chong2 ming2 wu1 bi4 ， feng4 chan2 zhuan4 ku1 zhi1 。
+
+- dan4 you3 ke3 lian2 sheng1 ， ru4 er3 zhong1 wu2 qi2 。
+
+- hong2 zhai1 wu4 ti2 pin3 ， kong3 yi2 shi2 zhe3 ji1 。
+
+## 译文
+
+平生不认识的字，拿笔学吟诗。旧说韦苏州，在我今天看到的。经常遭受饥寒困，出吐辛酸辞。候蟋蟀的叫声墙壁上，凤蝉啭枯枝。只有可怜声，进入了终无奇。宏斋误题品，担心给认识的饥荒。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+平生不认识的字，拿笔学吟诗。旧说韦苏州，在我今天看到的。经常遭受饥寒困，出吐辛酸辞。候蟋蟀的叫声墙壁上，凤蝉啭枯枝。只有可怜声，进入了终无奇。宏斋误题品，担心给认识的饥荒。
+	* 此部分翻译来自AI，仅供参考

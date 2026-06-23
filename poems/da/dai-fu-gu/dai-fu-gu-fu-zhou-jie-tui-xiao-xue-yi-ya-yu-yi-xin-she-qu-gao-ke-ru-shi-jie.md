@@ -1,0 +1,45 @@
+---
+id: dai-fu-gu-fu-zhou-jie-tui-xiao-xue-yi-ya-yu-yi-xin-she-qu-gao-ke-ru-shi-jie
+title: 抚州节推萧学易衙宇一新
+author: 戴复古
+authorSlug: dai-fu-gu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: fu3 zhou1 jie2 tui1 xiao1 xue2 yi4 ya2 yu3 yi4 xin1
+authorPinyin: dai4 fu4 gu3
+dynastyPinyin: song4
+canonicalPoemId: 464348
+canonicalAuthorId: 4890
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 摄取高科如拾芥，爱君才调望君深。
+
+- 莫夸书判居莲幕，要把文章入禁林。
+
+- 华屋修成官满去，好诗改定客来吟。
+
+- 西窗共对萧萧竹，不负三杯话此心。
+
+## 拼音
+
+- she4 qu3 gao1 ke1 ru2 shi2 jie4 ， ai4 jun1 cai2 tiao2 wang4 jun1 shen1 。
+
+- mo4 kua1 shu1 pan4 ju1 lian2 mu4 ， yao4 ba3 wen2 zhang1 ru4 jin4 lin2 。
+
+- hua2 wu1 xiu1 cheng2 guan1 man3 qu4 ， hao3 shi1 gai3 ding4 ke4 lai2 yin2 。
+
+- xi1 chuang1 gong4 dui4 xiao1 xiao1 zhu2 ， bu2 fu4 san1 bei1 hua4 ci3 xin1 。
+
+## 译文
+
+摄取高科如拾草芥，爱你才调看到你深。莫夸书判在莲花幕，要把文章进入禁林。华屋修筑官满了，喜欢诗改定客来吟。西窗共同面对萧萧竹，不负三杯话这心。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+摄取高科如拾草芥，爱你才调看到你深。莫夸书判在莲花幕，要把文章进入禁林。华屋修筑官满了，喜欢诗改定客来吟。西窗共同面对萧萧竹，不负三杯话这心。
+	* 此部分翻译来自AI，仅供参考

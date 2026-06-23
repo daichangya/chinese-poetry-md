@@ -1,0 +1,46 @@
+---
+id: dai-fu-gu-nan-kang-liu-lao-tang-lu-shan-jiao-xia-kai-ting-guan
+title: 南康六老堂
+author: 戴复古
+authorSlug: dai-fu-gu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: nan2 kang1 liu4 lao3 tang2
+authorPinyin: dai4 fu4 gu3
+dynastyPinyin: song4
+canonicalPoemId: 462857
+canonicalAuthorId: 4890
+tags:
+  - 诗词
+  - 庐山
+---
+
+## 正文
+
+- 庐山脚下开亭馆，柰此千峰百嶂何。
+
+- 逸少大书池上墨，少陵狂作醉时歌。
+
+- 碧荷秋老香犹在，好月夜深明更多。
+
+- 五老揖君天上笑，把杯相对酌金波。
+
+## 拼音
+
+- lu2 shan1 jiao3 xia4 kai1 ting2 guan3 ， nai4 ci3 qian1 feng1 bai3 zhang4 he2 。
+
+- yi4 shao3 da4 shu1 chi2 shang4 mo4 ， shao3 ling2 kuang2 zuo4 zui4 shi2 ge1 。
+
+- bi4 he2 qiu1 lao3 xiang1 you2 zai4 ， hao3 yue4 ye4 shen1 ming2 geng4 duo1 。
+
+- wu3 lao3 yi1 jun1 tian1 shang4 xiao4 ， ba3 bei1 xiang1 dui4 zhuo2 jin1 bo1 。
+
+## 译文
+
+庐山脚下开亭馆，怎么这千峰百嶂什么。逸少大池塘上墨书，杜甫狂作醉时的歌。碧荷秋老香还在，喜欢月夜深明更多。五老请你天上笑，把杯相对酌金波。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+庐山脚下开亭馆，怎么这千峰百嶂什么。逸少大池塘上墨书，杜甫狂作醉时的歌。碧荷秋老香还在，喜欢月夜深明更多。五老请你天上笑，把杯相对酌金波。
+	* 此部分翻译来自AI，仅供参考

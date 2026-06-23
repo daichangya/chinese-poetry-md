@@ -1,0 +1,35 @@
+---
+id: dai-dong-lao-chun-ri-tian-yuan-za-xing-san-shou-qi-er-zuo-ye-xi-jiao-lei-yin-ming
+title: 春日田园杂兴三首 其二
+author: 戴东老
+authorSlug: dai-dong-lao
+dynasty: 宋
+dynastySlug: song
+titlePinyin: chun1 ri4 tian2 yuan2 za2 xing1 san1 shou3   qi2 er4
+authorPinyin: dai4 dong1 lao3
+dynastyPinyin: song4
+canonicalPoemId: 458504
+canonicalAuthorId: 8145
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 昨夜西郊雷隐鸣，金穰检历兆秋成。
+
+- 枪旗味向茶畦蓄，饼饵香从麦陇生。
+
+- 拂去梁尘招燕乳，拨开檐网看蜂营。
+
+- 谁家子女群喧笑，竞学卖花吟叫声。
+
+## 拼音
+
+- zuo2 ye4 xi1 jiao1 lei2 yin3 ming2 ， jin1 rang2 jian3 li4 zhao4 qiu1 cheng2 。
+
+- qiang1 qi2 wei4 xiang4 cha2 qi2 xu4 ， bing3 er3 xiang1 cong2 mai4 long3 sheng1 。
+
+- fu2 qu4 liang2 chen2 zhao1 yan4 ru3 ， bo1 kai1 yan2 wang3 kan4 feng1 ying2 。
+
+- shui2 jia1 zi3 nü3 qun2 xuan1 xiao4 ， jing4 xue2 mai4 hua1 yin2 jiao4 sheng1 。

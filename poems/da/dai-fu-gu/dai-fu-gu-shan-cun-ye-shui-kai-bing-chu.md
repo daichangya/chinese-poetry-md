@@ -1,0 +1,45 @@
+---
+id: dai-fu-gu-shan-cun-ye-shui-kai-bing-chu
+title: 山村
+author: 戴复古
+authorSlug: dai-fu-gu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: shan1 cun1
+authorPinyin: dai4 fu4 gu3
+dynastyPinyin: song4
+canonicalPoemId: 463896
+canonicalAuthorId: 4890
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 野水开冰出，山云带雨行。
+
+- 白鸥乘晓泛，黄犊试春耕。
+
+- 地僻民风古，年丰米价平。
+
+- 村居自萧洒，况有读书声。
+
+## 拼音
+
+- ye3 shui3 kai1 bing1 chu1 ， shan1 yun2 dai4 yu3 xing2 。
+
+- bai2 ou1 cheng2 xiao3 fan4 ， huang2 du2 shi4 chun1 geng1 。
+
+- di4 pi4 min2 feng1 gu3 ， nian2 feng1 mi3 jia4 ping2 。
+
+- cun1 ju1 zi4 xiao1 sa3 ， kuang4 you3 du2 shu1 sheng1 。
+
+## 译文
+
+野水开冰出，山云带雨行。白鸥乘早上泛，黄犊试春耕。偏僻民风古，丰收年米价格。村庄从潇洒，何况有读书声。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+野水开冰出，山云带雨行。白鸥乘早上泛，黄犊试春耕。偏僻民风古，丰收年米价格。村庄从潇洒，何况有读书声。
+	* 此部分翻译来自AI，仅供参考

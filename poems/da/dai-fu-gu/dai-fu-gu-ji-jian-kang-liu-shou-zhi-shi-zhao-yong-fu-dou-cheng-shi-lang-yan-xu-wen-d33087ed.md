@@ -1,0 +1,45 @@
+---
+id: dai-fu-gu-ji-jian-kang-liu-shou-zhi-shi-zhao-yong-fu-dou-cheng-shi-lang-yan-xu-wen-d33087ed
+title: 寄建康留守制使赵用父都丞侍郎
+author: 戴复古
+authorSlug: dai-fu-gu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ji4 jian4 kang1 liu2 shou3 zhi4 shi3 zhao4 yong4 fu4 dou1 cheng2 shi4 lang2
+authorPinyin: dai4 fu4 gu3
+dynastyPinyin: song4
+canonicalPoemId: 464000
+canonicalAuthorId: 4890
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 燕许文章笔，片言轻万金。
+
+- 先人十诗序，孝子一生心。
+
+- 入手方为宝，三年等到今。
+
+- 九泉应有望，取璧照山林。
+
+## 拼音
+
+- yan4 xu3 wen2 zhang1 bi3 ， pian4 yan2 qing1 wan4 jin1 。
+
+- xian1 ren2 shi2 shi1 xu4 ， xiao4 zi3 yi4 sheng1 xin1 。
+
+- ru4 shou3 fang1 wei4 bao3 ， san1 nian2 deng3 dao4 jin1 。
+
+- jiu3 quan2 ying1 you3 wang4 ， qu3 bi4 zhao4 shan1 lin2 。
+
+## 译文
+
+燕王同意文章写作，片言轻万金。祖先十诗序，孝子一生心。着手方为宝，三年等人到现在。九泉之下应该有希望，取玉璧照山林。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+燕王同意文章写作，片言轻万金。祖先十诗序，孝子一生心。着手方为宝，三年等人到现在。九泉之下应该有希望，取玉璧照山林。
+	* 此部分翻译来自AI，仅供参考

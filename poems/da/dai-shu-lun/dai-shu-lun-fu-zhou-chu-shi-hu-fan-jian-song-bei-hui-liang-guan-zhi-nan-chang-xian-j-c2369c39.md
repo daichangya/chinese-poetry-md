@@ -1,0 +1,53 @@
+---
+id: dai-shu-lun-fu-zhou-chu-shi-hu-fan-jian-song-bei-hui-liang-guan-zhi-nan-chang-xian-j-c2369c39
+title: 抚州处士胡泛见送北回两馆至南昌县界查溪兰若别
+author: 戴叔伦
+authorSlug: dai-shu-lun
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: fu3 zhou1 chu3 shi4 hu2 fan4 jian4 song4 bei3 hui2 liang3 guan3 zhi4 nan2 chang1 xian4 jie4 cha2 xi1 lan2 ruo4 bie2
+authorPinyin: dai4 shu1 lun2
+dynastyPinyin: tang2
+canonicalPoemId: 538032
+canonicalAuthorId: 211
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 移樽铺山曲，祖帐查溪阴。
+
+- 铺山即远道，查溪非故林。
+
+- 凄然诵新诗，落泪沾素襟。
+
+- 郡政我何有，别情君独深。
+
+- 禅庭古树秋，宿雨清沈沈。
+
+- 挥袂千里远，悲伤去住心。
+
+## 拼音
+
+- yi2 zun1 pu4 shan1 qu3 ， zu3 zhang4 cha2 xi1 yin1 。
+
+- pu4 shan1 ji2 yuan3 dao4 ， cha2 xi1 fei1 gu4 lin2 。
+
+- qi1 ran2 song4 xin1 shi1 ， luo4 lei4 zhan1 su4 jin1 。
+
+- jun4 zheng4 wo3 he2 you3 ， bie2 qing2 jun1 du2 shen1 。
+
+- chan2 ting2 gu3 shu4 qiu1 ， su4 yu3 qing1 shen3 shen3 。
+
+- hui1 mei4 qian1 li3 yuan3 ， bei1 shang1 qu4 zhu4 xin1 。
+
+## 译文
+
+移樽铺山曲，祖父帐查溪阴。铺山就是远方，查伊璜溪不是所以林。悲伤地背诵新词，落泪沾素衣。郡政我有什么，另情你独自深。禅庭古树秋季，宿雨清沈沈。挥袂千里远，悲伤去住心。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+移樽铺山曲，祖父帐查溪阴。铺山就是远方，查伊璜溪不是所以林。悲伤地背诵新词，落泪沾素衣。郡政我有什么，另情你独自深。禅庭古树秋季，宿雨清沈沈。挥袂千里远，悲伤去住心。
+	* 此部分翻译来自AI，仅供参考

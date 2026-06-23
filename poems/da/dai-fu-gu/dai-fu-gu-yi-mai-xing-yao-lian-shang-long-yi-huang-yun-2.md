@@ -1,0 +1,45 @@
+---
+id: dai-fu-gu-yi-mai-xing-yao-lian-shang-long-yi-huang-yun-2
+title: 刈麦行
+author: 戴复古
+authorSlug: dai-fu-gu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: yi4 mai4 xing2
+authorPinyin: dai4 fu4 gu3
+dynastyPinyin: song4
+canonicalPoemId: 463723
+canonicalAuthorId: 4890
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 腰镰上垅刈黄云，东家西家麦满门。
+
+- 前村寡妇拾滞穟，𫗴粥有馀炊饼饵。
+
+- 我闻淮南麦最多，麦田今岁屯干戈。
+
+- 饱饭不知征虞苦，生长此方真乐土。
+
+## 拼音
+
+- yao1 lian2 shang4 long3 yi4 huang2 yun2 ， dong1 jia1 xi1 jia1 mai4 man3 men2 。
+
+- qian2 cun1 gua3 fu4 shi2 zhi4 sui4 ， zhan1 zhou1 you3 yu2 chui1 bing3 er3 。
+
+- wo3 wen2 huai2 nan2 mai4 zui4 duo1 ， mai4 tian2 jin1 sui4 tun2 gan1 ge1 。
+
+- bao3 fan4 bu4 zhi1 zheng1 yu2 ku3 ， sheng1 zhang3 ci3 fang1 zhen1 le4 tu3 。
+
+## 译文
+
+腰镰上垅割黄色，东家西家麦满门。前村寡妇拾滞穗，粥有多煮饼。我听说淮南麦最多，麦田今年在战争。饱饭不知道征虞苦，这地方真快乐地生长。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+腰镰上垅割黄色，东家西家麦满门。前村寡妇拾滞穗，粥有多煮饼。我听说淮南麦最多，麦田今年在战争。饱饭不知道征虞苦，这地方真快乐地生长。
+	* 此部分翻译来自AI，仅供参考

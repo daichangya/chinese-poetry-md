@@ -1,0 +1,35 @@
+---
+id: dai-fu-gu-tou-jiang-xi-ceng-xian-er-shou-qi-yi-shu-xing-ju-zi-ji
+title: 投江西曾宪二首 其一
+author: 戴复古
+authorSlug: dai-fu-gu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: tou2 jiang1 xi1 ceng2 xian4 er4 shou3   qi2 yi1
+authorPinyin: dai4 fu4 gu3
+dynastyPinyin: song4
+canonicalPoemId: 464262
+canonicalAuthorId: 4890
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 枢星居紫极，遥映使星明。
+
+- 天下推名德，君家好弟兄。
+
+- 一台振纲纪，列郡想风声。
+
+- 不试褰帷手，官曹未易清。
+
+## 拼音
+
+- shu1 xing1 ju1 zi3 ji2 ， yao2 ying4 shi3 xing1 ming2 。
+
+- tian1 xia4 tui1 ming2 de2 ， jun1 jia1 hao3 di4 xiong0 。
+
+- yi4 tai2 zhen4 gang1 ji4 ， lie4 jun4 xiang3 feng1 sheng1 。
+
+- bu2 shi4 qian1 wei2 shou3 ， guan1 cao2 wei4 yi4 qing1 。
