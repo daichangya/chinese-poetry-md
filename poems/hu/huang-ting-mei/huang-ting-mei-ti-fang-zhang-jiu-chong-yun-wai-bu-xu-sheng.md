@@ -1,0 +1,37 @@
+---
+id: huang-ting-mei-ti-fang-zhang-jiu-chong-yun-wai-bu-xu-sheng
+title: 题方丈
+author: 黄庭美
+authorSlug: huang-ting-mei
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ti2 fang1 zhang4
+authorPinyin: huang2 ting2 mei3
+dynastyPinyin: song4
+canonicalPoemId: 640048
+canonicalAuthorId: 8984
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 九重云外步虚声，十二时中太古情。
+
+- 为问当年赤松子，人生何处是功成。
+
+## 拼音
+
+- jiu3 chong2 yun2 wai4 bu4 xu1 sheng1 ， shi2 er4 shi2 zhong1 tai4 gu3 qing2 。
+
+- wei4 wen4 dang1 nian2 chi4 song1 zi3 ， ren2 sheng1 he2 chu4 shi4 gong1 cheng2 。
+
+## 译文
+
+九重云外步虚声，十二时中太古代情。为问当年赤松子，人生何处是成功。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+九重云外步虚声，十二时中太古代情。为问当年赤松子，人生何处是成功。
+	* 此部分翻译来自AI，仅供参考

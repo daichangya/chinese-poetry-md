@@ -1,0 +1,65 @@
+---
+id: huang-shang-yan-qiong-lin-mu-dan-yi-jue-bian-shao-rong
+title: 宴琼林（牡丹）
+author: 黄裳
+authorSlug: huang-shang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: yan4 qiong2 lin2 （ mu3 dan1 ）
+authorPinyin: huang2 shang0
+dynastyPinyin: song4
+canonicalPoemId: 495041
+canonicalAuthorId: 11799
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 已觉遍韶容，最后有花王，芳信来报。
+
+- 魏妃天与色，拥姚黄、去赏十洲仙岛。
+
+- 东君到此，缘费尽、天机亦老。
+
+- 为娇多，只恐能言笑。
+
+- 惹风流烦忙。
+
+- 莫道两都迥出，倩多才、吟看谁好。
+
+- 为我惨有如花面，说良辰欲过。
+
+- 须勤向、雕栏秉烛，更休管、夕阳芳草。
+
+- 算来年、花共人何处，金尊为花倒。
+
+## 拼音
+
+- yi3 jue2 bian4 shao2 rong2 ， zui4 hou4 you3 hua1 wang2 ， fang1 xin4 lai2 bao4 。
+
+- wei4 fei1 tian1 yu3 se4 ， yong1 yao2 huang2 、 qu4 shang3 shi2 zhou1 xian1 dao3 。
+
+- dong1 jun1 dao4 ci3 ， yuan2 fei4 jin4 、 tian1 ji1 yi4 lao3 。
+
+- wei4 jiao1 duo1 ， zhi1 kong3 neng2 yan2 xiao4 。
+
+- re3 feng1 liu2 fan2 mang2 。
+
+- mo4 dao4 liang3 dou1 jiong3 chu1 ， qian4 duo1 cai2 、 yin2 kan4 shui2 hao3 。
+
+- wei4 wo3 can3 you3 ru2 hua1 mian4 ， shuo1 liang2 chen2 yu4 guo4 。
+
+- xu1 qin2 xiang4 、 diao1 lan2 bing3 zhu2 ， geng4 xiu1 guan3 、 xi1 yang2 fang1 cao3 。
+
+- suan4 lai2 nian2 、 hua1 gong4 ren2 he2 chu4 ， jin1 zun1 wei4 hua1 dao3 。
+
+## 译文
+
+已发现普遍超容，最后有花王，芳信来报。魏妃上天和颜色，拥有姚黄、去赏十洲仙岛。东你到这，由于费用全部、天机也老。为娇多，只恐怕不能说笑话。惹风流烦忙。莫道两边都超出，请多才能、吟看谁喜欢。为我悲伤有像花面，对好时光要过。必须勤奋向、雕栏蜡烛，更不要去管、夕阳芳草。计划明年、花和人何处，金尊为花倒。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+已发现普遍超容，最后有花王，芳信来报。魏妃上天和颜色，拥有姚黄、去赏十洲仙岛。东你到这，由于费用全部、天机也老。为娇多，只恐怕不能说笑话。惹风流烦忙。莫道两边都超出，请多才能、吟看谁喜欢。为我悲伤有像花面，对好时光要过。必须勤奋向、雕栏蜡烛，更不要去管、夕阳芳草。计划明年、花和人何处，金尊为花倒。
+	* 此部分翻译来自AI，仅供参考

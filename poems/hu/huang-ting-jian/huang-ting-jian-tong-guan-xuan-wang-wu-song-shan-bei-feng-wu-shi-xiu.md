@@ -1,0 +1,69 @@
+---
+id: huang-ting-jian-tong-guan-xuan-wang-wu-song-shan-bei-feng-wu-shi-xiu
+title: 铜官悬望五松山
+author: 黄庭坚
+authorSlug: huang-ting-jian
+dynasty: 宋
+dynastySlug: song
+titlePinyin: tong2 guan1 xuan2 wang4 wu3 song1 shan1
+authorPinyin: huang2 ting2 jian1
+dynastyPinyin: song4
+canonicalPoemId: 394982
+canonicalAuthorId: 6352
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 北风无时休，崩浪聒天响。
+
+- 蛟鼍好为祟，此物俱神王。
+
+- 我来五松下，白发三千丈。
+
+- 松门闭青苔，惜哉不得往。
+
+- 今日天气嘉，清绝心有向。
+
+- 子云性嗜酒，况乃气清爽。
+
+- 此人已成灰，怀贤盈梦想。
+
+- 衣食当须几，吾得终疏放。
+
+- 弱女虽非男，出处同世网。
+
+- 搔背牧鸡豚，相见得无恙。
+
+## 拼音
+
+- bei3 feng1 wu2 shi2 xiu1 ， beng1 lang4 guo1 tian1 xiang3 。
+
+- jiao1 tuo2 hao3 wei4 sui4 ， ci3 wu4 ju4 shen2 wang2 。
+
+- wo3 lai2 wu3 song1 xia4 ， bai2 fa4 san1 qian1 zhang4 。
+
+- song1 men2 bi4 qing1 tai2 ， xi1 zai1 bu4 de2 wang3 。
+
+- jin1 ri4 tian1 qi4 jia1 ， qing1 jue2 xin1 you3 xiang4 。
+
+- zi3 yun2 xing4 shi4 jiu3 ， kuang4 nai3 qi4 qing1 shuang3 。
+
+- ci3 ren2 yi3 cheng2 hui1 ， huai2 xian2 ying2 meng4 xiang3 。
+
+- yi1 shi2 dang1 xu1 ji3 ， wu2 de2 zhong1 shu1 fang4 。
+
+- ruo4 nü3 sui1 fei1 nan2 ， chu1 chu4 tong2 shi4 wang3 。
+
+- sao1 bei4 mu4 ji1 tun2 ， xiang1 jian4 de2 wu2 yang4 。
+
+## 译文
+
+北风没有时间休息，崩塌是震天响。蛟龙喜好作祟，这些东西都是王。我来五松下，我满头的白发好像有三千丈。松门关闭着青苔，可惜不能去。今天天气好，清绝心有向。云生性喜欢喝酒，更何况是气清爽。这人已成灰，怀贤人充满梦想。衣食需要多少，我得到最终粗放。柔弱的女子虽然不是男人，来源于同世界网。搔背牧鸡豚，见面能安然无恙。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+北风没有时间休息，崩塌是震天响。蛟龙喜好作祟，这些东西都是王。我来五松下，我满头的白发好像有三千丈。松门关闭着青苔，可惜不能去。今天天气好，清绝心有向。云生性喜欢喝酒，更何况是气清爽。这人已成灰，怀贤人充满梦想。衣食需要多少，我得到最终粗放。柔弱的女子虽然不是男人，来源于同世界网。搔背牧鸡豚，见面能安然无恙。
+	* 此部分翻译来自AI，仅供参考

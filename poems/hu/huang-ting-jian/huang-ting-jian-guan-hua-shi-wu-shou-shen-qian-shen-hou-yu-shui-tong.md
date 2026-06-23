@@ -1,0 +1,37 @@
+---
+id: huang-ting-jian-guan-hua-shi-wu-shou-shen-qian-shen-hou-yu-shui-tong
+title: 观化十五首
+author: 黄庭坚
+authorSlug: huang-ting-jian
+dynasty: 宋
+dynastySlug: song
+titlePinyin: guan1 hua4 shi2 wu3 shou3
+authorPinyin: huang2 ting2 jian1
+dynastyPinyin: song4
+canonicalPoemId: 611195
+canonicalAuthorId: 6352
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 身前身后与谁同，花落花开毕竟空。
+
+- 千里追奔两蜗角，百年得意大槐宫。
+
+## 拼音
+
+- shen1 qian2 shen1 hou4 yu3 shui2 tong2 ， hua1 luo4 hua1 kai1 bi4 jing4 kong1 。
+
+- qian1 li3 zhui1 ben1 liang3 wo1 jiao3 ， bai3 nian2 de2 yi4 da4 huai2 gong1 。
+
+## 译文
+
+身前身后与谁同，花落花开毕竟空。千里追杀两蜗角，百年得意大槐树宫。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+身前身后与谁同，花落花开毕竟空。千里追杀两蜗角，百年得意大槐树宫。
+	* 此部分翻译来自AI，仅供参考

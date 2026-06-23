@@ -1,0 +1,45 @@
+---
+id: huang-ting-jian-he-xing-dun-fu-qiu-huai-shi-shou-xiang-ru-yong-quan-zhao
+title: 和邢惇夫秋怀十首
+author: 黄庭坚
+authorSlug: huang-ting-jian
+dynasty: 宋
+dynastySlug: song
+titlePinyin: he2 xing2 dun1 fu1 qiu1 huai2 shi2 shou3
+authorPinyin: huang2 ting2 jian1
+dynastyPinyin: song4
+canonicalPoemId: 490077
+canonicalAuthorId: 6352
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 相如用全赵，留侯开有汉。
+
+- 名登太山重，功略天下半。
+
+- 让颇封韩彭，事成群疑泮。
+
+- 天道当曲全，小智骜后患。
+
+## 拼音
+
+- xiang1 ru2 yong4 quan2 zhao4 ， liu2 hou2 kai1 you3 han4 。
+
+- ming2 deng1 tai4 shan1 zhong4 ， gong1 lüe4 tian1 xia4 ban4 。
+
+- rang4 po1 feng1 han2 peng2 ， shi4 cheng2 qun2 yi2 pan4 。
+
+- tian1 dao4 dang1 qu3 quan2 ， xiao3 zhi4 ao4 hou4 huan4 。
+
+## 译文
+
+相如采用全赵，留侯开有汉。名登泰山重，几乎全国一半功劳。让多封韩信、彭越，事成疑点融化。天道应当偏袒，小聪明看轻后患。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+相如采用全赵，留侯开有汉。名登泰山重，几乎全国一半功劳。让多封韩信、彭越，事成疑点融化。天道应当偏袒，小聪明看轻后患。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,46 @@
+---
+id: huang-ting-jian-xi-zeng-nan-an-cui-liu-chao-san-liu-hou-feng-wei-wan-xiang-jian
+title: 戏赠南安倅柳朝散
+author: 黄庭坚
+authorSlug: huang-ting-jian
+dynasty: 宋
+dynastySlug: song
+titlePinyin: xi4 zeng4 nan2 an1 cui4 liu3 chao2 san4
+authorPinyin: huang2 ting2 jian1
+dynastyPinyin: song4
+canonicalPoemId: 395001
+canonicalAuthorId: 6352
+tags:
+  - 诗词
+  - 洞庭湖
+---
+
+## 正文
+
+- 柳侯风味晚相见，衣袂颇薰荀令香。
+
+- 桃李能言妙歌舞，樽前一曲断人肠。
+
+- 洞庭归客有佳句，庾岭梅花如小棠。
+
+- 乘兴高帆少相待，淮湖秋月要传觞。
+
+## 拼音
+
+- liu3 hou2 feng1 wei4 wan3 xiang1 jian4 ， yi1 mei4 po1 xun1 xun2 ling4 xiang1 。
+
+- tao2 li3 neng2 yan2 miao4 ge1 wu3 ， zun1 qian2 yi4 qu3 duan4 ren2 chang2 。
+
+- dong4 ting2 gui1 ke4 you3 jia1 ju4 ， yu3 ling3 mei2 hua1 ru2 xiao3 tang2 。
+
+- cheng2 xing4 gao1 fan1 shao3 xiang1 dai4 ， huai2 hu2 qiu1 yue4 yao4 chuan2 shang1 。
+
+## 译文
+
+柳侯风味晚上见面，衣袖很熏香荀令香。桃李不能言语能歌善舞，樽前一曲断人肠。洞庭回去的客人有佳句，庾岭梅花和小棠。乘兴高帆少招待，淮湖秋月要传杯。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+柳侯风味晚上见面，衣袖很熏香荀令香。桃李不能言语能歌善舞，樽前一曲断人肠。洞庭回去的客人有佳句，庾岭梅花和小棠。乘兴高帆少招待，淮湖秋月要传杯。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,37 @@
+---
+id: huang-ting-jian-da-tan-jun-song-han-xiao-hua-song-tan-lang-hui-wo-hua-han-xiao
+title: 答檀君送含笑花颂
+author: 黄庭坚
+authorSlug: huang-ting-jian
+dynasty: 宋
+dynastySlug: song
+titlePinyin: da2 tan2 jun1 song4 han2 xiao4 hua1 song4
+authorPinyin: huang2 ting2 jian1
+dynastyPinyin: song4
+canonicalPoemId: 489657
+canonicalAuthorId: 6352
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 檀郎惠我花含笑，借问凝情笑阿谁。
+
+- 一世茫茫走声利，阎公捉定始应知。
+
+## 拼音
+
+- tan2 lang2 hui4 wo3 hua1 han2 xiao4 ， jie4 wen4 ning2 qing2 xiao4 a1 shui2 。
+
+- yi2 shi4 mang2 mang2 zou3 sheng1 li4 ， yan2 gong1 zhuo1 ding4 shi3 ying4 zhi1 。
+
+## 译文
+
+檀郎我花含笑，请问这凝情笑着阿谁。一世茫茫奔跑声利，阎公捉定才应该知道。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+檀郎我花含笑，请问这凝情笑着阿谁。一世茫茫奔跑声利，阎公捉定才应该知道。
+	* 此部分翻译来自AI，仅供参考

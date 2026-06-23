@@ -1,0 +1,85 @@
+---
+id: huang-ting-jian-gui-chou-su-zao-he-du-seng-she-cheng-tou-du-ke-she
+title: 癸丑宿早禾渡僧舍
+author: 黄庭坚
+authorSlug: huang-ting-jian
+dynasty: 宋
+dynastySlug: song
+titlePinyin: gui3 chou3 su4 zao3 he2 du4 seng1 she4
+authorPinyin: huang2 ting2 jian1
+dynastyPinyin: song4
+canonicalPoemId: 395437
+canonicalAuthorId: 6352
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 城头渡可涉，早禾渡可斟。
+
+- 试问安用舟，春水三丈余。
+
+- 是维一都会，驵侩权征输。
+
+- 郁郁多大姓，儒冠颇诗书。
+
+- 以武断乡曲，旧俗小未除。
+
+- 厌嚣谢近市，斩绝得僧区。
+
+- 此地美水竹，林明见浴凫。
+
+- 相追啑菱藻，天乐非世娱。
+
+- 忆在田园日，放浪友禽鱼。
+
+- 今来长山邑，忍饥抚惸孤。
+
+- 出入部曲随，咳唾吏史趋。
+
+- 形骸束簪笏，可意一事无。
+
+- 谋生理未拙，仰愧拥肿樗。
+
+- 曲肱晴檐低，结网看蜘蛛。
+
+## 拼音
+
+- cheng2 tou2 du4 ke3 she4 ， zao3 he2 du4 ke3 zhen1 。
+
+- shi4 wen4 an1 yong4 zhou1 ， chun1 shui3 san1 zhang4 yu2 。
+
+- shi4 wei2 yi4 dou1 hui4 ， zang3 kuai4 quan2 zheng1 shu1 。
+
+- yu4 yu4 duo1 da4 xing4 ， ru2 guan1 po1 shi1 shu1 。
+
+- yi3 wu3 duan4 xiang1 qu3 ， jiu4 su2 xiao3 wei4 chu2 。
+
+- yan4 ao2 xie4 jin4 shi4 ， zhan3 jue2 de2 seng1 qu1 。
+
+- ci3 di4 mei3 shui3 zhu2 ， lin2 ming2 jian4 yu4 fu2 。
+
+- xiang1 zhui1 die2 ling2 zao3 ， tian1 le4 fei1 shi4 yu2 。
+
+- yi4 zai4 tian2 yuan2 ri4 ， fang4 lang4 you3 qin2 yu2 。
+
+- jin1 lai2 chang2 shan1 yi4 ， ren3 ji1 fu3 qiong2 gu1 。
+
+- chu1 ru4 bu4 qu3 sui2 ， hai1 tuo4 li4 shi3 qu1 。
+
+- xing2 hai2 shu4 zan1 hu4 ， ke3 yi4 yi2 shi4 wu2 。
+
+- mou2 sheng1 li3 wei4 zhuo1 ， yang3 kui4 yong1 zhong3 chu1 。
+
+- qu1 gong1 qing2 yan2 di1 ， jie2 wang3 kan4 zhi1 zhu1 。
+
+## 译文
+
+城头渡可涉，早稻渡可以考虑。试问怎么用船，春季水深三丈多。这是一个都市，商人市侩孙权征讨输。郁闷多大家族，儒生的帽子很诗书。以武断乡村，旧的风俗习惯小未除。满足嚣道歉近市，杀绝得和尚区。此地美水竹，林明洗浴野鸭。相追啑菱藻，天乐不是社会娱乐。回忆在田园天，放荡朋友禽鱼。现在来长山县，忍着饥饿抚惸孤。出入部下跟随，咳唾吏史走向。形体约束簪笏，可以注意一件事没有。谋生计不笨拙，仰愧拥肿樗。曲肱晴檐低，看蜘蛛结网。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+城头渡可涉，早稻渡可以考虑。试问怎么用船，春季水深三丈多。这是一个都市，商人市侩孙权征讨输。郁闷多大家族，儒生的帽子很诗书。以武断乡村，旧的风俗习惯小未除。满足嚣道歉近市，杀绝得和尚区。此地美水竹，林明洗浴野鸭。相追啑菱藻，天乐不是社会娱乐。回忆在田园天，放荡朋友禽鱼。现在来长山县，忍着饥饿抚惸孤。出入部下跟随，咳唾吏史走向。形体约束簪笏，可以注意一件事没有。谋生计不笨拙，仰愧拥肿樗。曲肱晴檐低，看蜘蛛结网。
+	* 此部分翻译来自AI，仅供参考

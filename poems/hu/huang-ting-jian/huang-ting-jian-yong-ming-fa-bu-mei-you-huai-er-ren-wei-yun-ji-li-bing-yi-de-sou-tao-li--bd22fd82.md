@@ -1,0 +1,45 @@
+---
+id: huang-ting-jian-yong-ming-fa-bu-mei-you-huai-er-ren-wei-yun-ji-li-bing-yi-de-sou-tao-li--bd22fd82
+title: 用明发不寐有怀二人为韵寄李秉彝德叟
+author: 黄庭坚
+authorSlug: huang-ting-jian
+dynasty: 宋
+dynastySlug: song
+titlePinyin: yong4 ming2 fa1 bu2 mei4 you3 huai2 er4 ren2 wei2 yun4 ji4 li3 bing3 yi2 de2 sou3
+authorPinyin: huang2 ting2 jian1
+dynastyPinyin: song4
+canonicalPoemId: 490003
+canonicalAuthorId: 6352
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 桃李春成径，本自不期人。
+
+- 历下两寒士，箪瓢能悦亲。
+
+- 耻蒙伐国问，肯卧覆车尘。
+
+- 子既得此友，从之求日新。
+
+## 拼音
+
+- tao2 li3 chun1 cheng2 jing4 ， ben3 zi4 bu4 qi1 ren2 。
+
+- li4 xia4 liang3 han2 shi4 ， dan1 piao2 neng2 yue4 qin1 。
+
+- chi3 meng2 fa2 guo2 wen4 ， ken3 wo4 fu4 che1 chen2 。
+
+- zi3 ji4 de2 ci3 you3 ， cong2 zhi1 qiu2 ri4 xin1 。
+
+## 译文
+
+桃李春成直径，本来不一人。历下两个寒士，奚箪瓢能取悦父母。耻辱蒙攻打国问，肯卧覆车尘。你已经得到这个朋友，从的要求更新。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+桃李春成直径，本来不一人。历下两个寒士，奚箪瓢能取悦父母。耻辱蒙攻打国问，肯卧覆车尘。你已经得到这个朋友，从的要求更新。
+	* 此部分翻译来自AI，仅供参考

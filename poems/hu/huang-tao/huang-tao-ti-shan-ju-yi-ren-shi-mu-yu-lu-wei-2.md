@@ -1,0 +1,45 @@
+---
+id: huang-tao-ti-shan-ju-yi-ren-shi-mu-yu-lu-wei-2
+title: 题山居逸人
+author: 黄滔
+authorSlug: huang-tao
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: ti2 shan1 ju1 yi4 ren2
+authorPinyin: huang2 tao1
+dynastyPinyin: tang2
+canonicalPoemId: 536306
+canonicalAuthorId: 5375
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 十亩馀芦苇，新秋看雪霜。
+
+- 世人谁到此，尘念自应忘。
+
+- 斜日风收钓，深秋雨信梁。
+
+- 不知双阙下，何以谓轩裳。
+
+## 拼音
+
+- shi2 mu3 yu2 lu2 wei3 ， xin1 qiu1 kan4 xue3 shuang1 。
+
+- shi4 ren2 shui2 dao4 ci3 ， chen2 nian4 zi4 ying4 wang4 。
+
+- xie2 ri4 feng1 shou1 diao4 ， shen1 qiu1 yu3 xin4 liang2 。
+
+- bu4 zhi1 shuang1 que1 xia4 ， he2 yi3 wei4 xuan1 shang0 。
+
+## 译文
+
+十亩余芦苇，新秋看雪霜。人们谁到这里，在考虑自己应该忘记。斜太阳风收钓鱼，深秋雨相信梁。不知道双阙下，为什么说轩裙。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+十亩余芦苇，新秋看雪霜。人们谁到这里，在考虑自己应该忘记。斜太阳风收钓鱼，深秋雨相信梁。不知道双阙下，为什么说轩裙。
+	* 此部分翻译来自AI，仅供参考

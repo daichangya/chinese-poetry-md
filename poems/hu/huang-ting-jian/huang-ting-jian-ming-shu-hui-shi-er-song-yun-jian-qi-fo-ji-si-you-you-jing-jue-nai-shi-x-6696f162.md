@@ -1,0 +1,45 @@
+---
+id: huang-ting-jian-ming-shu-hui-shi-er-song-yun-jian-qi-fo-ji-si-you-you-jing-jue-nai-shi-x-6696f162
+title: 明叔惠示二颂云见七佛偈似有有警觉乃是向道
+author: 黄庭坚
+authorSlug: huang-ting-jian
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ming2 shu1 hui4 shi4 er4 song4 yun2 jian4 qi1 fo2 ji4 si4 you3 you3 jing3 jue2 nai3 shi4 xiang4 dao4
+authorPinyin: huang2 ting2 jian1
+dynastyPinyin: song4
+canonicalPoemId: 614484
+canonicalAuthorId: 6352
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 平生讨经论，苦行峻廉隅。
+
+- 伪契已无分，买山云自俱。
+
+- 身为郎庙宰，梦作种田夫。
+
+- 欲辨身兼梦，还如鼓与桴。
+
+## 拼音
+
+- ping2 sheng1 tao3 jing1 lun4 ， ku3 xing2 jun4 lian2 yu2 。
+
+- wei3 qi4 yi3 wu2 fen1 ， mai3 shan1 yun2 zi4 ju4 。
+
+- shen1 wei4 lang2 miao4 zai3 ， meng4 zuo4 zhong3 tian2 fu1 。
+
+- yu4 bian4 shen1 jian1 meng4 ， hai2 ru2 gu3 yu3 fu2 。
+
+## 译文
+
+平生讨经论，苦行峻廉洁。虚伪契约已经不分，买山说自己都。身为郎庙宰，梦作种植农民。想辨别身兼梦，还如鼓和鼓槌。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+平生讨经论，苦行峻廉洁。虚伪契约已经不分，买山说自己都。身为郎庙宰，梦作种植农民。想辨别身兼梦，还如鼓和鼓槌。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,35 @@
+---
+id: huang-ting-jian-wei-jiao-qiao-ju-shi-zuo-nian-nian-ji-fo-song-zhu-fo-xin-nei
+title: 为茭桥居士作念念即佛颂
+author: 黄庭坚
+authorSlug: huang-ting-jian
+dynasty: 宋
+dynastySlug: song
+titlePinyin: wei4 jiao1 qiao2 ju1 shi4 zuo4 nian4 nian4 ji2 fo2 song4
+authorPinyin: huang2 ting2 jian1
+dynastyPinyin: song4
+canonicalPoemId: 489724
+canonicalAuthorId: 6352
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 诸佛心内，众生心心作佛。
+
+- 众生心中，诸佛念念证真。
+
+- 君言诸佛无相，山鬼窟里安葬。
+
+- 即今十二时中，是谁随波逐浪。
+
+## 拼音
+
+- zhu1 fo2 xin1 nei4 ， zhong4 sheng1 xin1 xin1 zuo4 fo2 。
+
+- zhong4 sheng1 xin1 zhong1 ， zhu1 fo2 nian4 nian4 zheng4 zhen1 。
+
+- jun1 yan2 zhu1 fo2 wu2 xiang1 ， shan1 gui3 ku1 li3 an1 zang4 。
+
+- ji2 jin1 shi2 er4 shi2 zhong1 ， shi4 shui2 sui2 bo1 zhu2 lang4 。

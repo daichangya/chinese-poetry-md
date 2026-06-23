@@ -1,0 +1,46 @@
+---
+id: huang-tao-ma-wei-er-shou-tie-ma-si-feng-yi-du-he
+title: 马嵬二首
+author: 黄滔
+authorSlug: huang-tao
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: ma3 wei2 er4 shou3
+authorPinyin: huang2 tao1
+dynastyPinyin: tang2
+canonicalPoemId: 436691
+canonicalAuthorId: 5375
+tags:
+  - 诗词
+  - 御定全唐诗
+---
+
+## 正文
+
+- 铁马嘶风一渡河，泪珠零便作惊波。
+
+- 鸣泉亦感上皇意，流下陇头呜咽多。
+
+- 龙脑移香凤辇留，可能千古永悠悠。
+
+- 夜台若使香魂在，应作烟花出陇头。
+
+## 拼音
+
+- tie3 ma3 si1 feng1 yi2 du4 he2 ， lei4 zhu1 ling2 bian4 zuo4 jing1 bo1 。
+
+- ming2 quan2 yi4 gan3 shang4 huang2 yi4 ， liu2 xia4 long3 tou2 wu1 yan4 duo1 。
+
+- long2 nao3 yi2 xiang1 feng4 nian3 liu2 ， ke3 neng2 qian1 gu3 yong3 you1 you1 。
+
+- ye4 tai2 ruo4 shi3 xiang1 hun2 zai4 ， ying4 zuo4 yan1 hua1 chu1 long3 tou2 。
+
+## 译文
+
+铁马嘶风一渡黄河，泪珠零就变成惊涛骇浪。鸣泉也感上皇的意思，流下陇头呜咽多。龙脑香凤辇留下移，能够千古永悠悠。夜台如果香魂在，应作烟花出陇头。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+铁马嘶风一渡黄河，泪珠零就变成惊涛骇浪。鸣泉也感上皇的意思，流下陇头呜咽多。龙脑香凤辇留下移，能够千古永悠悠。夜台如果香魂在，应作烟花出陇头。
+	* 此部分翻译来自AI，仅供参考

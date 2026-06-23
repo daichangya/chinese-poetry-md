@@ -1,0 +1,81 @@
+---
+id: huang-ju-cheng-deng-si-ming-shan-hui-ji-dong-nan-xiu
+title: 登四明山
+author: 黄巨澄
+authorSlug: huang-ju-cheng
+dynasty: 宋
+dynastySlug: song
+titlePinyin: deng1 si4 ming2 shan1
+authorPinyin: huang2 ju4 cheng2
+dynastyPinyin: song4
+canonicalPoemId: 639856
+canonicalAuthorId: 8937
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 会稽东南秀，四明名更佳。
+
+- 蜿蜒三百里，惨淡青莲花。
+
+- 伊昔天地初，山川始萌芽。
+
+- 六丁挥神斧，斲削如人家。
+
+- 四牖遗古制，玲珑吐云霞。
+
+- 侧闻刘樊徒，于此炼丹砂。
+
+- 耕烟种青棂，结实大如瓜。
+
+- 挥手谢众士，身登凤凰车。
+
+- 至今石窗底，青天守龙蛇。
+
+- 玉女四五人，绿鬓垂𩭹髿。
+
+- 时来听潺湲，意态静不哗。
+
+- 我夜闯其劳，月黑星如麻。
+
+- 顾惭无灵气，怅望空咨嗟。
+
+## 拼音
+
+- hui4 ji1 dong1 nan2 xiu4 ， si4 ming2 ming2 geng4 jia1 。
+
+- wan1 yan2 san1 bai3 li3 ， can3 dan4 qing1 lian2 hua1 。
+
+- yi1 xi1 tian1 di4 chu1 ， shan1 chuan1 shi3 meng2 ya2 。
+
+- liu4 ding1 hui1 shen2 fu3 ， zhuo2 xiao1 ru2 ren2 jia1 。
+
+- si4 you3 yi2 gu3 zhi4 ， ling2 long2 tu3 yun2 xia2 。
+
+- ce4 wen2 liu2 fan2 tu2 ， yu2 ci3 lian4 dan1 sha1 。
+
+- geng1 yan1 zhong3 qing1 ling2 ， jie1 shi0 da4 ru2 gua1 。
+
+- hui1 shou3 xie4 zhong4 shi4 ， shen1 deng1 feng4 huang2 che1 。
+
+- zhi4 jin1 shi2 chuang1 di3 ， qing1 tian1 shou3 long2 she2 。
+
+- yu4 nü3 si4 wu3 ren2 ， lü4 bin4 chui2 𩭹 sha1 。
+
+- shi2 lai2 ting1 chan2 yuan2 ， yi4 tai4 jing4 bu4 hua2 。
+
+- wo3 ye4 chuang3 qi2 lao2 ， yue4 hei1 xing1 ru2 ma2 。
+
+- gu4 can2 wu2 ling2 qi4 ， chang4 wang4 kong1 zi1 jie1 。
+
+## 译文
+
+会稽郡东南秀，四明名更好。蜿蜒三百里，暗淡青莲花。先前天地初，山川开始萌芽。六丁指挥神斧，加工削到人家。四窗给古代制度，玲珑吐云霞。听说刘樊徒，在这个冶炼丹砂。耕烟种青窗格，结的果实大如瓜。挥手向众人，本人登上凤凰车。至今石窗底，青天守龙蛇。玉女四五人，绿鬓边垂𩭹髿。时来听潺潺流淌，神态安静，不吵闹。我连夜闯过那劳累，月黑星像麻。只是惭愧没有灵气，怅望空叹息。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+会稽郡东南秀，四明名更好。蜿蜒三百里，暗淡青莲花。先前天地初，山川开始萌芽。六丁指挥神斧，加工削到人家。四窗给古代制度，玲珑吐云霞。听说刘樊徒，在这个冶炼丹砂。耕烟种青窗格，结的果实大如瓜。挥手向众人，本人登上凤凰车。至今石窗底，青天守龙蛇。玉女四五人，绿鬓边垂𩭹髿。时来听潺潺流淌，神态安静，不吵闹。我连夜闯过那劳累，月黑星像麻。只是惭愧没有灵气，怅望空叹息。
+	* 此部分翻译来自AI，仅供参考

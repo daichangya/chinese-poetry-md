@@ -1,0 +1,57 @@
+---
+id: huang-ting-jian-yi-song-zan-xi-shan-zhi-song
+title: 义松赞
+author: 黄庭坚
+authorSlug: huang-ting-jian
+dynasty: 宋
+dynastySlug: song
+titlePinyin: yi4 song1 zan4
+authorPinyin: huang2 ting2 jian1
+dynastyPinyin: song4
+canonicalPoemId: 615080
+canonicalAuthorId: 6352
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 西山之松，有岁寒之质。
+
+- 怀其同气耶，既分矣复合而为一。
+
+- 涔露云雨，老大霜雪。
+
+- 匠石辍斤，樵夫叹息。
+
+- 人之同气，去本未远。
+
+- 宰上之杞，蔽芾成阴。
+
+- 有其干戈日寻，余不知其何心。
+
+## 拼音
+
+- xi1 shan1 zhi1 song1 ， you3 sui4 han2 zhi1 zhi4 。
+
+- huai2 qi2 tong2 qi4 ye1 ， ji4 fen1 yi3 fu4 he2 er2 wei2 yi1 。
+
+- cen2 lu4 yun2 yu3 ， lao3 da4 shuang1 xue3 。
+
+- jiang4 shi2 chuo4 jin1 ， qiao2 fu1 tan4 xi1 。
+
+- ren2 zhi1 tong2 qi4 ， qu4 ben3 wei4 yuan3 。
+
+- zai3 shang4 zhi1 qi3 ， bi4 fei4 cheng2 yin1 。
+
+- you3 qi2 gan1 ge1 ri4 xun2 ， yu2 bu4 zhi1 qi2 he2 xin1 。
+
+## 译文
+
+西山的松树，有一年寒冷的本质。怀念他的同胞吗，已经分了又合为一。渗露云雨，老大霜雪。匠石停止斤，樵夫叹息。人的同胞，离开本不远。坟上的树，遮蔽芾成阴。有了战事不断，我不知道他为什么心。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+西山的松树，有一年寒冷的本质。怀念他的同胞吗，已经分了又合为一。渗露云雨，老大霜雪。匠石停止斤，樵夫叹息。人的同胞，离开本不远。坟上的树，遮蔽芾成阴。有了战事不断，我不知道他为什么心。
+	* 此部分翻译来自AI，仅供参考
