@@ -1,0 +1,61 @@
+---
+id: kou-zhun-cheng-an-gan-qiu-chan-zao-mu-ye-xia
+title: 成安感秋
+author: 寇准
+authorSlug: kou-zhun
+dynasty: 宋
+dynastySlug: song
+titlePinyin: cheng2 an1 gan3 qiu1
+authorPinyin: kou4 zhun3
+dynastyPinyin: song4
+canonicalPoemId: 421865
+canonicalAuthorId: 4860
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 蝉噪木叶下，远客忽惊秋。
+
+- 凝恨悲晚候，万绪皆如抽。
+
+- 芳时同梦幻，急景如奔流。
+
+- 念我何为者，年来生百忧。
+
+- 贫居负胜事，壮岁伤羁游。
+
+- 临民惭墨绶，垂钓思沧州。
+
+- 达则济天下，穷当守一丘。
+
+- 胡能效时辈，腼冒随沉浮。
+
+## 拼音
+
+- chan2 zao4 mu4 ye4 xia4 ， yuan3 ke4 hu1 jing1 qiu1 。
+
+- ning2 hen4 bei1 wan3 hou4 ， wan4 xu4 jie1 ru2 chou1 。
+
+- fang1 shi2 tong2 meng4 huan4 ， ji2 jing3 ru2 ben1 liu2 。
+
+- nian4 wo3 he2 wei4 zhe3 ， nian2 lai2 sheng1 bai3 you1 。
+
+- pin2 ju1 fu4 sheng4 shi4 ， zhuang4 sui4 shang1 ji1 you2 。
+
+- lin2 min2 can2 mo4 shou4 ， chui2 diao4 si1 cang1 zhou1 。
+
+- da2 ze2 ji4 tian1 xia4 ， qiong2 dang1 shou3 yi4 qiu1 。
+
+- hu2 neng2 xiao4 shi2 bei4 ， mian3 mao4 sui2 chen2 fu2 。
+
+## 译文
+
+蝉噪树叶下，远方的客人忽然惊秋。凝遗憾悲伤晚候，万绪都像抽。芳时同梦幻，急景如同奔流。想我做什么的，近年来生长百忧。穷人住在负胜事，壮年受伤旅客游。临百姓感到墨绶，垂钓思沧州。达则济天下，穷要守一丘。怎么能证明当时的人，愧受随沉浮。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+蝉噪树叶下，远方的客人忽然惊秋。凝遗憾悲伤晚候，万绪都像抽。芳时同梦幻，急景如同奔流。想我做什么的，近年来生长百忧。穷人住在负胜事，壮年受伤旅客游。临百姓感到墨绶，垂钓思沧州。达则济天下，穷要守一丘。怎么能证明当时的人，愧受随沉浮。
+	* 此部分翻译来自AI，仅供参考

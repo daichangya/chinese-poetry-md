@@ -1,0 +1,45 @@
+---
+id: kong-wu-zhong-ji-fan-qing-lao-ri-gua-xi-nan-you-bao-hui
+title: 寄范清老
+author: 孔武仲
+authorSlug: kong-wu-zhong
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ji4 fan4 qing1 lao3
+authorPinyin: kong3 wu3 zhong4
+dynastyPinyin: song4
+canonicalPoemId: 591498
+canonicalAuthorId: 5303
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 日挂西南有薄辉，棱棱霜气犯寒衣。
+
+- 不愁斗柄随春转，秖怕梅花学雪飞。
+
+- 湘浦波光频送别，湓城山色屡思归。
+
+- 高人只在南坡住，好共留钱买钓矶。
+
+## 拼音
+
+- ri4 gua4 xi1 nan2 you3 bao2 hui1 ， leng2 leng2 shuang1 qi4 fan4 han2 yi1 。
+
+- bu4 chou2 dou4 bing3 sui2 chun1 zhuan3 ， zhi3 pa4 mei2 hua1 xue2 xue3 fei1 。
+
+- xiang1 pu3 bo1 guang1 pin2 song4 bie2 ， pen2 cheng2 shan1 se4 lü3 si1 gui1 。
+
+- gao1 ren2 zhi1 zai4 nan2 po1 zhu4 ， hao3 gong4 liu2 qian2 mai3 diao4 ji1 。
+
+## 译文
+
+太阳挂在西南有薄辉，嶙峋霜气犯寒衣服。不愁斗柄随春转，只能怕梅花学习雪飞。湘浦波光频送别，湓城山色屡次想回家。高人只在南坡住，喜欢一起留钱买钓矶。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+太阳挂在西南有薄辉，嶙峋霜气犯寒衣服。不愁斗柄随春转，只能怕梅花学习雪飞。湘浦波光频送别，湓城山色屡次想回家。高人只在南坡住，喜欢一起留钱买钓矶。
+	* 此部分翻译来自AI，仅供参考

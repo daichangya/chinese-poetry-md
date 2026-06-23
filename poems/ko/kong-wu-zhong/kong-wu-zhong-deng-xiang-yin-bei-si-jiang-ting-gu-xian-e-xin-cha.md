@@ -1,0 +1,45 @@
+---
+id: kong-wu-zhong-deng-xiang-yin-bei-si-jiang-ting-gu-xian-e-xin-cha
+title: 登湘阴北寺江亭
+author: 孔武仲
+authorSlug: kong-wu-zhong
+dynasty: 宋
+dynastySlug: song
+titlePinyin: deng1 xiang1 yin1 bei3 si4 jiang1 ting2
+authorPinyin: kong3 wu3 zhong4
+dynastyPinyin: song4
+canonicalPoemId: 591423
+canonicalAuthorId: 5303
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 古县峨新刹，孤亭占上头。
+
+- 野苔侵坐绿，江水带天流。
+
+- 丝断湘灵瑟，苹荒帝子洲。
+
+- 人寰真是梦，顷刻已千秋。
+
+## 拼音
+
+- gu3 xian4 e2 xin1 cha4 ， gu1 ting2 zhan4 shang4 tou2 。
+
+- ye3 tai2 qin1 zuo4 lü4 ， jiang1 shui3 dai4 tian1 liu2 。
+
+- si1 duan4 xiang1 ling2 se4 ， ping2 huang1 di4 zi3 zhou1 。
+
+- ren2 huan2 zhen1 shi4 meng4 ， qing3 ke4 yi3 qian1 qiu1 。
+
+## 译文
+
+古县峨新刹，孤亭占上头。野苔侵犯坐绿，江水带天流。丝断湘灵瑟，苹荒帝的儿子。。人间真是梦，不一会儿就千秋。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+古县峨新刹，孤亭占上头。野苔侵犯坐绿，江水带天流。丝断湘灵瑟，苹荒帝的儿子。。人间真是梦，不一会儿就千秋。
+	* 此部分翻译来自AI，仅供参考
