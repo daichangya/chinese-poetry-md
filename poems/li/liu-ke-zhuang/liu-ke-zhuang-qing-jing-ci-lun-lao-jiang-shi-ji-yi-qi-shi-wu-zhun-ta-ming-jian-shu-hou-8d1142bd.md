@@ -1,0 +1,45 @@
+---
+id: liu-ke-zhuang-qing-jing-ci-lun-lao-jiang-shi-ji-yi-qi-shi-wu-zhun-ta-ming-jian-shu-hou-8d1142bd
+title: 顷净慈伦老将示寂以其师无准塔铭见属后三年
+author: 刘克庄
+authorSlug: liu-ke-zhuang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: qing3 jing4 ci2 lun2 lao3 jiang4 shi4 ji4 yi3 qi2 shi1 wu2 zhun3 ta3 ming2 jian4 shu3 hou4 san1 nian2
+authorPinyin: liu2 ke4 zhuang1
+dynastyPinyin: song4
+canonicalPoemId: 399995
+canonicalAuthorId: 3301
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 丛林老宿川无准，不钓纤鳞钓大鱼。
+
+- 抱佛脚多同学者，得吾髓有几人欤。
+
+- 难呼兜率谈宗旨，且问狐山乞绪馀。
+
+- 自笑余文无用处，热瞒俗眼说真如。
+
+## 拼音
+
+- cong2 lin2 lao3 su4 chuan1 wu2 zhun3 ， bu2 diao4 xian1 lin2 diao4 da4 yu2 。
+
+- bao4 fo2 jiao3 duo1 tong2 xue2 zhe3 ， de2 wu2 sui3 you3 ji3 ren2 yu2 。
+
+- nan2 hu1 dou1 lü4 tan2 zong1 zhi3 ， qie3 wen4 hu2 shan1 qi3 xu4 yu2 。
+
+- zi4 xiao4 yu2 wen2 wu2 yong4 chu0 ， re4 man2 su2 yan3 shuo1 zhen1 ru2 。
+
+## 译文
+
+丛林老宿川没有标准，不钓点鱼钓大鱼。抱佛脚多同学的，得我骨髓有几个人呢。难呼兜率谈宗旨，并且问狐狸山乞求剩余。自笑我的文章没有用处，热瞒世俗的眼光说的真像。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+丛林老宿川没有标准，不钓点鱼钓大鱼。抱佛脚多同学的，得我骨髓有几个人呢。难呼兜率谈宗旨，并且问狐狸山乞求剩余。自笑我的文章没有用处，热瞒世俗的眼光说的真像。
+	* 此部分翻译来自AI，仅供参考

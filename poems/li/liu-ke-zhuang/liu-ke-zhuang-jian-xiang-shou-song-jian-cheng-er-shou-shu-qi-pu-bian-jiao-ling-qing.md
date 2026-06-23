@@ -1,0 +1,45 @@
+---
+id: liu-ke-zhuang-jian-xiang-shou-song-jian-cheng-er-shou-shu-qi-pu-bian-jiao-ling-qing
+title: 饯乡守宋监丞二首
+author: 刘克庄
+authorSlug: liu-ke-zhuang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: jian4 xiang1 shou3 song4 jian1 cheng2 er4 shou3
+authorPinyin: liu2 ke4 zhuang1
+dynastyPinyin: song4
+canonicalPoemId: 399322
+canonicalAuthorId: 3301
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 束起蒲鞭教令清，郡人未识疾呼声。
+
+- 瓯闽莫不兴于学，虞芮忘其所以争。
+
+- 父老见棠思旧爱，儿童骑竹若初迎。
+
+- 何须更说郎官省，小却犹当拜水衡。
+
+## 拼音
+
+- shu4 qi3 pu2 bian1 jiao4 ling4 qing1 ， jun4 ren2 wei4 shi2 ji2 hu1 sheng1 。
+
+- ou1 min3 mo4 bu4 xing1 yu2 xue2 ， yu2 rui4 wang4 qi2 suo3 yi3 zheng1 。
+
+- fu4 lao3 jian4 tang2 si1 jiu4 ai4 ， er2 tong2 qi2 zhu2 ruo4 chu1 ying2 。
+
+- he2 xu1 geng4 shuo1 lang2 guan1 sheng3 ， xiao3 que4 you2 dang1 bai4 shui3 heng2 。
+
+## 译文
+
+捆起蒲鞭教令清，郡中人未识大叫声。瓯闽无不建立在学习，虞芮忘记所用争。父老见到棠想过去爱，儿童骑竹如果当初迎接。何必再说郎官省，最低也应该为水衡。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+捆起蒲鞭教令清，郡中人未识大叫声。瓯闽无不建立在学习，虞芮忘记所用争。父老见到棠想过去爱，儿童骑竹如果当初迎接。何必再说郎官省，最低也应该为水衡。
+	* 此部分翻译来自AI，仅供参考

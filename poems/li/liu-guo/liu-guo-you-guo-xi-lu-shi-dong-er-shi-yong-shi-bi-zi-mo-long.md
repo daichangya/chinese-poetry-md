@@ -1,0 +1,37 @@
+---
+id: liu-guo-you-guo-xi-lu-shi-dong-er-shi-yong-shi-bi-zi-mo-long
+title: 游郭希吕石洞二十咏·倚剑
+author: 刘过
+authorSlug: liu-guo
+dynasty: 宋
+dynastySlug: song
+titlePinyin: you2 guo1 xi1 lü3 shi2 dong4 er4 shi2 yong3 · yi3 jian4
+authorPinyin: liu2 guo4
+dynastyPinyin: song4
+canonicalPoemId: 583362
+canonicalAuthorId: 5104
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 石壁自磨砻，三吧用不久。
+
+- 如去到人间，为侬洗尘垢。
+
+## 拼音
+
+- shi2 bi4 zi4 mo2 long2 ， san1 ba0 yong4 bu4 jiu3 。
+
+- ru2 qu4 dao4 ren2 jian1 ， wei4 nong2 xi3 chen2 gou4 。
+
+## 译文
+
+石壁从打磨，三吧用不长久。就像去到人间，为我洗灰尘。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+石壁从打磨，三吧用不长久。就像去到人间，为我洗灰尘。
+	* 此部分翻译来自AI，仅供参考

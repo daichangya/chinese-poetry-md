@@ -1,0 +1,45 @@
+---
+id: liu-fu-liu-heng-pu-shi-yong-he-nian-hai-shang-hai
+title: 横浦十咏·东坡祠
+author: 刘黻
+authorSlug: liu-fu-liu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: heng2 pu3 shi2 yong3 · dong1 po1 ci2
+authorPinyin: liu2 fu2
+dynastyPinyin: song4
+canonicalPoemId: 588035
+canonicalAuthorId: 5249
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 何年海上还，坐镇此山川。
+
+- 笔砚归京阙，衣冠带瘴烟。
+
+- 一生忠胆在，万古党名传。
+
+- 吾道多流落，西风问老天。
+
+## 拼音
+
+- he2 nian2 hai3 shang4 hai2 ， zuo4 zhen4 ci3 shan1 chuan1 。
+
+- bi3 yan4 gui1 jing1 que1 ， yi1 guan1 dai4 zhang4 yan1 。
+
+- yi4 sheng1 zhong1 dan3 zai4 ， wan4 gu3 dang3 ming2 chuan2 。
+
+- wu2 dao4 duo1 liu2 luo4 ， xi1 feng1 wen4 lao3 tian1 。
+
+## 译文
+
+哪一年海上返回，坐在镇这山川。同学回到京城，衣冠腰带瘴烟。一生忠心在，万古党名声流传。我道大多流落，西风问老天。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+哪一年海上返回，坐在镇这山川。同学回到京城，衣冠腰带瘴烟。一生忠心在，万古党名声流传。我道大多流落，西风问老天。
+	* 此部分翻译来自AI，仅供参考

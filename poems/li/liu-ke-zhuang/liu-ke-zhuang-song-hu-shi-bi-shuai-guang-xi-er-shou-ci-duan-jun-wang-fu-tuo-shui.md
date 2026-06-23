@@ -1,0 +1,45 @@
+---
+id: liu-ke-zhuang-song-hu-shi-bi-shuai-guang-xi-er-shou-ci-duan-jun-wang-fu-tuo-shui
+title: 送胡石璧帅广西二首
+author: 刘克庄
+authorSlug: liu-ke-zhuang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: song4 hu2 shi2 bi4 shuai4 guang3 xi1 er4 shou3
+authorPinyin: liu2 ke4 zhuang1
+dynastyPinyin: song4
+canonicalPoemId: 504753
+canonicalAuthorId: 3301
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 此段君王付托谁，明公身可荷安危。
+
+- 常游簪带春携客，忽夺昆仑夜出奇。
+
+- 忠定罢兵才建绍，襄公讨叛止邕宜。
+
+- 腐儒虽惫如同载，堪稿平蛮第二碑。
+
+## 拼音
+
+- ci3 duan4 jun1 wang2 fu4 tuo1 shui2 ， ming2 gong1 shen1 ke3 he2 an1 wei1 。
+
+- chang2 you2 zan1 dai4 chun1 xie2 ke4 ， hu1 duo2 kun1 lun2 ye4 chu1 qi2 。
+
+- zhong1 ding4 ba4 bing1 cai2 jian4 shao4 ， xiang1 gong1 tao3 pan4 zhi3 yong1 yi2 。
+
+- fu3 ru2 sui1 bei4 ru2 tong2 zai3 ， kan1 gao3 ping2 man2 di4 er4 bei1 。
+
+## 译文
+
+这段你托付谁，您自己可以承担安危。常游簪带春带着客人，忽然夺去昆仑夜出奇。忠定停战才建绍，襄公讨伐叛停止邕应该。迂腐的儒生虽然疲惫如同记载，忍受文稿平蛮第二块。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+这段你托付谁，您自己可以承担安危。常游簪带春带着客人，忽然夺去昆仑夜出奇。忠定停战才建绍，襄公讨伐叛停止邕应该。迂腐的儒生虽然疲惫如同记载，忍受文稿平蛮第二块。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,45 @@
+---
+id: liu-guo-ci-liu-qi-zhi-yun-hao-jie-jiao-you-san-shi-nian
+title: 次刘启之韵
+author: 刘过
+authorSlug: liu-guo
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ci4 liu2 qi3 zhi1 yun4
+authorPinyin: liu2 guo4
+dynastyPinyin: song4
+canonicalPoemId: 410778
+canonicalAuthorId: 5104
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 豪结交游三十年，暮年识子海霜边。
+
+- 江西析派诗同社，鸿宝传家子已仙。
+
+- 无用白须甘我老，有才青眼望谁怜。
+
+- 譬如飘泊湓城下，篁竹萧疏无管弦。
+
+## 拼音
+
+- hao2 jie2 jiao1 you2 san1 shi2 nian2 ， mu4 nian2 shi2 zi3 hai3 shuang1 bian1 。
+
+- jiang1 xi1 xi1 pai4 shi1 tong2 she4 ， hong2 bao3 chuan2 jia1 zi3 yi3 xian1 。
+
+- wu2 yong4 bai2 xu1 gan1 wo3 lao3 ， you3 cai2 qing1 yan3 wang4 shui2 lian2 。
+
+- pi4 ru2 piao1 bo2 pen2 cheng2 xia4 ， huang2 zhu2 xiao1 shu1 wu2 guan3 xian2 。
+
+## 译文
+
+豪门结交往三十年，晚年认识子海霜边。江西析派诗同社，鸿宝传家的儿子已经仙。无用白须甘我老，有才能青色的眼睛望谁可怜。就像飘在湓城下，竹林萧疏没有音乐。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+豪门结交往三十年，晚年认识子海霜边。江西析派诗同社，鸿宝传家的儿子已经仙。无用白须甘我老，有才能青色的眼睛望谁可怜。就像飘在湓城下，竹林萧疏没有音乐。
+	* 此部分翻译来自AI，仅供参考

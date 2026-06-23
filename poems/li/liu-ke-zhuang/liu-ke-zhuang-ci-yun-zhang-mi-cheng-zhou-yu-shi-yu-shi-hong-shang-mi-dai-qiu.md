@@ -1,0 +1,45 @@
+---
+id: liu-ke-zhuang-ci-yun-zhang-mi-cheng-zhou-yu-shi-yu-shi-hong-shang-mi-dai-qiu
+title: 次韵张秘丞皱玉诗
+author: 刘克庄
+authorSlug: liu-ke-zhuang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ci4 yun4 zhang1 mi4 cheng2 zhou4 yu4 shi1
+authorPinyin: liu2 ke4 zhuang1
+dynastyPinyin: song4
+canonicalPoemId: 399198
+canonicalAuthorId: 3301
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 雨湿红裳靡待秋，摘来深愧木瓜投。
+
+- 祗今陈紫无真本，比昔姚黄胜一筹。
+
+- 聊荐金盘蠲渴肺，不烦绮席啭歌喉。
+
+- 圣朝仁远停包贡，赖有公诗为拔尤。
+
+## 拼音
+
+- yu3 shi1 hong2 shang0 mi2 dai4 qiu1 ， zhai1 lai2 shen1 kui4 mu4 gua1 tou2 。
+
+- zhi1 jin1 chen2 zi3 wu2 zhen1 ben3 ， bi3 xi1 yao2 huang2 sheng4 yi4 chou2 。
+
+- liao2 jian4 jin1 pan2 juan1 ke3 fei4 ， bu4 fan2 qi3 xi2 zhuan4 ge1 hou2 。
+
+- sheng4 chao2 ren2 yuan3 ting2 bao1 gong4 ， lai4 you3 gong1 shi1 wei4 ba2 you2 。
+
+## 译文
+
+雨湿红衣裳没有等到秋天，摘来深愧木瓜投。祗现在陈紫没有真本，比过去姚黄胜一筹。聊推荐金盘免除饥渴肺，不需要华丽席啭歌喉。朝廷仁德远停包进，幸亏有公的诗为拔尤其。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+雨湿红衣裳没有等到秋天，摘来深愧木瓜投。祗现在陈紫没有真本，比过去姚黄胜一筹。聊推荐金盘免除饥渴肺，不需要华丽席啭歌喉。朝廷仁德远停包进，幸亏有公的诗为拔尤其。
+	* 此部分翻译来自AI，仅供参考

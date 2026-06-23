@@ -1,0 +1,45 @@
+---
+id: liu-ke-zhuang-shang-shi-si-yin-shi-shou-er-ying-bao-huan-nu-cong-fu
+title: 上十四吟十首
+author: 刘克庄
+authorSlug: liu-ke-zhuang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: shang4 shi2 si4 yin2 shi2 shou3
+authorPinyin: liu2 ke4 zhuang1
+dynastyPinyin: song4
+canonicalPoemId: 504536
+canonicalAuthorId: 3301
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 儿萦薄宦女从夫，谁伴庞翁拥地炉。
+
+- 颇忆都尝煨芋否，肯归同卖漉篱无。
+
+- 春游捉辔惟宗武，晨起称觞仅阿奴。
+
+- 一句汝曹牢记取，家山差稳似江湖。
+
+## 拼音
+
+- er2 ying2 bao2 huan4 nü3 cong2 fu1 ， shui2 ban4 pang2 weng1 yong1 di4 lu2 。
+
+- po1 yi4 dou1 chang2 wei1 yu4 fou3 ， ken3 gui1 tong2 mai4 lu4 li2 wu2 。
+
+- chun1 you2 zhuo1 pei4 wei2 zong1 wu3 ， chen2 qi3 cheng1 shang1 jin3 a1 nu2 。
+
+- yi2 ju4 ru3 cao2 lao2 ji4 qu3 ， jia1 shan1 cha4 wen3 si4 jiang1 hu2 。
+
+## 译文
+
+我绕薄宦女子从夫，谁伴庞公公拥有土地炉。很想念都曾偎芋吗，肯回家同卖把篱笆没有。春游抓住缰绳只有宗武，晨起举杯只有你。一句你们牢牢记住，家山差稳像江湖。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+我绕薄宦女子从夫，谁伴庞公公拥有土地炉。很想念都曾偎芋吗，肯回家同卖把篱笆没有。春游抓住缰绳只有宗武，晨起举杯只有你。一句你们牢牢记住，家山差稳像江湖。
+	* 此部分翻译来自AI，仅供参考

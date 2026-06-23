@@ -1,0 +1,45 @@
+---
+id: liu-ke-zhuang-tai-shou-lin-tai-bo-zeng-rui-xiang-hua-duan-jian-xiao-cao-mo-hen-xie
+title: 太守林太博赠瑞香花
+author: 刘克庄
+authorSlug: liu-ke-zhuang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: tai4 shou3 lin2 tai4 bo2 zeng4 rui4 xiang1 hua1
+authorPinyin: liu2 ke4 zhuang1
+dynastyPinyin: song4
+canonicalPoemId: 555562
+canonicalAuthorId: 3301
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 短笺小草墨痕斜，句法来从和靖家。
+
+- 吟赏岂无神助笔，护持疑有物司花。
+
+- 莫因山鸟啼榕树，便忆河豚饱荻芽。
+
+- 多少邦人沾賸馥，愿碑遗爱永传夸。
+
+## 拼音
+
+- duan3 jian1 xiao3 cao3 mo4 hen2 xie2 ， ju4 fa3 lai2 cong2 he2 jing4 jia1 。
+
+- yin2 shang3 qi3 wu2 shen2 zhu4 bi3 ， hu4 chi2 yi2 you3 wu4 si1 hua1 。
+
+- mo4 yin1 shan1 niao3 ti2 rong2 shu4 ， bian4 yi4 he2 tun2 bao3 di2 ya2 。
+
+- duo1 shao3 bang1 ren2 zhan1 sheng4 fu4 ， yuan4 bei1 yi2 ai4 yong3 chuan2 kua1 。
+
+## 译文
+
+短笺小草墨痕斜，句法来从和靖家。吟赏难道没有神助笔，保护可能有东西司花。没有因为鸟儿啼榕树，便想起河豚饱荻芽。多少国人沾陪嫁馥，愿碑遗留永传夸耀。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+短笺小草墨痕斜，句法来从和靖家。吟赏难道没有神助笔，保护可能有东西司花。没有因为鸟儿啼榕树，便想起河豚饱荻芽。多少国人沾陪嫁馥，愿碑遗留永传夸耀。
+	* 此部分翻译来自AI，仅供参考

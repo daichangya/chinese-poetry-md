@@ -1,0 +1,43 @@
+---
+id: liu-chen-weng-qiu-jing-qing-hui-yu-bi-han-dai-de-qing-hui-man
+title: 秋景 清辉玉臂寒
+author: 刘辰翁
+authorSlug: liu-chen-weng
+dynasty: 宋
+dynastySlug: song
+titlePinyin: qiu1 jing3   qing1 hui1 yu4 bi4 han2
+authorPinyin: liu2 chen2 weng1
+dynastyPinyin: song4
+canonicalPoemId: 397674
+canonicalAuthorId: 5103
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 待得清辉满，中秋两地看。
+
+- 丹心空自苦，玉臂故应寒。
+
+- 银汉成冰水，金波满露盘。
+
+- 西风罗袖薄，落月杵声残。
+
+- 身世谁知苦，裳衣客最单。
+
+- 关山同杜老，垂泪忆长安。
+
+## 拼音
+
+- dai4 de2 qing1 hui1 man3 ， zhong1 qiu1 liang3 di4 kan4 。
+
+- dan1 xin1 kong1 zi4 ku3 ， yu4 bi4 gu4 ying4 han2 。
+
+- yin2 han4 cheng2 bing1 shui3 ， jin1 bo1 man3 lu4 pan2 。
+
+- xi1 feng1 luo2 xiu4 bao2 ， luo4 yue4 chu3 sheng1 can2 。
+
+- shen1 shi4 shui2 zhi1 ku3 ， shang0 yi1 ke4 zui4 dan1 。
+
+- guan1 shan1 tong2 du4 lao3 ， chui2 lei4 yi4 chang2 an1 。

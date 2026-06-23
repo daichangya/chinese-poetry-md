@@ -1,0 +1,43 @@
+---
+id: liu-chen-weng-chun-jing-qi-er-luo-hua-xiang-man-ni-hua-luo-qin-yu-xi
+title: 春景 其二 落花香满泥
+author: 刘辰翁
+authorSlug: liu-chen-weng
+dynasty: 宋
+dynastySlug: song
+titlePinyin: chun1 jing3   qi2 er4   luo4 hua1 xiang1 man3 ni2
+authorPinyin: liu2 chen2 weng1
+dynastyPinyin: song4
+canonicalPoemId: 397442
+canonicalAuthorId: 5103
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 花落秦虞兮，纷纷东复西。
+
+- 举头无霁日，满地是香泥。
+
+- 红雨愁如海，絮风飘上堤。
+
+- 和成文杏垒，软衬锦鞯蹄。
+
+- 妙舞惊飞燕，醉归扶竹鸡。
+
+- 谁家采桑女，陌上自相携。
+
+## 拼音
+
+- hua1 luo4 qin2 yu2 xi1 ， fen1 fen1 dong1 fu4 xi1 。
+
+- ju3 tou2 wu2 ji4 ri4 ， man3 di4 shi4 xiang1 ni2 。
+
+- hong2 yu3 chou2 ru2 hai3 ， xu4 feng1 piao1 shang4 di1 。
+
+- he2 cheng2 wen2 xing4 lei3 ， ruan3 chen4 jin3 jian1 ti2 。
+
+- miao4 wu3 jing1 fei1 yan4 ， zui4 gui1 fu2 zhu2 ji1 。
+
+- shui2 jia1 cai3 sang1 nü3 ， mo4 shang4 zi4 xiang1 xie2 。

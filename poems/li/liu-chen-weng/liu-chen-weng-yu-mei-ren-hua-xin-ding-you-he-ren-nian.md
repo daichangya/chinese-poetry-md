@@ -1,0 +1,52 @@
+---
+id: liu-chen-weng-yu-mei-ren-hua-xin-ding-you-he-ren-nian
+title: 虞美人·花心定有何人捻
+author: 刘辰翁
+authorSlug: liu-chen-weng
+dynasty: 宋
+dynastySlug: song
+titlePinyin: yu2 mei3 ren2 · hua1 xin1 ding4 you3 he2 ren2 nian3
+authorPinyin: liu2 chen2 weng1
+dynastyPinyin: song4
+canonicalPoemId: 397382
+canonicalAuthorId: 5103
+rhythmic: 虞美人
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 花心定有何人捻。
+
+- 晕晕如娇靥。
+
+- 一痕明月老春宵。
+
+- 正似酥胸潮脸、不曾销。
+
+- 当年掌上开元宝。
+
+- 半是杨妃爪。
+
+- 若教此掏到痴人。
+
+- 任是高墙无路、蝶翻身。
+
+## 拼音
+
+- hua1 xin1 ding4 you3 he2 ren2 nian3 。
+
+- yun1 yun1 ru2 jiao1 ye4 。
+
+- yi4 hen2 ming2 yue4 lao3 chun1 xiao1 。
+
+- zheng4 si4 su1 xiong1 chao2 lian3 、 bu4 ceng2 xiao1 。
+
+- dang1 nian2 zhang3 shang4 kai1 yuan2 bao3 。
+
+- ban4 shi4 yang2 fei1 zhua3 。
+
+- ruo4 jiao4 ci3 tao1 dao4 chi1 ren2 。
+
+- ren4 shi4 gao1 qiang2 wu2 lu4 、 die2 fan1 shen1 。

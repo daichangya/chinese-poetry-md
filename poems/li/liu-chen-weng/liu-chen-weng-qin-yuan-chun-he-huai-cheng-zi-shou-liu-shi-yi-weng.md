@@ -1,0 +1,65 @@
+---
+id: liu-chen-weng-qin-yuan-chun-he-huai-cheng-zi-shou-liu-shi-yi-weng
+title: 沁园春（和槐城自寿）
+author: 刘辰翁
+authorSlug: liu-chen-weng
+dynasty: 宋
+dynastySlug: song
+titlePinyin: qin4 yuan2 chun1 （ he2 huai2 cheng2 zi4 shou4 ）
+authorPinyin: liu2 chen2 weng1
+dynastyPinyin: song4
+canonicalPoemId: 526265
+canonicalAuthorId: 5103
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 六十一翁，垂银带鱼，插四角轮。
+
+- 把百个今朝，重排花甲，十年前事，似臼齑辛。
+
+- 骰选功名，酒中富贵，管取当筵满劝旬。
+
+- 槐知道，待二郎做甚，父子封申。
+
+- 便应际会昌辰。
+
+- 怕林下相逢未是真。
+
+- 看焚芰烈荷，起钟山笑，卖田僦马，堕贡生贫。
+
+- 后六十年，有无穷事，是宰官身是报身。
+
+- 年来好，莫做他宰相，便是全人。
+
+## 拼音
+
+- liu4 shi2 yi1 weng1 ， chui2 yin2 dai4 yu2 ， cha1 si4 jiao3 lun2 。
+
+- ba3 bai3 ge4 jin1 chao2 ， zhong4 pai2 hua1 jia3 ， shi2 nian2 qian2 shi4 ， si4 jiu4 ji1 xin1 。
+
+- tou2 xuan3 gong1 ming2 ， jiu3 zhong1 fu4 gui4 ， guan3 qu3 dang1 yan2 man3 quan4 xun2 。
+
+- huai2 zhi1 dao4 ， dai4 er4 lang2 zuo4 shen4 ， fu4 zi3 feng1 shen1 。
+
+- bian4 ying4 ji4 hui4 chang1 chen2 。
+
+- pa4 lin2 xia4 xiang1 feng2 wei4 shi4 zhen1 。
+
+- kan4 fen2 ji4 lie4 he2 ， qi3 zhong1 shan1 xiao4 ， mai4 tian2 jiu4 ma3 ， duo4 gong4 sheng1 pin2 。
+
+- hou4 liu4 shi2 nian2 ， you3 wu2 qiong2 shi4 ， shi4 zai3 guan1 shen1 shi4 bao4 shen1 。
+
+- nian2 lai2 hao3 ， mo4 zuo4 ta1 zai3 xiang4 ， bian4 shi4 quan2 ren2 。
+
+## 译文
+
+六十一岁老翁，将银带鱼，插四角车轮。把一百个今朝，重排花甲，十年前的事，像臼捣碎辛。骰子挑选功名，酒中富贵，保证该座满劝天。槐知道，待二少爷做什么，父子俩给申。便应时会昌辰。怕林下相逢不真的是。看烧菱角烈挑，在钟山笑，卖田租马，堕贡生贫穷。后六十年，有无穷事，这是县官本人是报身。年来好，不做其他宰相，这就是全人。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+六十一岁老翁，将银带鱼，插四角车轮。把一百个今朝，重排花甲，十年前的事，像臼捣碎辛。骰子挑选功名，酒中富贵，保证该座满劝天。槐知道，待二少爷做什么，父子俩给申。便应时会昌辰。怕林下相逢不真的是。看烧菱角烈挑，在钟山笑，卖田租马，堕贡生贫穷。后六十年，有无穷事，这是县官本人是报身。年来好，不做其他宰相，这就是全人。
+	* 此部分翻译来自AI，仅供参考

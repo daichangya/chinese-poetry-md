@@ -1,0 +1,45 @@
+---
+id: liu-ke-zhuang-lao-ma-yi-shou-ji-chuang-ti-jian-shou-lan-gan
+title: 老马一首
+author: 刘克庄
+authorSlug: liu-ke-zhuang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: lao3 ma3 yi4 shou3
+authorPinyin: liu2 ke4 zhuang1
+dynastyPinyin: song4
+canonicalPoemId: 504243
+canonicalAuthorId: 3301
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 脊疮蹄蹇瘦阑干，火印年深字已漫。
+
+- 野磵有冰朝洗怯，破坊无壁夜嘶寒。
+
+- 身同退卒支残料，眼见新驹鞁宝鞍。
+
+- 昔走塞垣如抹电，安知末路出门难。
+
+## 拼音
+
+- ji3 chuang1 ti2 jian3 shou4 lan2 gan1 ， huo3 yin4 nian2 shen1 zi4 yi3 man4 。
+
+- ye3 jian4 you3 bing1 chao2 xi3 qie4 ， po4 fang1 wu2 bi4 ye4 si1 han2 。
+
+- shen1 tong2 tui4 zu2 zhi1 can2 liao4 ， yan3 jian4 xin1 ju1 bei4 bao3 an1 。
+
+- xi1 zou3 sai1 yuan2 ru2 mo3 dian4 ， an1 zhi1 mo4 lu4 chu1 men2 nan2 。
+
+## 译文
+
+脊伤口蹄蹇瘦栏杆，火印年深字已漫。野涧中有冰早上洗胆怯，破坊没有墙壁夜叫寒。身同退死支残料，眼看新驹鞁宝鞍。从前到边塞像抹电，怎么知道后期出门难。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+脊伤口蹄蹇瘦栏杆，火印年深字已漫。野涧中有冰早上洗胆怯，破坊没有墙壁夜叫寒。身同退死支残料，眼看新驹鞁宝鞍。从前到边塞像抹电，怎么知道后期出门难。
+	* 此部分翻译来自AI，仅供参考

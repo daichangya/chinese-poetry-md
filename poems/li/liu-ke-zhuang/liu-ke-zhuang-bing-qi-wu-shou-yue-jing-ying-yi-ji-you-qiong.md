@@ -1,0 +1,45 @@
+---
+id: liu-ke-zhuang-bing-qi-wu-shou-yue-jing-ying-yi-ji-you-qiong
+title: 病起五首
+author: 刘克庄
+authorSlug: liu-ke-zhuang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: bing4 qi3 wu3 shou3
+authorPinyin: liu2 ke4 zhuang1
+dynastyPinyin: song4
+canonicalPoemId: 400271
+canonicalAuthorId: 3301
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 越境迎医伎又穷，残骸奉施与天公。
+
+- 外庭幸际清明始，内障如囚黑暗中。
+
+- 贝叶今难开只眼，薰弦昔忝和重瞳。
+
+- 暮年膝上惟文度，常挈书灯伴乃翁。
+
+## 拼音
+
+- yue4 jing4 ying2 yi1 ji4 you4 qiong2 ， can2 hai2 feng4 shi1 yu3 tian1 gong1 。
+
+- wai4 ting2 xing4 ji4 qing1 ming2 shi3 ， nei4 zhang4 ru2 qiu2 hei1 an4 zhong1 。
+
+- bei4 ye4 jin1 nan2 kai1 zhi1 yan3 ， xun1 xian2 xi1 tian3 he2 zhong4 tong2 。
+
+- mu4 nian2 xi1 shang4 wei2 wen2 du4 ， chang2 qie4 shu1 deng1 ban4 nai3 weng1 。
+
+## 译文
+
+越过边境迎医技又穷，残骸奉施与天公。外庭院到际清明开始，内部障碍如囚犯黑暗中。贝叶现在很难打开只眼睛，薰弦过去任职和重瞳。暮年膝上只有文度，常带着书灯伴是富翁。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+越过边境迎医技又穷，残骸奉施与天公。外庭院到际清明开始，内部障碍如囚犯黑暗中。贝叶现在很难打开只眼睛，薰弦过去任职和重瞳。暮年膝上只有文度，常带着书灯伴是富翁。
+	* 此部分翻译来自AI，仅供参考

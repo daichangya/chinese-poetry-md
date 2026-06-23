@@ -1,0 +1,37 @@
+---
+id: liu-ke-zhuang-guang-lie-nu-si-shou-qian-you-tiao-sang-nu-zi
+title: 广列女四首
+author: 刘克庄
+authorSlug: liu-ke-zhuang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: guang3 lie4 nü3 si4 shou3
+authorPinyin: liu2 ke4 zhuang1
+dynastyPinyin: song4
+canonicalPoemId: 399532
+canonicalAuthorId: 3301
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 前有条桑女子，后有茶蕊夫人。
+
+- 洁以自媒为妇，贤于奉表称臣。
+
+## 拼音
+
+- qian2 you3 tiao2 sang1 nü3 zi3 ， hou4 you3 cha2 rui3 fu1 ren2 。
+
+- jie2 yi3 zi4 mei2 wei4 fu4 ， xian2 yu2 feng4 biao3 cheng1 chen2 。
+
+## 译文
+
+前面有条桑女子，后来有茶花蕊夫人。清洁以自我介绍为妻，比奉表称臣。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+前面有条桑女子，后来有茶花蕊夫人。清洁以自我介绍为妻，比奉表称臣。
+	* 此部分翻译来自AI，仅供参考

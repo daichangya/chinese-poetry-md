@@ -1,0 +1,43 @@
+---
+id: liu-chen-weng-qiu-jing-shi-ri-ju-yi-nian-kan-jiu-jiu
+title: 秋景 十日菊
+author: 刘辰翁
+authorSlug: liu-chen-weng
+dynasty: 宋
+dynastySlug: song
+titlePinyin: qiu1 jing3   shi2 ri4 ju2
+authorPinyin: liu2 chen2 weng1
+dynastyPinyin: song4
+canonicalPoemId: 397308
+canonicalAuthorId: 5103
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 一年看九九，十日见炎凉。
+
+- 菊有霜前操，人无节后香。
+
+- 就令无宿酒，也不似重阳。
+
+- 一夜寒英老，多情旧雨黄。
+
+- 帽如前度落，蝶更几时忙。
+
+- 我不知何夕，相收足晚凉。
+
+## 拼音
+
+- yi4 nian2 kan4 jiu3 jiu3 ， shi2 ri4 jian4 yan2 liang2 。
+
+- ju2 you3 shuang1 qian2 cao1 ， ren2 wu2 jie2 hou4 xiang1 。
+
+- jiu4 ling4 wu2 su4 jiu3 ， ye3 bu2 si4 chong2 yang2 。
+
+- yi2 ye4 han2 ying1 lao3 ， duo1 qing2 jiu4 yu3 huang2 。
+
+- mao4 ru2 qian2 du4 luo4 ， die2 geng4 ji3 shi2 mang2 。
+
+- wo3 bu4 zhi1 he2 xi1 ， xiang1 shou1 zu2 wan3 liang2 。
