@@ -1,0 +1,45 @@
+---
+id: wang-yan-2-wen-hu-shang-ren-xiong-yi-bao-cang-bu-ke-kui
+title: 闻虎伤人
+author: 王炎
+authorSlug: wang-yan-2
+dynasty: 宋
+dynastySlug: song
+titlePinyin: wen2 hu3 shang1 ren2
+authorPinyin: wang2 yan2
+dynastyPinyin: song4
+canonicalPoemId: 416056
+canonicalAuthorId: 4845
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 胸臆包藏不可窥，谁能攘臂编其须。
+
+- 未论犬牛俱受祸，饱人之肉人何辜。
+
+- 驺虞不肯食生物，自古及今常罕出。
+
+- 吁嗟虎豹山林多，隐阱弓刀如彼何。
+
+## 拼音
+
+- xiong1 yi4 bao1 cang2 bu4 ke3 kui1 ， shui2 neng2 rang3 bi4 bian1 qi2 xu1 。
+
+- wei4 lun4 quan3 niu2 ju4 shou4 huo4 ， bao3 ren2 zhi1 rou4 ren2 he2 gu1 。
+
+- zou1 yu2 bu4 ken3 shi2 sheng1 wu4 ， zi4 gu3 ji2 jin1 chang2 han3 chu1 。
+
+- xu1 jie1 hu3 bao4 shan1 lin2 duo1 ， yin3 jing3 gong1 dao1 ru2 bi3 he2 。
+
+## 译文
+
+胸中包藏不可窥视，谁能够捋袖伸臂编的需要。没讨论狗牛都遭受灾祸，饱人的肉人无辜。驺虞不肯吃生的食物，从古代到现在经常很少出来。叹息虎豹山林多，隐藏陷阱弓刀像他们是什么。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+胸中包藏不可窥视，谁能够捋袖伸臂编的需要。没讨论狗牛都遭受灾祸，饱人的肉人无辜。驺虞不肯吃生的食物，从古代到现在经常很少出来。叹息虎豹山林多，隐藏陷阱弓刀像他们是什么。
+	* 此部分翻译来自AI，仅供参考

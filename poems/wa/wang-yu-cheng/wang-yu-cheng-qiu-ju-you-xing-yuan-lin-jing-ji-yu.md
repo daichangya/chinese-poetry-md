@@ -1,0 +1,45 @@
+---
+id: wang-yu-cheng-qiu-ju-you-xing-yuan-lin-jing-ji-yu
+title: 秋居幽兴
+author: 王禹偁
+authorSlug: wang-yu-cheng
+dynasty: 宋
+dynastySlug: song
+titlePinyin: qiu1 ju1 you1 xing1
+authorPinyin: wang2 yu3 cheng1
+dynastyPinyin: song4
+canonicalPoemId: 554023
+canonicalAuthorId: 3158
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 园林经积雨，晚步思悠哉。
+
+- 宿鸟头相并，秋瓜顶自开。
+
+- 药田荒野蔓，屐齿没苍苔。
+
+- 幽兴将何遣，燋琴贳酒杯。
+
+## 拼音
+
+- yuan2 lin2 jing1 ji1 yu3 ， wan3 bu4 si1 you1 zai1 。
+
+- su4 niao3 tou2 xiang1 bing4 ， qiu1 gua1 ding3 zi4 kai1 。
+
+- yao4 tian2 huang1 ye3 man4 ， ji1 chi3 mei2 cang1 tai2 。
+
+- you1 xing1 jiang1 he2 qian3 ， jiao1 qin2 shi4 jiu3 bei1 。
+
+## 译文
+
+园林经积雨，晚步想想悠久。宿鸟头相连，秋瓜顶开门。药田荒野蔓，鞋业淹没青苔。幽兴将何派，带有琴买酒杯。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+园林经积雨，晚步想想悠久。宿鸟头相连，秋瓜顶开门。药田荒野蔓，鞋业淹没青苔。幽兴将何派，带有琴买酒杯。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,45 @@
+---
+id: wang-yu-cheng-he-chen-zhou-tian-she-ren-liu-bie-huai-yang-bing-zhan-liu-tiao-xin
+title: 和陈州田舍人留别
+author: 王禹偁
+authorSlug: wang-yu-cheng
+dynasty: 宋
+dynastySlug: song
+titlePinyin: he2 chen2 zhou1 tian2 she4 ren2 liu2 bie2
+authorPinyin: wang2 yu3 cheng1
+dynastyPinyin: song4
+canonicalPoemId: 415359
+canonicalAuthorId: 3158
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 淮阳冰绽柳条新，风物暄妍土俗淳。
+
+- 捧诏暂辞双阙路，劝农深入四郊春。
+
+- 茶烟静拂听琴鹤，谷雨轻笼锄麦人。
+
+- 羸得褰帷恣吟兴，落花飞絮满车茵。
+
+## 拼音
+
+- huai2 yang2 bing1 zhan4 liu3 tiao2 xin1 ， feng1 wu4 xuan1 yan2 tu3 su2 chun2 。
+
+- peng3 zhao4 zan4 ci2 shuang1 que1 lu4 ， quan4 nong2 shen1 ru4 si4 jiao1 chun1 。
+
+- cha2 yan1 jing4 fu2 ting1 qin2 he4 ， gu3 yu3 qing1 long2 chu2 mai4 ren2 。
+
+- lei2 de2 qian1 wei2 zi4 yin2 xing1 ， luo4 hua1 fei1 xu4 man3 che1 yin1 。
+
+## 译文
+
+淮阳冰裂柳条新，当地风俗淳美瞳风貌。捧诏暂时告别双阙路，劝农深入四郊春。茶烟静拂允许琴鹤，谷雨轻笼锄麦人。瘦弱得掀开帷幕恣意吟兴，落花飞絮满车垫。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+淮阳冰裂柳条新，当地风俗淳美瞳风貌。捧诏暂时告别双阙路，劝农深入四郊春。茶烟静拂允许琴鹤，谷雨轻笼锄麦人。瘦弱得掀开帷幕恣意吟兴，落花飞絮满车垫。
+	* 此部分翻译来自AI，仅供参考
