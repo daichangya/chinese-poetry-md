@@ -1,0 +1,45 @@
+---
+id: dong-shi-qian-qian-tang-huai-gu-yu-chuang-yao-di-zuo
+title: 钱塘怀古
+author: 董师谦
+authorSlug: dong-shi-qian
+dynasty: 宋
+dynastySlug: song
+titlePinyin: qian2 tang2 huai2 gu3
+authorPinyin: dong3 shi1 qian1
+dynastyPinyin: song4
+canonicalPoemId: 496220
+canonicalAuthorId: 8248
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 玉床摇帝座，青盖出都城。
+
+- 巷哭行家泪，燕歌四面声。
+
+- 乾坤遽如许，风雪可邻生。
+
+- 清晓宫门外，犹听打六更。
+
+## 拼音
+
+- yu4 chuang2 yao2 di4 zuo4 ， qing1 gai4 chu1 du1 cheng2 。
+
+- xiang4 ku1 hang2 jia0 lei4 ， yan4 ge1 si4 mian4 sheng1 。
+
+- qian2 kun1 ju4 ru2 xu3 ， feng1 xue3 ke3 lin2 sheng1 。
+
+- qing1 xiao3 gong1 men2 wai4 ， you2 ting1 da3 liu4 geng1 。
+
+## 译文
+
+玉床摇帝座，青盖出都城。巷哭行家泪，燕歌四面声。乾坤就如许，风吹雪可邻生。清晨宫门外，就像听打六更。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+玉床摇帝座，青盖出都城。巷哭行家泪，燕歌四面声。乾坤就如许，风吹雪可邻生。清晨宫门外，就像听打六更。
+	* 此部分翻译来自AI，仅供参考

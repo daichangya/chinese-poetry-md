@@ -1,0 +1,61 @@
+---
+id: dou-qun-feng-chou-xi-chuan-wu-xiang-gong-chen-xing-zeng-you-jian-shi-zhi-zuo-bi--c68b7965
+title: 奉酬西川武相公晨兴赠友见示之作
+author: 窦群
+authorSlug: dou-qun
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: feng4 chou2 xi1 chuan1 wu3 xiang4 gong0 chen2 xing1 zeng4 you3 jian4 shi4 zhi1 zuo4
+authorPinyin: dou4 qun2
+dynastyPinyin: tang2
+canonicalPoemId: 538183
+canonicalAuthorId: 3979
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 碧树分晓色，宿雨弄清光。
+
+- 犹闻子规啼，独念一声长。
+
+- 眷眷轸芳思，依依寄远方。
+
+- 情同如兰臭，惠比返魂香。
+
+- 新什惊变雅，古瑟代沈湘。
+
+- 殷勤见知己，掩抑绕中肠。
+
+- 隙驷不我待，路人易相忘。
+
+- 孤老空许国，幽报期苍苍。
+
+## 拼音
+
+- bi4 shu4 fen1 xiao3 se4 ， su4 yu3 nong4 qing1 guang1 。
+
+- you2 wen2 zi3 gui1 ti2 ， du2 nian4 yi4 sheng1 chang2 。
+
+- juan4 juan4 zhen3 fang1 si1 ， yi1 yi1 ji4 yuan3 fang1 。
+
+- qing2 tong2 ru2 lan2 chou4 ， hui4 bi3 fan3 hun2 xiang1 。
+
+- xin1 shen2 jing1 bian4 ya3 ， gu3 se4 dai4 shen3 xiang1 。
+
+- yin1 qin2 jian4 zhi1 ji3 ， yan3 yi4 rao4 zhong1 chang2 。
+
+- xi4 si4 bu4 wo3 dai4 ， lu4 ren2 yi4 xiang1 wang4 。
+
+- gu1 lao3 kong1 xu3 guo2 ， you1 bao4 qi1 cang1 cang1 。
+
+## 译文
+
+碧树分晨光，宿雨弄清光。还听到杜鹃啼，只念一声长。恋恋不舍珍芳思考，依依寄远方。情同如兰臭，惠和返魂香。新十分惊变雅，古代瑟代沈湘。殷勤地了解自己，掩抑围绕中间肠。矛盾四不我待，路上的人容易相互忘记。孤老空许国，在报告期限苍苍。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+碧树分晨光，宿雨弄清光。还听到杜鹃啼，只念一声长。恋恋不舍珍芳思考，依依寄远方。情同如兰臭，惠和返魂香。新十分惊变雅，古代瑟代沈湘。殷勤地了解自己，掩抑围绕中间肠。矛盾四不我待，路上的人容易相互忘记。孤老空许国，在报告期限苍苍。
+	* 此部分翻译来自AI，仅供参考
