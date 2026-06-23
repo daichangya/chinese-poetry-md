@@ -1,0 +1,35 @@
+---
+id: zhao-shi-xiu-song-zhen-zhi-yuan-chu-shi-jiang-dong-yi-jie-zhu-huang-jin
+title: 送真直院出使江东
+author: 赵师秀
+authorSlug: zhao-shi-xiu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: song4 zhen1 zhi2 yuan4 chu1 shi3 jiang1 dong1
+authorPinyin: zhao4 shi1 xiu4
+dynastyPinyin: song4
+canonicalPoemId: 423071
+canonicalAuthorId: 7362
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 一节铸黄金，翩然别禁林。
+
+- 几于言事日，已作去朝心。
+
+- 有识愁虽结，无惭喜自深。
+
+- 江边瞻使者，谁不敬曾参。
+
+## 拼音
+
+- yi4 jie2 zhu4 huang2 jin1 ， pian1 ran2 bie2 jin4 lin2 。
+
+- ji3 yu2 yan2 shi4 ri4 ， yi3 zuo4 qu4 chao2 xin1 。
+
+- you3 shi2 chou2 sui1 jie2 ， wu2 can2 xi3 zi4 shen1 。
+
+- jiang1 bian1 zhan1 shi3 zhe3 ， shui2 bu2 jing4 ceng2 can1 。

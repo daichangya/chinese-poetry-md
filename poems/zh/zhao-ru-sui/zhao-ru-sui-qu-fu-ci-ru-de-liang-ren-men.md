@@ -1,0 +1,65 @@
+---
+id: zhao-ru-sui-qu-fu-ci-ru-de-liang-ren-men
+title: 去妇辞
+author: 赵汝𬭼
+authorSlug: zhao-ru-sui
+dynasty: 宋
+dynastySlug: song
+titlePinyin: qu4 fu4 ci2
+authorPinyin: zhao4 ru3 sui4
+dynastyPinyin: song4
+canonicalPoemId: 587262
+canonicalAuthorId: 5227
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 入得良人门，自誓终此身。
+
+- 扫室拥箕箒，进盥躬盘巾。
+
+- 采桑趋陇首，荐苹洁涧滨。
+
+- 十年尽妇道，惟恐堂前嗔。
+
+- 上和下睦本无，一二姑恣萋斐。
+
+- 浸润既深贝锦成，不弃不出谮不已。
+
+- 良人缱绻涕涟洏，父母之命安敢违。
+
+- 举头天边指缺月，暂缺须有团贺时。
+
+- 君不闻章台长条依旧垂，乐昌半镜还复归。
+
+## 拼音
+
+- ru4 de2 liang2 ren2 men2 ， zi4 shi4 zhong1 ci3 shen1 。
+
+- sao3 shi4 yong1 ji1 zhou3 ， jin4 guan4 gong1 pan2 jin1 。
+
+- cai3 sang1 qu1 long3 shou3 ， jian4 ping2 jie2 jian4 bin1 。
+
+- shi2 nian2 jin4 fu4 dao4 ， wei2 kong3 tang2 qian2 chen1 。
+
+- shang4 he2 xia4 mu4 ben3 wu2 ， yi1 er4 gu1 zi4 qi1 fei3 。
+
+- jin4 run4 ji4 shen1 bei4 jin3 cheng2 ， bu2 qi4 bu4 chu1 zen4 bu4 yi3 。
+
+- liang2 ren2 qian3 quan3 ti4 lian2 er2 ， fu4 mu3 zhi1 ming4 an1 gan3 wei2 。
+
+- ju3 tou2 tian1 bian1 zhi3 que1 yue4 ， zan4 que1 xu1 you3 tuan2 he4 shi2 。
+
+- jun1 bu4 wen2 zhang1 tai2 chang2 tiao2 yi1 jiu4 chui2 ， le4 chang1 ban4 jing4 hai2 fu4 gui1 。
+
+## 译文
+
+进入到了人门，发誓结束这身。扫房间拥有箕箒，进前洗手盘巾身。采桑到陇头，推荐苹洁白涧边。十年尽妇道，惟恐堂前生气。上和下睦根本没有，一两个姑且放纵繁密文明。浸润已深贝织成，不放弃不出说不停。良人欢好涕泪涟涟洏，父母之命怎么敢违背。举头天边手指残缺的月亮，暂时缺须有团祝贺时。您没听说章台长条依旧垂，乐昌半镜重新回归。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+进入到了人门，发誓结束这身。扫房间拥有箕箒，进前洗手盘巾身。采桑到陇头，推荐苹洁白涧边。十年尽妇道，惟恐堂前生气。上和下睦根本没有，一两个姑且放纵繁密文明。浸润已深贝织成，不放弃不出说不停。良人欢好涕泪涟涟洏，父母之命怎么敢违背。举头天边手指残缺的月亮，暂时缺须有团祝贺时。您没听说章台长条依旧垂，乐昌半镜重新回归。
+	* 此部分翻译来自AI，仅供参考

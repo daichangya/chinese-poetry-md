@@ -1,0 +1,57 @@
+---
+id: zhao-wen-fu-hu-ling-can-xue-qing-de-yi-shuang-qing-geng-wen
+title: 伏虎岭残雪
+author: 赵文
+authorSlug: zhao-wen
+dynasty: 宋
+dynastySlug: song
+titlePinyin: fu2 hu3 ling3 can2 xue3
+authorPinyin: zhao4 wen2
+dynastyPinyin: song4
+canonicalPoemId: 568473
+canonicalAuthorId: 4836
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 晴得一霜晴更稳，饱饭不怕伏虎岭。
+
+- 山高积雪冻犹在，昨日空惊雪画本。
+
+- 日烘高树玉槎牙，时有冰花堕无影。
+
+- 纷纷垂丝白海棠，得冷时能略苏醒。
+
+- 可怪此君大曲折，向人雅拜欲求拯。
+
+- 拥袍公子亦吟雪，岂识山中有些景。
+
+- 笪桥烛下写诗成，一尊独酌谁能省。
+
+## 拼音
+
+- qing2 de2 yi4 shuang1 qing2 geng4 wen3 ， bao3 fan4 bu2 pa4 fu2 hu3 ling3 。
+
+- shan1 gao1 ji1 xue3 dong4 you2 zai4 ， zuo2 ri4 kong1 jing1 xue3 hua4 ben3 。
+
+- ri4 hong1 gao1 shu4 yu4 cha2 ya2 ， shi2 you3 bing1 hua1 duo4 wu2 ying3 。
+
+- fen1 fen1 chui2 si1 bai2 hai3 tang2 ， de2 leng3 shi2 neng2 lüe4 su1 xing3 。
+
+- ke3 guai4 ci3 jun1 da4 qu1 zhe2 ， xiang4 ren2 ya3 bai4 yu4 qiu2 zheng3 。
+
+- yong1 pao2 gong1 zi3 yi4 yin2 xue3 ， qi3 shi2 shan1 zhong1 you3 xie1 jing3 。
+
+- da2 qiao2 zhu2 xia4 xie3 shi1 cheng2 ， yi4 zun1 du2 zhuo2 shui2 neng2 sheng3 。
+
+## 译文
+
+天气得到一个霜晴更稳固，吃饱饭不怕伏虎岭。高山积雪冻还在，昨天一惊雪画根本。日烘高树玉槎牙，当时有冰花掉没有影子。纷纷垂丝海棠白色，得到冷时能略苏醒。奇怪这你大曲折，向人雅为想寻求拯救。拥有袍公子也吟雪，难道认识山中有些景。竹桥灯下写诗歌成就，一尊独饮谁能省。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+天气得到一个霜晴更稳固，吃饱饭不怕伏虎岭。高山积雪冻还在，昨天一惊雪画根本。日烘高树玉槎牙，当时有冰花掉没有影子。纷纷垂丝海棠白色，得到冷时能略苏醒。奇怪这你大曲折，向人雅为想寻求拯救。拥有袍公子也吟雪，难道认识山中有些景。竹桥灯下写诗歌成就，一尊独饮谁能省。
+	* 此部分翻译来自AI，仅供参考

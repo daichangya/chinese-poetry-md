@@ -1,0 +1,35 @@
+---
+id: zhao-shi-xiu-zeng-tang-jin-huang-jin-bang-nei-ren
+title: 赠汤巾
+author: 赵师秀
+authorSlug: zhao-shi-xiu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: zeng4 tang1 jin1
+authorPinyin: zhao4 shi1 xiu4
+dynastyPinyin: song4
+canonicalPoemId: 422987
+canonicalAuthorId: 7362
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 黄金榜内人，枉刺忽相亲。
+
+- 怪得名差异，吟来句极新。
+
+- 独眠秋寺雨，罕踏帝城尘。
+
+- 何限高科客，因容不重身。
+
+## 拼音
+
+- huang2 jin1 bang3 nei4 ren2 ， wang3 ci4 hu1 xiang1 qin1 。
+
+- guai4 de2 ming2 cha1 yi4 ， yin2 lai2 ju4 ji2 xin1 。
+
+- du2 mian2 qiu1 si4 yu3 ， han3 ta4 di4 cheng2 chen2 。
+
+- he2 xian4 gao1 ke1 ke4 ， yin1 rong2 bu2 zhong4 shen1 。

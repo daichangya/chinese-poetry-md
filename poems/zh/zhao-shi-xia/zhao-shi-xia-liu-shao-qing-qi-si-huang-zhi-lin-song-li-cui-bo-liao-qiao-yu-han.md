@@ -1,0 +1,43 @@
+---
+id: zhao-shi-xia-liu-shao-qing-qi-si-huang-zhi-lin-song-li-cui-bo-liao-qiao-yu-han
+title: 柳梢青 其四 黄栀林送李粹伯
+author: 赵师侠
+authorSlug: zhao-shi-xia
+dynasty: 宋
+dynastySlug: song
+titlePinyin: liu3 shao1 qing1   qi2 si4   huang2 zhi1 lin2 song4 li3 cui4 bo2
+authorPinyin: zhao4 shi1 xia2
+dynastyPinyin: song4
+canonicalPoemId: 435194
+canonicalAuthorId: 12324
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 料峭馀寒。
+
+- 元宵欲过，灯火阑珊。
+
+- 宿酒难醒，新愁未解，摇兀吟鞍。
+
+- 深林百舌关关。
+
+- 更雨洗、桃红未干。
+
+- 野烧痕青，荒陂水满，春事何堪。
+
+## 拼音
+
+- liao4 qiao4 yu2 han2 。
+
+- yuan2 xiao1 yu4 guo4 ， deng1 huo3 lan2 shan1 。
+
+- su4 jiu3 nan2 xing3 ， xin1 chou2 wei4 jie3 ， yao2 wu4 yin2 an1 。
+
+- shen1 lin2 bai3 she2 guan1 guan1 。
+
+- geng4 yu3 xi3 、 tao2 hong2 wei4 gan1 。
+
+- ye3 shao1 hen2 qing1 ， huang1 bei1 shui3 man3 ， chun1 shi4 he2 kan1 。

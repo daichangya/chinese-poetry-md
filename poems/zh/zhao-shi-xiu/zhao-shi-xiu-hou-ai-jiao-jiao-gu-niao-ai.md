@@ -1,0 +1,55 @@
+---
+id: zhao-shi-xiu-hou-ai-jiao-jiao-gu-niao-ai
+title: 后哀
+author: 赵师秀
+authorSlug: zhao-shi-xiu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: hou4 ai1
+authorPinyin: zhao4 shi1 xiu4
+dynastyPinyin: song4
+canonicalPoemId: 423015
+canonicalAuthorId: 7362
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 交交谷鸟哀，郁郁涧松折。
+
+- 山民无还期，春物失怡悦。
+
+- 平生感斯人，难以常理说。
+
+- 共智己则愚，忽巧众亦拙。
+
+- 芳名信可垂，在世何寂灭。
+
+- 含恓为卜兆，窀穸利兹月。
+
+- 行当宿草生，当使我泪歇。
+
+- 未知百年后，谁复耕此穴。
+
+- 寄言苦吟者，勿弃摄生诀。
+
+## 拼音
+
+- jiao1 jiao1 gu3 niao3 ai1 ， yu4 yu4 jian4 song1 zhe2 。
+
+- shan1 min2 wu2 hai2 qi1 ， chun1 wu4 shi1 yi2 yue4 。
+
+- ping2 sheng1 gan3 si1 ren2 ， nan2 yi3 chang2 li3 shuo1 。
+
+- gong4 zhi4 ji3 ze2 yu2 ， hu1 qiao3 zhong4 yi4 zhuo1 。
+
+- fang1 ming2 xin4 ke3 chui2 ， zai4 shi4 he2 ji4 mie4 。
+
+- han2 xi1 wei4 bu3 zhao4 ， zhun1 xi1 li4 zi1 yue4 。
+
+- hang2 dang0 su4 cao3 sheng1 ， dang1 shi3 wo3 lei4 xie1 。
+
+- wei4 zhi1 bai3 nian2 hou4 ， shui2 fu4 geng1 ci3 xue2 。
+
+- ji4 yan2 ku3 yin2 zhe3 ， wu4 qi4 she4 sheng1 jue2 。

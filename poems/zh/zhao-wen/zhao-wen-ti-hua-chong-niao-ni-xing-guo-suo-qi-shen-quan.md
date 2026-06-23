@@ -1,0 +1,65 @@
+---
+id: zhao-wen-ti-hua-chong-niao-ni-xing-guo-suo-qi-shen-quan
+title: 题画虫鸟
+author: 赵文
+authorSlug: zhao-wen
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ti2 hua4 chong2 niao3
+authorPinyin: zhao4 wen2
+dynastyPinyin: song4
+canonicalPoemId: 568702
+canonicalAuthorId: 4836
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 泥行郭索其神全，枯枝独抱吟风仙。
+
+- 细腰追逐相后先，画眉双栖斗婵娟。
+
+- 一鸣一止俱自然，老猴如鬼踞石边。
+
+- 游蜂何为过其前，水禽伺鱼双眼穿。
+
+- 久而无得倦欲眠，鸜之鹆之高树巅。
+
+- 俯视螳臂为垂涎，之虫不作名利牵。
+
+- 饮啄之外何所便，人生扰扰真可怜。
+
+- 笑谈对面森戈鋋，王侯蝼蚁俱埃烟。
+
+- 大年未可笑小年，世间唯有虫能天。
+
+## 拼音
+
+- ni2 xing2 guo1 suo3 qi2 shen2 quan2 ， ku1 zhi1 du2 bao4 yin2 feng1 xian1 。
+
+- xi4 yao1 zhui1 zhu2 xiang1 hou4 xian1 ， hua4 mei2 shuang1 qi1 dou4 chan2 juan1 。
+
+- yi4 ming2 yi4 zhi3 ju4 zi4 ran2 ， lao3 hou2 ru2 gui3 ju4 shi2 bian1 。
+
+- you2 feng1 he2 wei4 guo4 qi2 qian2 ， shui3 qin2 si4 yu2 shuang1 yan3 chuan1 。
+
+- jiu3 er2 wu2 de2 juan4 yu4 mian2 ， qu2 zhi1 yu4 zhi1 gao1 shu4 dian1 。
+
+- fu3 shi4 tang2 bi4 wei4 chui2 xian2 ， zhi1 chong2 bu2 zuo4 ming2 li4 qian1 。
+
+- yin3 zhuo2 zhi1 wai4 he2 suo3 bian4 ， ren2 sheng1 rao3 rao3 zhen1 ke3 lian2 。
+
+- xiao4 tan2 dui4 mian4 sen1 ge1 chan2 ， wang2 hou2 lou2 yi3 ju4 ai1 yan1 。
+
+- da4 nian2 wei4 ke3 xiao4 xiao3 nian2 ， shi4 jian1 wei2 you3 chong2 neng2 tian1 。
+
+## 译文
+
+泥行郭索他的神全，枯枝独自抱吟风仙。细腰追逐相前后，画眉双栖斗婵娟。一鸣一只都自然，老猴子像鬼坐在石头边。游蜂为什么经过他的面前，水禽等鱼双眼穿。很久没有得到困倦想睡觉，鸜鹆的高树上的。俯视蝗臂为垂涎，的动物不作名利禄。饮水啄食的外面什么地方方便，人生纷纷扰扰真可怜。谈笑对面森戈矛刺杀，王侯蚂蚁都尘埃烟。大年不能笑小年，世间只有虫能天。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+泥行郭索他的神全，枯枝独自抱吟风仙。细腰追逐相前后，画眉双栖斗婵娟。一鸣一只都自然，老猴子像鬼坐在石头边。游蜂为什么经过他的面前，水禽等鱼双眼穿。很久没有得到困倦想睡觉，鸜鹆的高树上的。俯视蝗臂为垂涎，的动物不作名利禄。饮水啄食的外面什么地方方便，人生纷纷扰扰真可怜。谈笑对面森戈矛刺杀，王侯蚂蚁都尘埃烟。大年不能笑小年，世间只有虫能天。
+	* 此部分翻译来自AI，仅供参考

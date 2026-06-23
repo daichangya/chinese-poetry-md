@@ -1,0 +1,63 @@
+---
+id: zhao-xi-peng-nian-nu-jiao-gong-ming-fu-gui
+title: 念奴娇
+author: 赵希蓬
+authorSlug: zhao-xi-peng
+dynasty: 宋
+dynastySlug: song
+titlePinyin: nian4 nu2 jiao1
+authorPinyin: zhao4 xi1 peng2
+dynastyPinyin: song4
+canonicalPoemId: 501868
+canonicalAuthorId: 6906
+rhythmic: 念奴娇
+tags:
+  - 诗词
+  - 衡山
+---
+
+## 正文
+
+- 功名富贵，算到头，怎免委沟填壑。
+
+- 曳钓抱琴秋水畔，肯与微官空缚。
+
+- 五亩苍阴，一丘寒碧，说甚凌烟阁。
+
+- 静观物理，从他荣悴开落。
+
+- 任待人谷鸣雏，不须歆艳，免使朝南岳。
+
+- 修竹长松常与伴，更有寒梅堪约。
+
+- 夜且三更，西风万籁，入耳悲猿鹤。
+
+- 从头洗去，更无一点圭角。
+
+## 拼音
+
+- gong1 ming2 fu4 gui4 ， suan4 dao4 tou2 ， zen3 mian3 wei3 gou1 tian2 he4 。
+
+- ye4 diao4 bao4 qin2 qiu1 shui3 pan4 ， ken3 yu3 wei1 guan1 kong1 fu4 。
+
+- wu3 mu3 cang1 yin1 ， yi4 qiu1 han2 bi4 ， shuo1 shen4 ling2 yan1 ge2 。
+
+- jing4 guan1 wu4 li3 ， cong2 ta1 rong2 cui4 kai1 luo4 。
+
+- ren4 dai4 ren2 gu3 ming2 chu2 ， bu4 xu1 xin1 yan4 ， mian3 shi3 chao2 nan2 yue4 。
+
+- xiu1 zhu2 chang2 song1 chang2 yu3 ban4 ， geng4 you3 han2 mei2 kan1 yue1 。
+
+- ye4 qie3 san1 geng1 ， xi1 feng1 wan4 lai4 ， ru4 er3 bei1 yuan2 he4 。
+
+- cong2 tou2 xi3 qu4 ， geng4 wu2 yi4 dian3 gui1 jiao3 。
+
+## 译文
+
+功名富贵，计算了头，如何避免把沟填沟壑。拖钓抱琴秋水畔，肯与微官空绑。五亩苍阴，一山寒碧，解释很凌烟阁。静静观察物理，从别的荣憔悴注销。任务等待人谷鸣雏，不需要享受美丽，避免使朝拜南岳。修长的竹子长松常与伴，还有冷梅承受约。夜晚而且三更，西风万籁，到了悲猿鹤。从头洗去，再没有一点棱角。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+功名富贵，计算了头，如何避免把沟填沟壑。拖钓抱琴秋水畔，肯与微官空绑。五亩苍阴，一山寒碧，解释很凌烟阁。静静观察物理，从别的荣憔悴注销。任务等待人谷鸣雏，不需要享受美丽，避免使朝拜南岳。修长的竹子长松常与伴，还有冷梅承受约。夜晚而且三更，西风万籁，到了悲猿鹤。从头洗去，再没有一点棱角。
+	* 此部分翻译来自AI，仅供参考
