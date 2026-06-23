@@ -1,0 +1,45 @@
+---
+id: yi-ming-jiao-miao-chao-hui-ge-ci-jian-long-gan-de-chao-hui-yue-zhang-er-shi-ba-s-3835f6bf
+title: 郊庙朝会歌辞建隆干德朝会乐章二十八首
+author: 佚名
+authorSlug: yi-ming
+dynasty: 隋
+dynastySlug: sui
+titlePinyin: jiao1 miao4 chao2 hui4 ge1 ci2 jian4 long2 gan1 de2 chao2 hui4 yue4 zhang1 er4 shi2 ba1 shou3
+authorPinyin: yi4 ming2
+dynastyPinyin: sui2
+canonicalPoemId: 645513
+canonicalAuthorId: 1
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 伐叛天威震，恢疆帝业多。
+
+- 削平侔肃杀，涵煦极阳和。
+
+- 蹈厉观周舞，风云入汉歌。
+
+- 功成推大定，归马偃雕戈。
+
+## 拼音
+
+- fa2 pan4 tian1 wei1 zhen4 ， hui1 jiang1 di4 ye4 duo1 。
+
+- xue1 ping2 mou2 su4 sha1 ， han2 xu4 ji2 yang2 he2 。
+
+- dao3 li4 guan1 zhou1 wu3 ， feng1 yun2 ru4 han4 ge1 。
+
+- gong1 cheng2 tui1 da4 ding4 ， gui1 ma3 yan3 diao1 ge1 。
+
+## 译文
+
+伐叛天威震，恢复疆帝业多。平定齐肃杀，滋润化育极阳和。蹈厉观察周舞，风云入汉歌。成功推大定，回到马躺雕戈。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+伐叛天威震，恢复疆帝业多。平定齐肃杀，滋润化育极阳和。蹈厉观察周舞，风云入汉歌。成功推大定，回到马躺雕戈。
+	* 此部分翻译来自AI，仅供参考
