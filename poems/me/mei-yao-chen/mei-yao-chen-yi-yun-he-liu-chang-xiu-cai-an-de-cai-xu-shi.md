@@ -1,0 +1,77 @@
+---
+id: mei-yao-chen-yi-yun-he-liu-chang-xiu-cai-an-de-cai-xu-shi
+title: 依韵和刘敞秀才
+author: 梅尧臣
+authorSlug: mei-yao-chen
+dynasty: 宋
+dynastySlug: song
+titlePinyin: yi1 yun4 he2 liu2 chang3 xiu4 cai2
+authorPinyin: mei2 yao2 chen2
+dynastyPinyin: song4
+canonicalPoemId: 486061
+canonicalAuthorId: 1854
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 安得采虚石，师道欲吾广。
+
+- 虽然成术业，曾不计少长。
+
+- 孔孟久已亡，富贵得亦傥。
+
+- 后生不闻义，前辈惧为党。
+
+- 退之昔独传，力振功不赏。
+
+- 舌吻张洪锺，小大扣必响。
+
+- 近世复泯灭，务觉多忽怳。
+
+- 今子诚有志，方驾已楼枉。
+
+- 自惭怀道浅，所得可下上。
+
+- 正如种青松，而欲托朽壤。
+
+- 典丹皆可寻，圣言皆可仰。
+
+- 幸无增我过，此语固不爽。
+
+## 拼音
+
+- an1 de2 cai3 xu1 shi2 ， shi1 dao4 yu4 wu2 guang3 。
+
+- sui1 ran2 cheng2 shu4 ye4 ， ceng2 bu2 ji4 shao3 chang2 。
+
+- kong3 meng4 jiu3 yi3 wang2 ， fu4 gui4 de2 yi4 tang3 。
+
+- hou4 sheng1 bu4 wen2 yi4 ， qian2 bei4 ju4 wei4 dang3 。
+
+- tui4 zhi1 xi1 du2 chuan2 ， li4 zhen4 gong1 bu4 shang3 。
+
+- she2 wen3 zhang1 hong2 zhong1 ， xiao3 da4 kou4 bi4 xiang3 。
+
+- jin4 shi4 fu4 min3 mie4 ， wu4 jue2 duo1 hu1 huang3 。
+
+- jin1 zi3 cheng2 you3 zhi4 ， fang1 jia4 yi3 lou2 wang3 。
+
+- zi4 can2 huai2 dao4 qian3 ， suo3 de2 ke3 xia4 shang4 。
+
+- zheng4 ru2 zhong3 qing1 song1 ， er2 yu4 tuo1 xiu3 rang3 。
+
+- dian3 dan1 jie1 ke3 xun2 ， sheng4 yan2 jie1 ke3 yang3 。
+
+- xing4 wu2 zeng1 wo3 guo4 ， ci3 yu3 gu4 bu4 shuang3 。
+
+## 译文
+
+怎么能采空石，李师道要我广。但是完成学业，曾经不计较少长。孔子、孟子早已灭亡，富贵不能也无意。后生不知道义，前辈们害怕被党。退的昔日独传，力振功不奖赏。舌吻张洪钟，小大扣一定要响。近代又泯灭，致力于发现大多忽视模糊。现在你确实有志，方法用已楼枉。自己惭愧怀道浅，所得可上下。正如种青松，而要依靠腐土。典丹都可以找到，圣言都可以抬头。到没有增加我的错误，这句话当然不差。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+怎么能采空石，李师道要我广。但是完成学业，曾经不计较少长。孔子、孟子早已灭亡，富贵不能也无意。后生不知道义，前辈们害怕被党。退的昔日独传，力振功不奖赏。舌吻张洪钟，小大扣一定要响。近代又泯灭，致力于发现大多忽视模糊。现在你确实有志，方法用已楼枉。自己惭愧怀道浅，所得可上下。正如种青松，而要依靠腐土。典丹都可以找到，圣言都可以抬头。到没有增加我的错误，这句话当然不差。
+	* 此部分翻译来自AI，仅供参考

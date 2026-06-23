@@ -1,0 +1,45 @@
+---
+id: meng-hao-ran-he-jia-zhu-bo-bian-jiu-ri-deng-xian-shan-chu-wan-chong-yang-ri
+title: 和贾主簿弁九日登岘山
+author: 孟浩然
+authorSlug: meng-hao-ran
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: he2 jia3 zhu3 bo2 bian4 jiu3 ri4 deng1 xian4 shan1
+authorPinyin: meng4 hao4 ran2
+dynastyPinyin: tang2
+canonicalPoemId: 500626
+canonicalAuthorId: 407
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 楚万重阳日，群公赏宴来。
+
+- 共乘休沐暇，同醉菊花杯。
+
+- 逸思高秋发，欢情落景催。
+
+- 国人咸寡和，遥愧洛阳才。
+
+## 拼音
+
+- chu3 wan4 chong2 yang2 ri4 ， qun2 gong1 shang3 yan4 lai2 。
+
+- gong4 cheng2 xiu1 mu4 xia2 ， tong2 zui4 ju2 hua1 bei1 。
+
+- yi4 si1 gao1 qiu1 fa1 ， huan1 qing2 luo4 jing3 cui1 。
+
+- guo2 ren2 xian2 gua3 he2 ， yao2 kui4 luo4 yang2 cai2 。
+
+## 译文
+
+楚万重阳日，群公赏赐宴席来。共乘休假时间，同醉菊花杯。逸思高秋发，欢情落景催。国人都很少和，遥愧洛阳人才。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+楚万重阳日，群公赏赐宴席来。共乘休假时间，同醉菊花杯。逸思高秋发，欢情落景催。国人都很少和，遥愧洛阳人才。
+	* 此部分翻译来自AI，仅供参考

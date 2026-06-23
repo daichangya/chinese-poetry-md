@@ -1,0 +1,45 @@
+---
+id: meng-jiao-tong-zhou-shang-ren-song-guo-xiu-cai-jiang-nan-xun-xiong-di-di-shang-chu-85f1ad09
+title: 同昼上人送郭秀才江南寻兄弟
+author: 孟郊
+authorSlug: meng-jiao
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: tong2 zhou4 shang4 ren2 song4 guo1 xiu4 cai2 jiang1 nan2 xun2 xiong1 di4
+authorPinyin: meng4 jiao1
+dynastyPinyin: tang2
+canonicalPoemId: 461872
+canonicalAuthorId: 157
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 地上春色生，眼前诗彩明。
+
+- 手携片宝月，言是高僧名。
+
+- 溪转万曲心，水流千里声。
+
+- 飞鸣向谁去，江鸿弟与兄。
+
+## 拼音
+
+- di4 shang4 chun1 se4 sheng1 ， yan3 qian2 shi1 cai3 ming2 。
+
+- shou3 xie2 pian4 bao3 yue4 ， yan2 shi4 gao1 seng1 ming2 。
+
+- xi1 zhuan3 wan4 qu3 xin1 ， shui3 liu2 qian1 li3 sheng1 。
+
+- fei1 ming2 xiang4 shui2 qu4 ， jiang1 hong2 di4 yu3 xiong1 。
+
+## 译文
+
+地上春色生，眼前诗彩明。手携片宝月，说是高僧名。溪流万曲心，水流千里声音。飞鸣向谁去，江鸿弟和哥哥。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+地上春色生，眼前诗彩明。手携片宝月，说是高僧名。溪流万曲心，水流千里声音。飞鸣向谁去，江鸿弟和哥哥。
+	* 此部分翻译来自AI，仅供参考

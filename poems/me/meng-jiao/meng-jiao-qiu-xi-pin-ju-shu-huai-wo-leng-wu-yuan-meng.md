@@ -1,0 +1,45 @@
+---
+id: meng-jiao-qiu-xi-pin-ju-shu-huai-wo-leng-wu-yuan-meng
+title: 秋夕贫居述怀
+author: 孟郊
+authorSlug: meng-jiao
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: qiu1 xi1 pin2 ju1 shu4 huai2
+authorPinyin: meng4 jiao1
+dynastyPinyin: tang2
+canonicalPoemId: 461469
+canonicalAuthorId: 157
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 卧冷无远梦，听秋酸别情。
+
+- 高枝低枝风，千叶万叶声。
+
+- 浅井不供饮，瘦田长废耕。
+
+- 今交非古交，贫语闻皆轻。
+
+## 拼音
+
+- wo4 leng3 wu2 yuan3 meng4 ， ting1 qiu1 suan1 bie2 qing2 。
+
+- gao1 zhi1 di1 zhi1 feng1 ， qian1 ye4 wan4 ye4 sheng1 。
+
+- qian3 jing3 bu2 gong4 yin3 ， shou4 tian2 chang2 fei4 geng1 。
+
+- jin1 jiao1 fei1 gu3 jiao1 ， pin2 yu3 wen2 jie1 qing1 。
+
+## 译文
+
+卧室冷没有远大梦，听秋酸分别情。高枝低垂枝叶风，千叶万叶声。浅井不供应饮料，瘦田长废耕。现在交不是古代交，贫穷消息都轻。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+卧室冷没有远大梦，听秋酸分别情。高枝低垂枝叶风，千叶万叶声。浅井不供应饮料，瘦田长废耕。现在交不是古代交，贫穷消息都轻。
+	* 此部分翻译来自AI，仅供参考

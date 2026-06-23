@@ -1,0 +1,45 @@
+---
+id: mei-yao-chen-xuan-zhou-za-shi-er-shi-shou-da-shi-da-gua-shu
+title: 宣州杂诗二十首
+author: 梅尧臣
+authorSlug: mei-yao-chen
+dynasty: 宋
+dynastySlug: song
+titlePinyin: xuan1 zhou1 za2 shi1 er4 shi2 shou3
+authorPinyin: mei2 yao2 chen2
+dynastyPinyin: song4
+canonicalPoemId: 486029
+canonicalAuthorId: 1854
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 大实大瓜熟，压枝常畏风。
+
+- 帖花先漏日，喷露渐成红。
+
+- 青箬包山舍，驰心奉汉宫。
+
+- 谁将橐驰载，辛苦向骄戎。
+
+## 拼音
+
+- da4 shi2 da4 gua1 shu2 ， ya1 zhi1 chang2 wei4 feng1 。
+
+- tie1 hua1 xian1 lou4 ri4 ， pen1 lu4 jian4 cheng2 hong2 。
+
+- qing1 ruo4 bao1 shan1 she4 ， chi2 xin1 feng4 han4 gong1 。
+
+- shui2 jiang1 tuo2 chi2 zai3 ， xin1 ku3 xiang4 jiao1 rong2 。
+
+## 译文
+
+大实大瓜熟，压枝常怕风。帖花先漏天，喷露渐成红。青箬包山住宿，驰心侍奉汉宫。谁将袋子乘载，辛苦向骄傲戎。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+大实大瓜熟，压枝常怕风。帖花先漏天，喷露渐成红。青箬包山住宿，驰心侍奉汉宫。谁将袋子乘载，辛苦向骄傲戎。
+	* 此部分翻译来自AI，仅供参考

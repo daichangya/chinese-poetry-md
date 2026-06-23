@@ -1,0 +1,65 @@
+---
+id: meng-hao-ran-ti-zhong-nan-cui-wei-si-kong-shang-ren-fang-yi-zuo-ti-zhong-nan-cui-wei
+title: 题终南翠微寺空上人房
+author: 孟浩然
+authorSlug: meng-hao-ran
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: ti2 zhong1 nan2 cui4 wei1 si4 kong1 shang4 ren2 fang2
+authorPinyin: meng4 hao4 ran2
+dynastyPinyin: tang2
+canonicalPoemId: 500643
+canonicalAuthorId: 407
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 一作题终南翠微寺
+
+- 翠微终南里，雨后宜返照。
+
+- 闭关久沈冥，杖策一登眺。
+
+- 遂造幽人室，始知静者妙。
+
+- 儒道虽异门，云林颇同调。
+
+- 两心喜相得，毕景共谈笑。
+
+- 暝还高窗眠，时见远山烧。
+
+- 缅怀赤城标，更忆临海峤。
+
+- 风泉有清音，何必苏门啸。
+
+## 拼音
+
+- yi2 zuo4 ti2 zhong1 nan2 cui4 wei1 si4
+
+- cui4 wei1 zhong1 nan2 li3 ， yu3 hou4 yi2 fan3 zhao4 。
+
+- bi4 guan1 jiu3 shen3 ming2 ， zhang4 ce4 yi4 deng1 tiao4 。
+
+- sui4 zao4 you1 ren2 shi4 ， shi3 zhi1 jing4 zhe3 miao4 。
+
+- ru2 dao4 sui1 yi4 men2 ， yun2 lin2 po1 tong2 diao4 。
+
+- liang3 xin1 xi3 xiang1 de2 ， bi4 jing3 gong4 tan2 xiao4 。
+
+- ming2 hai2 gao1 chuang1 mian2 ， shi2 jian4 yuan3 shan1 shao1 。
+
+- mian3 huai2 chi4 cheng2 biao1 ， geng4 yi4 lin2 hai3 qiao2 。
+
+- feng1 quan2 you3 qing1 yin1 ， he2 bi4 su1 men2 xiao4 。
+
+## 译文
+
+一个作题终南山翠微寺翠微终南山里，下雨后应返回照。闭关时间沉冥，拄着手杖一登眺望。于是造隐士室，才知道静的美妙。儒学虽然不同门，云林颇同调。两心喜相符合，天黑后一起谈笑。闭回高窗睡觉，当时看见远处的山烧。缅怀赤城标，再想起临海娇。风泉有清脆的声音，何必苏门海啸。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+一个作题终南山翠微寺翠微终南山里，下雨后应返回照。闭关时间沉冥，拄着手杖一登眺望。于是造隐士室，才知道静的美妙。儒学虽然不同门，云林颇同调。两心喜相符合，天黑后一起谈笑。闭回高窗睡觉，当时看见远处的山烧。缅怀赤城标，再想起临海娇。风泉有清脆的声音，何必苏门海啸。
+	* 此部分翻译来自AI，仅供参考

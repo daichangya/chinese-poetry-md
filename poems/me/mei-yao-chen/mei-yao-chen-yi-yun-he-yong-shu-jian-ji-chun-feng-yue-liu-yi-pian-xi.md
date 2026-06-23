@@ -1,0 +1,109 @@
+---
+id: mei-yao-chen-yi-yun-he-yong-shu-jian-ji-chun-feng-yue-liu-yi-pian-xi
+title: 依韵和永叔见寄
+author: 梅尧臣
+authorSlug: mei-yao-chen
+dynasty: 宋
+dynastySlug: song
+titlePinyin: yi1 yun4 he2 yong3 shu1 jian4 ji4
+authorPinyin: mei2 yao2 chen2
+dynastyPinyin: song4
+canonicalPoemId: 485582
+canonicalAuthorId: 1854
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 春风约柳一片西，欲托鸟翼传音稽。
+
+- 昨朝偶向东城去，草草又逢骢马蹄。
+
+- 长髯御史威正峭，沙堤来坐气吐霓。
+
+- 我乘小驷虽甚瘦，喜见骖驭犹解嘶。
+
+- 适闻南都接大尹，笑我出处今何迷。
+
+- 耻趋捷径身已老，惩羹何用频吹齑。
+
+- 蛟龙失水等蚯蚓，鳞角虽有辱在泥。
+
+- 困居废井谁引手，岂得更望青云梯。
+
+- 笔锋劲发若强弩，余力曾彻七重犀。
+
+- 倦禽雄雌不饱腹，日暮徒念还巢栖。
+
+- 大椿朝菌各有尽，此物何怪庄叟齐。
+
+- 诚知豪侠自快乐，东郊南陌竞斗鸡。
+
+- 胸中有道无广狭，包括宇宙在一稊。
+
+- 何时与公去颖尾，湖水漫漫如玻璃。
+
+- 世间会合固不易，况乃仕宦多相睽。
+
+- 正似邮亭恋行者，未到止息空歌骊。
+
+- 我贫尚不给朝夕，焉得负郭置稻畦。
+
+- 筋骸幸且稍轻健，山水纵好无路跻。
+
+- 傥公他时买田宅，愿以藜杖从招携。
+
+- 吾儿诗书不足教，亦以助力于耕犁。
+
+## 拼音
+
+- chun1 feng1 yue1 liu3 yi2 pian4 xi1 ， yu4 tuo1 niao3 yi4 chuan2 yin1 ji1 。
+
+- zuo2 chao2 ou3 xiang4 dong1 cheng2 qu4 ， cao3 cao3 you4 feng2 cong1 ma3 ti2 。
+
+- chang2 ran2 yu4 shi3 wei1 zheng4 qiao4 ， sha1 di1 lai2 zuo4 qi4 tu3 ni2 。
+
+- wo3 cheng2 xiao3 si4 sui1 shen4 shou4 ， xi3 jian4 can1 yu4 you2 jie3 si1 。
+
+- shi4 wen2 nan2 dou1 jie1 da4 yin3 ， xiao4 wo3 chu1 chu4 jin1 he2 mi2 。
+
+- chi3 qu1 jie2 jing4 shen1 yi3 lao3 ， cheng2 geng1 he2 yong4 pin2 chui1 ji1 。
+
+- jiao1 long2 shi1 shui3 deng3 qiu1 yin3 ， lin2 jiao3 sui1 you3 ru3 zai4 ni2 。
+
+- kun4 ju1 fei4 jing3 shui2 yin3 shou3 ， qi3 de2 geng4 wang4 qing1 yun2 ti1 。
+
+- bi3 feng1 jin4 fa1 ruo4 qiang2 nu3 ， yu2 li4 ceng2 che4 qi1 chong2 xi1 。
+
+- juan4 qin2 xiong2 ci2 bu4 bao3 fu4 ， ri4 mu4 tu2 nian4 hai2 chao2 qi1 。
+
+- da4 chun1 chao2 jun1 ge4 you3 jin4 ， ci3 wu4 he2 guai4 zhuang1 sou3 qi2 。
+
+- cheng2 zhi1 hao2 xia2 zi4 kuai4 le4 ， dong1 jiao1 nan2 mo4 jing4 dou4 ji1 。
+
+- xiong1 zhong1 you3 dao4 wu2 guang3 xia2 ， bao1 kuo4 yu3 zhou4 zai4 yi4 ti2 。
+
+- he2 shi2 yu3 gong1 qu4 ying3 wei3 ， hu2 shui3 man4 man4 ru2 bo1 li2 。
+
+- shi4 jian1 hui4 he2 gu4 bu2 yi4 ， kuang4 nai3 shi4 huan4 duo1 xiang4 kui2 。
+
+- zheng4 si4 you2 ting2 lian4 xing2 zhe3 ， wei4 dao4 zhi3 xi1 kong1 ge1 li2 。
+
+- wo3 pin2 shang4 bu4 gei3 zhao1 xi1 ， yan1 de2 fu4 guo1 zhi4 dao4 qi2 。
+
+- jin1 hai2 xing4 qie3 shao1 qing1 jian4 ， shan1 shui3 zong4 hao3 wu2 lu4 ji1 。
+
+- tang3 gong1 ta1 shi2 mai3 tian2 zhai2 ， yuan4 yi3 li2 zhang4 cong2 zhao1 xie2 。
+
+- wu2 er2 shi1 shu1 bu4 zu2 jiao4 ， yi4 yi3 zhu4 li4 yu2 geng1 li2 。
+
+## 译文
+
+春风约柳一片西，想托鸟的翅膀传音考察。昨天早晨偶尔向东城去，匆匆又遇到骢马蹄。长髯御史威名正峭，沙堤来坐气吐彩虹。我骑一匹小马虽然很瘦，很高兴看到胶驭还解嘶。刚才听说南都接大尹，笑我出在什么迷。耻辱走捷径身体已经衰老，鉴于汤怎么用频致辞。蛟龙失去水等蚯蚓，鳞角虽然有羞辱在泥。困在废弃井谁伸手，哪能再望青云梯。笔锋劲发如果强弩，我努力曾经彻七重犀牛。疲倦禽雌雄不饱肚子，一天晚上只想回巢栖息。大椿朝菌各有限，这东西有什么奇怪庄子齐。确实知道豪侠自己快乐，东郊南陌竞相斗鸡。胸中有广狭道没有，包括宇宙在一梯。什么时候和你离开颖尾，湖水漫漫如玻璃。世间会合本来就不容易，更何况是仕途多相分离。正好像邮亭依恋行为的，还没到停止空中歌骊。我们贫穷还不给朝夕，怎么能辜负郭设置稻田。筋骨到并且逐渐减轻健康，山水放好无路攀登。倘若您将来购买田宅，希望用藜杖跟从招抚。我儿不值得教《诗》、《书》，也可以帮助在耕犁。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+春风约柳一片西，想托鸟的翅膀传音考察。昨天早晨偶尔向东城去，匆匆又遇到骢马蹄。长髯御史威名正峭，沙堤来坐气吐彩虹。我骑一匹小马虽然很瘦，很高兴看到胶驭还解嘶。刚才听说南都接大尹，笑我出在什么迷。耻辱走捷径身体已经衰老，鉴于汤怎么用频致辞。蛟龙失去水等蚯蚓，鳞角虽然有羞辱在泥。困在废弃井谁伸手，哪能再望青云梯。笔锋劲发如果强弩，我努力曾经彻七重犀牛。疲倦禽雌雄不饱肚子，一天晚上只想回巢栖息。大椿朝菌各有限，这东西有什么奇怪庄子齐。确实知道豪侠自己快乐，东郊南陌竞相斗鸡。胸中有广狭道没有，包括宇宙在一梯。什么时候和你离开颖尾，湖水漫漫如玻璃。世间会合本来就不容易，更何况是仕途多相分离。正好像邮亭依恋行为的，还没到停止空中歌骊。我们贫穷还不给朝夕，怎么能辜负郭设置稻田。筋骨到并且逐渐减轻健康，山水放好无路攀登。倘若您将来购买田宅，希望用藜杖跟从招抚。我儿不值得教《诗》、《书》，也可以帮助在耕犁。
+	* 此部分翻译来自AI，仅供参考

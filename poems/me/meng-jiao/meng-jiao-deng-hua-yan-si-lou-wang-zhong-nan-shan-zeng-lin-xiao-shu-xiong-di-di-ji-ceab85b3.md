@@ -1,0 +1,54 @@
+---
+id: meng-jiao-deng-hua-yan-si-lou-wang-zhong-nan-shan-zeng-lin-xiao-shu-xiong-di-di-ji-ceab85b3
+title: 登华岩寺楼望终南山赠林校书兄弟
+author: 孟郊
+authorSlug: meng-jiao
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: deng1 hua2 yan2 si4 lou2 wang4 zhong1 nan2 shan1 zeng4 lin2 xiao4 shu1 xiong1 di4
+authorPinyin: meng4 jiao1
+dynastyPinyin: tang2
+canonicalPoemId: 461564
+canonicalAuthorId: 157
+tags:
+  - 诗词
+  - 终南山
+---
+
+## 正文
+
+- 地脊亚为崖，耸出冥冥中。
+
+- 楼根插迥云，殿翼翔危空。
+
+- 前山胎元气，灵异生不穷。
+
+- 势吞万象高，秀夺五岳雄。
+
+- 一望俗虑醒，再登仙愿崇。
+
+- 青莲三居士，昼景真赏同。
+
+## 拼音
+
+- di4 ji3 ya4 wei4 ya2 ， song3 chu1 ming2 ming2 zhong1 。
+
+- lou2 gen1 cha1 jiong3 yun2 ， dian4 yi4 xiang2 wei1 kong1 。
+
+- qian2 shan1 tai1 yuan2 qi4 ， ling2 yi4 sheng1 bu4 qiong2 。
+
+- shi4 tun1 wan4 xiang4 gao1 ， xiu4 duo2 wu3 yue4 xiong2 。
+
+- yi2 wang4 su2 lü4 xing3 ， zai4 deng1 xian1 yuan4 chong2 。
+
+- qing1 lian2 san1 ju1 shi4 ， zhou4 jing3 zhen1 shang3 tong2 。
+
+## 译文
+
+土地脊亚为崖，耸立在黑暗中。楼根插入尉迟迥说，殿翼翔危险空。前山胎元气，灵异生不穷。势吞万象高，秀夺五岳雄。一望俗虑醒，再次登上仙希望提高。三青莲居士，白天景真奖赏同。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+土地脊亚为崖，耸立在黑暗中。楼根插入尉迟迥说，殿翼翔危险空。前山胎元气，灵异生不穷。势吞万象高，秀夺五岳雄。一望俗虑醒，再次登上仙希望提高。三青莲居士，白天景真奖赏同。
+	* 此部分翻译来自AI，仅供参考

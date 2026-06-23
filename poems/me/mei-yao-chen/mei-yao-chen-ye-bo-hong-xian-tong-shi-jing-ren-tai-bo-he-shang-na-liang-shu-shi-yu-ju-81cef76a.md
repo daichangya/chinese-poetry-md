@@ -1,0 +1,45 @@
+---
+id: mei-yao-chen-ye-bo-hong-xian-tong-shi-jing-ren-tai-bo-he-shang-na-liang-shu-shi-yu-ju-81cef76a
+title: 夜泊虹县同施景仁太博河上纳凉书事
+author: 梅尧臣
+authorSlug: mei-yao-chen
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ye4 bo2 hong2 xian4 tong2 shi1 jing3 ren2 tai4 bo2 he2 shang4 na4 liang2 shu1 shi4
+authorPinyin: mei2 yao2 chen2
+dynastyPinyin: song4
+canonicalPoemId: 487000
+canonicalAuthorId: 1854
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 与君爱清风，移榻就明月。
+
+- 月落见星繁，星繁如昼热。
+
+- 沾衣轻露坠，响岸崩湍啮。
+
+- 坐思都城时，谁许脚不鞋。
+
+## 拼音
+
+- yu3 jun1 ai4 qing1 feng1 ， yi2 ta4 jiu4 ming2 yue4 。
+
+- yue4 luo4 jian4 xing1 fan2 ， xing1 fan2 ru2 zhou4 re4 。
+
+- zhan1 yi1 qing1 lu4 zhui4 ， xiang3 an4 beng1 tuan1 nie4 。
+
+- zuo4 si1 du1 cheng2 shi2 ， shui2 xu3 jiao3 bu4 xie2 。
+
+## 译文
+
+与你爱清风，移动床到第二个月。月落见星繁，星数繁多如白天热。沾衣轻露水坠，岸崩湍咬响。都城时坐着思考，谁允许脚不鞋。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+与你爱清风，移动床到第二个月。月落见星繁，星数繁多如白天热。沾衣轻露水坠，岸崩湍咬响。都城时坐着思考，谁允许脚不鞋。
+	* 此部分翻译来自AI，仅供参考

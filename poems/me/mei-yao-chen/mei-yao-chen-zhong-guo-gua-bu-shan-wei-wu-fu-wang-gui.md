@@ -1,0 +1,77 @@
+---
+id: mei-yao-chen-zhong-guo-gua-bu-shan-wei-wu-fu-wang-gui
+title: 重过瓜步山
+author: 梅尧臣
+authorSlug: mei-yao-chen
+dynasty: 宋
+dynastySlug: song
+titlePinyin: zhong4 guo4 gua1 bu4 shan1
+authorPinyin: mei2 yao2 chen2
+dynastyPinyin: song4
+canonicalPoemId: 486846
+canonicalAuthorId: 1854
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 魏武赋忘归，孤军处山顶。
+
+- 虽邻江上浦，凿岩山巅井。
+
+- 岂是欲劳兵，防患在萌颖。
+
+- 我昔常登临，徘徊爱晴景。
+
+- 片雨西北来，风雷变俄顷。
+
+- 疾行下危磴，屡脱不及整。
+
+- 沾濡入舟中，幼子喜抱颈。
+
+- 问我适何之，衣湿不太冷。
+
+- 昨暮泊其阳，月黑夜正永。
+
+- 雁从沙际鸣，旅枕自耿耿。
+
+- 平明夹橹去，庙树耸寒岭。
+
+- 举首生白云，飘摇水中影。
+
+## 拼音
+
+- wei4 wu3 fu4 wang4 gui1 ， gu1 jun1 chu4 shan1 ding3 。
+
+- sui1 lin2 jiang1 shang4 pu3 ， zao2 yan2 shan1 dian1 jing3 。
+
+- qi3 shi4 yu4 lao2 bing1 ， fang2 huan4 zai4 meng2 ying3 。
+
+- wo3 xi1 chang2 deng1 lin2 ， pai2 huai2 ai4 qing2 jing3 。
+
+- pian4 yu3 xi1 bei3 lai2 ， feng1 lei2 bian4 e2 qing3 。
+
+- ji2 xing2 xia4 wei1 deng4 ， lü3 tuo1 bu4 ji2 zheng3 。
+
+- zhan1 ru2 ru4 zhou1 zhong1 ， you4 zi3 xi3 bao4 jing3 。
+
+- wen4 wo3 shi4 he2 zhi1 ， yi1 shi1 bu2 tai4 leng3 。
+
+- zuo2 mu4 bo2 qi2 yang2 ， yue4 hei1 ye4 zheng4 yong3 。
+
+- yan4 cong2 sha1 ji4 ming2 ， lü3 zhen3 zi4 geng3 geng3 。
+
+- ping2 ming2 jia2 lu3 qu4 ， miao4 shu4 song3 han2 ling3 。
+
+- ju3 shou3 sheng1 bai2 yun2 ， piao1 yao2 shui3 zhong1 ying3 。
+
+## 译文
+
+魏武帝赋忘归，我军在山顶。虽然邻江上浦，凿岩山顶部井。难道是想慰劳军队，防患在萌芽颖。我过去常登临，徘徊在爱晴景。片雨西北来，风雷变化一会儿。快步走下陡石阶，屡次逃脱不到整。沾湿进船里，小儿子高兴地抱着他的脖子。问我刚才怎么了，衣服潮湿不太冷。昨天晚上停泊在阳，月黑夜正永。雁从沙土里鸣叫，旅枕自己耿耿于怀。黎明夹槽去，庙树高耸寒岭。举首生白云，飘摇水中影。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+魏武帝赋忘归，我军在山顶。虽然邻江上浦，凿岩山顶部井。难道是想慰劳军队，防患在萌芽颖。我过去常登临，徘徊在爱晴景。片雨西北来，风雷变化一会儿。快步走下陡石阶，屡次逃脱不到整。沾湿进船里，小儿子高兴地抱着他的脖子。问我刚才怎么了，衣服潮湿不太冷。昨天晚上停泊在阳，月黑夜正永。雁从沙土里鸣叫，旅枕自己耿耿于怀。黎明夹槽去，庙树高耸寒岭。举首生白云，飘摇水中影。
+	* 此部分翻译来自AI，仅供参考

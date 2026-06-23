@@ -1,0 +1,45 @@
+---
+id: mei-yao-chen-jiu-yue-er-shi-si-ri-da-feng-qiu-biao-wu-zong-ji-2
+title: 九月二十四日大风
+author: 梅尧臣
+authorSlug: mei-yao-chen
+dynasty: 宋
+dynastySlug: song
+titlePinyin: jiu3 yue4 er4 shi2 si4 ri4 da4 feng1
+authorPinyin: mei2 yao2 chen2
+dynastyPinyin: song4
+canonicalPoemId: 414110
+canonicalAuthorId: 1854
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 秋飚无踪迹，空中声奔驰。
+
+- 枯桑因已验，老病仍先知。
+
+- 惊沙入陂隙，危叶堕绿枝。
+
+- 幽怀聒不寐，山岳将恐移。
+
+## 拼音
+
+- qiu1 biao1 wu2 zong1 ji4 ， kong1 zhong1 sheng1 ben1 chi2 。
+
+- ku1 sang1 yin1 yi3 yan4 ， lao3 bing4 reng2 xian1 zhi1 。
+
+- jing1 sha1 ru4 bei1 xi4 ， wei1 ye4 duo4 lü4 zhi1 。
+
+- you1 huai2 guo1 bu2 mei4 ， shan1 yue4 jiang1 kong3 yi2 。
+
+## 译文
+
+秋枫无踪迹，空中声音奔驰。枯桑通过已经验证，老年病仍然先知。沙粒进入破裂缝，叶子堕入绿枝危险。幽怀不休不眠，山岳恐怕移。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+秋枫无踪迹，空中声音奔驰。枯桑通过已经验证，老年病仍然先知。沙粒进入破裂缝，叶子堕入绿枝危险。幽怀不休不眠，山岳恐怕移。
+	* 此部分翻译来自AI，仅供参考

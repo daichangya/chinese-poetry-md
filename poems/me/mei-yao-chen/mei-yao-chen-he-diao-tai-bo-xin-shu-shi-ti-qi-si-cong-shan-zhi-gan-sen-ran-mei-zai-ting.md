@@ -1,0 +1,37 @@
+---
+id: mei-yao-chen-he-diao-tai-bo-xin-shu-shi-ti-qi-si-cong-shan-zhi-gan-sen-ran-mei-zai-ting
+title: 和刁太博新墅十题其四丛杉
+author: 梅尧臣
+authorSlug: mei-yao-chen
+dynasty: 宋
+dynastySlug: song
+titlePinyin: he2 diao1 tai4 bo2 xin1 shu4 shi2 ti2 qi2 si4 cong2 shan1
+authorPinyin: mei2 yao2 chen2
+dynastyPinyin: song4
+canonicalPoemId: 486778
+canonicalAuthorId: 1854
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 植干森然美在庭，更怜相倚自青青。
+
+- 翠姿且有干云势，岂是孤生向远垧。
+
+## 拼音
+
+- zhi2 gan1 sen1 ran2 mei3 zai4 ting2 ， geng4 lian2 xiang1 yi3 zi4 qing1 qing1 。
+
+- cui4 zi1 qie3 you3 gan1 yun2 shi4 ， qi3 shi4 gu1 sheng1 xiang4 yuan3 shang3 。
+
+## 译文
+
+植物干森然美在庭院，更可怜相靠自己青青。翠姿态而且有干乌云，难道这是我生向远揩拭。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+植物干森然美在庭院，更可怜相靠自己青青。翠姿态而且有干乌云，难道这是我生向远揩拭。
+	* 此部分翻译来自AI，仅供参考

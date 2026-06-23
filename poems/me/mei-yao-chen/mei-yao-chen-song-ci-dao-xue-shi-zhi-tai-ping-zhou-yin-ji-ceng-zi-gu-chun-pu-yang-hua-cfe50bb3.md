@@ -1,0 +1,57 @@
+---
+id: mei-yao-chen-song-ci-dao-xue-shi-zhi-tai-ping-zhou-yin-ji-ceng-zi-gu-chun-pu-yang-hua-cfe50bb3
+title: 送次道学士知太平州因寄曾子固
+author: 梅尧臣
+authorSlug: mei-yao-chen
+dynasty: 宋
+dynastySlug: song
+titlePinyin: song4 ci4 dao4 xue2 shi4 zhi1 tai4 ping2 zhou1 yin1 ji4 ceng2 zi3 gu4
+authorPinyin: mei2 yao2 chen2
+dynastyPinyin: song4
+canonicalPoemId: 485814
+canonicalAuthorId: 1854
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 春浦杨花撩乱飞，春江𫚖鱼来正肥。
+
+- 采石新林儿女去，茭白蒲牙艇子归。
+
+- 归令煮鱼不得熟，已望使君船上矶。
+
+- 上矶亦不待潮应，争牵篾缆泥污衣。
+
+- 姑熟溪头槌大鼓，红抹鞋刀趋俯偻。
+
+- 牙兵可拟岸傍芦，森森甲立雄南土。
+
+- 更得西州谢法曹，新咏定多传乐府。
+
+## 拼音
+
+- chun1 pu3 yang2 hua1 liao2 luan4 fei1 ， chun1 jiang1 ci3 yu2 lai2 zheng4 fei2 。
+
+- cai3 shi2 xin1 lin2 er2 nü3 qu4 ， jiao1 bai2 pu2 ya2 ting3 zi3 gui1 。
+
+- gui1 ling4 zhu3 yu2 bu4 de2 shu2 ， yi3 wang4 shi3 jun1 chuan2 shang4 ji1 。
+
+- shang4 ji1 yi4 bu2 dai4 chao2 ying4 ， zheng1 qian1 mie4 lan3 ni2 wu1 yi1 。
+
+- gu1 shu2 xi1 tou2 chui2 da4 gu3 ， hong2 mo3 xie2 dao1 qu1 fu3 lü3 。
+
+- ya2 bing1 ke3 ni3 an4 bang4 lu2 ， sen1 sen1 jia3 li4 xiong2 nan2 tu3 。
+
+- geng4 de2 xi1 zhou1 xie4 fa3 cao2 ， xin1 yong3 ding4 duo1 chuan2 yue4 fu3 。
+
+## 译文
+
+春天浦杨花撩乱飞，春江紫鱼来正肥。采石新林儿女离开，茭白蒲牙艇你回家。回家让煮鱼不能成熟，已经看到使您的船上矶。上矶也不等待潮响应，争夺拉篾缆绳泥脏衣服。姑熟溪头槌大鼓，红色抹鞋刀去弯腰低头。牙兵可以模拟岸边芦苇，森森甲立雄南方。更得西州谢法曹，新咏定多传乐府。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+春天浦杨花撩乱飞，春江紫鱼来正肥。采石新林儿女离开，茭白蒲牙艇你回家。回家让煮鱼不能成熟，已经看到使您的船上矶。上矶也不等待潮响应，争夺拉篾缆绳泥脏衣服。姑熟溪头槌大鼓，红色抹鞋刀去弯腰低头。牙兵可以模拟岸边芦苇，森森甲立雄南方。更得西州谢法曹，新咏定多传乐府。
+	* 此部分翻译来自AI，仅供参考

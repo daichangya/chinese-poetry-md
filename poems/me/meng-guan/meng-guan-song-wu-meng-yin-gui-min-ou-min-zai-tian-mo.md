@@ -1,0 +1,45 @@
+---
+id: meng-guan-song-wu-meng-yin-gui-min-ou-min-zai-tian-mo
+title: 送吴梦訚归闽
+author: 孟贯
+authorSlug: meng-guan
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: song4 wu2 meng4 yin2 gui1 min3
+authorPinyin: meng4 guan4
+dynastyPinyin: tang2
+canonicalPoemId: 534722
+canonicalAuthorId: 5538
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 瓯闽在天末，此去整行衣。
+
+- 久客逢春尽，思家冒暑归。
+
+- 海云添晚景，山瘴灭晴晖。
+
+- 相忆吟偏苦，不堪书信稀。
+
+## 拼音
+
+- ou1 min3 zai4 tian1 mo4 ， ci3 qu4 zheng3 xing2 yi1 。
+
+- jiu3 ke4 feng2 chun1 jin4 ， si1 jia1 mao4 shu3 gui1 。
+
+- hai3 yun2 tian1 wan3 jing3 ， shan1 zhang4 mie4 qing2 hui1 。
+
+- xiang1 yi4 yin2 pian1 ku3 ， bu4 kan1 shu1 xin4 xi1 。
+
+## 译文
+
+瓯闽在天际，这是去整行穿。久客苏春尽，思家冒着酷暑回来。海说添晚景，山中瘴气灭晴晖。相忆吟偏苦，不能信稀。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+瓯闽在天际，这是去整行穿。久客苏春尽，思家冒着酷暑回来。海说添晚景，山中瘴气灭晴晖。相忆吟偏苦，不能信稀。
+	* 此部分翻译来自AI，仅供参考
