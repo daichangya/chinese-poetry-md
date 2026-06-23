@@ -1,0 +1,45 @@
+---
+id: zheng-xie-ai-su-ming-yun-feng-cheng-bao-jian-hu-fei-qu
+title: 哀苏明允
+author: 郑獬
+authorSlug: zheng-xie
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ai1 su1 ming2 yun3
+authorPinyin: zheng4 xie4
+dynastyPinyin: song4
+canonicalPoemId: 593785
+canonicalAuthorId: 5333
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 丰城宝剑忽飞去，玉匣灵踪自此无。
+
+- 天外已空丹凤穴，世间还得二龙驹。
+
+- 百年飘忽古无奈，万事凋零今已殊。
+
+- 惆怅西州文学老，一丘空掩蜀山隅。
+
+## 拼音
+
+- feng1 cheng2 bao3 jian4 hu1 fei1 qu4 ， yu4 xia2 ling2 zong1 zi4 ci3 wu2 。
+
+- tian1 wai4 yi3 kong1 dan1 feng4 xue2 ， shi4 jian1 hai2 de2 er4 long2 ju1 。
+
+- bai3 nian2 piao1 hu1 gu3 wu2 nai4 ， wan4 shi4 diao1 ling2 jin1 yi3 shu1 。
+
+- chou2 chang4 xi1 zhou1 wen2 xue2 lao3 ， yi4 qiu1 kong1 yan3 shu3 shan1 yu2 。
+
+## 译文
+
+丰城宝剑忽然飞离，玉匣灵踪迹从此没有。天外已空丹凤洞穴，世上还得到两条龙小马。百年飘忽古无奈，万事万物凋零现在已不同。惆怅西州文学老，一丘空掩蜀山角。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+丰城宝剑忽然飞离，玉匣灵踪迹从此没有。天外已空丹凤洞穴，世上还得到两条龙小马。百年飘忽古无奈，万事万物凋零现在已不同。惆怅西州文学老，一丘空掩蜀山角。
+	* 此部分翻译来自AI，仅供参考

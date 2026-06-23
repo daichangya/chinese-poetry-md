@@ -1,0 +1,45 @@
+---
+id: zhong-bing-sui-wan-bo-gu-su-yong-lu-ju-ren-she-ren-yun-er-shou-ji-meng-xin-an-shui--a29bd665
+title: 岁晚泊姑苏用吕居仁舍人韵二首寄孟信安
+author: 仲并
+authorSlug: zhong-bing
+dynasty: 宋
+dynastySlug: song
+titlePinyin: sui4 wan3 bo2 gu1 su1 yong4 lü3 ju1 ren2 she4 ren2 yun4 er4 shou3 ji4 meng4 xin4 an1
+authorPinyin: zhong4 bing4
+dynastyPinyin: song4
+canonicalPoemId: 614780
+canonicalAuthorId: 6520
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 睡稳窗迟晓，愁多鬓易秋。
+
+- 祗堪浮小艇，不拟上西楼。
+
+- 无尽江山景，须陪杖屦游。
+
+- 一区何日办，孰为我公留。
+
+## 拼音
+
+- shui4 wen3 chuang1 chi2 xiao3 ， chou2 duo1 bin4 yi4 qiu1 。
+
+- zhi1 kan1 fu2 xiao3 ting3 ， bu4 ni3 shang4 xi1 lou2 。
+
+- wu2 jin4 jiang1 shan1 jing3 ， xu1 pei2 zhang4 ju4 you2 。
+
+- yi4 qu1 he2 ri4 ban4 ， shu2 wei4 wo3 gong1 liu2 。
+
+## 译文
+
+睡安稳窗慢懂，很多头发易秋愁。祗能浮小艇，不打算上西楼。无尽江山风景，要陪着鞋游。一区什么时候办，谁为我公留。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+睡安稳窗慢懂，很多头发易秋愁。祗能浮小艇，不打算上西楼。无尽江山风景，要陪着鞋游。一区什么时候办，谁为我公留。
+	* 此部分翻译来自AI，仅供参考

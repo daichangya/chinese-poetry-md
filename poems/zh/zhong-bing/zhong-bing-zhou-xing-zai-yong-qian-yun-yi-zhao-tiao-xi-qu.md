@@ -1,0 +1,45 @@
+---
+id: zhong-bing-zhou-xing-zai-yong-qian-yun-yi-zhao-tiao-xi-qu
+title: 舟行再用前韵
+author: 仲并
+authorSlug: zhong-bing
+dynasty: 宋
+dynastySlug: song
+titlePinyin: zhou1 xing2 zai4 yong4 qian2 yun4
+authorPinyin: zhong4 bing4
+dynastyPinyin: song4
+canonicalPoemId: 614754
+canonicalAuthorId: 6520
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 一棹苕溪去，千门榆火新。
+
+- 老来犹是客，病起怯逢春。
+
+- 儒馆妙人物，吟毫泣鬼社。
+
+- 平生经济业，勉矣正逢辰。
+
+## 拼音
+
+- yi2 zhao4 tiao2 xi1 qu4 ， qian1 men2 yu2 huo3 xin1 。
+
+- lao3 lai2 you2 shi4 ke4 ， bing4 qi3 qie4 feng2 chun1 。
+
+- ru2 guan3 miao4 ren2 wu4 ， yin2 hao2 qi4 gui3 she4 。
+
+- ping2 sheng1 jing1 ji4 ye4 ， mian3 yi3 zheng4 feng2 chen2 。
+
+## 译文
+
+一桌苕溪离开，千门榆火新。老来就像是客人，病起怯逢春。儒馆妙人物，吟诵丝毫哭鬼社。平生经济产业，努力了正逢辰。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+一桌苕溪离开，千门榆火新。老来就像是客人，病起怯逢春。儒馆妙人物，吟诵丝毫哭鬼社。平生经济产业，努力了正逢辰。
+	* 此部分翻译来自AI，仅供参考

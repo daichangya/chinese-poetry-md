@@ -1,0 +1,45 @@
+---
+id: zhong-bing-song-quan-zhou-zhou-shang-shu-shen-wai-cong-fen-ruo
+title: 送泉州周尚书
+author: 仲并
+authorSlug: zhong-bing
+dynasty: 宋
+dynastySlug: song
+titlePinyin: song4 quan2 zhou1 zhou1 shang4 shu1
+authorPinyin: zhong4 bing4
+dynastyPinyin: song4
+canonicalPoemId: 475245
+canonicalAuthorId: 6520
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 身外从纷若，胸中固卓然。
+
+- 险夷唯故步，舒卷只遗编。
+
+- 锦绣文千段，珠玑诗几联。
+
+- 我公今逾健，笔力敌中年。
+
+## 拼音
+
+- shen1 wai4 cong2 fen1 ruo4 ， xiong1 zhong1 gu4 zhuo2 ran2 。
+
+- xian3 yi2 wei2 gu4 bu4 ， shu1 juan4 zhi1 yi2 bian1 。
+
+- jin3 xiu4 wen2 qian1 duan4 ， zhu1 ji1 shi1 ji3 lian2 。
+
+- wo3 gong1 jin1 yu2 jian4 ， bi3 li4 di2 zhong1 nian2 。
+
+## 译文
+
+身体外从纠纷如果，胸中坚持卓越。险阻只所以步，舒卷只遗编。锦绣文章千段，珍珠诗几乎联。我公现在越健康，笔力敌方年。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+身体外从纠纷如果，胸中坚持卓越。险阻只所以步，舒卷只遗编。锦绣文章千段，珍珠诗几乎联。我公现在越健康，笔力敌方年。
+	* 此部分翻译来自AI，仅供参考
