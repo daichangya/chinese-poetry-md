@@ -1,0 +1,65 @@
+---
+id: zhong-shu-nian-nu-jiao-shou-wu-shu-jian-yan-ling-fu-xu-2
+title: 念奴娇（寿吴书监）
+author: 仲殊
+authorSlug: zhong-shu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: nian4 nu2 jiao1 （ shou4 wu2 shu1 jian1 ）
+authorPinyin: zhong4 shu1
+dynastyPinyin: song4
+canonicalPoemId: 520214
+canonicalAuthorId: 11847
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 延陵福绪，蔼遗芳余庆，直至如今。
+
+- 帝锡朋龟曾献策，早揖丹桂华簪。
+
+- 一代荣名，三州遗爱，留入歌吟。
+
+- 归来湖山付得，依旧闲心。
+
+- 延赏报德推封。
+
+- 名迁书临，喜天恩垂临。
+
+- 拜舞龙香迁注想，丹阙拖紫垂金。
+
+- 酒满霞觞，期君眉寿，千岁与披衿。
+
+- 年年风月，两行门外桐阴。
+
+## 拼音
+
+- yan2 ling2 fu2 xu4 ， ai3 yi2 fang1 yu2 qing4 ， zhi2 zhi4 ru2 jin1 。
+
+- di4 xi1 peng2 gui1 ceng2 xian4 ce4 ， zao3 yi1 dan1 gui4 hua2 zan1 。
+
+- yi2 dai4 rong2 ming2 ， san1 zhou1 yi2 ai4 ， liu2 ru4 ge1 yin2 。
+
+- gui1 lai2 hu2 shan1 fu4 de2 ， yi1 jiu4 xian2 xin1 。
+
+- yan2 shang3 bao4 de2 tui1 feng1 。
+
+- ming2 qian1 shu1 lin2 ， xi3 tian1 en1 chui2 lin2 。
+
+- bai4 wu3 long2 xiang1 qian1 zhu4 xiang3 ， dan1 que1 tuo1 zi3 chui2 jin1 。
+
+- jiu3 man3 xia2 shang1 ， qi1 jun1 mei2 shou4 ， qian1 sui4 yu3 pi1 jin1 。
+
+- nian2 nian2 feng1 yue4 ， liang3 hang2 men2 wai4 tong2 yin1 。
+
+## 译文
+
+延陵福业，乐蔼遗芳余庆，直到现在。上帝赐与龟曾献计献策，早揖丹桂华簪。一代荣耀，三州遗留，留到歌唱。归来湖山付得，依旧在心里。张延赏报德推封。名为书临，喜欢施恩垂临。拜舞龙香升注想，丹阙拖紫垂金。酒满霞酒，期待你长寿，千年和敞开衣襟。年年风月，两行门外桐阴。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+延陵福业，乐蔼遗芳余庆，直到现在。上帝赐与龟曾献计献策，早揖丹桂华簪。一代荣耀，三州遗留，留到歌唱。归来湖山付得，依旧在心里。张延赏报德推封。名为书临，喜欢施恩垂临。拜舞龙香升注想，丹阙拖紫垂金。酒满霞酒，期待你长寿，千年和敞开衣襟。年年风月，两行门外桐阴。
+	* 此部分翻译来自AI，仅供参考

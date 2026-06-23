@@ -1,0 +1,35 @@
+---
+id: zhou-wen-pu-wan-zheng-zi-nan-zhong-si-shou-qi-san-zhu-bi-fang-hui-yao
+title: 挽正字南仲四首 其三
+author: 周文璞
+authorSlug: zhou-wen-pu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: wan3 zheng4 zi4 nan2 zhong4 si4 shou3   qi2 san1
+authorPinyin: zhou1 wen2 pu2
+dynastyPinyin: song4
+canonicalPoemId: 454200
+canonicalAuthorId: 3091
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 珠璧方辉耀，菁华未寂寥。
+
+- 极知身作祟，何用食为妖。
+
+- 牺象收儒庙，箫笳咽市桥。
+
+- 伤心纱帽冷，三径雨潇潇。
+
+## 拼音
+
+- zhu1 bi4 fang1 hui1 yao4 ， jing1 hua2 wei4 ji4 liao2 。
+
+- ji2 zhi1 shen1 zuo4 sui4 ， he2 yong4 shi2 wei4 yao1 。
+
+- xi1 xiang4 shou1 ru2 miao4 ， xiao1 jia1 yan4 shi4 qiao2 。
+
+- shang1 xin1 sha1 mao4 leng3 ， san1 jing4 yu3 xiao1 xiao1 。

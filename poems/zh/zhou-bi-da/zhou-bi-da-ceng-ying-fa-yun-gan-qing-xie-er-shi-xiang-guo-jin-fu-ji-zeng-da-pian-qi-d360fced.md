@@ -1,0 +1,45 @@
+---
+id: zhou-bi-da-ceng-ying-fa-yun-gan-qing-xie-er-shi-xiang-guo-jin-fu-ji-zeng-da-pian-qi-d360fced
+title: 曾英发运干顷携二诗相过今复寄赠大篇且惠汉
+author: 周必大
+authorSlug: zhou-bi-da
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ceng2 ying1 fa1 yun4 gan1 qing3 xie2 er4 shi1 xiang1 guo4 jin1 fu4 ji4 zeng4 da4 pian1 qie3 hui4 han4
+authorPinyin: zhou1 bi4 da4
+dynastyPinyin: song4
+canonicalPoemId: 566265
+canonicalAuthorId: 4680
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 屡空不拟论钱神，多病惟思对药臣。
+
+- 骤获断碑胜与缟，徐观妙语可书绅。
+
+- 起予字字兴三叹，集古骎骎访九垠。
+
+- 欲寄佳州选何物，折杨聊复和韶钧。
+
+## 拼音
+
+- lü3 kong1 bu4 ni3 lun4 qian2 shen2 ， duo1 bing4 wei2 si1 dui4 yao4 chen2 。
+
+- zhou4 huo4 duan4 bei1 sheng4 yu3 gao3 ， xu2 guan1 miao4 yu3 ke3 shu1 shen1 。
+
+- qi3 yu3 zi4 zi4 xing1 san1 tan4 ， ji2 gu3 qin1 qin1 fang3 jiu3 yin2 。
+
+- yu4 ji4 jia1 zhou1 xuan3 he2 wu4 ， zhe2 yang2 liao2 fu4 he2 shao2 jun1 。
+
+## 译文
+
+多次空不拟讨论钱神，多病思考回答药我。突然获得断碑胜和白色，徐观妙语可以书绅。起我每个字兴三叹，集古代骎骎寻访九垠。想寄好州选什么，我也和音乐一样折杨。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+多次空不拟讨论钱神，多病思考回答药我。突然获得断碑胜和白色，徐观妙语可以书绅。起我每个字兴三叹，集古代骎骎寻访九垠。想寄好州选什么，我也和音乐一样折杨。
+	* 此部分翻译来自AI，仅供参考

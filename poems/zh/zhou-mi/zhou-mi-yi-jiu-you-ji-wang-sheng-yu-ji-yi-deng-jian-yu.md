@@ -1,0 +1,61 @@
+---
+id: zhou-mi-yi-jiu-you-ji-wang-sheng-yu-ji-yi-deng-jian-yu
+title: 忆旧游（寄王圣与）
+author: 周密
+authorSlug: zhou-mi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: yi4 jiu4 you2 （ ji4 wang2 sheng4 yu3 ）
+authorPinyin: zhou1 mi4
+dynastyPinyin: song4
+canonicalPoemId: 356920
+canonicalAuthorId: 11701
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 记移灯翦雨，换火篝香，去岁今朝。
+
+- 乍见翻疑梦，向梅边携手，笑挽吟桡。
+
+- 依依故人情味，歌舞试春娇。
+
+- 对婉娩年芳，漂零身世，酒趁愁消。
+
+- 天涯未归客，望锦羽沈沈，翠水迢迢。
+
+- 叹菊荒薇老，负故人猿鹤，旧隐谁招。
+
+- 疏花温撩愁思，无句到寒梢。
+
+- 但梦绕西泠，空江冷月，魂断随潮。
+
+## 拼音
+
+- ji4 yi2 deng1 jian3 yu3 ， huan4 huo3 gou1 xiang1 ， qu4 sui4 jin1 chao2 。
+
+- zha4 jian4 fan1 yi2 meng4 ， xiang4 mei2 bian1 xie2 shou3 ， xiao4 wan3 yin2 rao2 。
+
+- yi1 yi1 gu4 ren2 qing2 wei4 ， ge1 wu3 shi4 chun1 jiao1 。
+
+- dui4 wan3 mian3 nian2 fang1 ， piao1 ling2 shen1 shi4 ， jiu3 chen4 chou2 xiao1 。
+
+- tian1 ya2 wei4 gui1 ke4 ， wang4 jin3 yu3 shen3 shen3 ， cui4 shui3 tiao2 tiao2 。
+
+- tan4 ju2 huang1 wei1 lao3 ， fu4 gu4 ren2 yuan2 he4 ， jiu4 yin3 shui2 zhao1 。
+
+- shu1 hua1 wen1 liao2 chou2 si1 ， wu2 ju4 dao4 han2 shao1 。
+
+- dan4 meng4 rao4 xi1 ling2 ， kong1 jiang1 leng3 yue4 ， hun2 duan4 sui2 chao2 。
+
+## 译文
+
+记得把灯剪下，换火点燃香，去年今朝。忽见反而怀疑梦，向梅边携手，笑着挽吟桡。依依因此人情味，歌舞试春娇。回答温柔分娩年芳，漂飘零的身世，酒趁愁消。天涯不回去的客人，望锦羽沉沉，翡翠水迢迢。叹菊荒薇老，负故人猿鹤，旧隐谁招。稀疏温撩愁思，无句到寒梢。只是梦绕西冷，江月空冷，魂断随潮。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+记得把灯剪下，换火点燃香，去年今朝。忽见反而怀疑梦，向梅边携手，笑着挽吟桡。依依因此人情味，歌舞试春娇。回答温柔分娩年芳，漂飘零的身世，酒趁愁消。天涯不回去的客人，望锦羽沉沉，翡翠水迢迢。叹菊荒薇老，负故人猿鹤，旧隐谁招。稀疏温撩愁思，无句到寒梢。只是梦绕西冷，江月空冷，魂断随潮。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,35 @@
+---
+id: zhou-mi-wan-wu-cheng-wu-er-shou-qi-er-dao-yi-zhen-kan-gui
+title: 挽吴承务二首 其二
+author: 周密
+authorSlug: zhou-mi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: wan3 wu2 cheng2 wu4 er4 shou3   qi2 er4
+authorPinyin: zhou1 mi4
+dynastyPinyin: song4
+canonicalPoemId: 455552
+canonicalAuthorId: 11701
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 道义真堪贵，弓旌不受招。
+
+- 五全洪范福，四见太平朝。
+
+- 问绝趋庭对，愁闻祖道箫。
+
+- 哀荣无一憾，丰碣在山椒。
+
+## 拼音
+
+- dao4 yi4 zhen1 kan1 gui4 ， gong1 jing1 bu2 shou4 zhao1 。
+
+- wu3 quan2 hong2 fan4 fu2 ， si4 jian4 tai4 ping2 chao2 。
+
+- wen4 jue2 qu1 ting2 dui4 ， chou2 wen2 zu3 dao4 xiao1 。
+
+- ai1 rong2 wu2 yi2 han4 ， feng1 jie2 zai4 shan1 jiao1 。

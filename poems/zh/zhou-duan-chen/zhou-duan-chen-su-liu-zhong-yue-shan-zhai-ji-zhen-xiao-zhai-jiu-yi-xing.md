@@ -1,0 +1,35 @@
+---
+id: zhou-duan-chen-su-liu-zhong-yue-shan-zhai-ji-zhen-xiao-zhai-jiu-yi-xing
+title: 宿刘仲悦山斋
+author: 周端臣
+authorSlug: zhou-duan-chen
+dynasty: 宋
+dynastySlug: song
+titlePinyin: su4 liu2 zhong4 yue4 shan1 zhai1
+authorPinyin: zhou1 duan1 chen2
+dynastyPinyin: song4
+canonicalPoemId: 471061
+canonicalAuthorId: 12334
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 攲枕萧斋酒易醒，夜来愁杀庾兰成。
+
+- 一窗明月人无寐，满地落花春薄情。
+
+- 隔屋有山云气冷，傍檐多竹鸟声清。
+
+- 如君得此闲居趣，未羡人间利禄荣。
+
+## 拼音
+
+- ji1 zhen3 xiao1 zhai1 jiu3 yi4 xing3 ， ye4 lai2 chou2 sha1 yu3 lan2 cheng2 。
+
+- yi4 chuang1 ming2 yue4 ren2 wu2 mei4 ， man3 di4 luo4 hua1 chun1 bo2 qing2 。
+
+- ge2 wu1 you3 shan1 yun2 qi4 leng3 ， bang4 yan2 duo1 zhu2 niao3 sheng1 qing1 。
+
+- ru2 jun1 de2 ci3 xian2 ju1 qu4 ， wei4 xian4 ren2 jian1 li4 lu4 rong2 。

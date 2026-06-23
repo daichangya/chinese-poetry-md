@@ -1,0 +1,41 @@
+---
+id: zhou-wen-pu-fen-meng-quan-tou-de-liang-hong-qing
+title: 分梦泉
+author: 周文璞
+authorSlug: zhou-wen-pu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: fen1 meng4 quan2
+authorPinyin: zhou1 wen2 pu2
+dynastyPinyin: song4
+canonicalPoemId: 454095
+canonicalAuthorId: 3091
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 偷得两泓清，同他猿鸟吃。
+
+- 上下泉边身，上下床上客。
+
+- 相对各相忘，山中小花白。
+
+## 拼音
+
+- tou1 de2 liang3 hong2 qing1 ， tong2 ta1 yuan2 niao3 chi1 。
+
+- shang4 xia4 quan2 bian1 shen1 ， shang4 xia4 chuang2 shang4 ke4 。
+
+- xiang1 dui4 ge4 xiang1 wang4 ， shan1 zhong1 xiao3 hua1 bai2 。
+
+## 译文
+
+苟得两泓清，同其他猿鸟吃。上下泉边身，上下床上客。相对各自相忘，山中小花白。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+苟得两泓清，同其他猿鸟吃。上下泉边身，上下床上客。相对各自相忘，山中小花白。
+	* 此部分翻译来自AI，仅供参考

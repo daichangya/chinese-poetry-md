@@ -1,0 +1,77 @@
+---
+id: zhou-mi-qiu-ji-gan-sui-hua-zhi-yao-luo
+title: 秋霁
+author: 周密
+authorSlug: zhou-mi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: qiu1 ji4
+authorPinyin: zhou1 mi4
+dynastyPinyin: song4
+canonicalPoemId: 358230
+canonicalAuthorId: 11701
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 感岁华之摇落，不能不以之兴怀也。
+
+- 酒阑日暮，怃然成章。
+
+- 重到西泠，记芳园载酒，画船横笛。
+
+- 水曲芙蓉，渚边鸥鹭，依依似曾相识。
+
+- 年芳易失。
+
+- 段桥几换垂杨色。
+
+- 谩自惜。
+
+- 愁损庚郎，霜点鬓华白。
+
+- 残蛩露草，怨蝶寒花，转眼西风，又成陈迹。
+
+- 叹如今、才消量减，尊前孤负醉吟笔。
+
+- 欲寄远情秋水隔。
+
+- 旧游空在，凭高望极斜阳，乱山浮紫，暮云凝碧。
+
+## 拼音
+
+- gan3 sui4 hua2 zhi1 yao2 luo4 ， bu4 neng2 bu4 yi3 zhi1 xing1 huai2 ye3 。
+
+- jiu3 lan2 ri4 mu4 ， wu3 ran2 cheng2 zhang1 。
+
+- zhong4 dao4 xi1 ling2 ， ji4 fang1 yuan2 zai3 jiu3 ， hua4 chuan2 heng2 di2 。
+
+- shui3 qu3 fu2 rong2 ， zhu3 bian1 ou1 lu4 ， yi1 yi1 si4 ceng2 xiang1 shi2 。
+
+- nian2 fang1 yi4 shi1 。
+
+- duan4 qiao2 ji3 huan4 chui2 yang2 se4 。
+
+- man4 zi4 xi1 。
+
+- chou2 sun3 geng1 lang2 ， shuang1 dian3 bin4 hua2 bai2 。
+
+- can2 qiong2 lu4 cao3 ， yuan4 die2 han2 hua1 ， zhuan3 yan3 xi1 feng1 ， you4 cheng2 chen2 ji4 。
+
+- tan4 ru2 jin1 、 cai2 xiao1 liang2 jian3 ， zun1 qian2 gu1 fu4 zui4 yin2 bi3 。
+
+- yu4 ji4 yuan3 qing2 qiu1 shui3 ge2 。
+
+- jiu4 you2 kong1 zai4 ， ping2 gao1 wang4 ji2 xie2 yang2 ， luan4 shan1 fu2 zi3 ， mu4 yun2 ning2 bi4 。
+
+## 译文
+
+感谢一年花的凋零，不能不认为的情怀啊。酒阑天黑，失望生动。重到西冷，记芳园载酒，在船横笛。水曲芙蓉，渚边鸥鹭，依依似曾相识。年芳易失。段桥几乎换垂杨颜色。谩爱惜自己。愁损十七郎，点鬓霜华白。残蛩露草，埋怨蝴蝶寒花，转眼西风，又成为陈足迹。叹如今，才能消量减少，尊前我背着醉吟笔。想寄远情秋水隔。旧游空在，凭高绝望斜阳，乱山浮紫，暮云凝碧。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+感谢一年花的凋零，不能不认为的情怀啊。酒阑天黑，失望生动。重到西冷，记芳园载酒，在船横笛。水曲芙蓉，渚边鸥鹭，依依似曾相识。年芳易失。段桥几乎换垂杨颜色。谩爱惜自己。愁损十七郎，点鬓霜华白。残蛩露草，埋怨蝴蝶寒花，转眼西风，又成为陈足迹。叹如今，才能消量减少，尊前我背着醉吟笔。想寄远情秋水隔。旧游空在，凭高绝望斜阳，乱山浮紫，暮云凝碧。
+	* 此部分翻译来自AI，仅供参考

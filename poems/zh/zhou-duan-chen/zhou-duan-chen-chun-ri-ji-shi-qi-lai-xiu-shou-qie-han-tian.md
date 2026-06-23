@@ -1,0 +1,35 @@
+---
+id: zhou-duan-chen-chun-ri-ji-shi-qi-lai-xiu-shou-qie-han-tian
+title: 春日即事
+author: 周端臣
+authorSlug: zhou-duan-chen
+dynasty: 宋
+dynastySlug: song
+titlePinyin: chun1 ri4 ji2 shi4
+authorPinyin: zhou1 duan1 chen2
+dynastyPinyin: song4
+canonicalPoemId: 471141
+canonicalAuthorId: 12334
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 起来袖手怯寒添，冷落文楸掩玉奁。
+
+- 燕子池塘春雨细，杏花庭院晓风尖。
+
+- 酒酲未解便欹枕，香炷初党密下帘。
+
+- 百五数来能几日，黄金柳色已侵帘。
+
+## 拼音
+
+- qi3 lai2 xiu4 shou3 qie4 han2 tian1 ， leng3 luo4 wen2 qiu1 yan3 yu4 lian2 。
+
+- yan4 zi0 chi2 tang2 chun1 yu3 xi4 ， xing4 hua1 ting2 yuan4 xiao3 feng1 jian1 。
+
+- jiu3 cheng2 wei4 jie3 bian4 qi1 zhen3 ， xiang1 zhu4 chu1 dang3 mi4 xia4 lian2 。
+
+- bai3 wu3 shu4 lai2 neng2 ji3 ri4 ， huang2 jin1 liu3 se4 yi3 qin1 lian2 。

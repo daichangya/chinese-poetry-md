@@ -1,0 +1,37 @@
+---
+id: zhou-wen-pu-chu-bai-xia-nan-chao-jin-yu-xi-yang-ming-2
+title: 出白下
+author: 周文璞
+authorSlug: zhou-wen-pu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: chu1 bai2 xia4
+authorPinyin: zhou1 wen2 pu2
+dynastyPinyin: song4
+canonicalPoemId: 454316
+canonicalAuthorId: 3091
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 南朝禁篽夕阳明，犹与游人作队行。
+
+- 烟满天渊池上路，菜花黄尽绿阴成。
+
+## 拼音
+
+- nan2 chao2 jin4 yu4 xi1 yang2 ming2 ， you2 yu3 you2 ren2 zuo4 dui4 xing2 。
+
+- yan1 man3 tian1 yuan1 chi2 shang4 lu4 ， cai4 hua1 huang2 jin4 lü4 yin1 cheng2 。
+
+## 译文
+
+南朝禁泡沼禁苑夕阳，还与游人作队行。烟满天渊池上路，菜花黄到绿阴成。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+南朝禁泡沼禁苑夕阳，还与游人作队行。烟满天渊池上路，菜花黄到绿阴成。
+	* 此部分翻译来自AI，仅供参考

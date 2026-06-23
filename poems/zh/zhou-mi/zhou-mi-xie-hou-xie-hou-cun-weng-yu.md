@@ -1,0 +1,35 @@
+---
+id: zhou-mi-xie-hou-xie-hou-cun-weng-yu
+title: 邂逅
+author: 周密
+authorSlug: zhou-mi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: xie4 hou4
+authorPinyin: zhou1 mi4
+dynastyPinyin: song4
+canonicalPoemId: 455476
+canonicalAuthorId: 11701
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 邂逅村翁语，停筇古柳边。
+
+- 相邀茅舍坐，自摘野茶煎。
+
+- 桑已抽三叶，蚕将及两眠。
+
+- 绿蓑烟雨足，我欲赋归田。
+
+## 拼音
+
+- xie4 hou4 cun1 weng1 yu3 ， ting2 qiong2 gu3 liu3 bian1 。
+
+- xiang1 yao1 mao2 she4 zuo4 ， zi4 zhai1 ye3 cha2 jian1 。
+
+- sang1 yi3 chou1 san1 ye4 ， can2 jiang1 ji2 liang3 mian2 。
+
+- lü4 suo1 yan1 yu3 zu2 ， wo3 yu4 fu4 gui1 tian2 。

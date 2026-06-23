@@ -1,0 +1,45 @@
+---
+id: zhou-bi-da-song-rui-guo-qi-cha-yuan-cao-guang-dong-xing-ju-ceng-zun-de
+title: 送芮国器察院漕广东
+author: 周必大
+authorSlug: zhou-bi-da
+dynasty: 宋
+dynastySlug: song
+titlePinyin: song4 rui4 guo2 qi4 cha2 yuan4 cao2 guang3 dong1
+authorPinyin: zhou1 bi4 da4
+dynastyPinyin: song4
+canonicalPoemId: 566143
+canonicalAuthorId: 4680
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 星聚曾尊德，箕张客避风。
+
+- 别离双鬓异，邂逅一尊同。
+
+- 五岭皇华使，扁舟渔钓翁。
+
+- 江分鸿不到，书札若为通。
+
+## 拼音
+
+- xing1 ju4 ceng2 zun1 de2 ， ji1 zhang1 ke4 bi4 feng1 。
+
+- bie2 li2 shuang1 bin4 yi4 ， xie4 hou4 yi4 zun1 tong2 。
+
+- wu3 ling3 huang2 hua2 shi3 ， pian1 zhou1 yu2 diao4 weng1 。
+
+- jiang1 fen1 hong2 bu2 dao4 ， shu1 zha2 ruo4 wei4 tong1 。
+
+## 译文
+
+星聚集曾尊德，箕张客人避风。分离双鬓不同，邂逅一尊同。五岭皇华派，小船钓鱼翁。江分大不到，书法或是通。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+星聚集曾尊德，箕张客人避风。分离双鬓不同，邂逅一尊同。五岭皇华派，小船钓鱼翁。江分大不到，书法或是通。
+	* 此部分翻译来自AI，仅供参考

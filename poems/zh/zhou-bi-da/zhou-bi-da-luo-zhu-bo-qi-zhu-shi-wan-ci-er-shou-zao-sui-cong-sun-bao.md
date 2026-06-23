@@ -1,0 +1,45 @@
+---
+id: zhou-bi-da-luo-zhu-bo-qi-zhu-shi-wan-ci-er-shou-zao-sui-cong-sun-bao
+title: 罗主簿妻朱氏挽词二首
+author: 周必大
+authorSlug: zhou-bi-da
+dynasty: 宋
+dynastySlug: song
+titlePinyin: luo2 zhu3 bo2 qi1 zhu1 shi4 wan3 ci2 er4 shou3
+authorPinyin: zhou1 bi4 da4
+dynastyPinyin: song4
+canonicalPoemId: 565495
+canonicalAuthorId: 4680
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 早岁从孙宝，中年训孟轲。
+
+- 节高资内助，机断激儒歌。
+
+- 枳棘鸾先逝，云霄鹤正摩。
+
+- 即看膺命服，何遽掩卷阿。
+
+## 拼音
+
+- zao3 sui4 cong2 sun1 bao3 ， zhong1 nian2 xun4 meng4 ke1 。
+
+- jie2 gao1 zi1 nei4 zhu4 ， ji1 duan4 ji1 ru2 ge1 。
+
+- zhi3 ji2 luan2 xian1 shi4 ， yun2 xiao1 he4 zheng4 mo2 。
+
+- ji2 kan4 ying1 ming4 fu2 ， he2 ju4 yan3 juan4 a1 。
+
+## 译文
+
+早年从孙宝，中年训孟轲。节高资本内帮助，决断激儒歌。枳棘鸾先逝，云霄鹤正摩。就看胸命服，怎么就突然卷阿。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+早年从孙宝，中年训孟轲。节高资本内帮助，决断激儒歌。枳棘鸾先逝，云霄鹤正摩。就看胸命服，怎么就突然卷阿。
+	* 此部分翻译来自AI，仅供参考
