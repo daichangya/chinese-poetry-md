@@ -1,0 +1,57 @@
+---
+id: xiang-zi-yin-mo-shan-xi-wang-ming-zhi-qu-xiang-lin-yi-zhi-shi-shu-zi-ge-zhi-gua-guan-shen-wu
+title: 蓦山溪（王明之曲，芗林易置十数字歌之）
+author: 向子𬤇
+authorSlug: xiang-zi-yin
+dynasty: 宋
+dynastySlug: song
+titlePinyin: mo4 shan1 xi1 （ wang2 ming2 zhi1 qu3 ， xiang1 lin2 yi4 zhi4 shi2 shu4 zi4 ge1 zhi1 ）
+authorPinyin: xiang4 zi3 yin1
+dynastyPinyin: song4
+canonicalPoemId: 407548
+canonicalAuthorId: 11598
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 挂冠神武。
+
+- 来作烟波主。
+
+- 千里好江山，都尽是，君恩赐与。
+
+- 风勾月引，催上泛宅时，酒倾玉，鲙堆雪，总道神仙侣。
+
+- 蓑衣箬笠，更着些儿雨。
+
+- 横笛两三声，晚云中、惊鸥来去。
+
+- 欲烦妙手，写入散人图，蜗角名，蝇头利，着甚来由顾。
+
+## 拼音
+
+- gua4 guan1 shen2 wu3 。
+
+- lai2 zuo4 yan1 bo1 zhu3 。
+
+- qian1 li3 hao3 jiang1 shan1 ， dou1 jin4 shi4 ， jun1 en1 ci4 yu3 。
+
+- feng1 gou1 yue4 yin3 ， cui1 shang4 fan4 zhai2 shi2 ， jiu3 qing1 yu4 ， kuai4 dui1 xue3 ， zong3 dao4 shen2 xian1 lü3 。
+
+- suo1 yi1 ruo4 li4 ， geng4 zhe0 xie1 er2 yu3 。
+
+- heng2 di2 liang3 san1 sheng1 ， wan3 yun2 zhong1 、 jing1 ou1 lai2 qu4 。
+
+- yu4 fan2 miao4 shou3 ， xie3 ru4 san4 ren2 tu2 ， wo1 jiao3 ming2 ， ying2 tou2 li4 ， zhe0 shen4 lai2 you2 gu4 。
+
+## 译文
+
+挂戴神。来作烟波主。千里爱江山，全部都是，你的恩情赐与。风勾月引，催上泛房子时，酒倾玉，鱼末子堆雪，总道神仙伴侣。蓑衣箬笠，再着些儿雨。横笛两三声，晚云中、惊鸥来了。想麻烦妙手，写进散人图，蜗角名，蝇头利，穿什么来从顾。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+挂戴神。来作烟波主。千里爱江山，全部都是，你的恩情赐与。风勾月引，催上泛房子时，酒倾玉，鱼末子堆雪，总道神仙伴侣。蓑衣箬笠，再着些儿雨。横笛两三声，晚云中、惊鸥来了。想麻烦妙手，写进散人图，蜗角名，蝇头利，穿什么来从顾。
+	* 此部分翻译来自AI，仅供参考

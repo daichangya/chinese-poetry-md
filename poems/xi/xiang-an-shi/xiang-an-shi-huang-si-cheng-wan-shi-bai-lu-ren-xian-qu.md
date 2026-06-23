@@ -1,0 +1,45 @@
+---
+id: xiang-an-shi-huang-si-cheng-wan-shi-bai-lu-ren-xian-qu
+title: 黄寺丞挽诗
+author: 项安世
+authorSlug: xiang-an-shi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: huang2 si4 cheng2 wan3 shi1
+authorPinyin: xiang4 an1 shi4
+dynastyPinyin: song4
+canonicalPoemId: 580807
+canonicalAuthorId: 5074
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 白鹿人先去，西坡事又非。
+
+- 客情何所向，老泪不禁挥。
+
+- 日短輀车急，山寒冢未腓。
+
+- 犹闻辞楚辟，来救越民饥。
+
+## 拼音
+
+- bai2 lu4 ren2 xian1 qu4 ， xi1 po1 shi4 you4 fei1 。
+
+- ke4 qing2 he2 suo3 xiang4 ， lao3 lei4 bu4 jin1 hui1 。
+
+- ri4 duan3 er2 che1 ji2 ， shan1 han2 zhong3 wei4 fei2 。
+
+- you2 wen2 ci2 chu3 pi4 ， lai2 jiu4 yue4 min2 ji1 。
+
+## 译文
+
+白鹿人先去，西坡事又不是。客情何所向，我眼泪不禁止指挥。天短輀车急，山寒冢没有枯萎。还听说辞楚国偏僻，来挽救越国百姓饥饿。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+白鹿人先去，西坡事又不是。客情何所向，我眼泪不禁止指挥。天短輀车急，山寒冢没有枯萎。还听说辞楚国偏僻，来挽救越国百姓饥饿。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,37 @@
+---
+id: xiang-an-shi-ci-yun-heng-shan-xu-jian-jiu-tong-kao-fu-xue-shi-ba-shou-shi-li-kan-cong-44aa05b7
+title: 次韵衡山徐监酒同考府学试八首
+author: 项安世
+authorSlug: xiang-an-shi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ci4 yun4 heng2 shan1 xu2 jian1 jiu3 tong2 kao3 fu3 xue2 shi4 ba1 shou3
+authorPinyin: xiang4 an1 shi4
+dynastyPinyin: song4
+canonicalPoemId: 580136
+canonicalAuthorId: 5074
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 诗里坎悰久自知，意来聊复寄于斯。
+
+- 要知风节高多少，万事如今总似诗。
+
+## 拼音
+
+- shi1 li3 kan3 cong2 jiu3 zi4 zhi1 ， yi4 lai2 liao2 fu4 ji4 yu2 si1 。
+
+- yao4 zhi1 feng1 jie2 gao1 duo1 shao3 ， wan4 shi4 ru2 jin1 zong3 si4 shi1 。
+
+## 译文
+
+诗里坎惊久了自然会知道，意图来我也寄于此。要知道风节高多少，所有的事情现在总像诗。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+诗里坎惊久了自然会知道，意图来我也寄于此。要知道风节高多少，所有的事情现在总像诗。
+	* 此部分翻译来自AI，仅供参考

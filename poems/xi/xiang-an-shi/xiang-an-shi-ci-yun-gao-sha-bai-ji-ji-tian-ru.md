@@ -1,0 +1,45 @@
+---
+id: xiang-an-shi-ci-yun-gao-sha-bai-ji-ji-tian-ru
+title: 次韵
+author: 项安世
+authorSlug: xiang-an-shi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ci4 yun4
+authorPinyin: xiang4 an1 shi4
+dynastyPinyin: song4
+canonicalPoemId: 580189
+canonicalAuthorId: 5074
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 高沙白魝记天如，葵扇桃笙度日居。
+
+- 诗里燕虫时漫与，醉中鸥鸟正于胥。
+
+- 忽遭唤起披金甲，自笑平生论石渠。
+
+- 身世万端谁得料，一番江雨又成余。
+
+## 拼音
+
+- gao1 sha1 bai2 ji4 ji4 tian1 ru2 ， kui2 shan4 tao2 sheng1 du4 ri4 ju1 。
+
+- shi1 li3 yan4 chong2 shi2 man4 yu3 ， zui4 zhong1 ou1 niao3 zheng4 yu2 xu1 。
+
+- hu1 zao1 huan4 qi3 pi1 jin1 jia3 ， zi4 xiao4 ping2 sheng1 lun4 shi2 qu2 。
+
+- shen1 shi4 wan4 duan1 shui2 de2 liao4 ， yi4 fan1 jiang1 yu3 you4 cheng2 yu2 。
+
+## 译文
+
+高沙白魝记天如，葵扇桃笙度天居。诗里燕虫时浪漫与，醉中只鸥鸟正在一起。忽然遭遇唤起披铠甲，自笑平生论石渠。人世纷繁谁能预料，一番江南雨又成多。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+高沙白魝记天如，葵扇桃笙度天居。诗里燕虫时浪漫与，醉中只鸥鸟正在一起。忽然遭遇唤起披铠甲，自笑平生论石渠。人世纷繁谁能预料，一番江南雨又成多。
+	* 此部分翻译来自AI，仅供参考

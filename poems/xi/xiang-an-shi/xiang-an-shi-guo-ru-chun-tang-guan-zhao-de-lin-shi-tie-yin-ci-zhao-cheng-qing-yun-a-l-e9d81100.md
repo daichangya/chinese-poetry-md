@@ -1,0 +1,45 @@
+---
+id: xiang-an-shi-guo-ru-chun-tang-guan-zhao-de-lin-shi-tie-yin-ci-zhao-cheng-qing-yun-a-l-e9d81100
+title: 过如春堂观赵德麟诗贴因次赵成卿韵
+author: 项安世
+authorSlug: xiang-an-shi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: guo4 ru2 chun1 tang2 guan1 zhao4 de2 lin2 shi1 tie1 yin1 ci4 zhao4 cheng2 qing1 yun4
+authorPinyin: xiang4 an1 shi4
+dynastyPinyin: song4
+canonicalPoemId: 581976
+canonicalAuthorId: 5074
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 阿麟文采近西京，付与而分翰墨名。
+
+- 今日如春堂上看，当年遗贴子孙荣。
+
+- 元丰曲里承平话，小杜诗中战伐情。
+
+- 济上旧游成一梦，王孙端复可怜生。
+
+## 拼音
+
+- a1 lin2 wen2 cai3 jin4 xi1 jing1 ， fu4 yu3 er2 fen1 han4 mo4 ming2 。
+
+- jin1 ri4 ru2 chun1 tang2 shang4 kan4 ， dang1 nian2 yi2 tie1 zi3 sun1 rong2 。
+
+- yuan2 feng1 qu3 li3 cheng2 ping2 hua4 ， xiao3 du4 shi1 zhong1 zhan4 fa2 qing2 。
+
+- ji4 shang4 jiu4 you2 cheng2 yi2 meng4 ， wang2 sun1 duan1 fu4 ke3 lian2 sheng1 。
+
+## 译文
+
+阿麟文采近西京，交付和分而笔墨名。今天如春堂上看，当年给贴子孙尊荣。元丰曲里太平话，小杜诗中战争情况。济上老朋友形成一个梦，王孙端又可怜生。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+阿麟文采近西京，交付和分而笔墨名。今天如春堂上看，当年给贴子孙尊荣。元丰曲里太平话，小杜诗中战争情况。济上老朋友形成一个梦，王孙端又可怜生。
+	* 此部分翻译来自AI，仅供参考

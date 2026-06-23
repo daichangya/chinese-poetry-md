@@ -1,0 +1,45 @@
+---
+id: xiang-an-shi-lu-dao-zi-fu-quan-shi-gao-cai-zhen-gan-fu
+title: 卢道子赴铨试
+author: 项安世
+authorSlug: xiang-an-shi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: lu2 dao4 zi3 fu4 quan2 shi4
+authorPinyin: xiang4 an1 shi4
+dynastyPinyin: song4
+canonicalPoemId: 581190
+canonicalAuthorId: 5074
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 高才真干父，新渥继难兄。
+
+- 舟楫维湘岸，簪缨觐汉京。
+
+- 学虽工比兴，科亦要刑名。
+
+- 书律三冬足，荣华一战成。
+
+## 拼音
+
+- gao1 cai2 zhen1 gan1 fu4 ， xin1 wo4 ji4 nan2 xiong1 。
+
+- zhou1 ji2 wei2 xiang1 an4 ， zan1 ying1 jin4 han4 jing1 。
+
+- xue2 sui1 gong1 bi3 xing1 ， ke1 yi4 yao4 xing2 ming2 。
+
+- shu1 lü4 san1 dong1 zu2 ， rong2 hua2 yi2 zhan4 cheng2 。
+
+## 译文
+
+高才能真正干父亲，新渥继难哥哥。船是湘岸，官僚们朝见汉京。学虽然工比兴，科也要诉讼。书律三足冬，花儿一战成名。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+高才能真正干父亲，新渥继难哥哥。船是湘岸，官僚们朝见汉京。学虽然工比兴，科也要诉讼。书律三足冬，花儿一战成名。
+	* 此部分翻译来自AI，仅供参考
