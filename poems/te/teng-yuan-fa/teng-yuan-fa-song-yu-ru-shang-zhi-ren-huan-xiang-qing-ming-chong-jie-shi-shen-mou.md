@@ -1,0 +1,45 @@
+---
+id: teng-yuan-fa-song-yu-ru-shang-zhi-ren-huan-xiang-qing-ming-chong-jie-shi-shen-mou
+title: 送俞汝尚致仁还乡
+author: 滕元发
+authorSlug: teng-yuan-fa
+dynasty: 宋
+dynastySlug: song
+titlePinyin: song4 yu2 ru3 shang4 zhi4 ren2 huan2 xiang1
+authorPinyin: teng2 yuan2 fa1
+dynastyPinyin: song4
+canonicalPoemId: 501892
+canonicalAuthorId: 11347
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 清明冲节是身谋，御史郎官不肯留。
+
+- 回首轩裳双脱屣，放怀天地一轻沤。
+
+- 卞云苕月柴门静，菱雨苹风野艇秋。
+
+- 仰羡冥鸿空自愧，区区图报示知休。
+
+## 拼音
+
+- qing1 ming2 chong1 jie2 shi4 shen1 mou2 ， yu4 shi3 lang2 guan1 bu4 ken3 liu2 。
+
+- hui2 shou3 xuan1 shang0 shuang1 tuo1 xi3 ， fang4 huai2 tian1 di4 yi4 qing1 ou1 。
+
+- bian4 yun2 tiao2 yue4 chai2 men2 jing4 ， ling2 yu3 ping2 feng1 ye3 ting3 qiu1 。
+
+- yang3 xian4 ming2 hong2 kong1 zi4 kui4 ， qu1 qu1 tu2 bao4 shi4 zhi1 xiu1 。
+
+## 译文
+
+清明节是我打算冲，御史郎官不肯留下。回首轩裙双脱鞋，放怀天地一个轻泡。卞说苕月柴门静，菱雨苹风野艇秋季。仰羡冥鸿空羞愧，区区报答不知休息。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+清明节是我打算冲，御史郎官不肯留下。回首轩裙双脱鞋，放怀天地一个轻泡。卞说苕月柴门静，菱雨苹风野艇秋季。仰羡冥鸿空羞愧，区区报答不知休息。
+	* 此部分翻译来自AI，仅供参考
