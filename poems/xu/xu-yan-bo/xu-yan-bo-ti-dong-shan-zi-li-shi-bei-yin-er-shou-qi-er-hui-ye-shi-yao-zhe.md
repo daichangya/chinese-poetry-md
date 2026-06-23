@@ -1,0 +1,35 @@
+---
+id: xu-yan-bo-ti-dong-shan-zi-li-shi-bei-yin-er-shou-qi-er-hui-ye-shi-yao-zhe
+title: 题东山子李适碑阴二首 其二
+author: 徐彦伯
+authorSlug: xu-yan-bo
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: ti2 dong1 shan1 zi3 li3 shi4 bei1 yin1 er4 shou3   qi2 er4
+authorPinyin: xu2 yan4 bo2
+dynastyPinyin: tang2
+canonicalPoemId: 421350
+canonicalAuthorId: 70
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 回也寔夭折，贾生亦脆促。
+
+- 今复哀若人，危光迅风烛。
+
+- 夜台沦清镜，穷尘埋结绿。
+
+- 何以赠下泉，生刍唯一束。
+
+## 拼音
+
+- hui2 ye3 shi2 yao1 zhe2 ， jia3 sheng1 yi4 cui4 cu4 。
+
+- jin1 fu4 ai1 ruo4 ren2 ， wei1 guang1 xun4 feng1 zhu2 。
+
+- ye4 tai2 lun2 qing1 jing4 ， qiong2 chen2 mai2 jie2 lü4 。
+
+- he2 yi3 zeng4 xia4 quan2 ， sheng1 chu2 wei2 yi1 shu4 。

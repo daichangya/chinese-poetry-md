@@ -1,0 +1,45 @@
+---
+id: xu-xuan-xuan-song-fang-zhou-jia-jian-jun-sheng-zhu-yu-dong-feng
+title: 送坊州贾监军
+author: 徐铉
+authorSlug: xu-xuan-xuan
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: song4 fang1 zhou1 jia3 jian1 jun1
+authorPinyin: xu2 xuan4
+dynastyPinyin: tang2
+canonicalPoemId: 433808
+canonicalAuthorId: 4852
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 圣主欲东封，怜君四护戎。
+
+- 乡心经霸岸，诗思省豳风。
+
+- 旧业今成旅，朱颜已变翁。
+
+- 忘怀一杯酒，闲夜与谁同。
+
+## 拼音
+
+- sheng4 zhu3 yu4 dong1 feng1 ， lian2 jun1 si4 hu4 rong2 。
+
+- xiang1 xin1 jing1 ba4 an4 ， shi1 si1 sheng3 bin1 feng1 。
+
+- jiu4 ye4 jin1 cheng2 lü3 ， zhu1 yan2 yi3 bian4 weng1 。
+
+- wang4 huai2 yi4 bei1 jiu3 ， xian2 ye4 yu3 shui2 tong2 。
+
+## 译文
+
+圣明的君主想东封，怜君四护西戎。乡心经霸岸，诗思省豳风。故居现在成旅，红颜已变老。忘怀一杯酒，在寂静的夜晚与谁同。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+圣明的君主想东封，怜君四护西戎。乡心经霸岸，诗思省豳风。故居现在成旅，红颜已变老。忘怀一杯酒，在寂静的夜晚与谁同。
+	* 此部分翻译来自AI，仅供参考

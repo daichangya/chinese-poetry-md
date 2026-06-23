@@ -1,0 +1,37 @@
+---
+id: xu-ning-jin-gu-lan-gu-jin-gu-yuan-zhong-shu-chi-tu
+title: 金谷览古
+author: 徐凝
+authorSlug: xu-ning
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: jin1 gu3 lan3 gu3
+authorPinyin: xu2 ning2
+dynastyPinyin: tang2
+canonicalPoemId: 531599
+canonicalAuthorId: 4951
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 金谷园中数尺土，问人知是绿珠台。
+
+- 绿珠歌舞天下绝，唯与石家生祸胎。
+
+## 拼音
+
+- jin1 gu3 yuan2 zhong1 shu4 chi3 tu3 ， wen4 ren2 zhi1 shi4 lü4 zhu1 tai2 。
+
+- lü4 zhu1 ge1 wu3 tian1 xia4 jue2 ， wei2 yu3 shi2 jia1 sheng1 huo4 tai1 。
+
+## 译文
+
+金谷园林中几尺土，问人知道是绿珠台。绿珠唱歌跳舞天下绝，只有与石家生祸胎。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+金谷园林中几尺土，问人知道是绿珠台。绿珠唱歌跳舞天下绝，只有与石家生祸胎。
+	* 此部分翻译来自AI，仅供参考

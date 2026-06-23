@@ -1,0 +1,35 @@
+---
+id: xu-lu-qing-zhang-gong-san-yong-chong-shan-xiu-zhu-xiao-lan-ting
+title: 章贡三咏
+author: 徐鹿卿
+authorSlug: xu-lu-qing
+dynasty: 宋
+dynastySlug: song
+titlePinyin: zhang1 gong4 san1 yong3
+authorPinyin: xu2 lu4 qing1
+dynastyPinyin: song4
+canonicalPoemId: 441750
+canonicalAuthorId: 12444
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 崇山修竹小兰亭，人在云烟深处行。
+
+- 环立千竿了清绝，中盘一径巧纡萦。
+
+- 纷纷雁鹜庭堆案，扰扰蝇蜗市有声。
+
+- 洞里道人忘底事，小桥西畔句初成。
+
+## 拼音
+
+- chong2 shan1 xiu1 zhu2 xiao3 lan2 ting2 ， ren2 zai4 yun2 yan1 shen1 chu4 xing2 。
+
+- huan2 li4 qian1 gan1 le0 qing1 jue2 ， zhong1 pan2 yi2 jing4 qiao3 yu1 ying2 。
+
+- fen1 fen1 yan4 wu4 ting2 dui1 an4 ， rao3 rao3 ying2 wo1 shi4 you3 sheng1 。
+
+- dong4 li3 dao4 ren2 wang4 di3 shi4 ， xiao3 qiao2 xi1 pan4 ju4 chu1 cheng2 。
