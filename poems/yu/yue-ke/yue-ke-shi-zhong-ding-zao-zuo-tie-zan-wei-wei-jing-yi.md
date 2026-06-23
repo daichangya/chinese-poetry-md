@@ -1,0 +1,129 @@
+---
+id: yue-ke-shi-zhong-ding-zao-zuo-tie-zan-wei-wei-jing-yi
+title: 史忠定蚤作帖赞
+author: 岳珂
+authorSlug: yue-ke
+dynasty: 宋
+dynastySlug: song
+titlePinyin: shi3 zhong1 ding4 zao3 zuo4 tie1 zan4
+authorPinyin: yue4 ke1
+dynastyPinyin: song4
+canonicalPoemId: 555794
+canonicalAuthorId: 3302
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 危微精一，传之在心。
+
+- 二典勋华，光于有临。
+
+- 大原自天，端倪孰寻。
+
+- 岂无畴咨，培高浚深。
+
+- 寝明以昌，举元难壬。
+
+- 烝哉明良，嗣此德音。
+
+- 匪鉴而讽，匪扆而箴。
+
+- 启迪在初，有开宸襟。
+
+- 岩廊南风，{珍去王加衤}衣鼓琴。
+
+- 渊跃𥬞云，匣铏发镡。
+
+- 达其己充，泽彼苍黔。
+
+- 王度之恢，如玉如金。
+
+- 进而虞渊，宾{饧去饣加日}发霠。
+
+- 坱圠机衡，开阖阳阴。
+
+- 九韶其谐，万奏皆喑。
+
+- 退而卷怀，艺圃书林。
+
+- 出入欧颜，而加{左奭右斗}斟。
+
+- 湛湛秋江，岧春岑。
+
+- 如彼德人，危冠整簪。
+
+- 不伐不矜，森严深沉。
+
+- 我考问学，惟心靡谌。
+
+- 端平自我，何用弗钦。
+
+- 重抵九鼎，价逾万琛。
+
+- 惟帖可观，为世砭针。
+
+- 尚信我言，匪今斯今。
+
+## 拼音
+
+- wei1 wei1 jing1 yi1 ， chuan2 zhi1 zai4 xin1 。
+
+- er4 dian3 xun1 hua2 ， guang1 yu2 you3 lin2 。
+
+- da4 yuan2 zi4 tian1 ， duan1 ni2 shu2 xun2 。
+
+- qi3 wu2 chou2 zi1 ， pei2 gao1 jun4 shen1 。
+
+- qin3 ming2 yi3 chang1 ， ju3 yuan2 nan2 ren2 。
+
+- zheng1 zai1 ming2 liang2 ， si4 ci3 de2 yin1 。
+
+- fei3 jian4 er2 feng3 ， fei3 yi3 er2 zhen1 。
+
+- qi3 di2 zai4 chu1 ， you3 kai1 chen2 jin1 。
+
+- yan2 lang2 nan2 feng1 ， { zhen1 qu4 wang2 jia1 yi1 } yi1 gu3 qin2 。
+
+- yuan1 yue4 𥬞 yun2 ， xia2 xing2 fa1 tan2 。
+
+- da2 qi2 ji3 chong1 ， ze2 bi3 cang1 qian2 。
+
+- wang2 du4 zhi1 hui1 ， ru2 yu4 ru2 jin1 。
+
+- jin4 er2 yu2 yuan1 ， bin1 { tang2 qu4 shi2 jia1 ri4 } fa1 yin1 。
+
+- yang3 ya4 ji1 heng2 ， kai1 he2 yang2 yin1 。
+
+- jiu3 shao2 qi2 xie2 ， wan4 zou4 jie1 yin1 。
+
+- tui4 er2 juan4 huai2 ， yi4 pu3 shu1 lin2 。
+
+- chu1 ru4 ou1 yan2 ， er2 jia1 { zuo3 shi4 you4 dou4 } zhen1 。
+
+- zhan4 zhan4 qiu1 jiang1 ， tiao2 chun1 cen2 。
+
+- ru2 bi3 de2 ren2 ， wei1 guan1 zheng3 zan1 。
+
+- bu4 fa2 bu4 jin1 ， sen1 yan2 shen1 chen2 。
+
+- wo3 kao3 wen4 xue2 ， wei2 xin1 mi2 chen2 。
+
+- duan1 ping2 zi4 wo3 ， he2 yong4 fu2 qin1 。
+
+- zhong4 di3 jiu3 ding3 ， jia4 yu2 wan4 chen1 。
+
+- wei2 tie1 ke3 guan1 ， wei4 shi4 bian1 zhen1 。
+
+- shang4 xin4 wo3 yan2 ， fei3 jin1 si1 jin1 。
+
+## 译文
+
+危微精一，传的在心。二典勋华，光在有临。根源自天，端倪谁不久。难道没有访求，培养高挖深。睡觉第二以昌，推举元驳斥。伟大明良，继承这个德音。匪鉴而暗示，不是扆而箴言。启迪在初，有开宸衣襟。岩廊南风，{珍去王加上衣}衣服鼓琴。渊跳𥬞说，匣蜊发镡。表达他们自己充，泽苍天黔。王度的？，如玉如金。进而虞渊，宾{糖去饣加日}发霠。坱圠机要，开合阳阴。九韶其谐，所有演奏都哑。退而卷怀，艺圃书林。出入欧颜，而加{左座右斗}斟。湛湛秋江，向春岑。那样德人，危冠整一生。不伐不骄傲，严明深沉。我考察学习，只有心靡谌。端平自我，为什么不钦佩。重到九鼎，价格超过万元琛。只有帖可观，为世刺针。还相信我说的话，不是今年才这样。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+危微精一，传的在心。二典勋华，光在有临。根源自天，端倪谁不久。难道没有访求，培养高挖深。睡觉第二以昌，推举元驳斥。伟大明良，继承这个德音。匪鉴而暗示，不是扆而箴言。启迪在初，有开宸衣襟。岩廊南风，{珍去王加上衣}衣服鼓琴。渊跳𥬞说，匣蜊发镡。表达他们自己充，泽苍天黔。王度的？，如玉如金。进而虞渊，宾{糖去饣加日}发霠。坱圠机要，开合阳阴。九韶其谐，所有演奏都哑。退而卷怀，艺圃书林。出入欧颜，而加{左座右斗}斟。湛湛秋江，向春岑。那样德人，危冠整一生。不伐不骄傲，严明深沉。我考察学习，只有心靡谌。端平自我，为什么不钦佩。重到九鼎，价格超过万元琛。只有帖可观，为世刺针。还相信我说的话，不是今年才这样。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,109 @@
+---
+id: yuan-zhen-chou-dou-xiao-shu-er-shi-yun-ci-ben-yun-ou-lu-yuan-xiang-de
+title: 酬窦校书二十韵（次本韵）
+author: 元稹
+authorSlug: yuan-zhen
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: chou2 dou4 xiao4 shu1 er4 shi2 yun4 （ ci4 ben3 yun4 ）
+authorPinyin: yuan2 zhen3
+dynastyPinyin: tang2
+canonicalPoemId: 535134
+canonicalAuthorId: 161
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 鸥鹭元相得，杯觞每共传。
+
+- 芳游春烂熳，晴望月团圆。
+
+- 调笑风流剧，论文属对全。
+
+- 赏花珠并缀，看雪璧常连。
+
+- 竹寺荒唯好，松斋小更怜。
+
+- 潜投孟公辖，狂乞莫愁钱。
+
+- 尘土抛书卷，枪筹弄酒权。
+
+- 令夸齐箭道，力斗抹弓弦。
+
+- 但喜添樽满，谁忧乏桂然。
+
+- 渐轻身外役，浑证饮中禅。
+
+- 及我辞云陛，逢君仕圃田。
+
+- 音徽千里断，魂梦两情偏。
+
+- 足听猿啼雨，深藏马腹鞭。
+
+- 官醪半清浊，夷馔杂腥膻。
+
+- 顾影无依倚，甘心守静专。
+
+- 那知暮江上，俱会落英前。
+
+- 款曲生平在，悲凉岁序迁。
+
+- 鹤方同北渚，鸿又过南天。
+
+- 丽句惭虚掷，沉机懒强牵。
+
+- 粗酬珍重意，工拙定相悬。
+
+## 拼音
+
+- ou1 lu4 yuan2 xiang1 de2 ， bei1 shang1 mei3 gong4 chuan2 。
+
+- fang1 you2 chun1 lan4 man4 ， qing2 wang4 yue4 tuan2 yuan2 。
+
+- tiao2 xiao4 feng1 liu2 ju4 ， lun4 wen2 shu3 dui4 quan2 。
+
+- shang3 hua1 zhu1 bing4 zhui4 ， kan4 xue3 bi4 chang2 lian2 。
+
+- zhu2 si4 huang1 wei2 hao3 ， song1 zhai1 xiao3 geng4 lian2 。
+
+- qian2 tou2 meng4 gong1 xia2 ， kuang2 qi3 mo4 chou2 qian2 。
+
+- chen2 tu3 pao1 shu1 juan4 ， qiang1 chou2 nong4 jiu3 quan2 。
+
+- ling4 kua1 qi2 jian4 dao4 ， li4 dou4 mo3 gong1 xian2 。
+
+- dan4 xi3 tian1 zun1 man3 ， shui2 you1 fa2 gui4 ran2 。
+
+- jian4 qing1 shen1 wai4 yi4 ， hun2 zheng4 yin3 zhong1 chan2 。
+
+- ji2 wo3 ci2 yun2 bi4 ， feng2 jun1 shi4 pu3 tian2 。
+
+- yin1 hui1 qian1 li3 duan4 ， hun2 meng4 liang3 qing2 pian1 。
+
+- zu2 ting1 yuan2 ti2 yu3 ， shen1 cang2 ma3 fu4 bian1 。
+
+- guan1 lao2 ban4 qing1 zhuo2 ， yi2 zhuan4 za2 xing1 shan1 。
+
+- gu4 ying3 wu2 yi1 yi3 ， gan1 xin1 shou3 jing4 zhuan1 。
+
+- na4 zhi1 mu4 jiang1 shang4 ， ju4 hui4 luo4 ying1 qian2 。
+
+- kuan3 qu3 sheng1 ping2 zai4 ， bei1 liang2 sui4 xu4 qian1 。
+
+- he4 fang1 tong2 bei3 zhu3 ， hong2 you4 guo4 nan2 tian1 。
+
+- li4 ju4 can2 xu1 zhi4 ， chen2 ji1 lan3 qiang2 qian1 。
+
+- cu1 chou2 zhen1 zhong4 yi4 ， gong1 zhuo1 ding4 xiang1 xuan2 。
+
+## 译文
+
+鸥鹭元相符合，酒杯每一起传。芳在春天灿烂熳，晴望着月团圆。取笑风流剧，论文对全属。赏花珠并点缀，看雪壁固定连接。竹寺荒只是好，松斋小更可怜。偷偷投孟公管辖，狂请不愁钱。尘土抛书卷，枪筹弄酒代理。令夸齐箭道，力斗抹弓弦。只喜欢添酒满，谁担心缺乏桂这样。渐渐轻身外服役，浑证明饮酒中禅。和我解释说你，逢君在圃田。乐曲千里断，魂梦两情偏。值得听猿啼雨，深藏在马肚子鞭。官酒半清浊，民族饮食杂食荤腥。顾影无依倚，甘心守静专。那知道暮江上，都会落在英前。热情平生在，岁月迁悲凉。鹤正在同北渚，鸿又过南天。丽句很虚掷，机关懒牵强。粗酬珍重意，工拙定相悬。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+鸥鹭元相符合，酒杯每一起传。芳在春天灿烂熳，晴望着月团圆。取笑风流剧，论文对全属。赏花珠并点缀，看雪壁固定连接。竹寺荒只是好，松斋小更可怜。偷偷投孟公管辖，狂请不愁钱。尘土抛书卷，枪筹弄酒代理。令夸齐箭道，力斗抹弓弦。只喜欢添酒满，谁担心缺乏桂这样。渐渐轻身外服役，浑证明饮酒中禅。和我解释说你，逢君在圃田。乐曲千里断，魂梦两情偏。值得听猿啼雨，深藏在马肚子鞭。官酒半清浊，民族饮食杂食荤腥。顾影无依倚，甘心守静专。那知道暮江上，都会落在英前。热情平生在，岁月迁悲凉。鹤正在同北渚，鸿又过南天。丽句很虚掷，机关懒牵强。粗酬珍重意，工拙定相悬。
+	* 此部分翻译来自AI，仅供参考

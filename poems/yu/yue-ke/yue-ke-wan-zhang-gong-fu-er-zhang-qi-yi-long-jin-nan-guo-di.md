@@ -1,0 +1,35 @@
+---
+id: yue-ke-wan-zhang-gong-fu-er-zhang-qi-yi-long-jin-nan-guo-di
+title: 挽张贡父二章 其一
+author: 岳珂
+authorSlug: yue-ke
+dynasty: 宋
+dynastySlug: song
+titlePinyin: wan3 zhang1 gong4 fu4 er4 zhang1   qi2 yi1
+authorPinyin: yue4 ke1
+dynastyPinyin: song4
+canonicalPoemId: 427802
+canonicalAuthorId: 3302
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 龙津南国第，蝉冕左丞家。
+
+- 箓以文章䄠，人惟寿隽夸。
+
+- 秀庭看玉树，喜帖报金花。
+
+- 挥涕东原路，悲风咽晓笳。
+
+## 拼音
+
+- long2 jin1 nan2 guo2 di4 ， chan2 mian3 zuo3 cheng2 jia1 。
+
+- lu4 yi3 wen2 zhang1 䄠 ， ren2 wei2 shou4 jun4 kua1 。
+
+- xiu4 ting2 kan4 yu4 shu4 ， xi3 tie1 bao4 jin1 hua1 。
+
+- hui1 ti4 dong1 yuan2 lu4 ， bei1 feng1 yan4 xiao3 jia1 。

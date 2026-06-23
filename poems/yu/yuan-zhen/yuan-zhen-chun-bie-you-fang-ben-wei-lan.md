@@ -1,0 +1,45 @@
+---
+id: yuan-zhen-chun-bie-you-fang-ben-wei-lan
+title: 春别
+author: 元稹
+authorSlug: yuan-zhen
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: chun1 bie2
+authorPinyin: yuan2 zhen3
+dynastyPinyin: tang2
+canonicalPoemId: 383717
+canonicalAuthorId: 161
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 幽芳本未阑，君去蕙花残。
+
+- 河汉秋期远，关山世路难。
+
+- 云屏留粉絮，风幌引香兰。
+
+- 肠断回文锦，春深独自看。
+
+## 拼音
+
+- you1 fang1 ben3 wei4 lan2 ， jun1 qu4 hui4 hua1 can2 。
+
+- he2 han4 qiu1 qi1 yuan3 ， guan1 shan1 shi4 lu4 nan2 。
+
+- yun2 ping2 liu2 fen3 xu4 ， feng1 huang3 yin3 xiang1 lan2 。
+
+- chang2 duan4 hui2 wen2 jin3 ， chun1 shen1 du2 zi4 kan4 。
+
+## 译文
+
+幽芳根本还没有结束，你去蕙花残。天河秋期远，关山世道艰难。云屏留粉絮，风帘拉香兰。断肠回首文锦，春深独自看。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+幽芳根本还没有结束，你去蕙花残。天河秋期远，关山世道艰难。云屏留粉絮，风帘拉香兰。断肠回首文锦，春深独自看。
+	* 此部分翻译来自AI，仅供参考

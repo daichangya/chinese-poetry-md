@@ -1,0 +1,45 @@
+---
+id: yue-ke-wu-yue-jiu-ri-deng-zhou-ya-zu-gu-jiao-fa-yan-gu-jun-cai-yi-zi-tai-ping
+title: 五月九日登舟迓卒鼓角发严
+author: 岳珂
+authorSlug: yue-ke
+dynasty: 宋
+dynastySlug: song
+titlePinyin: wu3 yue4 jiu3 ri4 deng1 zhou1 ya4 zu2 gu3 jiao3 fa1 yan2
+authorPinyin: yue4 ke1
+dynastyPinyin: song4
+canonicalPoemId: 555801
+canonicalAuthorId: 3302
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 古郡裁仪自太平，百艘初奏夜严声。
+
+- 渔挝鼓史催三奏，龙角单于动五更。
+
+- 岸柳青烟留帐饮，堤莲红焰耿纱明。
+
+- 津亭独坐逌然笑，不似池蛙两部鸣。
+
+## 拼音
+
+- gu3 jun4 cai2 yi2 zi4 tai4 ping2 ， bai3 sou1 chu1 zou4 ye4 yan2 sheng1 。
+
+- yu2 wo1 gu3 shi3 cui1 san1 zou4 ， long2 jiao3 chan2 yu2 dong4 wu3 geng1 。
+
+- an4 liu3 qing1 yan1 liu2 zhang4 yin3 ， di1 lian2 hong2 yan4 geng3 sha1 ming2 。
+
+- jin1 ting2 du2 zuo4 you1 ran2 xiao4 ， bu2 si4 chi2 wa1 liang3 bu4 ming2 。
+
+## 译文
+
+古代裁剪仪从太平，数百艘船开始演奏夜晚严声。渔击鼓史催三奏，龙角单于动五更。岸柳青烟留在帐饮，堤莲花红焰耿纱第二。津亭独坐迪地笑着，不像池青蛙两部鸣。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+古代裁剪仪从太平，数百艘船开始演奏夜晚严声。渔击鼓史催三奏，龙角单于动五更。岸柳青烟留在帐饮，堤莲花红焰耿纱第二。津亭独坐迪地笑着，不像池青蛙两部鸣。
+	* 此部分翻译来自AI，仅供参考

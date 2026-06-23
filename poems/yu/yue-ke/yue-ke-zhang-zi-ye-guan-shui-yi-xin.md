@@ -1,0 +1,39 @@
+---
+id: yue-ke-zhang-zi-ye-guan-shui-yi-xin
+title: 张子野
+author: 岳珂
+authorSlug: yue-ke
+dynasty: 宋
+dynastySlug: song
+titlePinyin: zhang1 zi3 ye3
+authorPinyin: yue4 ke1
+dynastyPinyin: song4
+canonicalPoemId: 488537
+canonicalAuthorId: 3302
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 观水以心，本于知者之乐。
+
+- 取射以艺，譬诸巧者之中。
+
+- 时虽后先之不同，意或迭取而互用。
+
+- 句葩体庄，字谨心纵。
+
+- 是曰仁祖太平之词人，遗帖之存，固宜后世之知所重也。
+
+## 拼音
+
+- guan1 shui3 yi3 xin1 ， ben3 yu2 zhi1 zhe3 zhi1 le4 。
+
+- qu3 she4 yi3 yi4 ， pi4 zhu1 qiao3 zhe3 zhi1 zhong1 。
+
+- shi2 sui1 hou4 xian1 zhi1 bu4 tong2 ， yi4 huo4 die2 qu3 er2 hu4 yong4 。
+
+- ju4 pa1 ti3 zhuang1 ， zi4 jin3 xin1 zong4 。
+
+- shi4 yue1 ren2 zu3 tai4 ping2 zhi1 ci2 ren2 ， yi2 tie1 zhi1 cun2 ， gu4 yi2 hou4 shi4 zhi1 zhi1 suo3 zhong4 ye3 。

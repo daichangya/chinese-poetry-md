@@ -1,0 +1,45 @@
+---
+id: yuan-ban-qian-jiao-miao-ge-ci-yi-kun-miao-yue-zhang-yong-he-xiao-xiang-yun-bi
+title: 郊庙歌辞。仪坤庙乐章。雍和
+author: 员半千
+authorSlug: yuan-ban-qian
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: jiao1 miao4 ge1 ci2 。 yi2 kun1 miao4 yue4 zhang1 。 yong1 he2
+authorPinyin: yuan2 ban4 qian1
+dynastyPinyin: tang2
+canonicalPoemId: 533944
+canonicalAuthorId: 78
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 孝享云毕，惟彻有章。
+
+- 云感玄羽，风凄素商。
+
+- 瞻望神座，祗恋匪遑。
+
+- 礼终乐阕，肃雍锵锵。
+
+## 拼音
+
+- xiao4 xiang3 yun2 bi4 ， wei2 che4 you3 zhang1 。
+
+- yun2 gan3 xuan2 yu3 ， feng1 qi1 su4 shang1 。
+
+- zhan1 wang4 shen2 zuo4 ， zhi1 lian4 fei3 huang2 。
+
+- li3 zhong1 le4 que4 ， su4 yong1 qiang1 qiang1 。
+
+## 译文
+
+孝享说结束，只有彻有章。说感谢黑色羽毛，风很早商。仰望神座，只恋无暇。礼终乐期满，肃雍锵锵。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+孝享说结束，只有彻有章。说感谢黑色羽毛，风很早商。仰望神座，只恋无暇。礼终乐期满，肃雍锵锵。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,45 @@
+---
+id: yuan-shuo-you-he-zhao-zhou-xi-zhi-gan-xia-zhong-yun-si-shou-qian-ren-shan-tou-geng-you-shan
+title: 和赵周锡制干峡中韵四首
+author: 袁说友
+authorSlug: yuan-shuo-you
+dynasty: 宋
+dynastySlug: song
+titlePinyin: he2 zhao4 zhou1 xi1 zhi4 gan1 xia2 zhong1 yun4 si4 shou3
+authorPinyin: yuan2 shuo1 you3
+dynastyPinyin: song4
+canonicalPoemId: 640159
+canonicalAuthorId: 1574
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 千仞山头更有山，一山去后一山还。
+
+- 林峦有路春回绿，仙洞无人夜启关。
+
+- 岫列千屏森葆卫，石藏五色像形颜。
+
+- 举头待向峡中望，见说青天近一斑。
+
+## 拼音
+
+- qian1 ren4 shan1 tou2 geng4 you3 shan1 ， yi4 shan1 qu4 hou4 yi4 shan1 hai2 。
+
+- lin2 luan2 you3 lu4 chun1 hui2 lü4 ， xian1 dong4 wu2 ren2 ye4 qi3 guan1 。
+
+- xiu4 lie4 qian1 ping2 sen1 bao3 wei4 ， shi2 cang2 wu3 se4 xiang4 xing2 yan2 。
+
+- ju3 tou2 dai4 xiang4 xia2 zhong1 wang4 ， jian4 shuo1 qing1 tian1 jin4 yi4 ban1 。
+
+## 译文
+
+千仞山头又有山，一座山走后一山回来。林峦有路春回绿色，没有人在夜间打开城门仙洞。帕列千屏森林保护卫，石收藏五色佛像容颜。抬起头望向峡中等待，见说青天近一斑。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+千仞山头又有山，一座山走后一山回来。林峦有路春回绿色，没有人在夜间打开城门仙洞。帕列千屏森林保护卫，石收藏五色佛像容颜。抬起头望向峡中等待，见说青天近一斑。
+	* 此部分翻译来自AI，仅供参考

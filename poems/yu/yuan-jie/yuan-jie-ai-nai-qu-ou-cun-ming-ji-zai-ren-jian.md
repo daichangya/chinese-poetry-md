@@ -1,0 +1,90 @@
+---
+id: yuan-jie-ai-nai-qu-ou-cun-ming-ji-zai-ren-jian
+title: 欸乃曲
+author: 元结
+authorSlug: yuan-jie
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: ai3 nai3 qu3
+authorPinyin: yuan2 jie2
+dynastyPinyin: tang2
+canonicalPoemId: 529057
+canonicalAuthorId: 644
+tags:
+  - 诗词
+  - 御定全唐诗
+---
+
+## 正文
+
+- 偶存名迹在人间，顺俗与时未安闲。
+
+- 来谒大官兼问政，
+
+- 扁舟却入九疑山。
+
+- 湘江二月春水平，满月和风宜夜行。
+
+- 唱桡欲过平阳戍，
+
+- 守吏相呼问姓名。
+
+- 千里枫林烟雨深，无朝无暮有猿吟。
+
+- 倚桡静听曲中意，
+
+- 好似云山韶濩音。
+
+- 零陵郡北湘水东，浯溪形胜满湘中。
+
+- 溪口石颠堪自逸，
+
+- 谁能相伴作渔翁。
+
+- 下泷船似入深渊，上泷船似欲升天。
+
+- 泷南始到九疑郡，
+
+- 应绝高人乘兴船。
+
+## 拼音
+
+- ou3 cun2 ming2 ji4 zai4 ren2 jian1 ， shun4 su2 yu3 shi2 wei4 an1 xian2 。
+
+- lai2 ye4 da4 guan1 jian1 wen4 zheng4 ，
+
+- pian1 zhou1 que4 ru4 jiu3 yi2 shan1 。
+
+- xiang1 jiang1 er4 yue4 chun1 shui3 ping2 ， man3 yue4 he2 feng1 yi2 ye4 xing2 。
+
+- chang4 rao2 yu4 guo4 ping2 yang2 shu4 ，
+
+- shou3 li4 xiang1 hu1 wen4 xing4 ming2 。
+
+- qian1 li3 feng1 lin2 yan1 yu3 shen1 ， wu2 chao2 wu2 mu4 you3 yuan2 yin2 。
+
+- yi3 rao2 jing4 ting1 qu3 zhong4 yi4 ，
+
+- hao3 si4 yun2 shan1 shao2 hu4 yin1 。
+
+- ling2 ling2 jun4 bei3 xiang1 shui3 dong1 ， wu2 xi1 xing2 sheng4 man3 xiang1 zhong1 。
+
+- xi1 kou3 shi2 dian1 kan1 zi4 yi4 ，
+
+- shui2 neng2 xiang1 ban4 zuo4 yu2 weng1 。
+
+- xia4 long2 chuan2 si4 ru4 shen1 yuan1 ， shang4 long2 chuan2 si4 yu4 sheng1 tian1 。
+
+- long2 nan2 shi3 dao4 jiu3 yi2 jun4 ，
+
+- ying4 jue2 gao1 ren2 cheng2 xing4 chuan2 。
+
+## 译文
+
+偶尔有名声在人间，顺俗与当时没有安闲。来拜谒大官兼问政，小船退入九疑山。湘江二月春水平，圆圆的月亮和风应该在夜间行走。唱弯曲要过平阳戍，守吏互相呼问姓名。千里枫林烟雨深，没有朝没有晚上有猿吟。靠桡静听曲中意思，好似云山韶濩音。零陵郡北湘江东岸，浯溪险要满湘中。溪口石颠可以放纵自己，谁能相伴作渔翁。下拢船似入深渊，上拢船似乎想升天。拢南方开始到九疑郡，应绝高人乘兴船。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+偶尔有名声在人间，顺俗与当时没有安闲。来拜谒大官兼问政，小船退入九疑山。湘江二月春水平，圆圆的月亮和风应该在夜间行走。唱弯曲要过平阳戍，守吏互相呼问姓名。千里枫林烟雨深，没有朝没有晚上有猿吟。靠桡静听曲中意思，好似云山韶濩音。零陵郡北湘江东岸，浯溪险要满湘中。溪口石颠可以放纵自己，谁能相伴作渔翁。下拢船似入深渊，上拢船似乎想升天。拢南方开始到九疑郡，应绝高人乘兴船。
+	* 此部分翻译来自AI，仅供参考
