@@ -1,0 +1,35 @@
+---
+id: qi-ji-ji-luo-xia-wang-yi-xun-xian-bei-er-shou-qi-yi-jia-dao-cun-zheng-shi
+title: 寄洛下王彝训先辈二首 其一
+author: 齐己
+authorSlug: qi-ji
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: ji4 luo4 xia4 wang2 yi2 xun4 xian1 bei4 er4 shou3   qi2 yi1
+authorPinyin: qi2 ji3
+dynastyPinyin: tang2
+canonicalPoemId: 387342
+canonicalAuthorId: 159
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 贾岛存正始，王维留格言。
+
+- 千篇千古在，一咏一惊魂。
+
+- 离别无他寄，相思共此门。
+
+- 阳春堪永恨，郢路转尘昏。
+
+## 拼音
+
+- jia3 dao3 cun2 zheng4 shi3 ， wang2 wei2 liu2 ge2 yan2 。
+
+- qian1 pian1 qian1 gu3 zai4 ， yi4 yong3 yi4 jing1 hun2 。
+
+- li2 bie2 wu2 ta1 ji4 ， xiang1 si1 gong4 ci3 men2 。
+
+- yang2 chun1 kan1 yong3 hen4 ， ying3 lu4 zhuan3 chen2 hun1 。

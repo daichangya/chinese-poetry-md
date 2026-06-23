@@ -1,0 +1,45 @@
+---
+id: qian-qi-wo-ji-da-liu-dao-shi-bai-lu-can-yi-si
+title: 卧疾，答刘道士
+author: 钱起
+authorSlug: qian-qi
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: wo4 ji2 ， da2 liu2 dao4 shi4
+authorPinyin: qian2 qi3
+dynastyPinyin: tang2
+canonicalPoemId: 459874
+canonicalAuthorId: 2583
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 白露蚕已丝，空林日凄清。
+
+- 寥寥昼扉掩，独卧秋窗明。
+
+- 宝字比仙药，羽人寄柴荆。
+
+- 长吟想风驭，恍若升蓬瀛。
+
+## 拼音
+
+- bai2 lu4 can2 yi3 si1 ， kong1 lin2 ri4 qi1 qing1 。
+
+- liao2 liao2 zhou4 fei1 yan3 ， du2 wo4 qiu1 chuang1 ming2 。
+
+- bao3 zi4 bi3 xian1 yao4 ， yu3 ren2 ji4 chai2 jing1 。
+
+- chang2 yin2 xiang3 feng1 yu4 ， huang3 ruo4 sheng1 peng2 ying2 。
+
+## 译文
+
+白露蚕已丝，空林天时而清。寥寥白天门掩，独自睡在秋窗明。宝字比仙药，羽人把柴荆。长吟想风控制，仿佛升蓬瀛。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+白露蚕已丝，空林天时而清。寥寥白天门掩，独自睡在秋窗明。宝字比仙药，羽人把柴荆。长吟想风控制，仿佛升蓬瀛。
+	* 此部分翻译来自AI，仅供参考

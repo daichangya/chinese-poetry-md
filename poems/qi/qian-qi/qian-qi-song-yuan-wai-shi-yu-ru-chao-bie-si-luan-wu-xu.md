@@ -1,0 +1,45 @@
+---
+id: qian-qi-song-yuan-wai-shi-yu-ru-chao-bie-si-luan-wu-xu
+title: 送员外侍御入朝
+author: 钱起
+authorSlug: qian-qi
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: song4 yuan2 wai4 shi4 yu4 ru4 chao2
+authorPinyin: qian2 qi3
+dynastyPinyin: tang2
+canonicalPoemId: 459864
+canonicalAuthorId: 2583
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 别思乱无绪，妖氛犹未清。
+
+- 含香五夜客，持赋十年兄。
+
+- 霜拂金波树，星回玉斗城。
+
+- 自怜江上鹤，垂翅羡飞鸣。
+
+## 拼音
+
+- bie2 si1 luan4 wu2 xu4 ， yao1 fen1 you2 wei4 qing1 。
+
+- han2 xiang1 wu3 ye4 ke4 ， chi2 fu4 shi2 nian2 xiong1 。
+
+- shuang1 fu2 jin1 bo1 shu4 ， xing1 hui2 yu4 dou4 cheng2 。
+
+- zi4 lian2 jiang1 shang4 he4 ， chui2 chi4 xian4 fei1 ming2 。
+
+## 译文
+
+别想着混乱无绪，妖气还不清。含香五晚上客人，拿着这十年哥哥。霜擦金波树，星回玉杯城。自怜江上鹤，垂下翅膀羡飞鸣。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+别想着混乱无绪，妖气还不清。含香五晚上客人，拿着这十年哥哥。霜擦金波树，星回玉杯城。自怜江上鹤，垂下翅膀羡飞鸣。
+	* 此部分翻译来自AI，仅供参考

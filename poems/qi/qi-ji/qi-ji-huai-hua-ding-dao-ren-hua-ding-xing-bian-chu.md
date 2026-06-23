@@ -1,0 +1,45 @@
+---
+id: qi-ji-huai-hua-ding-dao-ren-hua-ding-xing-bian-chu
+title: 怀华顶道人
+author: 齐己
+authorSlug: qi-ji
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: huai2 hua2 ding3 dao4 ren2
+authorPinyin: qi2 ji3
+dynastyPinyin: tang2
+canonicalPoemId: 387433
+canonicalAuthorId: 159
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 华顶星边出，真宜上士家。
+
+- 无人触床榻，满屋贮烟霞。
+
+- 坐卧临天井，晴明见海涯。
+
+- 禅馀石桥去，屐齿印松花。
+
+## 拼音
+
+- hua2 ding3 xing1 bian1 chu1 ， zhen1 yi2 shang4 shi4 jia1 。
+
+- wu2 ren2 chu4 chuang2 ta4 ， man3 wu1 zhu4 yan1 xia2 。
+
+- zuo4 wo4 lin2 tian1 jing3 ， qing2 ming2 jian4 hai3 ya2 。
+
+- chan2 yu2 shi2 qiao2 qu4 ， ji1 chi3 yin4 song1 hua1 。
+
+## 译文
+
+华顶星边出，真应该上士家。没有人撞到床头，贮存烟霞满屋子。坐、卧临天井，天气晴朗的时候看到海边。禅余石桥去，屐齿印松花。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+华顶星边出，真应该上士家。没有人撞到床头，贮存烟霞满屋子。坐、卧临天井，天气晴朗的时候看到海边。禅余石桥去，屐齿印松花。
+	* 此部分翻译来自AI，仅供参考

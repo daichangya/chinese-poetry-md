@@ -1,0 +1,45 @@
+---
+id: qian-qi-cui-shi-si-zhai-wen-hou-xiao-ri-zao-ying-ti
+title: 崔十四宅问候
+author: 钱起
+authorSlug: qian-qi
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: cui1 shi2 si4 zhai2 wen4 hou4
+authorPinyin: qian2 qi3
+dynastyPinyin: tang2
+canonicalPoemId: 459756
+canonicalAuthorId: 2583
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 晓日早莺啼，江城旅思迷。
+
+- 微官同寄傲，移疾阻招携。
+
+- 远水闾阎内，青山雉堞西。
+
+- 王孙莫久卧，春草欲萋萋。
+
+## 拼音
+
+- xiao3 ri4 zao3 ying1 ti2 ， jiang1 cheng2 lü3 si1 mi2 。
+
+- wei1 guan1 tong2 ji4 ao4 ， yi2 ji2 zu3 zhao1 xie2 。
+
+- yuan3 shui3 lü2 yan2 nei4 ， qing1 shan1 zhi4 die2 xi1 。
+
+- wang2 sun1 mo4 jiu3 wo4 ， chun1 cao3 yu4 qi1 qi1 。
+
+## 译文
+
+晓日早莺啼，江城旅思迷。微官一同寄傲慢，移疾病阻碍招待。远水民间内，青山城墙西。王孙莫久卧，春草想萋萋。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+晓日早莺啼，江城旅思迷。微官一同寄傲慢，移疾病阻碍招待。远水民间内，青山城墙西。王孙莫久卧，春草想萋萋。
+	* 此部分翻译来自AI，仅供参考

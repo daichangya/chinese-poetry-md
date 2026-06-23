@@ -1,0 +1,45 @@
+---
+id: qian-qi-ti-fan-chuan-du-xiang-gong-bie-ye-shu-mu-yuan-lin-hao
+title: 题樊川杜相公别业
+author: 钱起
+authorSlug: qian-qi
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: ti2 fan2 chuan1 du4 xiang4 gong0 bie2 ye4
+authorPinyin: qian2 qi3
+dynastyPinyin: tang2
+canonicalPoemId: 460224
+canonicalAuthorId: 2583
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 数亩园林好，人知贤相家。
+
+- 结茅书阁俭，带水槿篱斜。
+
+- 古树生春藓，新荷卷落花。
+
+- 圣恩加玉铉，安得卧青霞。
+
+## 拼音
+
+- shu4 mu3 yuan2 lin2 hao3 ， ren2 zhi1 xian2 xiang1 jia1 。
+
+- jie2 mao2 shu1 ge2 jian3 ， dai4 shui3 jin3 li2 xie2 。
+
+- gu3 shu4 sheng1 chun1 xian3 ， xin1 he2 juan4 luo4 hua1 。
+
+- sheng4 en1 jia1 yu4 xuan4 ， an1 de2 wo4 qing1 xia2 。
+
+## 译文
+
+几亩园林好，人知道贤能的宰相家。结茅书阁节俭，带水槿篱斜。古树生春藓，新荷卷落花。圣恩加玉铰，怎么能睡觉青霞。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+几亩园林好，人知道贤能的宰相家。结茅书阁节俭，带水槿篱斜。古树生春藓，新荷卷落花。圣恩加玉铰，怎么能睡觉青霞。
+	* 此部分翻译来自AI，仅供参考

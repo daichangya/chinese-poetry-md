@@ -1,0 +1,45 @@
+---
+id: qian-qi-song-wu-jin-wei-ming-fu-li-yi-xiang-wu-shi
+title: 送武进韦明府
+author: 钱起
+authorSlug: qian-qi
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: song4 wu3 jin4 wei2 ming2 fu3
+authorPinyin: qian2 qi3
+dynastyPinyin: tang2
+canonicalPoemId: 459909
+canonicalAuthorId: 2583
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 理邑想无事，鸣琴不下堂。
+
+- 井田通楚越，津市半渔商。
+
+- 卢橘垂残雨，红莲拆早霜。
+
+- 送君催白首，临水独思乡。
+
+## 拼音
+
+- li3 yi4 xiang3 wu2 shi4 ， ming2 qin2 bu2 xia4 tang2 。
+
+- jing3 tian2 tong1 chu3 yue4 ， jin1 shi4 ban4 yu2 shang1 。
+
+- lu2 ju2 chui2 can2 yu3 ， hong2 lian2 chai1 zao3 shuang1 。
+
+- song4 jun1 cui1 bai2 shou3 ， lin2 shui3 du2 si1 xiang1 。
+
+## 译文
+
+理邑想无事，琴不下堂。井田与楚越，津市半渔商人。卢橘垂残雨，红莲拆早霜。送你催老，临水独思乡。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+理邑想无事，琴不下堂。井田与楚越，津市半渔商人。卢橘垂残雨，红莲拆早霜。送你催老，临水独思乡。
+	* 此部分翻译来自AI，仅供参考

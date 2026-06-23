@@ -1,0 +1,45 @@
+---
+id: qi-ji-chun-xing-liu-nuan-ying-duo-yu
+title: 春兴
+author: 齐己
+authorSlug: qi-ji
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: chun1 xing1
+authorPinyin: qi2 ji3
+dynastyPinyin: tang2
+canonicalPoemId: 386620
+canonicalAuthorId: 159
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 柳暖莺多语，花明草尽长。
+
+- 风流在诗句，牵率绕池塘。
+
+- 叫切禽名宇，飞忙蝶姓庄。
+
+- 时来真可惜，自勉掇兰芳。
+
+## 拼音
+
+- liu3 nuan3 ying1 duo1 yu3 ， hua1 ming2 cao3 jin4 chang2 。
+
+- feng1 liu2 zai4 shi1 ju4 ， qian1 lü4 rao4 chi2 tang2 。
+
+- jiao4 qie4 qin2 ming2 yu3 ， fei1 mang2 die2 xing4 zhuang1 。
+
+- shi2 lai2 zhen1 ke3 xi1 ， zi4 mian3 duo1 lan2 fang1 。
+
+## 译文
+
+柳暖莺多说话，花第二草都长。风流在诗句，带着他绕着池塘。叫切禽名宇，蝴蝶飞忙姓庄。时来真可惜，自己努力吸引兰芳。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+柳暖莺多说话，花第二草都长。风流在诗句，带着他绕着池塘。叫切禽名宇，蝴蝶飞忙姓庄。时来真可惜，自己努力吸引兰芳。
+	* 此部分翻译来自AI，仅供参考

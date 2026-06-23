@@ -1,0 +1,53 @@
+---
+id: qian-qi-wan-chu-qing-men-wang-zhong-nan-bie-ye-neng-qing-xie-tiao-si-2
+title: 晚出青门望终南别业
+author: 钱起
+authorSlug: qian-qi
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: wan3 chu1 qing1 men2 wang4 zhong1 nan2 bie2 ye4
+authorPinyin: qian2 qi3
+dynastyPinyin: tang2
+canonicalPoemId: 459952
+canonicalAuthorId: 2583
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 能清谢脁思，暂下承明庐。
+
+- 远山新水下，寒皋微雨馀。
+
+- 更怜归鸟去，宛到卧龙居。
+
+- 笑指丛林上，闲云自卷舒。
+
+- 宁心鸣凤日，却意钓璜初。
+
+- 处贵有馀兴，伊周位不如。
+
+## 拼音
+
+- neng2 qing1 xie4 tiao3 si1 ， zan4 xia4 cheng2 ming2 lu2 。
+
+- yuan3 shan1 xin1 shui3 xia4 ， han2 gao1 wei1 yu3 yu2 。
+
+- geng4 lian2 gui1 niao3 qu4 ， wan3 dao4 wo4 long2 ju1 。
+
+- xiao4 zhi3 cong2 lin2 shang4 ， xian2 yun2 zi4 juan4 shu1 。
+
+- ning2 xin1 ming2 feng4 ri4 ， que4 yi4 diao4 huang2 chu1 。
+
+- chu4 gui4 you3 yu2 xing1 ， yi1 zhou1 wei4 bu4 ru2 。
+
+## 译文
+
+能清谢脁思考，暂时下承明房屋。远山新水下，寒皋小雨多。更可怜归鸟离开，宛到卧龙居。笑着指着丛林上，熟悉说自己卷舒。宁心鸣凤天，但意思钓璜开始。处贵有馀兴，伊周地位不如。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+能清谢脁思考，暂时下承明房屋。远山新水下，寒皋小雨多。更可怜归鸟离开，宛到卧龙居。笑着指着丛林上，熟悉说自己卷舒。宁心鸣凤天，但意思钓璜开始。处贵有馀兴，伊周地位不如。
+	* 此部分翻译来自AI，仅供参考

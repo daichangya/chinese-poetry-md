@@ -1,0 +1,51 @@
+---
+id: qian-wei-yan-qiu-ye-dui-yue-hao-qi-zhong-qiu-zheng
+title: 秋夜对月
+author: 钱惟演
+authorSlug: qian-wei-yan
+dynasty: 宋
+dynastySlug: song
+titlePinyin: qiu1 ye4 dui4 yue4
+authorPinyin: qian2 wei2 yan3
+dynastyPinyin: song4
+canonicalPoemId: 428230
+canonicalAuthorId: 12951
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 颢气中秋正，明河左界长。
+
+- 桂孤香易散，蚌冷泪先汪。
+
+- 飞盖倾兰坂，鸣琴厌烛房。
+
+- 玉盘浮浩露，素绠冰寒浆。
+
+- 浪白江连楚，风凄笛怨羗。
+
+- 庾楼聊顾慕，潘省更悲凉。
+
+- 雪漫夸圆璧，珠休号夜光。
+
+- 嫦娥悔孀独，空见海生桑。
+
+## 拼音
+
+- hao4 qi4 zhong1 qiu1 zheng4 ， ming2 he2 zuo3 jie4 chang2 。
+
+- gui4 gu1 xiang1 yi4 san4 ， bang4 leng3 lei4 xian1 wang1 。
+
+- fei1 gai4 qing1 lan2 ban3 ， ming2 qin2 yan4 zhu2 fang2 。
+
+- yu4 pan2 fu2 hao4 lu4 ， su4 geng3 bing1 han2 jiang1 。
+
+- lang4 bai2 jiang1 lian2 chu3 ， feng1 qi1 di2 yuan4 qiang1 。
+
+- yu3 lou2 liao2 gu4 mu4 ， pan1 sheng3 geng4 bei1 liang2 。
+
+- xue3 man4 kua1 yuan2 bi4 ， zhu1 xiu1 hao4 ye4 guang1 。
+
+- chang2 e2 hui3 shuang1 du2 ， kong1 jian4 hai3 sheng1 sang1 。

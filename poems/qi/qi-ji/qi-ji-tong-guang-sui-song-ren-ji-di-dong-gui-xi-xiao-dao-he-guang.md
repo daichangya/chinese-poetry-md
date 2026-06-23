@@ -1,0 +1,45 @@
+---
+id: qi-ji-tong-guang-sui-song-ren-ji-di-dong-gui-xi-xiao-dao-he-guang
+title: 同光岁送人及第东归
+author: 齐己
+authorSlug: qi-ji
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: tong2 guang1 sui4 song4 ren2 ji2 di4 dong1 gui1
+authorPinyin: qi2 ji3
+dynastyPinyin: tang2
+canonicalPoemId: 387234
+canonicalAuthorId: 159
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 西笑道何光，新朝旧桂堂。
+
+- 春官如白傅，内试似文皇。
+
+- 变化龙三十，升腾凤一行。
+
+- 还家几多兴，满袖月中香。
+
+## 拼音
+
+- xi1 xiao4 dao4 he2 guang1 ， xin1 chao2 jiu4 gui4 tang2 。
+
+- chun1 guan1 ru2 bai2 fu4 ， nei4 shi4 si4 wen2 huang2 。
+
+- bian4 hua4 long2 san1 shi2 ， sheng1 teng2 feng4 yi4 hang2 。
+
+- hai2 jia1 ji3 duo1 xing1 ， man3 xiu4 yue4 zhong1 xiang1 。
+
+## 译文
+
+西笑道什么光，新朝的旧桂堂。春官如白傅，内试验相似文皇。变化龙三十，升腾凤一行。回家多少兴，满袖月中香。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+西笑道什么光，新朝的旧桂堂。春官如白傅，内试验相似文皇。变化龙三十，升腾凤一行。回家多少兴，满袖月中香。
+	* 此部分翻译来自AI，仅供参考
