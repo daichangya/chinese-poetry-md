@@ -1,0 +1,45 @@
+---
+id: zhao-fan-wan-yu-ke-hui-zhang-er-shou-yi-zuo-chen-ping-xiang
+title: 挽俞克晦丈二首
+author: 赵蕃
+authorSlug: zhao-fan
+dynasty: 宋
+dynastySlug: song
+titlePinyin: wan3 yu2 ke4 hui4 zhang4 er4 shou3
+authorPinyin: zhao4 fan1
+dynastyPinyin: song4
+canonicalPoemId: 548134
+canonicalAuthorId: 933
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 忆昨陈平相，乡闾例荐延。
+
+- 蓬山渝奏墨，岩邑漫铨员。
+
+- 祠馆归求志，周行数选贤。
+
+- 那知终不偶，幕府遂终焉。
+
+## 拼音
+
+- yi4 zuo2 chen2 ping2 xiang1 ， xiang1 lü2 li4 jian4 yan2 。
+
+- peng2 shan1 yu2 zou4 mo4 ， yan2 yi4 man4 quan2 yuan2 。
+
+- ci2 guan3 gui1 qiu2 zhi4 ， zhou1 xing2 shu4 xuan3 xian2 。
+
+- na4 zhi1 zhong1 bu4 ou3 ， mu4 fu3 sui4 zhong1 yan1 。
+
+## 译文
+
+想起昨天陈平相，乡里例推荐延。蓬山渝上墨，岩城漫锉员。祠馆回家求志，周行数选贤。那知道他不会偶然，幕府就结束了。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+想起昨天陈平相，乡里例推荐延。蓬山渝上墨，岩城漫锉员。祠馆回家求志，周行数选贤。那知道他不会偶然，幕府就结束了。
+	* 此部分翻译来自AI，仅供参考

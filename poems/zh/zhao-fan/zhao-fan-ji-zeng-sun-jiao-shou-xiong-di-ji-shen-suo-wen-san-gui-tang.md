@@ -1,0 +1,45 @@
+---
+id: zhao-fan-ji-zeng-sun-jiao-shou-xiong-di-ji-shen-suo-wen-san-gui-tang
+title: 寄赠孙教授兄弟
+author: 赵蕃
+authorSlug: zhao-fan
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ji4 zeng4 sun1 jiao4 shou4 xiong1 di4
+authorPinyin: zhao4 fan1
+dynastyPinyin: song4
+canonicalPoemId: 431907
+canonicalAuthorId: 933
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 籍甚所闻三桂堂，向来相与但南昌。
+
+- 横经重识泮宫老，捧檄仍思幕府良。
+
+- 日暮酒尊勤洒扫，竹边谈几爱苍凉。
+
+- 梅江父子风流旧，今见君家鸿雁行。
+
+## 拼音
+
+- ji2 shen4 suo3 wen2 san1 gui4 tang2 ， xiang4 lai2 xiang1 yu3 dan4 nan2 chang1 。
+
+- heng2 jing1 zhong4 shi2 pan4 gong1 lao3 ， peng3 xi2 reng2 si1 mu4 fu3 liang2 。
+
+- ri4 mu4 jiu3 zun1 qin2 sa3 sao3 ， zhu2 bian1 tan2 ji3 ai4 cang1 liang2 。
+
+- mei2 jiang1 fu4 zi3 feng1 liu2 jiu4 ， jin1 jian4 jun1 jia1 hong2 yan4 xing2 。
+
+## 译文
+
+登记很所听到三桂堂，刚才大家只是南昌。横经重识泮宫老，手捧公文仍然想幕府良。傍晚酒尊经常打扫，竹边谈多少爱青凉。梅江父子风流旧，今天见到你家鸿雁行。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+登记很所听到三桂堂，刚才大家只是南昌。横经重识泮宫老，手捧公文仍然想幕府良。傍晚酒尊经常打扫，竹边谈多少爱青凉。梅江父子风流旧，今天见到你家鸿雁行。
+	* 此部分翻译来自AI，仅供参考

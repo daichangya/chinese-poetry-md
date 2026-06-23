@@ -1,0 +1,77 @@
+---
+id: zhao-ru-dang-he-ye-shui-xin-ma-cheng-ge-xi-nian-jia-zhu-chang-an-li
+title: 和叶水心马塍歌
+author: 赵汝譡
+authorSlug: zhao-ru-dang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: he2 ye4 shui3 xin1 ma3 cheng2 ge1
+authorPinyin: zhao4 ru3 dang3
+dynastyPinyin: song4
+canonicalPoemId: 547375
+canonicalAuthorId: 2210
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 昔年家住长安里，春负尽日香尘起。
+
+- 纷纷车马过绮陌，卖花人多少人识。
+
+- 王侯第宅连苑墙，粲若琼蕊敷丹房。
+
+- 花窠近取马塍本，曲栏高槛深迷藏。
+
+- 主欢对客小举袖，击鼓吹箫满前后。
+
+- 真珠一斛聘国姝，琥珀千杯酌天酒。
+
+- 几年农器不铸兵，雨耕云获歌且行。
+
+- 钟花土腴无水旱，园税十倍田租平。
+
+- 拿音来近菰蒲住，演洋回溪通枉渚。
+
+- 霜晴沙浅桥林明，日暮水浑鱼网聚。
+
+- 东门故侯应自许，灞陵醉尉宁须怒。
+
+- 何当学稼随老农，荷锄驱犊田中去。
+
+## 拼音
+
+- xi1 nian2 jia1 zhu4 chang2 an1 li3 ， chun1 fu4 jin4 ri4 xiang1 chen2 qi3 。
+
+- fen1 fen1 che1 ma3 guo4 qi3 mo4 ， mai4 hua1 ren2 duo1 shao3 ren2 shi2 。
+
+- wang2 hou2 di4 zhai2 lian2 yuan4 qiang2 ， can4 ruo4 qiong2 rui3 fu1 dan1 fang2 。
+
+- hua1 ke1 jin4 qu3 ma3 cheng2 ben3 ， qu3 lan2 gao1 kan3 shen1 mi2 cang2 。
+
+- zhu3 huan1 dui4 ke4 xiao3 ju3 xiu4 ， ji1 gu3 chui1 xiao1 man3 qian2 hou4 。
+
+- zhen1 zhu1 yi4 hu2 pin4 guo2 shu1 ， hu3 po4 qian1 bei1 zhuo2 tian1 jiu3 。
+
+- ji3 nian2 nong2 qi4 bu2 zhu4 bing1 ， yu3 geng1 yun2 huo4 ge1 qie3 xing2 。
+
+- zhong1 hua1 tu3 yu2 wu2 shui3 han4 ， yuan2 shui4 shi2 bei4 tian2 zu1 ping2 。
+
+- na2 yin1 lai2 jin4 gu1 pu2 zhu4 ， yan3 yang2 hui2 xi1 tong1 wang3 zhu3 。
+
+- shuang1 qing2 sha1 qian3 qiao2 lin2 ming2 ， ri4 mu4 shui3 hun2 yu2 wang3 ju4 。
+
+- dong1 men2 gu4 hou2 ying4 zi4 xu3 ， ba4 ling2 zui4 wei4 ning2 xu1 nu4 。
+
+- he2 dang1 xue2 jia4 sui2 lao3 nong2 ， he2 chu2 qu1 du2 tian2 zhong1 qu4 。
+
+## 译文
+
+当年家住在长安里，春季背整天香尘起。纷纷车马经过绮陌，卖花人多少人认识。王侯住宅连苑墙，我像琼蕊敷丹房。花案近取马腿根本，曲栏高门槛很迷收藏。主高兴回答客人小举袖，打鼓箫满前后。珍珠一斛聘国美女，琥珀千杯酒天酒。几年农具不铸造武器，雨在云获歌且行。钟花土肥肉没有干旱，园税十倍田租税公平。拿音乐来接近菰蒲住，演洋回溪通枉渚。霜晴沙浅桥林明，一天晚上水浑鱼网聚集。东门所以侯应自批准，霸陵醉尉宁要发怒。什么应该学种庄稼随着老农民，扛着锄头赶牛田中去。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+当年家住在长安里，春季背整天香尘起。纷纷车马经过绮陌，卖花人多少人认识。王侯住宅连苑墙，我像琼蕊敷丹房。花案近取马腿根本，曲栏高门槛很迷收藏。主高兴回答客人小举袖，打鼓箫满前后。珍珠一斛聘国美女，琥珀千杯酒天酒。几年农具不铸造武器，雨在云获歌且行。钟花土肥肉没有干旱，园税十倍田租税公平。拿音乐来接近菰蒲住，演洋回溪通枉渚。霜晴沙浅桥林明，一天晚上水浑鱼网聚集。东门所以侯应自批准，霸陵醉尉宁要发怒。什么应该学种庄稼随着老农民，扛着锄头赶牛田中去。
+	* 此部分翻译来自AI，仅供参考

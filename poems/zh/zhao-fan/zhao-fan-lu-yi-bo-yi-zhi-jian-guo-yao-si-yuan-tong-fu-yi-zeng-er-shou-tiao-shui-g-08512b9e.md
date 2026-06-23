@@ -1,0 +1,45 @@
+---
+id: zhao-fan-lu-yi-bo-yi-zhi-jian-guo-yao-si-yuan-tong-fu-yi-zeng-er-shou-tiao-shui-g-08512b9e
+title: 卢谊伯宜之见过要斯远同赋以赠二首
+author: 赵蕃
+authorSlug: zhao-fan
+dynasty: 宋
+dynastySlug: song
+titlePinyin: lu2 yi4 bo2 yi2 zhi1 jian4 guo4 yao4 si1 yuan3 tong2 fu4 yi3 zeng4 er4 shou3
+authorPinyin: zhao4 fan1
+dynastyPinyin: song4
+canonicalPoemId: 430734
+canonicalAuthorId: 933
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 苕水固多胜，吾州亦可邻。
+
+- 卜居虽匪旧，取友不妨新。
+
+- 佛屋从堪寓，溪亭更可人。
+
+- 莫嫌鹅鸭恼，最喜鹭鸥驯。
+
+## 拼音
+
+- tiao2 shui3 gu4 duo1 sheng4 ， wu2 zhou1 yi4 ke3 lin2 。
+
+- bu3 ju1 sui1 fei3 jiu4 ， qu3 you3 bu4 fang2 xin1 。
+
+- fo2 wu1 cong2 kan1 yu4 ， xi1 ting2 geng4 ke3 ren2 。
+
+- mo4 xian2 e2 ya1 nao3 ， zui4 xi3 lu4 ou1 xun4 。
+
+## 译文
+
+苕水固多胜，我州也可以邻居。房间虽然不是旧，交朋友不妨碍新。佛堂从堪寓所，溪亭更可以人。莫嫌鹅鸭烦恼，最喜欢鹭鸥驯服。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+苕水固多胜，我州也可以邻居。房间虽然不是旧，交朋友不妨碍新。佛堂从堪寓所，溪亭更可以人。莫嫌鹅鸭烦恼，最喜欢鹭鸥驯服。
+	* 此部分翻译来自AI，仅供参考

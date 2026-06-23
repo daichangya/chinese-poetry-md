@@ -1,0 +1,53 @@
+---
+id: zhao-ding-xi-jiang-yue-guo-fu-tang-liu-bie-gu-ren-shi-tai-fu-yun-yi-bian
+title: 西江月（过福唐留别故人）
+author: 赵鼎
+authorSlug: zhao-ding
+dynasty: 宋
+dynastySlug: song
+titlePinyin: xi1 jiang1 yue4 （ guo4 fu2 tang2 liu2 bie2 gu4 ren2 ）
+authorPinyin: zhao4 ding3
+dynastyPinyin: song4
+canonicalPoemId: 464747
+canonicalAuthorId: 11597
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 世态浮云易变，时光飞箭难留。
+
+- 五年重见海东头。
+
+- 只有交情似旧。
+
+- 未尽别来深意，难堪老去离愁。
+
+- 青山迢递水悠悠。
+
+- 明日扁舟病酒。
+
+## 拼音
+
+- shi4 tai4 fu2 yun2 yi4 bian4 ， shi2 guang1 fei1 jian4 nan2 liu2 。
+
+- wu3 nian2 zhong4 jian4 hai3 dong1 tou2 。
+
+- zhi3 you3 jiao1 qing2 si4 jiu4 。
+
+- wei4 jin4 bie2 lai2 shen1 yi4 ， nan2 kan1 lao3 qu4 li2 chou2 。
+
+- qing1 shan1 tiao2 di4 shui3 you1 you1 。
+
+- ming2 ri4 pian1 zhou1 bing4 jiu3 。
+
+## 译文
+
+社会形态浮云变化，时光飞箭难留。五年重新发现海东头。只有感情似旧。未尽别后深意，难以忍受老去离愁。青山迢递水悠悠。第二天扁舟病酒。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+社会形态浮云变化，时光飞箭难留。五年重新发现海东头。只有感情似旧。未尽别后深意，难以忍受老去离愁。青山迢递水悠悠。第二天扁舟病酒。
+	* 此部分翻译来自AI，仅供参考

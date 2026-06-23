@@ -1,0 +1,45 @@
+---
+id: zhao-fan-liu-wan-er-di-zhi-jiu-yu-ba-jiu-xiong-tong-yin-mei-yi-shu-shi-juan-2
+title: 刘万二弟置酒与八九兄同饮
+author: 赵蕃
+authorSlug: zhao-fan
+dynasty: 宋
+dynastySlug: song
+titlePinyin: liu2 wan4 er4 di4 zhi4 jiu3 yu3 ba1 jiu3 xiong1 tong2 yin3
+authorPinyin: zhao4 fan1
+dynastyPinyin: song4
+canonicalPoemId: 548047
+canonicalAuthorId: 933
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 每忆疎诗卷，何期共酒尊。
+
+- 高栖子苕霅，孤宦我湘沅。
+
+- 暮夜风仍吼，途穷志自存。
+
+- 悠悠几山岳，泛泛一乾坤。
+
+## 拼音
+
+- mei3 yi4 shu1 shi1 juan4 ， he2 qi1 gong4 jiu3 zun1 。
+
+- gao1 qi1 zi3 tiao2 zha4 ， gu1 huan4 wo3 xiang1 yuan2 。
+
+- mu4 ye4 feng1 reng2 hou3 ， tu2 qiong2 zhi4 zi4 cun2 。
+
+- you1 you1 ji3 shan1 yue4 ， fan4 fan4 yi4 qian2 kun1 。
+
+## 译文
+
+每当想起国内诗卷，何期共设酒尊。高栖子苕霅，我带领我湘沅。晚上风又吼，路志生存。悠悠桌山岳，泛泛一乾坤。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+每当想起国内诗卷，何期共设酒尊。高栖子苕霅，我带领我湘沅。晚上风又吼，路志生存。悠悠桌山岳，泛泛一乾坤。
+	* 此部分翻译来自AI，仅供参考

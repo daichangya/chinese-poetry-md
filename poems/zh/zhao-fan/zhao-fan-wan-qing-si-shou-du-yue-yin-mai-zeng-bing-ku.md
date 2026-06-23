@@ -1,0 +1,45 @@
+---
+id: zhao-fan-wan-qing-si-shou-du-yue-yin-mai-zeng-bing-ku
+title: 晚晴四首
+author: 赵蕃
+authorSlug: zhao-fan
+dynasty: 宋
+dynastySlug: song
+titlePinyin: wan3 qing2 si4 shou3
+authorPinyin: zhao4 fan1
+dynastyPinyin: song4
+canonicalPoemId: 543335
+canonicalAuthorId: 933
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 度月阴霾增病苦，重阳开霁见秋新。
+
+- 菌生康乐登山屐，尘败渊明漉酒巾。
+
+- 强拟扶持成小憇，路逢借问一何频。
+
+- 莫惊老瘦非前日，看即推迁类昔人。
+
+## 拼音
+
+- du4 yue4 yin1 mai2 zeng1 bing4 ku3 ， chong2 yang2 kai1 ji4 jian4 qiu1 xin1 。
+
+- jun1 sheng1 kang1 le4 deng1 shan1 ji1 ， chen2 bai4 yuan1 ming2 lu4 jiu3 jin1 。
+
+- qiang2 ni3 fu2 chi2 cheng2 xiao3 qi4 ， lu4 feng2 jie4 wen4 yi4 he2 pin2 。
+
+- mo4 jing1 lao3 shou4 fei1 qian2 ri4 ， kan4 ji2 tui1 qian1 lei4 xi1 ren2 。
+
+## 译文
+
+度月阴霾增加病患，重阳晴朗见秋季新。菌生康乐登山鞋，败坏萧渊明漉酒巾。强拟扶持成小憇，请问这一路上遇到什么频繁。没有惊动老瘦不是前几天，看就是推升类似过去的人。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+度月阴霾增加病患，重阳晴朗见秋季新。菌生康乐登山鞋，败坏萧渊明漉酒巾。强拟扶持成小憇，请问这一路上遇到什么频繁。没有惊动老瘦不是前几天，看就是推升类似过去的人。
+	* 此部分翻译来自AI，仅供参考

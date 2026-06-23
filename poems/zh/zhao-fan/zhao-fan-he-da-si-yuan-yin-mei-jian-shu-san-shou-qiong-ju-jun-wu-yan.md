@@ -1,0 +1,41 @@
+---
+id: zhao-fan-he-da-si-yuan-yin-mei-jian-shu-san-shou-qiong-ju-jun-wu-yan
+title: 和答斯远因梅见属三首
+author: 赵蕃
+authorSlug: zhao-fan
+dynasty: 宋
+dynastySlug: song
+titlePinyin: he2 da2 si1 yuan3 yin1 mei2 jian4 shu3 san1 shou3
+authorPinyin: zhao4 fan1
+dynastyPinyin: song4
+canonicalPoemId: 543549
+canonicalAuthorId: 933
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 穷居君勿厌，穷途我何之。
+
+- 初心欲求免，卒志还累饥。
+
+- 滔滔果何向，命也将奚为。
+
+## 拼音
+
+- qiong2 ju1 jun1 wu4 yan4 ， qiong2 tu2 wo3 he2 zhi1 。
+
+- chu1 xin1 yu4 qiu2 mian3 ， zu2 zhi4 hai2 lei4 ji1 。
+
+- tao1 tao1 guo3 he2 xiang4 ， ming4 ye3 jiang1 xi1 wei4 。
+
+## 译文
+
+处于你不厌倦，走投无路我什么的。初心要求免，最终目的还多次饥饿。滔滔果然哪里，命中注定要怎么做。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+处于你不厌倦，走投无路我什么的。初心要求免，最终目的还多次饥饿。滔滔果然哪里，命中注定要怎么做。
+	* 此部分翻译来自AI，仅供参考

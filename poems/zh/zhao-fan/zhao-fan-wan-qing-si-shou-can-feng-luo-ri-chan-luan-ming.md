@@ -1,0 +1,45 @@
+---
+id: zhao-fan-wan-qing-si-shou-can-feng-luo-ri-chan-luan-ming
+title: 晚晴四首
+author: 赵蕃
+authorSlug: zhao-fan
+dynasty: 宋
+dynastySlug: song
+titlePinyin: wan3 qing2 si4 shou3
+authorPinyin: zhao4 fan1
+dynastyPinyin: song4
+canonicalPoemId: 543329
+canonicalAuthorId: 933
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 残风落日蝉乱鸣，细履小园欣晚晴。
+
+- 投林倦鸟分螟色，满地落叶无秋声。
+
+- 卫尉一钱曾不直，阮郎几屐毕此生。
+
+- 三十六中第一策，脱却世故甘佣耕。
+
+## 拼音
+
+- can2 feng1 luo4 ri4 chan2 luan4 ming2 ， xi4 lü3 xiao3 yuan2 xin1 wan3 qing2 。
+
+- tou2 lin2 juan4 niao3 fen1 ming2 se4 ， man3 di4 luo4 ye4 wu2 qiu1 sheng1 。
+
+- wei4 wei4 yi4 qian2 ceng2 bu4 zhi2 ， ruan3 lang2 ji3 ji1 bi4 ci3 sheng1 。
+
+- san1 shi2 liu4 zhong1 di4 yi1 ce4 ， tuo1 que4 shi4 gu4 gan1 yong1 geng1 。
+
+## 译文
+
+残风落天蝉乱鸣，细鞋小花园很晚晴。投林倦鸟分各种颜色，满地落叶没有秋声。卫尉一钱曾不直，阮郎几乎鞋结束这一生。 36中的第一策略，脱离了人世甘人耕种。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+残风落天蝉乱鸣，细鞋小花园很晚晴。投林倦鸟分各种颜色，满地落叶没有秋声。卫尉一钱曾不直，阮郎几乎鞋结束这一生。 36中的第一策略，脱离了人世甘人耕种。
+	* 此部分翻译来自AI，仅供参考

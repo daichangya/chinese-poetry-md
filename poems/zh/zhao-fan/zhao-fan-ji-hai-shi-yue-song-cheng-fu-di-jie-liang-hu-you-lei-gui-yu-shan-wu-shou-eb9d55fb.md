@@ -1,0 +1,37 @@
+---
+id: zhao-fan-ji-hai-shi-yue-song-cheng-fu-di-jie-liang-hu-you-lei-gui-yu-shan-wu-shou-eb9d55fb
+title: 己亥十月送成父弟絜两户幼累归玉山五首
+author: 赵蕃
+authorSlug: zhao-fan
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ji3 hai4 shi2 yue4 song4 cheng2 fu4 di4 jie2 liang3 hu4 you4 lei4 gui1 yu4 shan1 wu3 shou3
+authorPinyin: zhao4 fan1
+dynastyPinyin: song4
+canonicalPoemId: 542765
+canonicalAuthorId: 933
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 已办知津送去舟，重临快阁亦悠悠。
+
+- 黄知橘柚江行好，此去况经龙雾洲。
+
+## 拼音
+
+- yi3 ban4 zhi1 jin1 song4 qu4 zhou1 ， zhong4 lin2 kuai4 ge2 yi4 you1 you1 。
+
+- huang2 zhi1 ju2 you4 jiang1 xing2 hao3 ， ci3 qu4 kuang4 jing1 long2 wu4 zhou1 。
+
+## 译文
+
+已办理知道渡口送离船，重临节合也悠悠。黄知道橘柚江行好，这里离况经龙雾岛。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+已办理知道渡口送离船，重临节合也悠悠。黄知道橘柚江行好，这里离况经龙雾岛。
+	* 此部分翻译来自AI，仅供参考

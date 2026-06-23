@@ -1,0 +1,45 @@
+---
+id: zhao-fan-wan-shu-er-shou-luo-yue-bu-ke-zhu
+title: 晚书二首
+author: 赵蕃
+authorSlug: zhao-fan
+dynasty: 宋
+dynastySlug: song
+titlePinyin: wan3 shu1 er4 shou3
+authorPinyin: zhao4 fan1
+dynastyPinyin: song4
+canonicalPoemId: 547476
+canonicalAuthorId: 933
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 落月不可驻，落日不可挥。
+
+- 岂昧白昼长，畏此余暑威。
+
+- 人生延促顷，光景变灭微。
+
+- 水雾已似合，山烟亦成霏。
+
+## 拼音
+
+- luo4 yue4 bu4 ke3 zhu4 ， luo4 ri4 bu4 ke3 hui1 。
+
+- qi3 mei4 bai2 zhou4 chang2 ， wei4 ci3 yu2 shu3 wei1 。
+
+- ren2 sheng1 yan2 cu4 qing3 ， guang1 jing3 bian4 mie4 wei1 。
+
+- shui3 wu4 yi3 si4 he2 ， shan1 yan1 yi4 cheng2 fei1 。
+
+## 译文
+
+落月不可以停下，落日不能指挥。岂能昧白昼长，害怕这余暑威。人生延长或缩短时间，光影变灭微。水雾似乎已合，山烟也成消散。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+落月不可以停下，落日不能指挥。岂能昧白昼长，害怕这余暑威。人生延长或缩短时间，光影变灭微。水雾似乎已合，山烟也成消散。
+	* 此部分翻译来自AI，仅供参考

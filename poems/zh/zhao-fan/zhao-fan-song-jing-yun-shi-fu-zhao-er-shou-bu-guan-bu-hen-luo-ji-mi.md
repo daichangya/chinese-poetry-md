@@ -1,0 +1,45 @@
+---
+id: zhao-fan-song-jing-yun-shi-fu-zhao-er-shou-bu-guan-bu-hen-luo-ji-mi
+title: 送京运使赴召二首
+author: 赵蕃
+authorSlug: zhao-fan
+dynasty: 宋
+dynastySlug: song
+titlePinyin: song4 jing1 yun4 shi3 fu4 zhao4 er4 shou3
+authorPinyin: zhao4 fan1
+dynastyPinyin: song4
+canonicalPoemId: 430550
+canonicalAuthorId: 933
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 不官不恨落羇縻，正谓边头狱讼稀。
+
+- 但有胶胶还扰扰，略无是是与非非。
+
+- 诗书旧学浑忘却，梦寐衡祠放得归。
+
+- 邂逅两台俱趣召，莼鲈于此合知几。
+
+## 拼音
+
+- bu4 guan1 bu2 hen4 luo4 ji1 mi2 ， zheng4 wei4 bian1 tou2 yu4 song4 xi1 。
+
+- dan4 you3 jiao1 jiao1 hai2 rao3 rao3 ， lüe4 wu2 shi4 shi4 yu3 fei1 fei1 。
+
+- shi1 shu1 jiu4 xue2 hun2 wang4 que4 ， meng4 mei4 heng2 ci2 fang4 de2 gui1 。
+
+- xie4 hou4 liang3 tai2 ju4 qu4 zhao4 ， chun2 lu2 yu2 ci3 he2 zhi1 ji3 。
+
+## 译文
+
+不官不恨落羇束缚，正所谓边头案件很少。只是有胶胶回到纷纷扰扰，几乎没有是是非非。诗书旧学浑忘了，梦衡祭祀放得归。邂逅两台都催促，在这合知多少鲈鱼莼。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+不官不恨落羇束缚，正所谓边头案件很少。只是有胶胶回到纷纷扰扰，几乎没有是是非非。诗书旧学浑忘了，梦衡祭祀放得归。邂逅两台都催促，在这合知多少鲈鱼莼。
+	* 此部分翻译来自AI，仅供参考

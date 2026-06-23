@@ -1,0 +1,45 @@
+---
+id: zhao-fan-liu-bo-shan-shu-lai-yun-you-shi-zhu-wei-zao-yi-ting-liu-zi-cheng-ming-yu-6f836593
+title: 刘伯山书来云有施主为造一亭刘子澄名曰竹溪
+author: 赵蕃
+authorSlug: zhao-fan
+dynasty: 宋
+dynastySlug: song
+titlePinyin: liu2 bo2 shan1 shu1 lai2 yun2 you3 shi1 zhu3 wei4 zao4 yi4 ting2 liu2 zi3 cheng2 ming2 yue1 zhu2 xi1
+authorPinyin: zhao4 fan1
+dynastyPinyin: song4
+canonicalPoemId: 544564
+canonicalAuthorId: 933
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 竹外青原久不看，书来剩喜报平安。
+
+- 修筠流水故亦有，高士韵人良独难。
+
+- 杜老不应栖锦里，谪仙终合见金凿。
+
+- 兹亭便与图经载，何况制名繇孟韩。
+
+## 拼音
+
+- zhu2 wai4 qing1 yuan2 jiu3 bu2 kan4 ， shu1 lai2 sheng4 xi3 bao4 ping2 an1 。
+
+- xiu1 yun2 liu2 shui3 gu4 yi4 you3 ， gao1 shi4 yun4 ren2 liang2 du2 nan2 。
+
+- du4 lao3 bu2 ying4 qi1 jin3 li3 ， zhe2 xian1 zhong1 he2 jian4 jin1 zao2 。
+
+- zi1 ting2 bian4 yu3 tu2 jing1 zai3 ， he2 kuang4 zhi4 ming2 yao2 meng4 han2 。
+
+## 译文
+
+竹外青原很久不看，书来剩很高兴报平安。修箔流水所以也有，高士韵人实在更难。杜甫不应住锦里，终合见金凿谪仙。这亭就与图经载，何况制名繇孟韩。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+竹外青原很久不看，书来剩很高兴报平安。修箔流水所以也有，高士韵人实在更难。杜甫不应住锦里，终合见金凿谪仙。这亭就与图经载，何况制名繇孟韩。
+	* 此部分翻译来自AI，仅供参考

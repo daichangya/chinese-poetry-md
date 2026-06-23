@@ -1,0 +1,35 @@
+---
+id: zhao-fan-zhou-zhong-du-zi-jin-kun-zhong-xi-you-ji-you-huai-qi-ren-zuo-shi-ji-zhi--bdc572c8
+title: 舟中读子进昆仲西游集有怀其人作诗寄之并示成父弟二首 其一
+author: 赵蕃
+authorSlug: zhao-fan
+dynasty: 宋
+dynastySlug: song
+titlePinyin: zhou1 zhong1 du2 zi3 jin4 kun1 zhong4 xi1 you2 ji2 you3 huai2 qi2 ren2 zuo4 shi1 ji4 zhi1 bing4 shi4 cheng2 fu4 di4 er4 shou3   qi2 yi1
+authorPinyin: zhao4 fan1
+dynastyPinyin: song4
+canonicalPoemId: 430139
+canonicalAuthorId: 933
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 君是三珠树，子非两玉人。
+
+- 水南留步武，竹隐记风神。
+
+- 往者兄同弟，今焉越与秦。
+
+- 细哦诗语妙，如款笑谈真。
+
+## 拼音
+
+- jun1 shi4 san1 zhu1 shu4 ， zi3 fei1 liang3 yu4 ren2 。
+
+- shui3 nan2 liu2 bu4 wu3 ， zhu2 yin3 ji4 feng1 shen2 。
+
+- wang3 zhe3 xiong1 tong2 di4 ， jin1 yan1 yue4 yu3 qin2 。
+
+- xi4 o4 shi1 yu3 miao4 ， ru2 kuan3 xiao4 tan2 zhen1 。

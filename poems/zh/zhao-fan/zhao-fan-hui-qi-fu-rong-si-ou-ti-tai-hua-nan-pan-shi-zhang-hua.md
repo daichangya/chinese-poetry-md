@@ -1,0 +1,37 @@
+---
+id: zhao-fan-hui-qi-fu-rong-si-ou-ti-tai-hua-nan-pan-shi-zhang-hua
+title: 回憇芙蓉寺偶题
+author: 赵蕃
+authorSlug: zhao-fan
+dynasty: 宋
+dynastySlug: song
+titlePinyin: hui2 qi4 fu2 rong2 si4 ou3 ti2
+authorPinyin: zhao4 fan1
+dynastyPinyin: song4
+canonicalPoemId: 547262
+canonicalAuthorId: 933
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 太华难攀十丈花，白莲零落远公家。
+
+- 此中那得嘉名占，绿水绕除山四遮。
+
+## 拼音
+
+- tai4 hua2 nan2 pan1 shi2 zhang4 hua1 ， bai2 lian2 ling2 luo4 yuan3 gong1 jia0 。
+
+- ci3 zhong1 na4 de2 jia1 ming2 zhan4 ， lü4 shui3 rao4 chu2 shan1 si4 zhe1 。
+
+## 译文
+
+太华难攀十丈花，白莲花零落远国家。这中那得到美名占，绿水绕除山四遮。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+太华难攀十丈花，白莲花零落远国家。这中那得到美名占，绿水绕除山四遮。
+	* 此部分翻译来自AI，仅供参考

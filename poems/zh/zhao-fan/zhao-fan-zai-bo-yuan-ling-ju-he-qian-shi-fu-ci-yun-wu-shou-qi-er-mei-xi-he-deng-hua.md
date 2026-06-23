@@ -1,0 +1,45 @@
+---
+id: zhao-fan-zai-bo-yuan-ling-ju-he-qian-shi-fu-ci-yun-wu-shou-qi-er-mei-xi-he-deng-hua
+title: 在伯沅陵俱和前诗复次韵五首 其二
+author: 赵蕃
+authorSlug: zhao-fan
+dynasty: 宋
+dynastySlug: song
+titlePinyin: zai4 bo2 yuan2 ling2 ju4 he2 qian2 shi1 fu4 ci4 yun4 wu3 shou3   qi2 er4
+authorPinyin: zhao4 fan1
+dynastyPinyin: song4
+canonicalPoemId: 430282
+canonicalAuthorId: 933
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 梅兮何等花，意似幽人作。
+
+- 芳不待三熏，胜自专一壑。
+
+- 屈原语醉醒，孺子歌清浊。
+
+- 醉如糟可𫗦，清亦足可濯。
+
+## 拼音
+
+- mei2 xi1 he2 deng3 hua1 ， yi4 si4 you1 ren2 zuo4 。
+
+- fang1 bu2 dai4 san1 xun1 ， sheng4 zi4 zhuan1 yi1 he4 。
+
+- qu1 yuan2 yu3 zui4 xing3 ， ru2 zi3 ge1 qing1 zhuo2 。
+
+- zui4 ru2 zao1 ke3 𫗦 ， qing1 yi4 zu2 ke3 zhuo2 。
+
+## 译文
+
+梅啊什么花，意像隐士作。芳不待三熏，战胜自己专门一沟壑。屈原对醉醒，孺子歌清浊。醉得糟可以给饭吃，清也可以洗，
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+梅啊什么花，意像隐士作。芳不待三熏，战胜自己专门一沟壑。屈原对醉醒，孺子歌清浊。醉得糟可以给饭吃，清也可以洗，
+	* 此部分翻译来自AI，仅供参考
