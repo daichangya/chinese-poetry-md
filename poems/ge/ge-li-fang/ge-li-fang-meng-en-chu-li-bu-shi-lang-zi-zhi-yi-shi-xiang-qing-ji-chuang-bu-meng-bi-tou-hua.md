@@ -1,0 +1,45 @@
+---
+id: ge-li-fang-meng-en-chu-li-bu-shi-lang-zi-zhi-yi-shi-xiang-qing-ji-chuang-bu-meng-bi-tou-hua
+title: 蒙恩除吏部侍郎子侄以诗相庆
+author: 葛立方
+authorSlug: ge-li-fang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: meng2 en1 chu2 li4 bu4 shi4 lang2 zi3 zhi2 yi3 shi1 xiang1 qing4
+authorPinyin: ge3 li4 fang1
+dynastyPinyin: song4
+canonicalPoemId: 501349
+canonicalAuthorId: 5078
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 鸡窗不梦笔头花，分合扶犁霅水涯。
+
+- 禁掖俄膺九芝检，仙逵许从五香车。
+
+- 厚陵戎部尊荷橐，徽庙司成踵棣华，
+
+- 无似鹈梁讥不称，且欣绂冕粗承家。
+
+## 拼音
+
+- ji1 chuang1 bu2 meng4 bi3 tou2 hua1 ， fen1 he2 fu2 li2 zha4 shui3 ya2 。
+
+- jin4 ye4 e2 ying1 jiu3 zhi1 jian3 ， xian1 kui2 xu3 cong2 wu3 xiang1 che1 。
+
+- hou4 ling2 rong2 bu4 zun1 he2 tuo2 ， hui1 miao4 si1 cheng2 zhong3 di4 hua2 ，
+
+- wu2 si4 ti2 liang2 ji1 bu4 cheng1 ， qie3 xin1 fu2 mian3 cu1 cheng2 jia1 。
+
+## 译文
+
+鸡窗不梦见笔头花，分合扶犁霅水边。宫中不久接受九芝检查，仙贾逵答应五香车。厚陵戎部尊扛着袋子，徽庙司成脚跟棣华，不像鹈梁讥讽不相称，而且高兴绂冕粗承家。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+鸡窗不梦见笔头花，分合扶犁霅水边。宫中不久接受九芝检查，仙贾逵答应五香车。厚陵戎部尊扛着袋子，徽庙司成脚跟棣华，不像鹈梁讥讽不相称，而且高兴绂冕粗承家。
+	* 此部分翻译来自AI，仅供参考

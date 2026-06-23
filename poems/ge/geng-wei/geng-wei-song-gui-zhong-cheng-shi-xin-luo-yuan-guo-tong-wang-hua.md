@@ -1,0 +1,61 @@
+---
+id: geng-wei-song-gui-zhong-cheng-shi-xin-luo-yuan-guo-tong-wang-hua
+title: 送归中丞使新罗
+author: 耿𣲗
+authorSlug: geng-wei
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: song4 gui1 zhong1 cheng2 shi3 xin1 luo2
+authorPinyin: geng3 wei2
+dynastyPinyin: tang2
+canonicalPoemId: 467919
+canonicalAuthorId: 188
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 远国通王化，儒林得使臣。
+
+- 六君成典册，万里奉丝纶。
+
+- 云水连孤棹，恩私在一身。
+
+- 悠悠龙节去，渺渺蜃楼新。
+
+- 望里行还暮，波中岁又春。
+
+- 昏明看日御，灵怪问舟人。
+
+- 城邑分华夏，衣裳拟缙绅。
+
+- 他时礼命毕，归路勿迷津。
+
+## 拼音
+
+- yuan3 guo2 tong1 wang2 hua4 ， ru2 lin2 de2 shi3 chen2 。
+
+- liu4 jun1 cheng2 dian3 ce4 ， wan4 li3 feng4 si1 lun2 。
+
+- yun2 shui3 lian2 gu1 zhao4 ， en1 si1 zai4 yi4 shen1 。
+
+- you1 you1 long2 jie2 qu4 ， miao3 miao3 shen4 lou2 xin1 。
+
+- wang4 li3 xing2 hai2 mu4 ， bo1 zhong1 sui4 you4 chun1 。
+
+- hun1 ming2 kan4 ri4 yu4 ， ling2 guai4 wen4 zhou1 ren2 。
+
+- cheng2 yi4 fen1 hua2 xia4 ， yi1 shang0 ni3 jin4 shen1 。
+
+- ta1 shi2 li3 ming4 bi4 ， gui1 lu4 wu4 mi2 jin1 。
+
+## 译文
+
+远国通王化，儒林能够使我。六君成典册，万里送丝纶。云水连孤棹，私恩在一身。悠悠龙节距，渺渺蜃楼新。望里走回来晚，波中一年又春。昏明看时间到，灵感到奇怪，问船夫。城市分华夏，衣服和住所。别的时候礼命毕，回来的路上不要迷津。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+远国通王化，儒林能够使我。六君成典册，万里送丝纶。云水连孤棹，私恩在一身。悠悠龙节距，渺渺蜃楼新。望里走回来晚，波中一年又春。昏明看时间到，灵感到奇怪，问船夫。城市分华夏，衣服和住所。别的时候礼命毕，回来的路上不要迷津。
+	* 此部分翻译来自AI，仅供参考

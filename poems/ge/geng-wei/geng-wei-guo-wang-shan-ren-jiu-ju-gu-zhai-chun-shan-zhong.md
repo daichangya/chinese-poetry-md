@@ -1,0 +1,45 @@
+---
+id: geng-wei-guo-wang-shan-ren-jiu-ju-gu-zhai-chun-shan-zhong
+title: 过王山人旧居
+author: 耿𣲗
+authorSlug: geng-wei
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: guo4 wang2 shan1 ren2 jiu4 ju1
+authorPinyin: geng3 wei2
+dynastyPinyin: tang2
+canonicalPoemId: 467936
+canonicalAuthorId: 188
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 故宅春山中，来逢夕阳入。
+
+- 汲少井味变，开稀户枢涩。
+
+- 树朽鸟不栖，阶闲云自湿。
+
+- 先生何处去，惆怅空独立。
+
+## 拼音
+
+- gu4 zhai2 chun1 shan1 zhong1 ， lai2 feng2 xi1 yang2 ru4 。
+
+- ji2 shao3 jing3 wei4 bian4 ， kai1 xi1 hu4 shu1 se4 。
+
+- shu4 xiu3 niao3 bu4 qi1 ， jie1 xian2 yun2 zi4 shi1 。
+
+- xian1 sheng1 he2 chu4 qu4 ， chou2 chang4 kong1 du2 li4 。
+
+## 译文
+
+故居春山中，来逢夕阳入。汲井味变少，开稀门轴涩。树腐烂不栖鸟，阶闲云从湿。先生那里去，惆怅空独立。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+故居春山中，来逢夕阳入。汲井味变少，开稀门轴涩。树腐烂不栖鸟，阶闲云从湿。先生那里去，惆怅空独立。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,45 @@
+---
+id: ge-li-fang-chun-ri-yi-zhou-zhang-yuan-bing-hu-che-gu-wu-xian-chen
+title: 春日移舟章园
+author: 葛立方
+authorSlug: ge-li-fang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: chun1 ri4 yi2 zhou1 zhang1 yuan2
+authorPinyin: ge3 li4 fang1
+dynastyPinyin: song4
+canonicalPoemId: 501241
+canonicalAuthorId: 5078
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 冰壶彻骨无纤尘，新来结屋苕溪滨。
+
+- 倾银注瓦叟泥饮，披锦裂绣天行春。
+
+- 沙平印篆鸟浴羽，浪暖破绡鱼跃鳞。
+
+- 一丘一壑志愿毕，肯待人招祁孔宾。
+
+## 拼音
+
+- bing1 hu2 che4 gu3 wu2 xian1 chen2 ， xin1 lai2 jie2 wu1 tiao2 xi1 bin1 。
+
+- qing1 yin2 zhu4 wa3 sou3 ni2 yin3 ， pi1 jin3 lie4 xiu4 tian1 xing2 chun1 。
+
+- sha1 ping2 yin4 zhuan4 niao3 yu4 yu3 ， lang4 nuan3 po4 xiao1 yu2 yue4 lin2 。
+
+- yi4 qiu1 yi2 he4 zhi4 yuan4 bi4 ， ken3 dai4 ren2 zhao1 qi2 kong3 bin1 。
+
+## 译文
+
+冰壶彻骨一尘不染，新来结屋苕溪沿岸。倾银注入瓦老人泥饮，披锦锈裂天行春。沙平印篆鸟洗澡羽，浪暖破着鱼跃鳞。一丘一坑愿望完毕，肯等待人招祁孔宾。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+冰壶彻骨一尘不染，新来结屋苕溪沿岸。倾银注入瓦老人泥饮，披锦锈裂天行春。沙平印篆鸟洗澡羽，浪暖破着鱼跃鳞。一丘一坑愿望完毕，肯等待人招祁孔宾。
+	* 此部分翻译来自AI，仅供参考

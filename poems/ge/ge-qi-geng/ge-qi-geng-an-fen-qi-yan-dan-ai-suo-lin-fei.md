@@ -1,0 +1,45 @@
+---
+id: ge-qi-geng-an-fen-qi-yan-dan-ai-suo-lin-fei
+title: 安分
+author: 葛起耕
+authorSlug: ge-qi-geng
+dynasty: 宋
+dynastySlug: song
+titlePinyin: an1 fen4
+authorPinyin: ge3 qi3 geng1
+dynastyPinyin: song4
+canonicalPoemId: 495306
+canonicalAuthorId: 7376
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 凄烟澹霭锁林霏，又是秋光欲莫时。
+
+- 苹叶江湖风剪剪，桂花庭院雨丝丝。
+
+- 世情冷暖杯中酒，人事输赢局上棋。
+
+- 安分得闲闲最好，不须身外强寻思。
+
+## 拼音
+
+- qi1 yan1 dan4 ai3 suo3 lin2 fei1 ， you4 shi4 qiu1 guang1 yu4 mo4 shi2 。
+
+- ping2 ye4 jiang1 hu2 feng1 jian3 jian3 ， gui4 hua1 ting2 yuan4 yu3 si1 si1 。
+
+- shi4 qing2 leng3 nuan3 bei1 zhong1 jiu3 ， ren2 shi4 shu1 ying2 ju2 shang4 qi2 。
+
+- an1 fen4 de2 xian2 xian2 zui4 hao3 ， bu4 xu1 shen1 wai4 qiang2 xun2 si0 。
+
+## 译文
+
+锁林霏凄凉烟澹霭，又是秋光想没有时间。苹叶江湖风剪剪，桂花庭院丝丝细雨。世情冷暖杯中酒，人事输赢棋盘上棋子。怎么分得闲闲最好，不需要身体外强寻思。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+锁林霏凄凉烟澹霭，又是秋光想没有时间。苹叶江湖风剪剪，桂花庭院丝丝细雨。世情冷暖杯中酒，人事输赢棋盘上棋子。怎么分得闲闲最好，不需要身体外强寻思。
+	* 此部分翻译来自AI，仅供参考

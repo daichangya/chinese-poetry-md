@@ -1,0 +1,35 @@
+---
+id: ge-sheng-zhong-jiang-zhi-xiang-ling-er-shou-qi-er-qian-li-kun-lun-yi-yue-feng
+title: 将至襄陵二首 其二
+author: 葛胜仲
+authorSlug: ge-sheng-zhong
+dynasty: 宋
+dynastySlug: song
+titlePinyin: jiang1 zhi4 xiang1 ling2 er4 shou3   qi2 er4
+authorPinyin: ge3 sheng4 zhong4
+dynastyPinyin: song4
+canonicalPoemId: 481521
+canonicalAuthorId: 11577
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 千里昆仑一月风，乘流初不恨途穷。
+
+- 南陔就养晨昏乐，东榻忘怀笑语同。
+
+- 牛酒故应推汴上，鲈莼那复念吴中。
+
+- 明朝系缆襄陵驿，试上高原望郁葱。
+
+## 拼音
+
+- qian1 li3 kun1 lun2 yi1 yue4 feng1 ， cheng2 liu2 chu1 bu2 hen4 tu2 qiong2 。
+
+- nan2 gai1 jiu4 yang3 chen2 hun1 le4 ， dong1 ta4 wang4 huai2 xiao4 yu3 tong2 。
+
+- niu2 jiu3 gu4 ying4 tui1 bian4 shang4 ， lu2 chun2 na4 fu4 nian4 wu2 zhong1 。
+
+- ming2 chao2 xi4 lan3 xiang1 ling2 yi4 ， shi4 shang4 gao1 yuan2 wang4 yu4 cong1 。

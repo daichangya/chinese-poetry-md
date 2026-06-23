@@ -1,0 +1,53 @@
+---
+id: ge-sheng-zhong-zhe-gu-tian-po-lu-xiang-nong-qi-wei-jia
+title: 鹧鸪天
+author: 葛胜仲
+authorSlug: ge-sheng-zhong
+dynasty: 宋
+dynastySlug: song
+titlePinyin: zhe4 gu1 tian1
+authorPinyin: ge3 sheng4 zhong4
+dynastyPinyin: song4
+canonicalPoemId: 481190
+canonicalAuthorId: 11577
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 婆律香浓气味佳。
+
+- 玻璃仙碗进流霞。
+
+- 凝膏清涤高阳醉，灵液甘和正焙芽。
+
+- 香染指，浪浮花。
+
+- 加笾礼尽客还家。
+
+- 贯珠声断红裳散，踏影人归素月斜。
+
+## 拼音
+
+- po2 lü4 xiang1 nong2 qi4 wei4 jia1 。
+
+- bo1 li2 xian1 wan3 jin4 liu2 xia2 。
+
+- ning2 gao1 qing1 di2 gao1 yang2 zui4 ， ling2 ye4 gan1 he2 zheng4 bei4 ya2 。
+
+- xiang1 ran3 zhi3 ， lang4 fu2 hua1 。
+
+- jia1 bian1 li3 jin4 ke4 hai2 jia1 。
+
+- guan4 zhu1 sheng1 duan4 hong2 shang0 san4 ， ta4 ying3 ren2 gui1 su4 yue4 xie2 。
+
+## 译文
+
+婆律香浓郁气味好。玻璃碗进流霞仙。凝膏清洗高阳醉，雨露甘甜和正焙芽。香染指，浪浮花。加篷礼全部客人回家。贯珠声断红裙子散，踏着影子人回到明月斜。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+婆律香浓郁气味好。玻璃碗进流霞仙。凝膏清洗高阳醉，雨露甘甜和正焙芽。香染指，浪浮花。加篷礼全部客人回家。贯珠声断红裙子散，踏着影子人回到明月斜。
+	* 此部分翻译来自AI，仅供参考

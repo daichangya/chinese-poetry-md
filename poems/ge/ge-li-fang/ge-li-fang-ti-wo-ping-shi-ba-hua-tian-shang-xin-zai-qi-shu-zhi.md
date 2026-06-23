@@ -1,0 +1,37 @@
+---
+id: ge-li-fang-ti-wo-ping-shi-ba-hua-tian-shang-xin-zai-qi-shu-zhi
+title: 题卧屏十八花·白菊
+author: 葛立方
+authorSlug: ge-li-fang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ti2 wo4 ping2 shi2 ba1 hua1 · bai2 ju2
+authorPinyin: ge3 li4 fang1
+dynastyPinyin: song4
+canonicalPoemId: 501407
+canonicalAuthorId: 5078
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 天上新栽琪树枝，拖云带月下瑶墀。
+
+- 须知正自真仙种，岂是金钿未染时。
+
+## 拼音
+
+- tian1 shang4 xin1 zai1 qi2 shu4 zhi1 ， tuo1 yun2 dai4 yue4 xia4 yao2 chi2 。
+
+- xu1 zhi1 zheng4 zi4 zhen1 xian1 zhong3 ， qi3 shi4 jin1 dian4 wei4 ran3 shi2 。
+
+## 译文
+
+天上新栽李琪树枝，拖云带月下瑶阶。需要知道正从真仙种，这是金钿没染时。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+天上新栽李琪树枝，拖云带月下瑶阶。需要知道正从真仙种，这是金钿没染时。
+	* 此部分翻译来自AI，仅供参考

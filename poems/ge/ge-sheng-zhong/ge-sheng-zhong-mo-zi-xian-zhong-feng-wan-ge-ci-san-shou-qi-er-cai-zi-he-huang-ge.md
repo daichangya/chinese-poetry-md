@@ -1,0 +1,35 @@
+---
+id: ge-sheng-zhong-mo-zi-xian-zhong-feng-wan-ge-ci-san-shou-qi-er-cai-zi-he-huang-ge
+title: 莫子宪中奉挽歌词三首 其二
+author: 葛胜仲
+authorSlug: ge-sheng-zhong
+dynasty: 宋
+dynastySlug: song
+titlePinyin: mo4 zi3 xian4 zhong1 feng4 wan3 ge1 ci2 san1 shou3   qi2 er4
+authorPinyin: ge3 sheng4 zhong4
+dynastyPinyin: song4
+canonicalPoemId: 481167
+canonicalAuthorId: 11577
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 材资合黄阁，器业偃朱轓。
+
+- 教府依模范，枢庭验讨论。
+
+- 成梁繄杜预，障水幸王尊。
+
+- 二纪朋僚旧，追怀恸寝门。
+
+## 拼音
+
+- cai2 zi1 he2 huang2 ge2 ， qi4 ye4 yan3 zhu1 fan1 。
+
+- jiao4 fu3 yi1 mo2 fan4 ， shu1 ting2 yan4 tao3 lun4 。
+
+- cheng2 liang2 yi1 du4 yu4 ， zhang4 shui3 xing4 wang2 zun1 。
+
+- er4 ji4 peng2 liao2 jiu4 ， zhui1 huai2 tong4 qin3 men2 。
