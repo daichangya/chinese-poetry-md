@@ -1,0 +1,43 @@
+---
+id: zhou-zi-zhi-qian-shen-zhong-dai-fu-suo-si-ting-shi-ge-fu-yi-shou-sui-chu-ting-wei-pi-55cd8639
+title: 钱申仲大夫索四亭诗各赋一首 遂初亭
+author: 周紫芝
+authorSlug: zhou-zi-zhi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: qian2 shen1 zhong4 dai4 fu0 suo3 si4 ting2 shi1 ge4 fu4 yi4 shou3   sui4 chu1 ting2
+authorPinyin: zhou1 zi3 zhi1
+dynastyPinyin: song4
+canonicalPoemId: 409051
+canonicalAuthorId: 11590
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 为贫作漫仕，未必胜陆沈。
+
+- 冠缨日羁縻，鬓发空侵寻。
+
+- 昔为云出岫，今作鸟归林。
+
+- 暮年一丘壑，往往谐初心。
+
+- 窗明设净几，衣露张鸣琴。
+
+- 缅怀靖节翁，更赋归来吟。
+
+## 拼音
+
+- wei4 pin2 zuo4 man4 shi4 ， wei4 bi4 sheng4 lu4 shen3 。
+
+- guan1 ying1 ri4 ji1 mi2 ， bin4 fa4 kong1 qin1 xun2 。
+
+- xi1 wei4 yun2 chu1 xiu4 ， jin1 zuo4 niao3 gui1 lin2 。
+
+- mu4 nian2 yi4 qiu1 he4 ， wang3 wang3 xie2 chu1 xin1 。
+
+- chuang1 ming2 she4 jing4 ji3 ， yi1 lu4 zhang1 ming2 qin2 。
+
+- mian3 huai2 jing4 jie2 weng1 ， geng4 fu4 gui1 lai2 yin2 。

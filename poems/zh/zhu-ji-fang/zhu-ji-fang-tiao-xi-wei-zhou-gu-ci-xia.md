@@ -1,0 +1,45 @@
+---
+id: zhu-ji-fang-tiao-xi-wei-zhou-gu-ci-xia
+title: 苕溪
+author: 朱继芳
+authorSlug: zhu-ji-fang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: tiao2 xi1
+authorPinyin: zhu1 ji4 fang1
+dynastyPinyin: song4
+canonicalPoemId: 643981
+canonicalAuthorId: 2643
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 维舟古祠下，野饭就鱼羹。
+
+- 坐听篙人说，行逢牵路平。
+
+- 居民难问姓，溪鸭自呼名。
+
+- 天目无由到，沿洄更几程。
+
+## 拼音
+
+- wei2 zhou1 gu3 ci2 xia4 ， ye3 fan4 jiu4 yu2 geng1 。
+
+- zuo4 ting1 gao1 ren2 shuo1 ， xing2 feng2 qian1 lu4 ping2 。
+
+- ju1 min2 nan2 wen4 xing4 ， xi1 ya1 zi4 hu1 ming2 。
+
+- tian1 mu4 wu2 you2 dao4 ， yan2 hui2 geng4 ji3 cheng2 。
+
+## 译文
+
+维舟古祠下，野饭就吃鱼汤。坐着听篙人说，周行逢拉路平。居民难问姓，溪鸭从直呼其名。天目无法到，沿周围更过程。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+维舟古祠下，野饭就吃鱼汤。坐着听篙人说，周行逢拉路平。居民难问姓，溪鸭从直呼其名。天目无法到，沿周围更过程。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,69 @@
+---
+id: zhu-ge-xing-hui-ji-song-qiu-ran-qi-xi-long-xiang
+title: 会稽颂·城隍庞王
+author: 诸葛兴
+authorSlug: zhu-ge-xing
+dynasty: 宋
+dynastySlug: song
+titlePinyin: hui4 ji1 song4 · cheng2 huang2 pang2 wang2
+authorPinyin: zhu1 ge3 xing1
+dynastyPinyin: song4
+canonicalPoemId: 549598
+canonicalAuthorId: 2730
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 虬髯起兮龙翔，耀兵威兮八方。
+
+- 法羽林兮严禁卫，握钩陈兮扫欃枪。
+
+- 视诸将兮哙等伍，咨旧臣兮忠且武。
+
+- 耸万目兮矩劐，卫九重兮心膂。
+
+- 维东南兮都会，辱吾王兮镇抚。
+
+- 畅威惠兮千载，𬯎福祥兮兹土。
+
+- 瞻衮服兮煌煌，荐蕙肴兮葵觞。
+
+- 菲震慑兮罗池，亶爱思兮桐乡。
+
+- 王之泽兮流后裔，更累叶兮奋忠义。
+
+- 孰旌表兮陪庙祀，显一门厉斯世。
+
+## 拼音
+
+- qiu2 ran2 qi3 xi1 long2 xiang2 ， yao4 bing1 wei1 xi1 ba1 fang1 。
+
+- fa3 yu3 lin2 xi1 yan2 jin4 wei4 ， wo4 gou1 chen2 xi1 sao3 chan2 qiang1 。
+
+- shi4 zhu1 jiang1 xi1 kuai4 deng3 wu3 ， zi1 jiu4 chen2 xi1 zhong1 qie3 wu3 。
+
+- song3 wan4 mu4 xi1 ju3 huo1 ， wei4 jiu3 chong2 xi1 xin1 lü3 。
+
+- wei2 dong1 nan2 xi1 dou1 hui4 ， ru3 wu2 wang2 xi1 zhen4 fu3 。
+
+- chang4 wei1 hui4 xi1 qian1 zai3 ， tui2 fu2 xiang2 xi1 zi1 tu3 。
+
+- zhan1 gun3 fu2 xi1 huang2 huang2 ， jian4 hui4 yao2 xi1 kui2 shang1 。
+
+- fei1 zhen4 she4 xi1 luo2 chi2 ， dan3 ai4 si1 xi1 tong2 xiang1 。
+
+- wang2 zhi1 ze2 xi1 liu2 hou4 yi4 ， geng4 lei4 ye4 xi1 fen4 zhong1 yi4 。
+
+- shu2 jing1 biao3 xi1 pei2 miao4 si4 ， xian3 yi4 men2 li4 si1 shi4 。
+
+## 译文
+
+虬髯客龙飞翔起来啊，炫耀兵威啊八方。法羽林啊严禁卫，手握钩陈啊扫欃枪。看各位将领啊樊哙等人为伍，咨询旧臣啊忠心而且武。耸万目啊矩劐，卫九重啊心腹。维东南啊都会，侮辱我王啊镇抚。畅威惠啊千年，颓吉祥啊这个地方。瞻礼服啊辉煌，推荐蕙肴啊葵花杯。菲震慑啊罗池，亶爱思啊桐乡。君王的恩泽流传后代啊，再累叶奋发忠义。谁表彰啊陪庙祭祀，显一门激励这个世界。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+虬髯客龙飞翔起来啊，炫耀兵威啊八方。法羽林啊严禁卫，手握钩陈啊扫欃枪。看各位将领啊樊哙等人为伍，咨询旧臣啊忠心而且武。耸万目啊矩劐，卫九重啊心腹。维东南啊都会，侮辱我王啊镇抚。畅威惠啊千年，颓吉祥啊这个地方。瞻礼服啊辉煌，推荐蕙肴啊葵花杯。菲震慑啊罗池，亶爱思啊桐乡。君王的恩泽流传后代啊，再累叶奋发忠义。谁表彰啊陪庙祭祀，显一门激励这个世界。
+	* 此部分翻译来自AI，仅供参考
