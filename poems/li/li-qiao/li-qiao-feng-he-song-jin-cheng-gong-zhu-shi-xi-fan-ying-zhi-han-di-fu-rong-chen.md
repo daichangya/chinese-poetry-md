@@ -1,0 +1,45 @@
+---
+id: li-qiao-feng-he-song-jin-cheng-gong-zhu-shi-xi-fan-ying-zhi-han-di-fu-rong-chen
+title: 奉和送金城公主适西蕃应制
+author: 李峤
+authorSlug: li-qiao
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: feng4 he2 song4 jin1 cheng2 gong1 zhu3 shi4 xi1 fan1 ying4 zhi4
+authorPinyin: li3 qiao2
+dynastyPinyin: tang2
+canonicalPoemId: 394748
+canonicalAuthorId: 505
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 汉帝抚戎臣，丝言命锦轮。
+
+- 还将弄机女，远嫁织皮人。
+
+- 曲怨关山月，妆消道路尘。
+
+- 所嗟秾李树，空对小榆春。
+
+## 拼音
+
+- han4 di4 fu3 rong2 chen2 ， si1 yan2 ming4 jin3 lun2 。
+
+- hai2 jiang1 nong4 ji1 nü3 ， yuan3 jia4 zhi1 pi2 ren2 。
+
+- qu3 yuan4 guan1 shan1 yue4 ， zhuang1 xiao1 dao4 lu4 chen2 。
+
+- suo3 jie1 nong2 li3 shu4 ， kong1 dui4 xiao3 yu2 chun1 。
+
+## 译文
+
+汉宣帝抚戎我，丝说命锦轮。还将游戏机女，远嫁织皮人。曲怨关山明月，你减少道路尘土。所赞叹秾李树，空对着小榆树春。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+汉宣帝抚戎我，丝说命锦轮。还将游戏机女，远嫁织皮人。曲怨关山明月，你减少道路尘土。所赞叹秾李树，空对着小榆树春。
+	* 此部分翻译来自AI，仅供参考

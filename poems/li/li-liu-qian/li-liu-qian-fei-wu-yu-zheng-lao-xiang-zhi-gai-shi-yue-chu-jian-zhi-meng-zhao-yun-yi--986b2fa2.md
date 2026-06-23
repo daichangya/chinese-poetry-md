@@ -1,0 +1,45 @@
+---
+id: li-liu-qian-fei-wu-yu-zheng-lao-xiang-zhi-gai-shi-yue-chu-jian-zhi-meng-zhao-yun-yi--986b2fa2
+title: 飞乌与正老相值盖十月初见之梦兆云
+author: 李流谦
+authorSlug: li-liu-qian
+dynasty: 宋
+dynastySlug: song
+titlePinyin: fei1 wu1 yu3 zheng4 lao3 xiang1 zhi2 gai4 shi2 yue4 chu1 jian4 zhi1 meng4 zhao4 yun2
+authorPinyin: li3 liu2 qian1
+dynastyPinyin: song4
+canonicalPoemId: 503146
+canonicalAuthorId: 6625
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 忆得初冬忘甲子，夜梦与师游破寺。
+
+- 明朝东望欲寄声，我在紫岩师锦水。
+
+- 空山行役偶相逢，物色看来与梦同。
+
+- 当时梦觉疑非梦，今日翻疑是梦中。
+
+## 拼音
+
+- yi4 de2 chu1 dong1 wang4 jia3 zi3 ， ye4 meng4 yu3 shi1 you2 po4 si4 。
+
+- ming2 chao2 dong1 wang4 yu4 ji4 sheng1 ， wo3 zai4 zi3 yan2 shi1 jin3 shui3 。
+
+- kong1 shan1 xing2 yi4 ou3 xiang1 feng2 ， wu4 se4 kan4 lai2 yu3 meng4 tong2 。
+
+- dang1 shi2 meng4 jue2 yi2 fei1 meng4 ， jin1 ri4 fan1 yi2 shi4 meng4 zhong1 。
+
+## 译文
+
+忆得初冬季忘记甲子，夜里梦见与老师交往破寺。明天东望想寄声，我在紫色岩师锦水。空山旅行偶然相逢，颜色看来和梦一样。当时梦感觉怀疑不是梦，今天翻疑是梦中。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+忆得初冬季忘记甲子，夜里梦见与老师交往破寺。明天东望想寄声，我在紫色岩师锦水。空山旅行偶然相逢，颜色看来和梦一样。当时梦感觉怀疑不是梦，今天翻疑是梦中。
+	* 此部分翻译来自AI，仅供参考

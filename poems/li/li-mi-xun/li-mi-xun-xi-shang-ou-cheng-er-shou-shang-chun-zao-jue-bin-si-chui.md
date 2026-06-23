@@ -1,0 +1,37 @@
+---
+id: li-mi-xun-xi-shang-ou-cheng-er-shou-shang-chun-zao-jue-bin-si-chui
+title: 席上偶成二首
+author: 李弥逊
+authorSlug: li-mi-xun
+dynasty: 宋
+dynastySlug: song
+titlePinyin: xi2 shang4 ou3 cheng2 er4 shou3
+authorPinyin: li3 mi2 xun4
+dynastyPinyin: song4
+canonicalPoemId: 606745
+canonicalAuthorId: 6065
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 伤春早觉鬓丝垂，谁遣飞花近酒杯。
+
+- 青翼若能传客恨，莫教红紫放春回。
+
+## 拼音
+
+- shang1 chun1 zao3 jue2 bin4 si1 chui2 ， shui2 qian3 fei1 hua1 jin4 jiu3 bei1 。
+
+- qing1 yi4 ruo4 neng2 chuan2 ke4 hen4 ， mo4 jiao4 hong2 zi3 fang4 chun1 hui2 。
+
+## 译文
+
+伤春早觉鬓丝垂，谁派飞花近酒杯。青鸟如果能传客恨，没有人教红紫放春回。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+伤春早觉鬓丝垂，谁派飞花近酒杯。青鸟如果能传客恨，没有人教红紫放春回。
+	* 此部分翻译来自AI，仅供参考

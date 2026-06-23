@@ -1,0 +1,45 @@
+---
+id: li-pin-qian-zhong-chou-tong-yuan-wei-pan-guan-ping-sheng-tong-suo-wei
+title: 黔中酬同院韦判官
+author: 李频
+authorSlug: li-pin
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: qian2 zhong1 chou2 tong2 yuan4 wei2 pan4 guan1
+authorPinyin: li3 pin2
+dynastyPinyin: tang2
+canonicalPoemId: 525353
+canonicalAuthorId: 5222
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 平生同所为，相遇偶然迟。
+
+- 各著青袍后，无归白社期。
+
+- 江流来绝域，府地管诸夷。
+
+- 圣代都无事，从公且赋诗。
+
+## 拼音
+
+- ping2 sheng1 tong2 suo3 wei4 ， xiang1 yu4 ou3 ran2 chi2 。
+
+- ge4 zhu4 qing1 pao2 hou4 ， wu2 gui1 bai2 she4 qi1 。
+
+- jiang1 liu2 lai2 jue2 yu4 ， fu3 di4 guan3 zhu1 yi2 。
+
+- sheng4 dai4 dou1 wu2 shi4 ， cong2 gong1 qie3 fu4 shi1 。
+
+## 译文
+
+平生同所为，相遇偶然慢。各自穿青色战袍后，没有回白社期。江流来断绝的地方，府土地管理诸夷。巨变都没事，从公一边赋诗。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+平生同所为，相遇偶然慢。各自穿青色战袍后，没有回白社期。江流来断绝的地方，府土地管理诸夷。巨变都没事，从公一边赋诗。
+	* 此部分翻译来自AI，仅供参考

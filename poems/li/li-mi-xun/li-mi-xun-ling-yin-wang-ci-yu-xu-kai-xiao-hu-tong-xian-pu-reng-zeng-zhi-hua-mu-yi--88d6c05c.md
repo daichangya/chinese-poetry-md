@@ -1,0 +1,37 @@
+---
+id: li-mi-xun-ling-yin-wang-ci-yu-xu-kai-xiao-hu-tong-xian-pu-reng-zeng-zhi-hua-mu-yi--88d6c05c
+title: 令尹王次虞许开小户通县圃仍增植花木以诗促
+author: 李弥逊
+authorSlug: li-mi-xun
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ling4 yin3 wang2 ci4 yu2 xu3 kai1 xiao3 hu4 tong1 xian4 pu3 reng2 zeng1 zhi2 hua1 mu4 yi3 shi1 cu4
+authorPinyin: li3 mi2 xun4
+dynastyPinyin: song4
+canonicalPoemId: 457935
+canonicalAuthorId: 6065
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 连墙请谒敢辞频，鉴壁开扉肯见亲。
+
+- 闻说好花栽满县，杖藜早晚共寻春。
+
+## 拼音
+
+- lian2 qiang2 qing3 ye4 gan3 ci2 pin2 ， jian4 bi4 kai1 fei1 ken3 jian4 qin1 。
+
+- wen2 shuo1 hao3 hua1 zai1 man3 xian4 ， zhang4 li2 zao3 wan3 gong4 xun2 chun1 。
+
+## 译文
+
+连墙请求不敢频繁，借鉴壁开房门肯见父母。听说喜欢花栽满县，杖藜早晚共寻春。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+连墙请求不敢频繁，借鉴壁开房门肯见父母。听说喜欢花栽满县，杖藜早晚共寻春。
+	* 此部分翻译来自AI，仅供参考

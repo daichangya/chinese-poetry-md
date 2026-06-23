@@ -1,0 +1,37 @@
+---
+id: li-pin-ji-di-hou-hai-jia-guo-xian-ling-wei-tuo-shan-qian-yi-duo-hua
+title: 及第后还家过岘岭
+author: 李频
+authorSlug: li-pin
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: ji2 di4 hou4 hai2 jia1 guo4 xian4 ling3
+authorPinyin: li3 pin2
+dynastyPinyin: tang2
+canonicalPoemId: 525411
+canonicalAuthorId: 5222
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 魏驮山前一朵花，岭西更有几千家。
+
+- 石斑鱼鲊香冲鼻，浅水沙田饭绕牙。
+
+## 拼音
+
+- wei4 tuo2 shan1 qian2 yi4 duo3 hua1 ， ling3 xi1 geng4 you3 ji3 qian1 jia1 。
+
+- shi2 ban1 yu2 zha3 xiang1 chong1 bi2 ， qian3 shui3 sha1 tian2 fan4 rao4 ya2 。
+
+## 译文
+
+魏驮山前一朵鲜花，岭西又有几千家。石斑鱼腌制的鱼肉香冲鼻，浅水沙田饭绕牙。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+魏驮山前一朵鲜花，岭西又有几千家。石斑鱼腌制的鱼肉香冲鼻，浅水沙田饭绕牙。
+	* 此部分翻译来自AI，仅供参考

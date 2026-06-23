@@ -1,0 +1,62 @@
+---
+id: li-shang-yin-zhu-jin-hua-er-shou-lian-hou-hong-he-huan
+title: 朱槿花二首
+author: 李商隐
+authorSlug: li-shang-yin
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: zhu1 jin3 hua1 er4 shou3
+authorPinyin: li3 shang1 yin3
+dynastyPinyin: tang2
+canonicalPoemId: 376824
+canonicalAuthorId: 251
+tags:
+  - 诗词
+  - 御定全唐诗
+---
+
+## 正文
+
+- 莲后红何患，梅先白莫夸。
+
+- 才飞建章火，又落赤城霞。
+
+- 不卷锦步障，未登油壁车。
+
+- 日西相对罢，休浣向天涯。
+
+- 勇多侵路去，恨有碍灯还。
+
+- 嗅自微微白，看成沓沓殷。
+
+- 坐疑忘物外，归去有帘间。
+
+- 君问伤春句，千辞不可删。
+
+## 拼音
+
+- lian2 hou4 hong2 he2 huan4 ， mei2 xian1 bai2 mo4 kua1 。
+
+- cai2 fei1 jian4 zhang1 huo3 ， you4 luo4 chi4 cheng2 xia2 。
+
+- bu2 juan4 jin3 bu4 zhang4 ， wei4 deng1 you2 bi4 che1 。
+
+- ri4 xi1 xiang1 dui4 ba4 ， xiu1 huan4 xiang4 tian1 ya2 。
+
+- yong3 duo1 qin1 lu4 qu4 ， hen4 you3 ai4 deng1 hai2 。
+
+- xiu4 zi4 wei1 wei1 bai2 ， kan4 cheng2 ta4 ta4 yin1 。
+
+- zuo4 yi2 wang4 wu4 wai4 ， gui1 qu4 you3 lian2 jian1 。
+
+- jun1 wen4 shang1 chun1 ju4 ， qian1 ci2 bu4 ke3 shan1 。
+
+## 译文
+
+莲花红花担心什么，梅先生告诉莫夸。才能飞建章火，又落赤霞。不卷锦缎步障，没有登油壁车。天西相对罢，不要洗向天涯。勇敢多侵路走，恨有障碍灯回来。闻自己微微白，看成沓沓殷。因怀疑忘物外，回去有帘之间。你问伤春句，千推辞不可删除。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+莲花红花担心什么，梅先生告诉莫夸。才能飞建章火，又落赤霞。不卷锦缎步障，没有登油壁车。天西相对罢，不要洗向天涯。勇敢多侵路走，恨有障碍灯回来。闻自己微微白，看成沓沓殷。因怀疑忘物外，回去有帘之间。你问伤春句，千推辞不可删除。
+	* 此部分翻译来自AI，仅供参考

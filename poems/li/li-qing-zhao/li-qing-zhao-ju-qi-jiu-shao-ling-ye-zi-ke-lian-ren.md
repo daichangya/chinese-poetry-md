@@ -1,0 +1,23 @@
+---
+id: li-qing-zhao-ju-qi-jiu-shao-ling-ye-zi-ke-lian-ren
+title: 句 其九
+author: 李清照
+authorSlug: li-qing-zhao
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ju4   qi2 jiu3
+authorPinyin: li3 qing1 zhao4
+dynastyPinyin: song4
+canonicalPoemId: 375975
+canonicalAuthorId: 11595
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 少陵也自可怜人，更待来年试春草。
+
+## 拼音
+
+- shao3 ling2 ye3 zi4 ke3 lian2 ren2 ， geng4 dai4 lai2 nian2 shi4 chun1 cao3 。

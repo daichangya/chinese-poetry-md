@@ -1,0 +1,35 @@
+---
+id: li-peng-peng-ci-jiu-di-yun-hou-pian-xi-feng-shi-shi-yi-di-er-shou-qi-yi-shao-cheng-lian-ji-zi
+title: 次九弟韵后篇戏奉世十一弟二首 其一
+author: 李彭
+authorSlug: li-peng-peng
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ci4 jiu3 di4 yun4 hou4 pian1 xi4 feng4 shi4 shi2 yi1 di4 er4 shou3   qi2 yi1
+authorPinyin: li3 peng2
+dynastyPinyin: song4
+canonicalPoemId: 452806
+canonicalAuthorId: 6894
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 少成怜季子，拔俗似安丰。
+
+- 逸气期公干，钩深似国风。
+
+- 未须轻小伎，著意要参同。
+
+- 聊语诗家病，尘窗研滴空。
+
+## 拼音
+
+- shao3 cheng2 lian2 ji4 zi3 ， ba2 su2 si4 an1 feng1 。
+
+- yi4 qi4 qi1 gong1 gan4 ， gou1 shen1 si4 guo2 feng1 。
+
+- wei4 xu1 qing1 xiao3 ji4 ， zhu4 yi4 yao4 can1 tong2 。
+
+- liao2 yu3 shi1 jia1 bing4 ， chen2 chuang1 yan2 di1 kong1 。

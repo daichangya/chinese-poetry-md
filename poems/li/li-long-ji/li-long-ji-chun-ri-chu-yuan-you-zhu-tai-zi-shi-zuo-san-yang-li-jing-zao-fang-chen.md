@@ -1,0 +1,49 @@
+---
+id: li-long-ji-chun-ri-chu-yuan-you-zhu-tai-zi-shi-zuo-san-yang-li-jing-zao-fang-chen
+title: 春日出苑游瞩（太子时作）
+author: 李隆基
+authorSlug: li-long-ji
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: chun1 ri4 chu1 yuan4 you2 zhu3 （ tai4 zi3 shi2 zuo4 ）
+authorPinyin: li3 long2 ji1
+dynastyPinyin: tang2
+canonicalPoemId: 410944
+canonicalAuthorId: 7
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 三阳丽景早芳辰，四序佳园物候新。
+
+- 梅花百树障去路，
+
+- 垂柳千条暗回津。
+
+- 鸟飞直为惊风叶，鱼没都由怯岸人。
+
+- 惟愿圣主南山寿，何愁不赏万年春。
+
+## 拼音
+
+- san1 yang2 li4 jing3 zao3 fang1 chen2 ， si4 xu4 jia1 yuan2 wu4 hou4 xin1 。
+
+- mei2 hua1 bai3 shu4 zhang4 qu4 lu4 ，
+
+- chui2 liu3 qian1 tiao2 an4 hui2 jin1 。
+
+- niao3 fei1 zhi2 wei4 jing1 feng1 ye4 ， yu2 mei2 dou1 you2 qie4 an4 ren2 。
+
+- wei2 yuan4 sheng4 zhu3 nan2 shan1 shou4 ， he2 chou2 bu4 shang3 wan4 nian2 chun1 。
+
+## 译文
+
+三阳丽景早芳辰，四序佳园等新事物。梅花百树挡住去路，垂柳条条暗回津。鸟飞直为惊风叶，鱼没都由胆怯岸人。希望圣明的君主南山寿，何愁不赏万年春。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+三阳丽景早芳辰，四序佳园等新事物。梅花百树挡住去路，垂柳条条暗回津。鸟飞直为惊风叶，鱼没都由胆怯岸人。希望圣明的君主南山寿，何愁不赏万年春。
+	* 此部分翻译来自AI，仅供参考

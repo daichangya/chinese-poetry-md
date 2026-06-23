@@ -1,0 +1,45 @@
+---
+id: li-shang-yin-shou-an-gong-zhu-chu-jiang-wei-shui-wen-zhen-yuan
+title: 寿安公主出降
+author: 李商隐
+authorSlug: li-shang-yin
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: shou4 an1 gong1 zhu3 chu1 jiang4
+authorPinyin: li3 shang1 yin3
+dynastyPinyin: tang2
+canonicalPoemId: 376911
+canonicalAuthorId: 251
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 沩水闻贞媛，常山索锐师。
+
+- 昔忧迷帝力，今分送王姬。
+
+- 事等和强虏，恩殊睦本枝。
+
+- 四郊多垒在，此礼恐无时。
+
+## 拼音
+
+- wei2 shui3 wen2 zhen1 yuan4 ， chang2 shan1 suo3 rui4 shi1 。
+
+- xi1 you1 mi2 di4 li4 ， jin1 fen1 song4 wang2 ji1 。
+
+- shi4 deng3 he2 qiang2 lu3 ， en1 shu1 mu4 ben3 zhi1 。
+
+- si4 jiao1 duo1 lei3 zai4 ， ci3 li3 kong3 wu2 shi2 。
+
+## 译文
+
+沩水听到贞媛，常山索精锐部队。过去担忧迷惑皇帝的力量，现在分别送王姬。事等和强虏，恩很和睦树枝。四都是堡垒在，这礼拜恐怕没有时间。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+沩水听到贞媛，常山索精锐部队。过去担忧迷惑皇帝的力量，现在分别送王姬。事等和强虏，恩很和睦树枝。四都是堡垒在，这礼拜恐怕没有时间。
+	* 此部分翻译来自AI，仅供参考

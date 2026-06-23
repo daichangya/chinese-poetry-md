@@ -1,0 +1,53 @@
+---
+id: li-qun-yu-qin-qu-ge-ci-sheng-xian-cao-ying-nu-qu-qin-gong
+title: 琴曲歌辞。升仙操
+author: 李群玉
+authorSlug: li-qun-yu
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: qin2 qu3 ge1 ci2 。 sheng1 xian1 cao1
+authorPinyin: li3 qun2 yu4
+dynastyPinyin: tang2
+canonicalPoemId: 460972
+canonicalAuthorId: 237
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 嬴女去秦宫，琼箫生碧空。
+
+- 凤台闭烟雾，鸾吹飘天风。
+
+- 复闻周太子，亦遇浮丘公。
+
+- 丛簧发仙弄，轻举紫霞中。
+
+- 浊世不久住，清都路何穷。
+
+- 一去霄汉上，世人那得逢。
+
+## 拼音
+
+- ying2 nü3 qu4 qin2 gong1 ， qiong2 xiao1 sheng1 bi4 kong1 。
+
+- feng4 tai2 bi4 yan1 wu4 ， luan2 chui1 piao1 tian1 feng1 。
+
+- fu4 wen2 zhou1 tai4 zi3 ， yi4 yu4 fu2 qiu1 gong1 。
+
+- cong2 huang2 fa1 xian1 nong4 ， qing1 ju3 zi3 xia2 zhong1 。
+
+- zhuo2 shi4 bu4 jiu3 zhu4 ， qing1 dou1 lu4 he2 qiong2 。
+
+- yi2 qu4 xiao1 han4 shang4 ， shi4 ren2 na4 de2 feng2 。
+
+## 译文
+
+我女儿去秦宫，琼箫生天空。凤台关闭烟雾，天风吹飘鸾。又听说北周太子，也遇到浮丘公。丛簧片发仙弄，随便举紫霞中。乱世不能久住，清都路怎么穷。一去云霄上，人们怎么会遇到。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+我女儿去秦宫，琼箫生天空。凤台关闭烟雾，天风吹飘鸾。又听说北周太子，也遇到浮丘公。丛簧片发仙弄，随便举紫霞中。乱世不能久住，清都路怎么穷。一去云霄上，人们怎么会遇到。
+	* 此部分翻译来自AI，仅供参考

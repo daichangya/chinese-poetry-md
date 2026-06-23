@@ -1,0 +1,35 @@
+---
+id: li-ruo-pu-dong-ye-cang-cang-ye-se-yun-yun-yuan
+title: 冬夜
+author: 李若璞
+authorSlug: li-ruo-pu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: dong1 ye4
+authorPinyin: li3 ruo4 pu2
+dynastyPinyin: song4
+canonicalPoemId: 487420
+canonicalAuthorId: 17403
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 苍苍夜色云云远，叶落风林噪乱鸦。
+
+- 香篆暖烟浓结穗，暗窗寒雪密飘花。
+
+- 琅琅翠竹幽音碎，耿耿青灯孤影斜。
+
+- 忘累俗情添兴雅，晚眠独啜满瓯茶。
+
+## 拼音
+
+- cang1 cang1 ye4 se4 yun2 yun2 yuan3 ， ye4 luo4 feng1 lin2 zao4 luan4 ya1 。
+
+- xiang1 zhuan4 nuan3 yan1 nong2 jie2 sui4 ， an4 chuang1 han2 xue3 mi4 piao1 hua1 。
+
+- lang2 lang2 cui4 zhu2 you1 yin1 sui4 ， geng3 geng3 qing1 deng1 gu1 ying3 xie2 。
+
+- wang4 lei4 su2 qing2 tian1 xing1 ya3 ， wan3 mian2 du2 chuo4 man3 ou1 cha2 。

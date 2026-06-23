@@ -1,0 +1,113 @@
+---
+id: li-liu-qian-song-he-zi-ying-shao-qing-fu-zhao-chi-gan-ye-sou-ta-di-fu
+title: 送何子应少卿赴召
+author: 李流谦
+authorSlug: li-liu-qian
+dynasty: 宋
+dynastySlug: song
+titlePinyin: song4 he2 zi3 ying4 shao3 qing1 fu4 zhao4
+authorPinyin: li3 liu2 qian1
+dynastyPinyin: song4
+canonicalPoemId: 617296
+canonicalAuthorId: 6625
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 持竿野叟踏帝腹，太史占星惊变色。
+
+- 白衣山人侍黄衣，军中指点相叹息。
+
+- 云龙契遇固畴曩，千载一合非人力。
+
+- 羊裘卢沙竟何补，坐视生民自肥瘠。
+
+- 功成乞身香案前，归侣松乔未为失。
+
+- 我公学传无尽翁，束发英名撼区域。
+
+- 杲日潜光众未睹，公独扶轮上霄极。
+
+- 此时际会如二子，鼎铉钧衡本公物。
+
+- 若为流落四十年，岂厌蓬壶薄瀛渤。
+
+- 龙飞天子第一载，收召耆俊城汲汲。
+
+- 遥知问膳大明宫，论士到公先指屈。
+
+- 追锋一日来剑外，破浪帆开矢离括。
+
+- 朝廷未漆月支首，抱戈上虎旅衣生虱。
+
+- 嫠不恤续忧宗周，宁有裾襦能念国。
+
+- 堂堂甲兵满胸臆，可无奇谋宽旰食。
+
+- 我故人子得深知，平生一镞未破镝。
+
+- 欲随公去貌楚越，恨不身边插双翮。
+
+- 叔孙区区进大猾，谬谓书生用奚益。
+
+- 古来万里知戎情，何必缦胡半缝掖。
+
+- 愿公入对明光宫，西南豪俊手推出。
+
+- 我非其人敢觖望，市骏千金先市骨。
+
+## 拼音
+
+- chi2 gan1 ye3 sou3 ta4 di4 fu4 ， tai4 shi3 zhan1 xing1 jing1 bian4 se4 。
+
+- bai2 yi1 shan1 ren2 shi4 huang2 yi1 ， jun1 zhong1 zhi3 dian3 xiang1 tan4 xi1 。
+
+- yun2 long2 qi4 yu4 gu4 chou2 nang3 ， qian1 zai3 yi4 he2 fei1 ren2 li4 。
+
+- yang2 qiu2 lu2 sha1 jing4 he2 bu3 ， zuo4 shi4 sheng1 min2 zi4 fei2 ji2 。
+
+- gong1 cheng2 qi3 shen1 xiang1 an4 qian2 ， gui1 lü3 song1 qiao2 wei4 wei4 shi1 。
+
+- wo3 gong1 xue2 chuan2 wu2 jin4 weng1 ， shu4 fa1 ying1 ming2 han4 qu1 yu4 。
+
+- gao3 ri4 qian2 guang1 zhong4 wei4 du3 ， gong1 du2 fu2 lun2 shang4 xiao1 ji2 。
+
+- ci3 shi2 ji4 hui4 ru2 er4 zi3 ， ding3 xuan4 jun1 heng2 ben3 gong1 wu4 。
+
+- ruo4 wei4 liu2 luo4 si4 shi2 nian2 ， qi3 yan4 peng2 hu2 bao2 ying2 bo2 。
+
+- long2 fei1 tian1 zi3 di4 yi1 zai3 ， shou1 zhao4 qi2 jun4 cheng2 ji2 ji2 。
+
+- yao2 zhi1 wen4 shan4 da4 ming2 gong1 ， lun4 shi4 dao4 gong1 xian1 zhi3 qu1 。
+
+- zhui1 feng1 yi2 ri4 lai2 jian4 wai4 ， po4 lang4 fan1 kai1 shi3 li2 kuo4 。
+
+- chao2 ting2 wei4 qi1 yue4 zhi1 shou3 ， bao4 ge1 shang4 hu3 lü3 yi1 sheng1 shi1 。
+
+- li2 bu2 xu4 xu4 you1 zong1 zhou1 ， ning2 you3 ju1 ru2 neng2 nian4 guo2 。
+
+- tang2 tang2 jia3 bing1 man3 xiong1 yi4 ， ke3 wu2 qi2 mou2 kuan1 gan4 shi2 。
+
+- wo3 gu4 ren2 zi3 de2 shen1 zhi1 ， ping2 sheng1 yi4 zu2 wei4 po4 di2 。
+
+- yu4 sui2 gong1 qu4 mao4 chu3 yue4 ， hen4 bu4 shen1 bian1 cha1 shuang1 he2 。
+
+- shu1 sun1 qu1 qu1 jin4 da4 hua2 ， miu4 wei4 shu1 sheng1 yong4 xi1 yi4 。
+
+- gu3 lai2 wan4 li3 zhi1 rong2 qing2 ， he2 bi4 man4 hu2 ban4 feng4 ye4 。
+
+- yuan4 gong1 ru4 dui4 ming2 guang1 gong1 ， xi1 nan2 hao2 jun4 shou3 tui1 chu1 。
+
+- wo3 fei1 qi2 ren2 gan3 jue2 wang4 ， shi4 jun4 qian1 jin1 xian1 shi4 gu3 。
+
+## 译文
+
+持竿野老人踏着武帝的肚子，太史占卜星惊慌变色。白衣人在黄色的衣服，军队中指点相叹息。云龙契遇到固我往日，千年一合不是人的力量。羊裘卢沙竟然有什么好处，坐视百姓从肥瘦。成功请求身香案前，回到伴侣神仙没有失。我公学传无尽翁，扎头发英名撼动区域。呆一天悄悄光大家没有看到，只有你扶轮上天空的尽头。此时机会和两个儿子，鼎铉衡本公物。如果是流落四十年，难道满足蓬壶薄瀛渤。龙飞天子第一年，招收高俊城迫切。遥知问饮食大明宫，论人到公先指屈。追锋一天来剑外，打浪帆开箭离括。朝廷没有漆每月支付首，抱着戈上虎旅衣生虱子。寡妇不体恤续忧宗周，宁有襟短衣能念国。堂堂武器满胸臆，可没有奇谋宽晚食。我朋友你有深入的了解，平生一个箭头箭头不破。想随公去外貌楚越，遗憾的是，没有身边插双翅膀。叔孙小小进大恶霸，错误对学生用什么好处。自古以来万知道戎情，何必缦胡半缝掖。愿公入对明光宫，西南豪杰手推出来。我不是他的人不敢奢望，市骏千金买骨先。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+持竿野老人踏着武帝的肚子，太史占卜星惊慌变色。白衣人在黄色的衣服，军队中指点相叹息。云龙契遇到固我往日，千年一合不是人的力量。羊裘卢沙竟然有什么好处，坐视百姓从肥瘦。成功请求身香案前，回到伴侣神仙没有失。我公学传无尽翁，扎头发英名撼动区域。呆一天悄悄光大家没有看到，只有你扶轮上天空的尽头。此时机会和两个儿子，鼎铉衡本公物。如果是流落四十年，难道满足蓬壶薄瀛渤。龙飞天子第一年，招收高俊城迫切。遥知问饮食大明宫，论人到公先指屈。追锋一天来剑外，打浪帆开箭离括。朝廷没有漆每月支付首，抱着戈上虎旅衣生虱子。寡妇不体恤续忧宗周，宁有襟短衣能念国。堂堂武器满胸臆，可没有奇谋宽晚食。我朋友你有深入的了解，平生一个箭头箭头不破。想随公去外貌楚越，遗憾的是，没有身边插双翅膀。叔孙小小进大恶霸，错误对学生用什么好处。自古以来万知道戎情，何必缦胡半缝掖。愿公入对明光宫，西南豪杰手推出来。我不是他的人不敢奢望，市骏千金买骨先。
+	* 此部分翻译来自AI，仅供参考

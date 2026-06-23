@@ -1,0 +1,77 @@
+---
+id: li-qun-yu-xiang-zhong-bie-cheng-wei-du-li-zhi-zai-bi-shang-ren
+title: 湘中别成威阇黎
+author: 李群玉
+authorSlug: li-qun-yu
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: xiang1 zhong1 bie2 cheng2 wei1 du1 li2
+authorPinyin: li3 qun2 yu4
+dynastyPinyin: tang2
+canonicalPoemId: 460884
+canonicalAuthorId: 237
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 至哉彼上人，冰霜凛规则。
+
+- 游心杳何境，宴坐入冥默。
+
+- 解空与密行，名腊信崇德。
+
+- 吐论驾秋涛，龙宫发胸臆。
+
+- 群迷行大夜，浩浩一昏黑。
+
+- 赤水千丈深，玄珠几人得。
+
+- 持杯挹溟涨，至理安可测。
+
+- 宁假喻芭蕉，真成嗅薝卜。
+
+- 松声扫白月，霁夜来静域。
+
+- 清梵罢法筵，天香满衣襋.
+
+- 何方济了岸，祗仗慈航力。
+
+- 愿与十八贤，同栖翠莲国。
+
+## 拼音
+
+- zhi4 zai1 bi3 shang4 ren2 ， bing1 shuang1 lin3 gui1 ze2 。
+
+- you2 xin1 yao3 he2 jing4 ， yan4 zuo4 ru4 ming2 mo4 。
+
+- jie3 kong1 yu3 mi4 xing2 ， ming2 la4 xin4 chong2 de2 。
+
+- tu3 lun4 jia4 qiu1 tao1 ， long2 gong1 fa1 xiong1 yi4 。
+
+- qun2 mi2 xing2 da4 ye4 ， hao4 hao4 yi4 hun1 hei1 。
+
+- chi4 shui3 qian1 zhang4 shen1 ， xuan2 zhu1 ji3 ren2 de2 。
+
+- chi2 bei1 yi4 ming2 zhang3 ， zhi4 li3 an1 ke3 ce4 。
+
+- ning2 jia3 yu4 ba1 jiao1 ， zhen1 cheng2 xiu4 zhan1 bu3 。
+
+- song1 sheng1 sao3 bai2 yue4 ， ji4 ye4 lai2 jing4 yu4 。
+
+- qing1 fan4 ba4 fa3 yan2 ， tian1 xiang1 man3 yi1 ji2 .
+
+- he2 fang1 ji4 le0 an4 ， zhi1 zhang4 ci2 hang2 li4 。
+
+- yuan4 yu3 shi2 ba1 xian2 ， tong2 qi1 cui4 lian2 guo2 。
+
+## 译文
+
+到那上面的人呢，冰霜刺骨规则。游心在什么环境，宴坐入冥默。解空和秘密行动，名腊诚信崇德。谈吐驾秋涛，龙宫发自内心。群迷行大夜，浩浩一黑。赤水千丈深，玄珠几人得到。拿杯舀而上涨，到理怎么可以预测。宁借喻芭蕉，真成嗅薝占卜。松声扫白月，晴夜里来静域。清梵停止法座，天香满衣服襋.何方济了岸，只靠慈爱航力。愿与十八位，同栖翠莲国。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+到那上面的人呢，冰霜刺骨规则。游心在什么环境，宴坐入冥默。解空和秘密行动，名腊诚信崇德。谈吐驾秋涛，龙宫发自内心。群迷行大夜，浩浩一黑。赤水千丈深，玄珠几人得到。拿杯舀而上涨，到理怎么可以预测。宁借喻芭蕉，真成嗅薝占卜。松声扫白月，晴夜里来静域。清梵停止法座，天香满衣服襋.何方济了岸，只靠慈爱航力。愿与十八位，同栖翠莲国。
+	* 此部分翻译来自AI，仅供参考
