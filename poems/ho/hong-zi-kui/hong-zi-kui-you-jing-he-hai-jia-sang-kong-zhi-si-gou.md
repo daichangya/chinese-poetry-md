@@ -1,0 +1,45 @@
+---
+id: hong-zi-kui-you-jing-he-hai-jia-sang-kong-zhi-si-gou
+title: 又敬和还家
+author: 洪咨夔
+authorSlug: hong-zi-kui
+dynasty: 宋
+dynastySlug: song
+titlePinyin: you4 jing4 he2 hai2 jia1
+authorPinyin: hong2 zi1 kui2
+dynastyPinyin: song4
+canonicalPoemId: 457874
+canonicalAuthorId: 4804
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 丧空知似狗，生子望如狼。
+
+- 过尽灯花影，空余汗竹香。
+
+- 菊肥人自瘦，发短虑何长。
+
+- 霜蟹新𥬠酒，由来苦易忘。
+
+## 拼音
+
+- sang4 kong1 zhi1 si4 gou3 ， sheng1 zi3 wang4 ru2 lang2 。
+
+- guo4 jin4 deng1 hua1 ying3 ， kong4 yu2 han4 zhu2 xiang1 。
+
+- ju2 fei2 ren2 zi4 shou4 ， fa1 duan3 lü4 he2 chang2 。
+
+- shuang1 xie4 xin1 𥬠 jiu3 ， you2 lai2 ku3 yi4 wang4 。
+
+## 译文
+
+丧空知似狗，生下儿子望似狼。过尽灯花影，空余汗竹香。菊肥人自己瘦，发短担心什么长。霜蟹新𥬠酒，由于来苦易忘。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+丧空知似狗，生下儿子望似狼。过尽灯花影，空余汗竹香。菊肥人自己瘦，发短担心什么长。霜蟹新𥬠酒，由于来苦易忘。
+	* 此部分翻译来自AI，仅供参考

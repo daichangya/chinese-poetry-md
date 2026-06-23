@@ -1,0 +1,35 @@
+---
+id: hong-hao-yuan-ri-you-gan-bu-jian-chao-zheng-zhi-zi-chou
+title: 元日有感
+author: 洪皓
+authorSlug: hong-hao
+dynasty: 宋
+dynastySlug: song
+titlePinyin: yuan2 ri4 you3 gan3
+authorPinyin: hong2 hao4
+dynastyPinyin: song4
+canonicalPoemId: 456619
+canonicalAuthorId: 11600
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 不见朝正祗自愁，展新弗逮兖州囚。
+
+- 席重遥忆谈经会，酒噀宁知救火谋。
+
+- 内热空持白羽扇，峭寒且著黑羔裘。
+
+- 履端醽醁何时赐，落笔高歌洒泪休。
+
+## 拼音
+
+- bu2 jian4 chao2 zheng4 zhi1 zi4 chou2 ， zhan3 xin1 fu2 dai3 yan3 zhou1 qiu2 。
+
+- xi2 zhong4 yao2 yi4 tan2 jing1 hui4 ， jiu3 xun4 ning2 zhi1 jiu4 huo3 mou2 。
+
+- nei4 re4 kong1 chi2 bai2 yu3 shan4 ， qiao4 han2 qie3 zhu4 hei1 gao1 qiu2 。
+
+- lü3 duan1 ling2 lu4 he2 shi2 ci4 ， luo4 bi3 gao1 ge1 sa3 lei4 xiu1 。

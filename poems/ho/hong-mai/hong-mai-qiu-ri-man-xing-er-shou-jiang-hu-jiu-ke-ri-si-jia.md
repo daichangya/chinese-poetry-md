@@ -1,0 +1,35 @@
+---
+id: hong-mai-qiu-ri-man-xing-er-shou-jiang-hu-jiu-ke-ri-si-jia
+title: 秋日漫兴二首
+author: 洪迈
+authorSlug: hong-mai
+dynasty: 宋
+dynastySlug: song
+titlePinyin: qiu1 ri4 man4 xing1 er4 shou3
+authorPinyin: hong2 mai4
+dynastyPinyin: song4
+canonicalPoemId: 434415
+canonicalAuthorId: 11878
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 江湖久客日思家，坐觉微霜上鬓华。
+
+- 节序又催秋后雁，风光争发雨前花。
+
+- 倦游已梦庄生蝶，不饮何忧广客蛇。
+
+- 怪底朝来衣袖薄，一川白露下蒹葭。
+
+## 拼音
+
+- jiang1 hu2 jiu3 ke4 ri4 si1 jia1 ， zuo4 jue2 wei1 shuang1 shang4 bin4 hua2 。
+
+- jie2 xu4 you4 cui1 qiu1 hou4 yan4 ， feng1 guang1 zheng1 fa1 yu3 qian2 hua1 。
+
+- juan4 you2 yi3 meng4 zhuang1 sheng1 die2 ， bu4 yin3 he2 you1 guang3 ke4 she2 。
+
+- guai4 di3 chao2 lai2 yi1 xiu4 bao2 ， yi4 chuan1 bai2 lu4 xia4 jian1 jia1 。

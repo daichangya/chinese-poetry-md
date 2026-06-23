@@ -1,0 +1,35 @@
+---
+id: hong-shi-lan-xian-suo-song-mu-dan-dao-yuan-shi-shi-po-duo-ku-gao-yin-qin-ren-you-xin
+title: 蓝宪所送牡丹道远失时颇多枯槁
+author: 洪适
+authorSlug: hong-shi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: lan2 xian4 suo3 song4 mu3 dan1 dao4 yuan3 shi1 shi2 po1 duo1 ku1 gao3
+authorPinyin: hong2 shi4
+dynastyPinyin: song4
+canonicalPoemId: 362758
+canonicalAuthorId: 11611
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 殷勤人有信，惊喜得花饶。
+
+- 可惜三冬晚，来从千里遥。
+
+- 根荄愆润泽，牙檗顿枯焦。
+
+- 傥有更生路，宁辞楚些招。
+
+## 拼音
+
+- yin1 qin2 ren2 you3 xin4 ， jing1 xi3 de2 hua1 rao2 。
+
+- ke3 xi1 san1 dong1 wan3 ， lai2 cong2 qian1 li3 yao2 。
+
+- gen1 gai1 qian1 run4 ze2 ， ya2 bo4 dun4 ku1 jiao1 。
+
+- tang3 you3 geng1 sheng1 lu4 ， ning2 ci2 chu3 xie1 zhao1 。

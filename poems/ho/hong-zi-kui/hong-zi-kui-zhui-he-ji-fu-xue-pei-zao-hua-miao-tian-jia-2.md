@@ -1,0 +1,45 @@
+---
+id: hong-zi-kui-zhui-he-ji-fu-xue-pei-zao-hua-miao-tian-jia-2
+title: 追和及甫雪
+author: 洪咨夔
+authorSlug: hong-zi-kui
+dynasty: 宋
+dynastySlug: song
+titlePinyin: zhui1 he2 ji2 fu3 xue3
+authorPinyin: hong2 zi1 kui2
+dynastyPinyin: song4
+canonicalPoemId: 457381
+canonicalAuthorId: 4804
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 肧𣍯造化妙天家，趁得辛夷未首花。
+
+- 浊水淤泥还絮白，枯株朽树亦芳华。
+
+- 长空光眩鸣皋鹤，厚地寒侵入宇蛇。
+
+- 钜竹南墙清绝甚，一编孟子一瓯茶。
+
+## 拼音
+
+- pei1 𣍯 zao4 hua4 miao4 tian1 jia1 ， chen4 de2 xin1 yi2 wei4 shou3 hua1 。
+
+- zhuo2 shui3 yu1 ni2 hai2 xu4 bai2 ， ku1 zhu1 xiu3 shu4 yi4 fang1 hua2 。
+
+- chang2 kong1 guang1 xuan4 ming2 gao1 he4 ， hou4 di4 han2 qin1 ru4 yu3 she2 。
+
+- ju4 zhu2 nan2 qiang2 qing1 jue2 shen4 ， yi4 bian1 meng4 zi3 yi4 ou1 cha2 。
+
+## 译文
+
+肧𣍯造化奇妙天家，趁着没头得到辛夷花。浊水淤泥返回棉花白，枯株朽树也芳华。长空光眩晕鸣皋鹤鸣，大地寒气侵入宇宙蛇。巨竹南墙清绝很，一个编孟子一碗茶。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+肧𣍯造化奇妙天家，趁着没头得到辛夷花。浊水淤泥返回棉花白，枯株朽树也芳华。长空光眩晕鸣皋鹤鸣，大地寒气侵入宇宙蛇。巨竹南墙清绝很，一个编孟子一碗茶。
+	* 此部分翻译来自AI，仅供参考

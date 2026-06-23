@@ -1,0 +1,45 @@
+---
+id: hong-zi-kui-luo-cha-yuan-fu-rui-gui-tang-lao-xian-fang-cun-chang-huang-ya
+title: 罗察院父瑞桂堂
+author: 洪咨夔
+authorSlug: hong-zi-kui
+dynasty: 宋
+dynastySlug: song
+titlePinyin: luo2 cha2 yuan4 fu4 rui4 gui4 tang2
+authorPinyin: hong2 zi1 kui2
+dynastyPinyin: song4
+canonicalPoemId: 567457
+canonicalAuthorId: 4804
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 老仙方寸长黄芽，百顺薰蒸到物华。
+
+- 移得广寒宫裹种，开将后土庙中花。
+
+- 诗书根带圣贤脉，忠孝馨香今古牙。
+
+- 富贵傥来余事耳，化工深意属君家。
+
+## 拼音
+
+- lao3 xian1 fang1 cun4 chang2 huang2 ya2 ， bai3 shun4 xun1 zheng1 dao4 wu4 hua2 。
+
+- yi2 de2 guang3 han2 gong1 guo3 zhong3 ， kai1 jiang1 hou4 tu3 miao4 zhong1 hua1 。
+
+- shi1 shu1 gen1 dai4 sheng4 xian2 mai4 ， zhong1 xiao4 xin1 xiang1 jin1 gu3 ya2 。
+
+- fu4 gui4 tang3 lai2 yu2 shi4 er3 ， hua4 gong1 shen1 yi4 shu3 jun1 jia1 。
+
+## 译文
+
+老仙方寸长黄豆芽，百顺薰蒸到物华。移到广寒宫裹种，开将后土庙中的花。诗书根带圣贤脉，忠孝馨香古今牙。富贵如果来我事了，大自然很意在您家。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+老仙方寸长黄豆芽，百顺薰蒸到物华。移到广寒宫裹种，开将后土庙中的花。诗书根带圣贤脉，忠孝馨香古今牙。富贵如果来我事了，大自然很意在您家。
+	* 此部分翻译来自AI，仅供参考
