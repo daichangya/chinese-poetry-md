@@ -1,0 +1,61 @@
+---
+id: tao-bi-yong-ou-wan-qing-jin-sha-li
+title: 咏藕
+author: 陶弼
+authorSlug: tao-bi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: yong3 ou3
+authorPinyin: tao2 bi4
+dynastyPinyin: song4
+canonicalPoemId: 579798
+canonicalAuthorId: 5055
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 万顷金沙里，谁将玉节栽。
+
+- 丝应鲛乞与，津是蚌分来。
+
+- 盘贮冰犹结，刀侵雪易摧。
+
+- 防风骨外折，混沌窍中开。
+
+- 月寺僧家钵，风亭酒客杯。
+
+- 胸中秋气入，牙角雨声回。
+
+- 自愧尘泥贱，得蒙尊俎陪。
+
+- 与君消酷暑，瓜李莫相猜。
+
+## 拼音
+
+- wan4 qing3 jin1 sha1 li3 ， shui2 jiang1 yu4 jie2 zai1 。
+
+- si1 ying4 jiao1 qi3 yu3 ， jin1 shi4 bang4 fen1 lai2 。
+
+- pan2 zhu4 bing1 you2 jie2 ， dao1 qin1 xue3 yi4 cui1 。
+
+- fang2 feng1 gu3 wai4 zhe2 ， hun4 dun4 qiao4 zhong1 kai1 。
+
+- yue4 si4 seng1 jia1 bo1 ， feng1 ting2 jiu3 ke4 bei1 。
+
+- xiong1 zhong1 qiu1 qi4 ru4 ， ya2 jiao3 yu3 sheng1 hui2 。
+
+- zi4 kui4 chen2 ni2 jian4 ， de2 meng2 zun1 zu3 pei2 。
+
+- yu3 jun1 xiao1 ku4 shu3 ， gua1 li3 mo4 xiang1 cai1 。
+
+## 译文
+
+万顷金沙里，谁将玉节栽。丝应请求与鲨鱼，津是蚌分开来。盘贮冰还结，刀被雪容易摧毁。防风骨外折，混沌窍中开。月寺僧家钵，风亭酒客杯。胸中秋气进入，牙角雨声回。羞愧尘泥贱，得到尊俎陪。与您消除酷暑，瓜李没有互相猜疑。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+万顷金沙里，谁将玉节栽。丝应请求与鲨鱼，津是蚌分开来。盘贮冰还结，刀被雪容易摧毁。防风骨外折，混沌窍中开。月寺僧家钵，风亭酒客杯。胸中秋气进入，牙角雨声回。羞愧尘泥贱，得到尊俎陪。与您消除酷暑，瓜李没有互相猜疑。
+	* 此部分翻译来自AI，仅供参考
