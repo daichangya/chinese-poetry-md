@@ -1,0 +1,45 @@
+---
+id: pei-shu-da-wei-zhi-hou-men-chu-yong-jie
+title: 答微之
+author: 裴淑
+authorSlug: pei-shu
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: da2 wei1 zhi1
+authorPinyin: pei2 shu1
+dynastyPinyin: tang2
+canonicalPoemId: 452907
+canonicalAuthorId: 5948
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 侯门初拥节，御苑柳丝新。
+
+- 不是悲殊命，唯愁别近亲。
+
+- 黄莺迁古木，朱履从清尘。
+
+- 想到千山外，沧江正暮春。
+
+## 拼音
+
+- hou2 men2 chu1 yong1 jie2 ， yu4 yuan4 liu3 si1 xin1 。
+
+- bu2 shi4 bei1 shu1 ming4 ， wei2 chou2 bie2 jin4 qin1 。
+
+- huang2 ying1 qian1 gu3 mu4 ， zhu1 lü3 cong2 qing1 chen2 。
+
+- xiang3 dao4 qian1 shan1 wai4 ， cang1 jiang1 zheng4 mu4 chun1 。
+
+## 译文
+
+侯门初拥节，御花园柳丝新。不再是悲伤特别命令，只有愁别的近亲。黄莺迁移古树，红色的鞋从清尘。想到千山外，澜沧江正暮春。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+侯门初拥节，御花园柳丝新。不再是悲伤特别命令，只有愁别的近亲。黄莺迁移古树，红色的鞋从清尘。想到千山外，澜沧江正暮春。
+	* 此部分翻译来自AI，仅供参考
