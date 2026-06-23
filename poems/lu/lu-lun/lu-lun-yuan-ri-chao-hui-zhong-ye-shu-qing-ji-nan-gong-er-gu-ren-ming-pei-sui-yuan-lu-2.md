@@ -1,0 +1,45 @@
+---
+id: lu-lun-yuan-ri-chao-hui-zhong-ye-shu-qing-ji-nan-gong-er-gu-ren-ming-pei-sui-yuan-lu-2
+title: 元日朝回中夜书情，寄南宫二故人
+author: 卢纶
+authorSlug: lu-lun
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: yuan2 ri4 chao2 hui2 zhong1 ye4 shu1 qing2 ， ji4 nan2 gong1 er4 gu4 ren2
+authorPinyin: lu2 lun2
+dynastyPinyin: tang2
+canonicalPoemId: 456189
+canonicalAuthorId: 358
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 鸣珮随鹓鹭，登阶见冕旒。
+
+- 无能裨圣代，何事别沧洲。
+
+- 闲夜贫还醉，浮名老渐羞。
+
+- 凤城春欲晚，郎吏忆同游。
+
+## 拼音
+
+- ming2 pei4 sui2 yuan1 lu4 ， deng1 jie1 jian4 mian3 liu2 。
+
+- wu2 neng2 bi4 sheng4 dai4 ， he2 shi4 bie2 cang1 zhou1 。
+
+- xian2 ye4 pin2 hai2 zui4 ， fu2 ming2 lao3 jian4 xiu1 。
+
+- feng4 cheng2 chun1 yu4 wan3 ， lang2 li4 yi4 tong2 you2 。
+
+## 译文
+
+鸣玉佩随鹓鹭，登阶到皇冠。没有能裨巨变，什么事别沧洲。闲夜贫穷还醉了，在名老渐羞。凤凰城春欲晚，郎吏回忆一同游览。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+鸣玉佩随鹓鹭，登阶到皇冠。没有能裨巨变，什么事别沧洲。闲夜贫穷还醉了，在名老渐羞。凤凰城春欲晚，郎吏回忆一同游览。
+	* 此部分翻译来自AI，仅供参考

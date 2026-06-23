@@ -1,0 +1,53 @@
+---
+id: lu-lun-feng-nan-zhong-shi-yin-ji-ling-wai-gu-ren-jian-shuo-nan-lai-chu
+title: 逢南中使因寄岭外故人
+author: 卢纶
+authorSlug: lu-lun
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: feng2 nan2 zhong1 shi3 yin1 ji4 ling3 wai4 gu4 ren2
+authorPinyin: lu2 lun2
+dynastyPinyin: tang2
+canonicalPoemId: 456097
+canonicalAuthorId: 358
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 见说南来处，苍梧接桂林。
+
+- 过秋天更暖，边海日长阴。
+
+- 巴路缘云出，蛮乡入洞深。
+
+- 信回人自老，梦到月应沉。
+
+- 碧水通春色，青山寄远心。
+
+- 炎方难久客，为尔一沾襟。
+
+## 拼音
+
+- jian4 shuo1 nan2 lai2 chu4 ， cang1 wu2 jie1 gui4 lin2 。
+
+- guo4 qiu1 tian1 geng4 nuan3 ， bian1 hai3 ri4 chang2 yin1 。
+
+- ba1 lu4 yuan2 yun2 chu1 ， man2 xiang1 ru4 dong4 shen1 。
+
+- xin4 hui2 ren2 zi4 lao3 ， meng4 dao4 yue4 ying4 chen2 。
+
+- bi4 shui3 tong1 chun1 se4 ， qing1 shan1 ji4 yuan3 xin1 。
+
+- yan2 fang1 nan2 jiu3 ke4 ， wei4 er3 yi4 zhan1 jin1 。
+
+## 译文
+
+见说南来的地方，苍梧王接桂林。过秋天更温暖，边海日长阴。巴路缘说出来，蛮乡进洞深。回信人自老，梦见到月沉闷。碧水通春色，青山寄远心。炎方难以久客，当你一沾湿衣襟。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+见说南来的地方，苍梧王接桂林。过秋天更温暖，边海日长阴。巴路缘说出来，蛮乡进洞深。回信人自老，梦见到月沉闷。碧水通春色，青山寄远心。炎方难以久客，当你一沾湿衣襟。
+	* 此部分翻译来自AI，仅供参考

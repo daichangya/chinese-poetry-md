@@ -1,0 +1,57 @@
+---
+id: lu-bing-qing-ping-le-mu-xi-bo-li-jian-ye-2
+title: 清平乐（木犀）
+author: 卢炳
+authorSlug: lu-bing
+dynasty: 宋
+dynastySlug: song
+titlePinyin: qing1 ping2 le4 （ mu4 xi1 ）
+authorPinyin: lu2 bing3
+dynastyPinyin: song4
+canonicalPoemId: 528871
+canonicalAuthorId: 12371
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 玻璃翦叶。
+
+- 点缀黄金屑。
+
+- 雅淡幽姿风味别。
+
+- 翠影婆娑弄月。
+
+- 秋光占断江南。
+
+- 清香鼻观先参。
+
+- 一朵折来和露，乌云髻畔斜簪。
+
+## 拼音
+
+- bo1 li2 jian3 ye4 。
+
+- dian3 zhui4 huang2 jin1 xie4 。
+
+- ya3 dan4 you1 zi1 feng1 wei4 bie2 。
+
+- cui4 ying3 po2 suo1 nong4 yue4 。
+
+- qiu1 guang1 zhan4 duan4 jiang1 nan2 。
+
+- qing1 xiang1 bi2 guan1 xian1 can1 。
+
+- yi4 duo3 zhe2 lai2 he2 lu4 ， wu1 yun2 ji4 pan4 xie2 zan1 。
+
+## 译文
+
+玻璃剪叶。点缀黄金屑。雅淡幽姿风味别。翠影婆娑弄个月。秋光占断江南。清香鼻子看先参考。一朵折来和露，乌云髻旁斜簪。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+玻璃剪叶。点缀黄金屑。雅淡幽姿风味别。翠影婆娑弄个月。秋光占断江南。清香鼻子看先参考。一朵折来和露，乌云髻旁斜簪。
+	* 此部分翻译来自AI，仅供参考

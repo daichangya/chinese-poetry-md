@@ -1,0 +1,37 @@
+---
+id: lu-lun-ou-feng-yao-xiao-shu-ping-fu-shu-da-he-nan-xi-tui-guan-yin-yi-xi-zeng-ji-c906b972
+title: 偶逢姚校书凭附书达河南郄推官因以戏赠
+author: 卢纶
+authorSlug: lu-lun
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: ou3 feng2 yao2 xiao4 shu1 ping2 fu4 shu1 da2 he2 nan2 xi4 tui1 guan1 yin1 yi3 xi4 zeng4
+authorPinyin: lu2 lun2
+dynastyPinyin: tang2
+canonicalPoemId: 440324
+canonicalAuthorId: 358
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 寄书常切到常迟，今日凭君君莫辞。
+
+- 若问玉人殊易识，莲花府里最清羸。
+
+## 拼音
+
+- ji4 shu1 chang2 qie4 dao4 chang2 chi2 ， jin1 ri4 ping2 jun1 jun1 mo4 ci2 。
+
+- ruo4 wen4 yu4 ren2 shu1 yi4 shi2 ， lian2 hua1 fu3 li3 zui4 qing1 lei2 。
+
+## 译文
+
+寄书通常切到常迟，今天凭借你你不要推辞。如果问玉匠很容易识别，莲花府里最瘦弱。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+寄书通常切到常迟，今天凭借你你不要推辞。如果问玉匠很容易识别，莲花府里最瘦弱。
+	* 此部分翻译来自AI，仅供参考

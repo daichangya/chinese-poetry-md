@@ -1,0 +1,45 @@
+---
+id: lu-he-tui-gong-ren-po-qie-you-cun-jiu-ci-xiang
+title: 退宫人
+author: 陆壑
+authorSlug: lu-he
+dynasty: 宋
+dynastySlug: song
+titlePinyin: tui4 gong1 ren2
+authorPinyin: lu4 he4
+dynastyPinyin: song4
+canonicalPoemId: 473261
+canonicalAuthorId: 7380
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 破箧犹存旧赐香，轻将魂梦别昭阳。
+
+- 只知镜时春难驻，谁道人间夜更长。
+
+- 父母家贫容不得，君王恩重死难忘。
+
+- 东风二月垂杨柳，犹解飞花入苑墙。
+
+## 拼音
+
+- po4 qie4 you2 cun2 jiu4 ci4 xiang1 ， qing1 jiang1 hun2 meng4 bie2 zhao1 yang2 。
+
+- zhi1 zhi1 jing4 shi2 chun1 nan2 zhu4 ， shui2 dao4 ren2 jian1 ye4 geng4 chang2 。
+
+- fu4 mu3 jia1 pin2 rong2 bu4 de2 ， jun1 wang2 en1 zhong4 si3 nan2 wang4 。
+
+- dong1 feng1 er4 yue4 chui2 yang2 liu3 ， you2 jie3 fei1 hua1 ru4 yuan4 qiang2 。
+
+## 译文
+
+破箱子还在旧赐香，轻轻将魂梦别昭阳。只知道镜子时春难驻，谁道人间夜晚更长。父母家里穷容不得，君王恩重死难忘。东风二月垂杨柳，就像解飞花入苑墙。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+破箱子还在旧赐香，轻轻将魂梦别昭阳。只知道镜子时春难驻，谁道人间夜晚更长。父母家里穷容不得，君王恩重死难忘。东风二月垂杨柳，就像解飞花入苑墙。
+	* 此部分翻译来自AI，仅供参考

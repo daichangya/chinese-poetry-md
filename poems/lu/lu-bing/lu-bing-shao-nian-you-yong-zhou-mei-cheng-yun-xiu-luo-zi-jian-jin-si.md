@@ -1,0 +1,49 @@
+---
+id: lu-bing-shao-nian-you-yong-zhou-mei-cheng-yun-xiu-luo-zi-jian-jin-si
+title: 少年游（用周美成韵）
+author: 卢炳
+authorSlug: lu-bing
+dynasty: 宋
+dynastySlug: song
+titlePinyin: shao4 nian2 you2 （ yong4 zhou1 mei3 cheng2 yun4 ）
+authorPinyin: lu2 bing3
+dynastyPinyin: song4
+canonicalPoemId: 528857
+canonicalAuthorId: 12371
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 绣罗＿子间金丝。
+
+- 打扮好容仪。
+
+- 晓雪明肌，秋波入鬓，鞋小步行迟。
+
+- 冠儿时样都相称，花插楝双枝。
+
+- 倩俏精神，风流情态，惟有粉郎知。
+
+## 拼音
+
+- xiu4 luo2 ＿ zi3 jian1 jin1 si1 。
+
+- da3 ban4 hao3 rong2 yi2 。
+
+- xiao3 xue3 ming2 ji1 ， qiu1 bo1 ru4 bin4 ， xie2 xiao3 bu4 xing2 chi2 。
+
+- guan1 er2 shi2 yang4 dou1 xiang1 chen4 ， hua1 cha1 lian4 shuang1 zhi1 。
+
+- qian4 qiao4 jing1 shen2 ， feng1 liu2 qing2 tai4 ， wei2 you3 fen3 lang2 zhi1 。
+
+## 译文
+
+绣罗＿子间金属丝。打扮好仪表。明白明肌雪，秋季波入鬓，鞋小步行慢。帽儿当时样都相称，花插朱栋双枝。倩好像精神，风流情态，只有粉郎知道。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+绣罗＿子间金属丝。打扮好仪表。明白明肌雪，秋季波入鬓，鞋小步行慢。帽儿当时样都相称，花插朱栋双枝。倩好像精神，风流情态，只有粉郎知道。
+	* 此部分翻译来自AI，仅供参考

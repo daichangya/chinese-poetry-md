@@ -1,0 +1,45 @@
+---
+id: lu-gui-meng-feng-he-xi-mei-cha-ju-shi-yong-zhu-cha-xian-lai-song-jian-zuo
+title: 奉和袭美茶具十咏。煮茶
+author: 陆龟蒙
+authorSlug: lu-gui-meng
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: feng4 he2 xi2 mei3 cha2 ju4 shi2 yong3 。 zhu3 cha2
+authorPinyin: lu4 gui1 meng2
+dynastyPinyin: tang2
+canonicalPoemId: 391540
+canonicalAuthorId: 254
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 闲来松间坐，看煮松上雪。
+
+- 时于浪花里，并下蓝英末。
+
+- 倾馀精爽健，忽似氛埃灭。
+
+- 不合别观书，但宜窥玉札。
+
+## 拼音
+
+- xian2 lai2 song1 jian1 zuo4 ， kan4 zhu3 song1 shang4 xue3 。
+
+- shi2 yu2 lang4 hua1 li3 ， bing4 xia4 lan2 ying1 mo4 。
+
+- qing1 yu2 jing1 shuang3 jian4 ， hu1 si4 fen1 ai1 mie4 。
+
+- bu4 he2 bie2 guan1 shu1 ， dan4 yi2 kui1 yu4 zha2 。
+
+## 译文
+
+熟悉来松间坐，看煮松树上的雪。时在浪花里，并下蓝英末。压倒其他精神健康，忽然像凶气灭。不合别看书，但是应该看到地榆。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+熟悉来松间坐，看煮松树上的雪。时在浪花里，并下蓝英末。压倒其他精神健康，忽然像凶气灭。不合别看书，但是应该看到地榆。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,53 @@
+---
+id: lu-jiu-shao-shi-ming-quan-xie-hou-cheng-shan-xing
+title: 试茗泉
+author: 陆九韶
+authorSlug: lu-jiu-shao
+dynasty: 宋
+dynastySlug: song
+titlePinyin: shi4 ming2 quan2
+authorPinyin: lu4 jiu3 shao2
+dynastyPinyin: song4
+canonicalPoemId: 644725
+canonicalAuthorId: 9930
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 邂逅成山行，往往有异景。
+
+- 奇峰争呈露，独不见试茗。
+
+- 逶迤即道周，澄泓得幽井。
+
+- 淆之不可浊，凝然如自省。
+
+- 龟蒙于越来，傥亦煮石鼎。
+
+- 岂为渴者甘，醯梦当一警。
+
+## 拼音
+
+- xie4 hou4 cheng2 shan1 xing2 ， wang3 wang3 you3 yi4 jing3 。
+
+- qi2 feng1 zheng1 cheng2 lu4 ， du2 bu2 jian4 shi4 ming2 。
+
+- wei1 yi2 ji2 dao4 zhou1 ， cheng2 hong2 de2 you1 jing3 。
+
+- xiao2 zhi1 bu4 ke3 zhuo2 ， ning2 ran2 ru2 zi4 xing3 。
+
+- gui1 meng2 yu2 yue4 lai2 ， tang3 yi4 zhu3 shi2 ding3 。
+
+- qi3 wei4 ke3 zhe3 gan1 ， xi1 meng4 dang1 yi4 jing3 。
+
+## 译文
+
+邂逅成山路，往往有异景。奇峰争裸露，难道你没看见试茶。曲折就是道周，元澄潭反映井。混淆的不混浊，凝地像自我反省。龟蒙到越国来，倘若也煮石鼎。难道是口渴的食品，醋梦应该是一个警告。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+邂逅成山路，往往有异景。奇峰争裸露，难道你没看见试茶。曲折就是道周，元澄潭反映井。混淆的不混浊，凝地像自我反省。龟蒙到越国来，倘若也煮石鼎。难道是口渴的食品，醋梦应该是一个警告。
+	* 此部分翻译来自AI，仅供参考
