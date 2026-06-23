@@ -1,0 +1,45 @@
+---
+id: lou-yao-zhu-ying-bai-sao-wan-gui-chang-ting-yu-yi-zao-chui-chui
+title: 诸莹拜扫晚归长汀
+author: 楼钥
+authorSlug: lou-yao
+dynasty: 宋
+dynastySlug: song
+titlePinyin: zhu1 ying2 bai4 sao3 wan3 gui1 chang2 ting1
+authorPinyin: lou2 yao4
+dynastyPinyin: song4
+canonicalPoemId: 539122
+canonicalAuthorId: 96
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 雨意早垂垂，寒云晚更低。
+
+- 空中时散点，道上不成泥。
+
+- 绿柳桃相映，黄花麦与齐。
+
+- 迂回余百里，喜见旧松堤。
+
+## 拼音
+
+- yu3 yi4 zao3 chui2 chui2 ， han2 yun2 wan3 geng4 di1 。
+
+- kong1 zhong1 shi2 san4 dian3 ， dao4 shang4 bu4 cheng2 ni2 。
+
+- lü4 liu3 tao2 xiang1 ying4 ， huang2 hua1 mai4 yu3 qi2 。
+
+- yu1 hui2 yu2 bai3 li3 ， xi3 jian4 jiu4 song1 di1 。
+
+## 译文
+
+雨心早就垂垂，冷云晚再低。空中时散点，原则上不成泥。绿柳桃花相映，黄花麦与齐。迂回我百里，很高兴看到旧松堤。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+雨心早就垂垂，冷云晚再低。空中时散点，原则上不成泥。绿柳桃花相映，黄花麦与齐。迂回我百里，很高兴看到旧松堤。
+	* 此部分翻译来自AI，仅供参考

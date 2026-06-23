@@ -1,0 +1,45 @@
+---
+id: lou-yao-song-le-qing-yao-ling-xing-ke-zhang-guan-qing-zheng-yu-wu-xia
+title: 送乐清姚令行可
+author: 楼钥
+authorSlug: lou-yao
+dynasty: 宋
+dynastySlug: song
+titlePinyin: song4 le4 qing1 yao2 ling4 xing2 ke3
+authorPinyin: lou2 yao4
+dynastyPinyin: song4
+canonicalPoemId: 621579
+canonicalAuthorId: 96
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 长官清政玉无瑕，卓鲁循良不足夸。
+
+- 前席有期吾党喜，挽须无路邑人嗟。
+
+- 才高雁荡千峰石，惠足河阳一县花。
+
+- 欲信三年浑不扰，游山今日始携家。
+
+## 拼音
+
+- zhang3 guan1 qing1 zheng4 yu4 wu2 xia2 ， zhuo2 lu3 xun2 liang2 bu4 zu2 kua1 。
+
+- qian2 xi2 you3 qi1 wu2 dang3 xi3 ， wan3 xu1 wu2 lu4 yi4 ren2 jie1 。
+
+- cai2 gao1 yan4 dang4 qian1 feng1 shi2 ， hui4 zu2 he2 yang2 yi2 xian4 hua1 。
+
+- yu4 xin4 san1 nian2 hun2 bu4 rao3 ， you2 shan1 jin1 ri4 shi3 xie2 jia1 。
+
+## 译文
+
+长官清政玉无瑕，卓鲁奉公守法不值得夸耀。前席有时间我们很高兴，拉须无路邑人啊。才高雁荡山千峰石，恩惠足以河阳一县花。想相信三年浑不骚扰，游山今天开始带着家人。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+长官清政玉无瑕，卓鲁奉公守法不值得夸耀。前席有时间我们很高兴，拉须无路邑人啊。才高雁荡山千峰石，恩惠足以河阳一县花。想相信三年浑不骚扰，游山今天开始带着家人。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,37 @@
+---
+id: lou-yao-song-zhu-shu-zhi-shou-nan-jian-xia-shui-shang-shan-yao-dai-zhou
+title: 送朱叔止守南剑
+author: 楼钥
+authorSlug: lou-yao
+dynasty: 宋
+dynastySlug: song
+titlePinyin: song4 zhu1 shu1 zhi3 shou3 nan2 jian4
+authorPinyin: lou2 yao4
+dynastyPinyin: song4
+canonicalPoemId: 620490
+canonicalAuthorId: 96
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 下水上山腰带州，人家无数起危楼。
+
+- 遨头不用喧箫鼓，只把清诗纪胜游。
+
+## 拼音
+
+- xia4 shui3 shang4 shan1 yao1 dai4 zhou1 ， ren2 jia1 wu2 shu4 qi3 wei1 lou2 。
+
+- ao2 tou2 bu2 yong4 xuan1 xiao1 gu3 ， zhi1 ba3 qing1 shi1 ji4 sheng4 you2 。
+
+## 译文
+
+下面的水上山腰带州，人家没有几起高楼。遨头不用大声箫鼓，只把清诗纪胜游。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+下面的水上山腰带州，人家没有几起高楼。遨头不用大声箫鼓，只把清诗纪胜游。
+	* 此部分翻译来自AI，仅供参考
