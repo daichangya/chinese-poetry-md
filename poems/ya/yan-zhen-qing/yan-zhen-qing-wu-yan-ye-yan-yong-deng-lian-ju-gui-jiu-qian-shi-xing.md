@@ -1,0 +1,69 @@
+---
+id: yan-zhen-qing-wu-yan-ye-yan-yong-deng-lian-ju-gui-jiu-qian-shi-xing
+title: 五言夜宴咏灯联句
+author: 颜真卿
+authorSlug: yan-zhen-qing
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: wu3 yan2 ye4 yan4 yong3 deng1 lian2 ju4
+authorPinyin: yan2 zhen1 qing1
+dynastyPinyin: tang2
+canonicalPoemId: 477049
+canonicalAuthorId: 2645
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 桂酒牵诗兴，兰釭照客情。
+
+- ——陆士修
+
+- 讵惭珠乘朗，不让月轮明。
+
+- ——张荐
+
+- 破暗光初白，浮云色转清。
+
+- ——颜真卿
+
+- 带花疑在树，比燎欲分庭。
+
+- ——皎然
+
+- 顾己惭微照，开帘识近汀。
+
+- ——袁高
+
+## 拼音
+
+- gui4 jiu3 qian1 shi1 xing4 ， lan2 gang1 zhao4 ke4 qing2 。
+
+- — — lu4 shi4 xiu1
+
+- ju4 can2 zhu1 cheng2 lang3 ， bu2 rang4 yue4 lun2 ming2 。
+
+- — — zhang1 jian4
+
+- po4 an4 guang1 chu1 bai2 ， fu2 yun2 se4 zhuan3 qing1 。
+
+- — — yan2 zhen1 qing1
+
+- dai4 hua1 yi2 zai4 shu4 ， bi3 liao2 yu4 fen1 ting2 。
+
+- — — jiao3 ran2
+
+- gu4 ji3 can2 wei1 zhao4 ， kai1 lian2 shi2 jin4 ting1 。
+
+- — — yuan2 gao1
+
+## 译文
+
+桂酒牵诗兴，兰蒂照客情。－－陆士修不惭愧珠乘朗，不让月轮明。－－张推荐打败黑暗光初年白，浮云色转清。－－颜真卿带花怀疑在树上，比燃烧想分庭。－－皎洁看着自己惭愧微照，打开窗帘认识近洲。－－袁高
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+桂酒牵诗兴，兰蒂照客情。－－陆士修不惭愧珠乘朗，不让月轮明。－－张推荐打败黑暗光初年白，浮云色转清。－－颜真卿带花怀疑在树上，比燃烧想分庭。－－皎洁看着自己惭愧微照，打开窗帘认识近洲。－－袁高
+	* 此部分翻译来自AI，仅供参考

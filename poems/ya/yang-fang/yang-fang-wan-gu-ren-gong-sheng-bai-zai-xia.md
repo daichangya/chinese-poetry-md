@@ -1,0 +1,45 @@
+---
+id: yang-fang-wan-gu-ren-gong-sheng-bai-zai-xia
+title: 挽故人
+author: 阳枋
+authorSlug: yang-fang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: wan3 gu4 ren2
+authorPinyin: yang2 fang1
+dynastyPinyin: song4
+canonicalPoemId: 449088
+canonicalAuthorId: 3638
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 公生百载下，学契五峰心。
+
+- 崇鼎屹重器，洪钟希太音。
+
+- 词源擅翻海，句律善舂金。
+
+- 材古谁人识，清歌和惨吟。
+
+## 拼音
+
+- gong1 sheng1 bai3 zai3 xia4 ， xue2 qi4 wu3 feng1 xin1 。
+
+- chong2 ding3 yi4 zhong4 qi4 ， hong2 zhong1 xi1 tai4 yin1 。
+
+- ci2 yuan2 shan4 fan1 hai3 ， ju4 lü4 shan4 chong1 jin1 。
+
+- cai2 gu3 shui2 ren2 shi2 ， qing1 ge1 he2 can3 yin2 。
+
+## 译文
+
+公生百载下，学习契约五峰心。高鼎屹重任，大钟希太音。词源任意翻海，句律好春金。材古谁人识，清新和悲惨吟。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+公生百载下，学习契约五峰心。高鼎屹重任，大钟希太音。词源任意翻海，句律好春金。材古谁人识，清新和悲惨吟。
+	* 此部分翻译来自AI，仅供参考
