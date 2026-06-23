@@ -1,0 +1,35 @@
+---
+id: cui-yu-zhi-li-da-zhu-fu-yu-zhang-bie-jia-tong-she-jian-bie-yong-er-gong-bu-tian-sha-a1826956
+title: 李大著赴豫章别驾同舍饯别用二工部天上秋期
+author: 崔与之
+authorSlug: cui-yu-zhi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: li3 da4 zhu4 fu4 yu4 zhang1 bie2 jia4 tong2 she4 jian4 bie2 yong4 er4 gong1 bu4 tian1 shang4 qiu1 qi1
+authorPinyin: cui1 yu3 zhi1
+dynastyPinyin: song4
+canonicalPoemId: 437818
+canonicalAuthorId: 12126
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 精神炯炯一癯仙，弭笔蓬莱最上颠。
+
+- 光大声名揭如日，老臣议论可回天。
+
+- 星辰直上亨衢称，负月平分去意坚。
+
+- 愧我衰颜归未得，两旬三作送行篇。
+
+## 拼音
+
+- jing1 shen2 jiong3 jiong3 yi4 qu2 xian1 ， mi3 bi3 peng2 lai2 zui4 shang4 dian1 。
+
+- guang1 da4 sheng1 ming2 jie1 ru2 ri4 ， lao3 chen2 yi4 lun4 ke3 hui2 tian1 。
+
+- xing1 chen2 zhi2 shang4 heng1 qu2 cheng1 ， fu4 yue4 ping2 fen1 qu4 yi4 jian1 。
+
+- kui4 wo3 shuai1 yan2 gui1 wei4 de2 ， liang3 xun2 san1 zuo4 song4 xing2 pian1 。

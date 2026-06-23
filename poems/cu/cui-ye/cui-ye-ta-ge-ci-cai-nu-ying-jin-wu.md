@@ -1,0 +1,54 @@
+---
+id: cui-ye-ta-ge-ci-cai-nu-ying-jin-wu
+title: 蹋歌词
+author: 崔液
+authorSlug: cui-ye
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: ta4 ge1 ci2
+authorPinyin: cui1 ye4
+dynastyPinyin: tang2
+canonicalPoemId: 529061
+canonicalAuthorId: 638
+tags:
+  - 诗词
+  - 御定全唐诗
+---
+
+## 正文
+
+- 彩女迎金屋，仙姬出画堂。
+
+- 鸳鸯裁锦袖，翡翠贴花黄。
+
+- 歌响舞分行，艳色动流光。
+
+- 庭际花微落，楼前汉已横。
+
+- 金壶催夜尽，罗袖舞寒轻。
+
+- 乐笑畅欢情，未半著天明。
+
+## 拼音
+
+- cai3 nü3 ying2 jin1 wu1 ， xian1 ji1 chu1 hua4 tang2 。
+
+- yuan1 yang1 cai2 jin3 xiu4 ， fei3 cui4 tie1 hua1 huang2 。
+
+- ge1 xiang3 wu3 fen1 xing2 ， yan4 se4 dong4 liu2 guang1 。
+
+- ting2 ji4 hua1 wei1 luo4 ， lou2 qian2 han4 yi3 heng2 。
+
+- jin1 hu2 cui1 ye4 jin4 ， luo2 xiu4 wu3 han2 qing1 。
+
+- le4 xiao4 chang4 huan1 qing2 ， wei4 ban4 zhu4 tian1 ming2 。
+
+## 译文
+
+宫女迎金屋，仙女出画堂。鸳鸯裁决锦袖，翡翠贴花黄。歌唱响舞分行，艳色流动光。庭院花微落，楼前汉已经横。金壶催夜尽，罗袖舞寒轻。乐笑畅欢情，没有半著天亮。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+宫女迎金屋，仙女出画堂。鸳鸯裁决锦袖，翡翠贴花黄。歌唱响舞分行，艳色流动光。庭院花微落，楼前汉已经横。金壶催夜尽，罗袖舞寒轻。乐笑畅欢情，没有半著天亮。
+	* 此部分翻译来自AI，仅供参考

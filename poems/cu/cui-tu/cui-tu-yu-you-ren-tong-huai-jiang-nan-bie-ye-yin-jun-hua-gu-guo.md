@@ -1,0 +1,45 @@
+---
+id: cui-tu-yu-you-ren-tong-huai-jiang-nan-bie-ye-yin-jun-hua-gu-guo
+title: 与友人同怀江南别业
+author: 崔涂
+authorSlug: cui-tu
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: yu3 you3 ren2 tong2 huai2 jiang1 nan2 bie2 ye4
+authorPinyin: cui1 tu2
+dynastyPinyin: tang2
+canonicalPoemId: 466558
+canonicalAuthorId: 441
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 因君话故国，此夕倍依依。
+
+- 旧业临秋水，何人在钓矶。
+
+- 浮名如纵得，沧海亦终归。
+
+- 却是风尘里，如何便息机。
+
+## 拼音
+
+- yin1 jun1 hua4 gu4 guo2 ， ci3 xi1 bei4 yi1 yi1 。
+
+- jiu4 ye4 lin2 qiu1 shui3 ， he2 ren2 zai4 diao4 ji1 。
+
+- fu2 ming2 ru2 zong4 de2 ， cang1 hai3 yi4 zhong1 gui1 。
+
+- que4 shi4 feng1 chen2 li3 ， ru2 he2 bian4 xi1 ji1 。
+
+## 译文
+
+因为你话所以国家，此夕倍依依。旧业临秋水，什么人在钓矶。浮名如随意，大海也最终回到。却是风尘里，怎么就停机。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+因为你话所以国家，此夕倍依依。旧业临秋水，什么人在钓矶。浮名如随意，大海也最终回到。却是风尘里，怎么就停机。
+	* 此部分翻译来自AI，仅供参考
