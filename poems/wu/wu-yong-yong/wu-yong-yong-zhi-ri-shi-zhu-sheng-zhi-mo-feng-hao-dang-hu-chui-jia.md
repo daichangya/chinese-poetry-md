@@ -1,0 +1,45 @@
+---
+id: wu-yong-yong-zhi-ri-shi-zhu-sheng-zhi-mo-feng-hao-dang-hu-chui-jia
+title: 至日示诸甥侄
+author: 吴泳
+authorSlug: wu-yong-yong
+dynasty: 宋
+dynastySlug: song
+titlePinyin: zhi4 ri4 shi4 zhu1 sheng1 zhi2
+authorPinyin: wu2 yong3
+dynastyPinyin: song4
+canonicalPoemId: 601822
+canonicalAuthorId: 5500
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 莫风浩荡忽吹葭，一室阳春病已差。
+
+- 把酒认为天一水，见梅题和玉真花。
+
+- 燕常会族宁随俭，祭则从先不尚华。
+
+- 过此肥冬疆事静，亦呼盘了早还家。
+
+## 拼音
+
+- mo4 feng1 hao4 dang4 hu1 chui1 jia1 ， yi2 shi4 yang2 chun1 bing4 yi3 cha4 。
+
+- ba3 jiu3 ren4 wei2 tian1 yi4 shui3 ， jian4 mei2 ti2 he2 yu4 zhen1 hua1 。
+
+- yan4 chang2 hui4 zu2 ning2 sui2 jian3 ， ji4 ze2 cong2 xian1 bu2 shang4 hua2 。
+
+- guo4 ci3 fei2 dong1 jiang1 shi4 jing4 ， yi4 hu1 pan2 le0 zao3 hai2 jia1 。
+
+## 译文
+
+莫风浩荡忽然吹霞，一家阳春病已经差。把酒认为天一水，看到梅题和玉真花。燕常会族宁愿跟随节俭，祭祀则从原先不尚华。过这肥冬强事静，也叫盘了早点回家。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+莫风浩荡忽然吹霞，一家阳春病已经差。把酒认为天一水，看到梅题和玉真花。燕常会族宁愿跟随节俭，祭祀则从原先不尚华。过这肥冬强事静，也叫盘了早点回家。
+	* 此部分翻译来自AI，仅供参考

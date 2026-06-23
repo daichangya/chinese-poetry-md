@@ -1,0 +1,65 @@
+---
+id: wu-yuan-wu-qin-yuan-chun-shou-di-xiang-guo-xi-wo-xin-gui
+title: 沁园春（寿弟相国）
+author: 吴渊
+authorSlug: wu-yuan-wu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: qin4 yuan2 chun1 （ shou4 di4 xiang4 guo2 ）
+authorPinyin: wu2 yuan1
+dynastyPinyin: song4
+canonicalPoemId: 527441
+canonicalAuthorId: 11769
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 喜我新归，逢戎初度，关情更深。
+
+- 正昼掩柴扉，□寻隐遁，□舒槐府，戎正经纶。
+
+- 白石清泉，紫枢黄阁，□□□□□□□。
+
+- □□□，□弟为宰相，兄作闲人。
+
+- 南园借我登临。
+
+- 都不怕近前丞相瞋。
+
+- 但曳履扶筇，堪怜独步，携壶载酒，每叹孤斟。
+
+- 七帙开颜，六旬屈指，风雨对床频上心。
+
+- 殷勤祝，道何时回首，及早抽身。
+
+## 拼音
+
+- xi3 wo3 xin1 gui1 ， feng2 rong2 chu1 du4 ， guan1 qing2 geng4 shen1 。
+
+- zheng4 zhou4 yan3 chai2 fei1 ， □ xun2 yin3 dun4 ， □ shu1 huai2 fu3 ， rong2 zheng4 jing1 lun2 。
+
+- bai2 shi2 qing1 quan2 ， zi3 shu1 huang2 ge2 ， □ □ □ □ □ □ □ 。
+
+- □ □ □ ， □ di4 wei4 zai3 xiang4 ， xiong1 zuo4 xian2 ren2 。
+
+- nan2 yuan2 jie4 wo3 deng1 lin2 。
+
+- dou1 bu2 pa4 jin4 qian2 cheng2 xiang4 chen1 。
+
+- dan4 ye4 lü3 fu2 qiong2 ， kan1 lian2 du2 bu4 ， xie2 hu2 zai3 jiu3 ， mei3 tan4 gu1 zhen1 。
+
+- qi1 zhi4 kai1 yan2 ， liu4 xun2 qu1 zhi3 ， feng1 yu3 dui4 chuang2 pin2 shang4 xin1 。
+
+- yin1 qin2 zhu4 ， dao4 he2 shi2 hui2 shou3 ， ji2 zao3 chou1 shen1 。
+
+## 译文
+
+很高兴我刚刚回家，逢战事初度，关情更深。白天掩柴门，不久隐居…，观察舒槐府，戎正筹划。白石清泉，紫枢黄阁，……。……，其弟为宰相，哥哥作闲人。南园借我登临。都不怕靠近前丞相生气。只是拖着鞋扶筇，可怜一步，带着壶载酒，常常感叹我斟。七帙开颜，六天屈指，风雨对床频频上心。殷勤祷告，道什么时候回头，及早抽身。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+很高兴我刚刚回家，逢战事初度，关情更深。白天掩柴门，不久隐居…，观察舒槐府，戎正筹划。白石清泉，紫枢黄阁，……。……，其弟为宰相，哥哥作闲人。南园借我登临。都不怕靠近前丞相生气。只是拖着鞋扶筇，可怜一步，带着壶载酒，常常感叹我斟。七帙开颜，六天屈指，风雨对床频频上心。殷勤祷告，道什么时候回头，及早抽身。
+	* 此部分翻译来自AI，仅供参考
