@@ -1,0 +1,35 @@
+---
+id: jiao-miao-chao-hui-ge-ci-shao-xing-qin-xiang-ming-tang-er-shi-liu-shou-qi-shi-ba-wen-wu-tui-wu-wu-7091c59b
+title: 绍兴亲享明堂二十六首 其十八 文舞退、武舞进用《穆安》。
+author: 郊庙朝会歌辞
+authorSlug: jiao-miao-chao-hui-ge-ci
+dynasty: 宋
+dynastySlug: song
+titlePinyin: shao4 xing1 qin1 xiang3 ming2 tang2 er4 shi2 liu4 shou3   qi2 shi2 ba1   wen2 wu3 tui4 、 wu3 wu3 jin4 yong4 《 mu4 an1 》 。
+authorPinyin: jiao1 miao4 chao2 hui4 ge1 ci2
+dynastyPinyin: song4
+canonicalPoemId: 329176
+canonicalAuthorId: 13462
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 神之歘至，庆阴杳冥。
+
+- 风马云车，恍若有承。
+
+- 备形声容，于昭文明。
+
+- 庶几嘉虞，来享来宁。
+
+## 拼音
+
+- shen2 zhi1 xu1 zhi4 ， qing4 yin1 yao3 ming2 。
+
+- feng1 ma3 yun2 che1 ， huang3 ruo4 you3 cheng2 。
+
+- bei4 xing2 sheng1 rong2 ， yu2 zhao1 wen2 ming2 。
+
+- shu4 ji1 jia1 yu2 ， lai2 xiang3 lai2 ning2 。

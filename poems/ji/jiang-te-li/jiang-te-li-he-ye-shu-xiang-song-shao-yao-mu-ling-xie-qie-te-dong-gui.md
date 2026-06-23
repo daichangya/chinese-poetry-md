@@ -1,0 +1,37 @@
+---
+id: jiang-te-li-he-ye-shu-xiang-song-shao-yao-mu-ling-xie-qie-te-dong-gui
+title: 和叶枢相送芍药
+author: 姜特立
+authorSlug: jiang-te-li
+dynasty: 宋
+dynastySlug: song
+titlePinyin: he2 ye4 shu1 xiang1 song4 shao2 yao4
+authorPinyin: jiang1 te4 li4
+dynastyPinyin: song4
+canonicalPoemId: 496706
+canonicalAuthorId: 6634
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 暮龄携挈特东归，红药翻阶正得时。
+
+- 不是花容相妩媚，风流要索两翁诗。
+
+## 拼音
+
+- mu4 ling2 xie2 qie4 te4 dong1 gui1 ， hong2 yao4 fan1 jie1 zheng4 de2 shi2 。
+
+- bu2 shi4 hua1 rong2 xiang1 wu3 mei4 ， feng1 liu2 yao4 suo3 liang3 weng1 shi1 。
+
+## 译文
+
+晚年带着特别东归，红药翻阶正得到时。不是花容相妩媚，风流要两翁诗。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+晚年带着特别东归，红药翻阶正得到时。不是花容相妩媚，风流要两翁诗。
+	* 此部分翻译来自AI，仅供参考

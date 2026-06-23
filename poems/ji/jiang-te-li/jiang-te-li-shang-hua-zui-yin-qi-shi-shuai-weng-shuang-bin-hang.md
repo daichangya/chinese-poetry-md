@@ -1,0 +1,45 @@
+---
+id: jiang-te-li-shang-hua-zui-yin-qi-shi-shuai-weng-shuang-bin-hang
+title: 赏花醉吟
+author: 姜特立
+authorSlug: jiang-te-li
+dynasty: 宋
+dynastySlug: song
+titlePinyin: shang3 hua1 zui4 yin2
+authorPinyin: jiang1 te4 li4
+dynastyPinyin: song4
+canonicalPoemId: 496480
+canonicalAuthorId: 6634
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 七十衰翁双鬓杭，每遇花时拚醉倒。
+
+- 今年只是去年花，故宫何似今吾老。
+
+- 空中日月笼中鸟，万古贤愚尘一窖。
+
+- 寻思世事总浮云，断送一生唯有酒。
+
+## 拼音
+
+- qi1 shi2 shuai1 weng1 shuang1 bin4 hang2 ， mei3 yu4 hua1 shi2 pin1 zui4 dao3 。
+
+- jin1 nian2 zhi3 shi4 qu4 nian2 hua1 ， gu4 gong1 he2 si4 jin1 wu2 lao3 。
+
+- kong1 zhong1 ri4 yue4 long2 zhong1 niao3 ， wan4 gu3 xian2 yu2 chen2 yi2 jiao4 。
+
+- xun2 si0 shi4 shi4 zong3 fu2 yun2 ， duan4 song4 yi4 sheng1 wei2 you3 jiu3 。
+
+## 译文
+
+七十衰翁双鬓杭州，每次花时拼酒醉倒。今年只是去年花，故宫怎么样现在我老。空中日月笼中鸟，万古贤愚尘一窖。想世事总浮云，断送一生唯有酒。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+七十衰翁双鬓杭州，每次花时拼酒醉倒。今年只是去年花，故宫怎么样现在我老。空中日月笼中鸟，万古贤愚尘一窖。想世事总浮云，断送一生唯有酒。
+	* 此部分翻译来自AI，仅供参考

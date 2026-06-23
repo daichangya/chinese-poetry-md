@@ -1,0 +1,37 @@
+---
+id: jiang-te-li-yi-mao-zhong-mu-dan-ke-pu-yu-feng-rang
+title: 乙卯种牡丹
+author: 姜特立
+authorSlug: jiang-te-li
+dynasty: 宋
+dynastySlug: song
+titlePinyin: yi3 mao3 zhong3 mu3 dan1
+authorPinyin: jiang1 te4 li4
+dynastyPinyin: song4
+canonicalPoemId: 419856
+canonicalAuthorId: 6634
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 课仆舁丰壤，辛勤种牡丹。
+
+- 不知从此去，更得几春看。
+
+## 拼音
+
+- ke4 pu2 yu2 feng1 rang3 ， xin1 qin2 zhong3 mu3 dan1 。
+
+- bu4 zhi1 cong2 ci3 qu4 ， geng4 de2 ji3 chun1 kan4 。
+
+## 译文
+
+督促仆人抬着肥沃，辛勤播种牡丹。不知道从这里走，还有多少春看。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+督促仆人抬着肥沃，辛勤播种牡丹。不知道从这里走，还有多少春看。
+	* 此部分翻译来自AI，仅供参考
