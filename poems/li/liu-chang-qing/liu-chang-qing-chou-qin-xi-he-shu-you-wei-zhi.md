@@ -1,0 +1,45 @@
+---
+id: liu-chang-qing-chou-qin-xi-he-shu-you-wei-zhi
+title: 酬秦系
+author: 刘长卿
+authorSlug: liu-chang-qing
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: chou2 qin2 xi4
+authorPinyin: liu2 chang2 qing1
+dynastyPinyin: tang2
+canonicalPoemId: 388221
+canonicalAuthorId: 275
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 鹤书犹未至，那出白云来。
+
+- 旧路经年别，寒潮每日回。
+
+- 家空归海燕，人老发江梅。
+
+- 最忆门前柳，闲居手自栽。
+
+## 拼音
+
+- he4 shu1 you2 wei4 zhi4 ， na4 chu1 bai2 yun2 lai2 。
+
+- jiu4 lu4 jing1 nian2 bie2 ， han2 chao2 mei3 ri4 hui2 。
+
+- jia1 kong1 gui1 hai3 yan4 ， ren2 lao3 fa1 jiang1 mei2 。
+
+- zui4 yi4 men2 qian2 liu3 ， xian2 ju1 shou3 zi4 zai1 。
+
+## 译文
+
+鹤书还未到，那出白云来。旧路一年别，寒潮每天回。家空回海燕，人老头发江梅。最记得门前柳，闲居手自栽。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+鹤书还未到，那出白云来。旧路一年别，寒潮每天回。家空回海燕，人老头发江梅。最记得门前柳，闲居手自栽。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,45 @@
+---
+id: ling-hu-de-fen-dong-ri-yan-yu-shu-zi-zhai-ge-fu-yi-zi-de-qu-gao-men-liao-ming-shang
+title: 冬日宴于庶子宅各赋一字得趣
+author: 令狐德棻
+authorSlug: ling-hu-de-fen
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: dong1 ri4 yan4 yu2 shu4 zi3 zhai2 ge4 fu4 yi2 zi4 de2 qu4
+authorPinyin: ling2 hu2 de2 fen1
+dynastyPinyin: tang2
+canonicalPoemId: 477923
+canonicalAuthorId: 708
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 高门聊命赏，群英于此遇。
+
+- 放旷山水情，留连文酒趣。
+
+- 夕烟起林兰，霜枝殒庭树。
+
+- 落景虽已倾，归轩幸能驻。
+
+## 拼音
+
+- gao1 men2 liao2 ming4 shang3 ， qun2 ying1 yu2 ci3 yu4 。
+
+- fang4 kuang4 shan1 shui3 qing2 ， liu2 lian2 wen2 jiu3 qu4 。
+
+- xi1 yan1 qi3 lin2 lan2 ， shuang1 zhi1 yun3 ting2 shu4 。
+
+- luo4 jing3 sui1 yi3 qing1 ， gui1 xuan1 xing4 neng2 zhu4 。
+
+## 译文
+
+高门聊命赏，在这里遇到群英。放辽阔山水情，留连文酒趣。晚烟起林兰，霜枝死在树上。落景虽已倾斜，回到车到住。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+高门聊命赏，在这里遇到群英。放辽阔山水情，留连文酒趣。晚烟起林兰，霜枝死在树上。落景虽已倾斜，回到车到住。
+	* 此部分翻译来自AI，仅供参考

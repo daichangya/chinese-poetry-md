@@ -1,0 +1,35 @@
+---
+id: liu-chang-liu-ku-xue-ji-xue-ming-ming-chun-bu-yan
+title: 苦雪
+author: 刘敞
+authorSlug: liu-chang-liu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ku3 xue3
+authorPinyin: liu2 chang3
+dynastyPinyin: song4
+canonicalPoemId: 333712
+canonicalAuthorId: 13009
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 积雪冥冥春不淹，流光骤去十之三。
+
+- 根拳枝折物可念，衣敝履穿吾自堪。
+
+- 天枢回环错寒燠，地轴开阖差朔南。
+
+- 乾坤密移世莫测，安得辨士能剧谈。
+
+## 拼音
+
+- ji1 xue3 ming2 ming2 chun1 bu4 yan1 ， liu2 guang1 zhou4 qu4 shi2 zhi1 san1 。
+
+- gen1 quan2 zhi1 zhe2 wu4 ke3 nian4 ， yi1 bi4 lü3 chuan1 wu2 zi4 kan1 。
+
+- tian1 shu1 hui2 huan2 cuo4 han2 yu4 ， di4 zhou2 kai1 he2 cha4 shuo4 nan2 。
+
+- qian2 kun1 mi4 yi2 shi4 mo4 ce4 ， an1 de2 bian4 shi4 neng2 ju4 tan2 。

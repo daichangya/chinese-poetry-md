@@ -1,0 +1,61 @@
+---
+id: liu-bao-shui-diao-ge-tou-zhong-qiu-tian-dan-si-chui-mu
+title: 水调歌头（中秋）
+author: 刘褒
+authorSlug: liu-bao
+dynasty: 宋
+dynastySlug: song
+titlePinyin: shui3 diao4 ge1 tou2 （ zhong1 qiu1 ）
+authorPinyin: liu2 bao1
+dynastyPinyin: song4
+canonicalPoemId: 335433
+canonicalAuthorId: 12118
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 天淡四垂幕，云细不成衣。
+
+- 西风扫尽纤翳，凉我鬓边丝。
+
+- 破匣菱花飞动，跨海清光无际，草露滴明玑。
+
+- 杯到莫停手，何用问来期。
+
+- 坐虚堂，揩病眼，诉流辉。
+
+- 云山应有幽恨，瑶瑟掩金徽。
+
+- 河汉无声自转，玉兔有情亦老，世事巧相违。
+
+- 一写谪仙怨，双泪满君颐。
+
+## 拼音
+
+- tian1 dan4 si4 chui2 mu4 ， yun2 xi4 bu4 cheng2 yi1 。
+
+- xi1 feng1 sao3 jin4 xian1 yi4 ， liang2 wo3 bin4 bian1 si1 。
+
+- po4 xia2 ling2 hua1 fei1 dong4 ， kua4 hai3 qing1 guang1 wu2 ji4 ， cao3 lu4 di1 ming2 ji1 。
+
+- bei1 dao4 mo4 ting2 shou3 ， he2 yong4 wen4 lai2 qi1 。
+
+- zuo4 xu1 tang2 ， kai1 bing4 yan3 ， su4 liu2 hui1 。
+
+- yun2 shan1 ying1 you3 you1 hen4 ， yao2 se4 yan3 jin1 hui1 。
+
+- he2 han4 wu2 sheng1 zi4 zhuan4 ， yu4 tu4 you3 qing2 yi4 lao3 ， shi4 shi4 qiao3 xiang1 wei2 。
+
+- yi4 xie3 zhe2 xian1 yuan4 ， shuang1 lei4 man3 jun1 yi2 。
+
+## 译文
+
+天份四垂幕，说小不成衣服。西风扫尽一丝灰尘，凉我鬓边丝。打败匣菱花飞动，跨海清光无边，草露滴明玉。杯到别停下手，用什么来约会。坐在空堂，揩病眼，诉流辉。说山应该有幽恨，潘瑟掩金徽。天河没有声音从转，玉兔有情也老，社交技巧相违。一写谪仙怨恨，双泪满你下巴。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+天份四垂幕，说小不成衣服。西风扫尽一丝灰尘，凉我鬓边丝。打败匣菱花飞动，跨海清光无边，草露滴明玉。杯到别停下手，用什么来约会。坐在空堂，揩病眼，诉流辉。说山应该有幽恨，潘瑟掩金徽。天河没有声音从转，玉兔有情也老，社交技巧相违。一写谪仙怨恨，双泪满你下巴。
+	* 此部分翻译来自AI，仅供参考

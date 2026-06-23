@@ -1,0 +1,35 @@
+---
+id: liu-ban-ci-yun-he-ma-zhi-jiang-ti-yang-zhi-jiang-suo-zhong-san-chu-shu-shui-neng-850e46c7
+title: 次韵和麻直讲题杨直讲所种三樗树
+author: 刘攽
+authorSlug: liu-ban
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ci4 yun4 he2 ma2 zhi2 jiang3 ti2 yang2 zhi2 jiang3 suo3 zhong3 san1 chu1 shu4
+authorPinyin: liu2 ban1
+dynastyPinyin: song4
+canonicalPoemId: 329663
+canonicalAuthorId: 7324
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 谁能知散木，封植亦无心。
+
+- 岁月如视荫，栖迟还息阴。
+
+- 宦情移柳在，诗兴爱棠深。
+
+- 定有归飞翼，怀音似泮林。
+
+## 拼音
+
+- shui2 neng2 zhi1 san4 mu4 ， feng1 zhi2 yi4 wu2 xin1 。
+
+- sui4 yue4 ru2 shi4 yin4 ， qi1 chi2 hai2 xi1 yin1 。
+
+- huan4 qing2 yi2 liu3 zai4 ， shi1 xing4 ai4 tang2 shen1 。
+
+- ding4 you3 gui1 fei1 yi4 ， huai2 yin1 si4 pan4 lin2 。

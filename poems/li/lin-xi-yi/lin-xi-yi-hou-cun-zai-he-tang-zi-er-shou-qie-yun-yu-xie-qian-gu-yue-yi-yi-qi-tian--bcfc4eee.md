@@ -1,0 +1,35 @@
+---
+id: lin-xi-yi-hou-cun-zai-he-tang-zi-er-shou-qie-yun-yu-xie-qian-gu-yue-yi-yi-qi-tian--bcfc4eee
+title: 后村再和堂字二首且云欲谢遣孤月一意祈天用韵为谢 其二
+author: 林希逸
+authorSlug: lin-xi-yi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: hou4 cun1 zai4 he2 tang2 zi4 er4 shou3 qie3 yun2 yu4 xie4 qian3 gu1 yue4 yi1 yi4 qi2 tian1 yong4 yun4 wei4 xie4   qi2 er4
+authorPinyin: lin2 xi1 yi4
+dynastyPinyin: song4
+canonicalPoemId: 333882
+canonicalAuthorId: 7372
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 诗工如沈笔如任，到手篇篇玉应金。
+
+- 月好岂无搔首梦，日长谁伴撚髭吟。
+
+- 如今具眼师能几，何处还睛佛可寻。
+
+- 来往莫嫌贫问讯，也胜空谷听跫音。
+
+## 拼音
+
+- shi1 gong1 ru2 shen3 bi3 ru2 ren4 ， dao4 shou3 pian1 pian1 yu4 ying4 jin1 。
+
+- yue4 hao3 qi3 wu2 sao1 shou3 meng4 ， ri4 chang2 shui2 ban4 nian3 zi1 yin2 。
+
+- ru2 jin1 ju4 yan3 shi1 neng2 ji3 ， he2 chu4 hai2 jing1 fo2 ke3 xun2 。
+
+- lai2 wang3 mo4 xian2 pin2 wen4 xun4 ， ye3 sheng4 kong1 gu3 ting1 qiong2 yin1 。
