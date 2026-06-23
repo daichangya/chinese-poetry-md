@@ -1,0 +1,27 @@
+---
+id: qin-guan-ti-zhao-tuan-lian-hua-jiang-gan-wan-qi-san-gong-zi-ge-zhong-li
+title: 题赵团练画江干晚 其三
+author: 秦观
+authorSlug: qin-guan
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ti2 zhao4 tuan2 lian4 hua4 jiang1 gan1 wan3   qi2 san1
+authorPinyin: qin2 guan1
+dynastyPinyin: song4
+canonicalPoemId: 393008
+canonicalAuthorId: 5047
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 公子歌钟里，何从识渺茫。
+
+- 惟应斗帐梦，曾到水云乡。
+
+## 拼音
+
+- gong1 zi3 ge1 zhong1 li3 ， he2 cong2 shi2 miao3 mang2 。
+
+- wei2 ying4 dou4 zhang4 meng4 ， ceng2 dao4 shui3 yun2 xiang1 。

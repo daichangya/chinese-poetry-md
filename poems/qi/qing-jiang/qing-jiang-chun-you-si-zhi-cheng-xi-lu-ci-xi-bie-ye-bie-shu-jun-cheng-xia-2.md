@@ -1,0 +1,69 @@
+---
+id: qing-jiang-chun-you-si-zhi-cheng-xi-lu-ci-xi-bie-ye-bie-shu-jun-cheng-xia-2
+title: 春游司直城西鸬鹚谿别业
+author: 清江
+authorSlug: qing-jiang
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: chun1 you2 si1 zhi2 cheng2 xi1 lu2 ci2 xi1 bie2 ye4
+authorPinyin: qing1 jiang1
+dynastyPinyin: tang2
+canonicalPoemId: 355649
+canonicalAuthorId: 6062
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 别墅军城下，闲喧未可齐。
+
+- 春深花蝶梦，晓隔柳烟鞞.
+
+- 韶景浮寒水，疏杨映绿堤。
+
+- 沿洄看竹色，来往听莺啼。
+
+- 久慢持生术，多亲种药畦。
+
+- 家贫知素行，心苦见清溪。
+
+- 越客初投分，南枝得寄栖。
+
+- 禅机空寂寞，雅趣赖招携。
+
+- 本寺重江外，游方二室西。
+
+- 裴回恋知己，日夕草萋萋。
+
+## 拼音
+
+- bie2 shu4 jun1 cheng2 xia4 ， xian2 xuan1 wei4 ke3 qi2 。
+
+- chun1 shen1 hua1 die2 meng4 ， xiao3 ge2 liu3 yan1 pi2 .
+
+- shao2 jing3 fu2 han2 shui3 ， shu1 yang2 ying4 lü4 di1 。
+
+- yan2 hui2 kan4 zhu2 se4 ， lai2 wang3 ting1 ying1 ti2 。
+
+- jiu3 man4 chi2 sheng1 shu4 ， duo1 qin1 zhong3 yao4 qi2 。
+
+- jia1 pin2 zhi1 su4 xing2 ， xin1 ku3 jian4 qing1 xi1 。
+
+- yue4 ke4 chu1 tou2 fen1 ， nan2 zhi1 de2 ji4 qi1 。
+
+- chan2 ji1 kong1 ji4 mo4 ， ya3 qu4 lai4 zhao1 xie2 。
+
+- ben3 si4 zhong4 jiang1 wai4 ， you2 fang1 er4 shi4 xi1 。
+
+- pei2 hui2 lian4 zhi1 ji3 ， ri4 xi1 cao3 qi1 qi1 。
+
+## 译文
+
+别墅军城下，熟悉喧哗不能齐。春深花蝴蝶梦，晓隔柳烟刀鞘.韶景浮冷水，疏杨映绿堤。沿周围看竹色，来去听莺啼。久慢持生方法，很多父母种药畦。家贫知道平时的行为，心苦见清溪。越客初投分，南枝能寄宿在。禅机空寂寞，雅趣依赖招待。本寺重江南，在方二室西。徘徊留恋知己，一天晚上草萋萋。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+别墅军城下，熟悉喧哗不能齐。春深花蝴蝶梦，晓隔柳烟刀鞘.韶景浮冷水，疏杨映绿堤。沿周围看竹色，来去听莺啼。久慢持生方法，很多父母种药畦。家贫知道平时的行为，心苦见清溪。越客初投分，南枝能寄宿在。禅机空寂寞，雅趣依赖招待。本寺重江南，在方二室西。徘徊留恋知己，一天晚上草萋萋。
+	* 此部分翻译来自AI，仅供参考

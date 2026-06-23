@@ -1,0 +1,45 @@
+---
+id: qiang-zhi-qiu-ri-yong-lou-gan-huai-er-shou-yao-luo-qiu-min-yi-wang-chang
+title: 秋日咏楼感怀二首
+author: 强至
+authorSlug: qiang-zhi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: qiu1 ri4 yong3 lou2 gan3 huai2 er4 shou3
+authorPinyin: qiang2 zhi4
+dynastyPinyin: song4
+canonicalPoemId: 594793
+canonicalAuthorId: 5337
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 摇落秋旻一望长，浮空颢气白如霜。
+
+- 楼头待月郡城晚，水底有天江国凉。
+
+- 却恨人生如寄客，未容年少即衰郎。
+
+- 除非烂醉酬清景，莫惜千金换斗浆。
+
+## 拼音
+
+- yao2 luo4 qiu1 min2 yi2 wang4 chang2 ， fu2 kong1 hao4 qi4 bai2 ru2 shuang1 。
+
+- lou2 tou2 dai4 yue4 jun4 cheng2 wan3 ， shui3 di3 you3 tian1 jiang1 guo2 liang2 。
+
+- que4 hen4 ren2 sheng1 ru2 ji4 ke4 ， wei4 rong2 nian2 shao4 ji2 shuai1 lang2 。
+
+- chu2 fei1 lan4 zui4 chou2 qing1 jing3 ， mo4 xi1 qian1 jin1 huan4 dou4 jiang1 。
+
+## 译文
+
+摇落秋曼一望长，浮在空中大气白如霜。楼上待月郡城晚，水底有天江国凉。却恨人生如寄客，没容年轻就衰郎。除非烂醉酬清景，不吝惜千金换斗米。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+摇落秋曼一望长，浮在空中大气白如霜。楼上待月郡城晚，水底有天江国凉。却恨人生如寄客，没容年轻就衰郎。除非烂醉酬清景，不吝惜千金换斗米。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,45 @@
+---
+id: qin-guan-song-liu-cheng-yi-jie-zhi-gui-yang-zheng-ma-xiao-xiao-liu-wai-ming
+title: 送刘承议解职归养
+author: 秦观
+authorSlug: qin-guan
+dynasty: 宋
+dynastySlug: song
+titlePinyin: song4 liu2 cheng2 yi4 jie3 zhi2 gui1 yang3
+authorPinyin: qin2 guan1
+dynastyPinyin: song4
+canonicalPoemId: 579361
+canonicalAuthorId: 5047
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 征马萧萧柳外鸣，议廊归养洛阳城。
+
+- 登山尚记飞云处，罢吏端如弃唾轻。
+
+- 为米折腰知我拙，下车入里见君荣。
+
+- 堂前嵩少宜秋色，献寿还应旋制声。
+
+## 拼音
+
+- zheng1 ma3 xiao1 xiao1 liu3 wai4 ming2 ， yi4 lang2 gui1 yang3 luo4 yang2 cheng2 。
+
+- deng1 shan1 shang4 ji4 fei1 yun2 chu4 ， ba4 li4 duan1 ru2 qi4 tuo4 qing1 。
+
+- wei4 mi3 zhe2 yao1 zhi1 wo3 zhuo1 ， xia4 che1 ru4 li3 jian4 jun1 rong2 。
+
+- tang2 qian2 song1 shao3 yi2 qiu1 se4 ， xian4 shou4 hai2 ying4 xuan2 zhi4 sheng1 。
+
+## 译文
+
+征马萧萧柳外响，建议走廊回去养洛阳城。登山还记得飞说处，废罢吏端和被唾弃轻视。为米折腰知道我笨拙，下车进入里见到你荣耀。堂前嵩山应该秋色，还应献寿旋转控制声音。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+征马萧萧柳外响，建议走廊回去养洛阳城。登山还记得飞说处，废罢吏端和被唾弃轻视。为米折腰知道我笨拙，下车进入里见到你荣耀。堂前嵩山应该秋色，还应献寿旋转控制声音。
+	* 此部分翻译来自AI，仅供参考

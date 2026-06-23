@@ -1,0 +1,77 @@
+---
+id: qiang-zhi-ye-yuan-yi-zhi-xiao-song-ping-sheng-sui-han-xin
+title: 野园移植小松
+author: 强至
+authorSlug: qiang-zhi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ye3 yuan2 yi2 zhi2 xiao3 song1
+authorPinyin: qiang2 zhi4
+dynastyPinyin: song4
+canonicalPoemId: 595794
+canonicalAuthorId: 5337
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 平生岁寒心，颇好岁寒色。
+
+- 一松如人长，惨淡穷山侧。
+
+- 樵儿日过之，有意斧斤得。
+
+- 予心异尔意，野圃为移植。
+
+- 醉听疏声眠，吟到细阴息。
+
+- 落落岩涧姿，相对永朝夕。
+
+- 如言千载后，其长可千尺。
+
+- 人生虽百年，相期眇无极。
+
+- 且结无情游，汝固予何易。
+
+- 岂待百年外，人松两殊迹。
+
+- 人为松下土，松化土上石。
+
+- 我生始逾壮，足以伴寒碧。
+
+## 拼音
+
+- ping2 sheng1 sui4 han2 xin1 ， po1 hao3 sui4 han2 se4 。
+
+- yi4 song1 ru2 ren2 chang2 ， can3 dan4 qiong2 shan1 ce4 。
+
+- qiao2 er2 ri4 guo4 zhi1 ， you3 yi4 fu3 jin1 de2 。
+
+- yu3 xin1 yi4 er3 yi4 ， ye3 pu3 wei4 yi2 zhi2 。
+
+- zui4 ting1 shu1 sheng1 mian2 ， yin2 dao4 xi4 yin1 xi1 。
+
+- luo4 luo4 yan2 jian4 zi1 ， xiang1 dui4 yong3 zhao1 xi1 。
+
+- ru2 yan2 qian1 zai3 hou4 ， qi2 chang2 ke3 qian1 chi3 。
+
+- ren2 sheng1 sui1 bai3 nian2 ， xiang1 qi1 miao3 wu2 ji2 。
+
+- qie3 jie2 wu2 qing2 you2 ， ru3 gu4 yu3 he2 yi4 。
+
+- qi3 dai4 bai3 nian2 wai4 ， ren2 song1 liang3 shu1 ji4 。
+
+- ren2 wei2 song1 xia4 tu3 ， song1 hua4 tu3 shang4 shi2 。
+
+- wo3 sheng1 shi3 yu2 zhuang4 ， zu2 yi3 ban4 han2 bi4 。
+
+## 译文
+
+平生岁寒心，很喜欢冬天颜色。一松比人长，暗淡穷山侧。我儿每天过的，有意用斧头砍得。我心与你的意见，野园为移植。醉听疏声入睡，吟唱到细阴息。落落岩涧姿态，相对长久朝夕。如说千年后，它长约一千尺。人生虽然百年，相期高于无极。并且结无情游，你是我为什么容易。岂待百年外，人松两不同轨迹。人为松树下土，松化土地上的石头。我出生才越壮，足以伴寒碧。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+平生岁寒心，很喜欢冬天颜色。一松比人长，暗淡穷山侧。我儿每天过的，有意用斧头砍得。我心与你的意见，野园为移植。醉听疏声入睡，吟唱到细阴息。落落岩涧姿态，相对长久朝夕。如说千年后，它长约一千尺。人生虽然百年，相期高于无极。并且结无情游，你是我为什么容易。岂待百年外，人松两不同轨迹。人为松树下土，松化土地上的石头。我出生才越壮，足以伴寒碧。
+	* 此部分翻译来自AI，仅供参考

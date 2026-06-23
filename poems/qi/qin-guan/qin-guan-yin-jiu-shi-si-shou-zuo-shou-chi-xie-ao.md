@@ -1,0 +1,45 @@
+---
+id: qin-guan-yin-jiu-shi-si-shou-zuo-shou-chi-xie-ao
+title: 饮酒诗四首
+author: 秦观
+authorSlug: qin-guan
+dynasty: 宋
+dynastySlug: song
+titlePinyin: yin3 jiu3 shi1 si4 shou3
+authorPinyin: qin2 guan1
+dynastyPinyin: song4
+canonicalPoemId: 392637
+canonicalAuthorId: 5047
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 左手持蟹螯，举觞属云汉。
+
+- 天生此神物，为我洗忧患。
+
+- 山川同恍忽，鱼鸟共萧散。
+
+- 客至壸自倾，欲去不容间。
+
+## 拼音
+
+- zuo3 shou3 chi2 xie4 ao2 ， ju3 shang1 shu3 yun2 han4 。
+
+- tian1 sheng1 ci3 shen2 wu4 ， wei4 wo3 xi3 you1 huan4 。
+
+- shan1 chuan1 tong2 huang3 hu1 ， yu2 niao3 gong4 xiao1 san4 。
+
+- ke4 zhi4 kun3 zi4 qing1 ， yu4 qu4 bu4 rong2 jian1 。
+
+## 译文
+
+左手拿着蟹，举杯向天河。天生这样神奇的东西，为我洗忧患。山川相同精神恍惚，鱼鸟一同萧散。客人到壸自倾，想去不宽容之间。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+左手拿着蟹，举杯向天河。天生这样神奇的东西，为我洗忧患。山川相同精神恍惚，鱼鸟一同萧散。客人到壸自倾，想去不宽容之间。
+	* 此部分翻译来自AI，仅供参考

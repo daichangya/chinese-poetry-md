@@ -1,0 +1,81 @@
+---
+id: qin-guan-ci-xiao-ling-cai-lian-shi-yue
+title: 词笑令（⑧采莲）
+author: 秦观
+authorSlug: qin-guan
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ci2 xiao4 ling4 （ ⑧ cai3 lian2 ）
+authorPinyin: qin2 guan1
+dynastyPinyin: song4
+canonicalPoemId: 527286
+canonicalAuthorId: 5047
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 诗曰：若耶溪边天气秋。
+
+- 采莲女儿溪岸头。
+
+- 笑隔荷花共人语，烟波渺渺荡轻舟。
+
+- 数声水调红娇晚。
+
+- 棹转舟回笑人远。
+
+- 肠断谁家游冶郎，尽日踟蹰临柳岸。
+
+- 柳岸。
+
+- 水清浅。
+
+- 笑折荷花呼女伴。
+
+- 盈盈日照新妆面。
+
+- 水调空传幽怨。
+
+- 扁舟日暮笑声远。
+
+- 对此令人肠断。
+
+## 拼音
+
+- shi1 yue1 ： ruo4 ye1 xi1 bian1 tian1 qi4 qiu1 。
+
+- cai3 lian2 nü3 er2 xi1 an4 tou2 。
+
+- xiao4 ge2 he2 hua1 gong4 ren2 yu3 ， yan1 bo1 miao3 miao3 dang4 qing1 zhou1 。
+
+- shu4 sheng1 shui3 tiao2 hong2 jiao1 wan3 。
+
+- zhao4 zhuan3 zhou1 hui2 xiao4 ren2 yuan3 。
+
+- chang2 duan4 shui2 jia1 you2 ye3 lang2 ， jin4 ri4 chi2 chu2 lin2 liu3 an4 。
+
+- liu3 an4 。
+
+- shui3 qing1 qian3 。
+
+- xiao4 zhe2 he2 hua1 hu1 nü3 ban4 。
+
+- ying2 ying2 ri4 zhao4 xin1 zhuang1 mian4 。
+
+- shui3 tiao2 kong1 chuan2 you1 yuan4 。
+
+- pian1 zhou1 ri4 mu4 xiao4 sheng1 yuan3 。
+
+- dui4 ci3 ling4 ren2 chang2 duan4 。
+
+## 译文
+
+《诗》说：若耶溪边天气秋天。采莲女儿溪岸头。笑隔荷花和别人交谈，烟碧波浩渺荡轻舟。几声水调红娇晚。划着船回笑转人远。肠断谁家游冶郎，天天徘徊在柳岸。柳岸。水清浅。笑着打断荷花招呼女伴。盈盈日照新妆脸。水调空传幽怨。小船天黑笑声远。回答这个让人断肠。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+《诗》说：若耶溪边天气秋天。采莲女儿溪岸头。笑隔荷花和别人交谈，烟碧波浩渺荡轻舟。几声水调红娇晚。划着船回笑转人远。肠断谁家游冶郎，天天徘徊在柳岸。柳岸。水清浅。笑着打断荷花招呼女伴。盈盈日照新妆脸。水调空传幽怨。小船天黑笑声远。回答这个让人断肠。
+	* 此部分翻译来自AI，仅供参考

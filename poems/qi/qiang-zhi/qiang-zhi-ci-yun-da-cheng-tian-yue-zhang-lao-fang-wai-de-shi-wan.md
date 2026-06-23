@@ -1,0 +1,45 @@
+---
+id: qiang-zhi-ci-yun-da-cheng-tian-yue-zhang-lao-fang-wai-de-shi-wan
+title: 次韵答承天月长老
+author: 强至
+authorSlug: qiang-zhi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ci4 yun4 da2 cheng2 tian1 yue4 zhang3 lao3
+authorPinyin: qiang2 zhi4
+dynastyPinyin: song4
+canonicalPoemId: 595910
+canonicalAuthorId: 5337
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 方外得师晚，相逢出古心。
+
+- 交成真合水，意在始知琴。
+
+- 宦路尘泥久，禅扃岁月深。
+
+- 清风贻绝唱，一诵快烦襟。
+
+## 拼音
+
+- fang1 wai4 de2 shi1 wan3 ， xiang1 feng2 chu1 gu3 xin1 。
+
+- jiao1 cheng2 zhen1 he2 shui3 ， yi4 zai4 shi3 zhi1 qin2 。
+
+- huan4 lu4 chen2 ni2 jiu3 ， chan2 jiong1 sui4 yue4 shen1 。
+
+- qing1 feng1 yi2 jue2 chang4 ， yi2 song4 kuai4 fan2 jin1 。
+
+## 译文
+
+国外得老师晚上，相逢在古代心。交成真正符合水，意在才知道琴。宦路尘泥很久，在关闭时间深。清风送绝唱，一读快烦襟。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+国外得老师晚上，相逢在古代心。交成真正符合水，意在才知道琴。宦路尘泥很久，在关闭时间深。清风送绝唱，一读快烦襟。
+	* 此部分翻译来自AI，仅供参考
