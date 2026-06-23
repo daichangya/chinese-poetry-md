@@ -1,0 +1,35 @@
+---
+id: hu-quan-quan-fu-yong-qian-yun-fang-zhu-gui-lai-hu-yi-peng
+title: 复用前韵
+author: 胡铨
+authorSlug: hu-quan-quan
+dynasty: 宋
+dynastySlug: song
+titlePinyin: fu4 yong4 qian2 yun4
+authorPinyin: hu2 quan2
+dynastyPinyin: song4
+canonicalPoemId: 497522
+canonicalAuthorId: 11607
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 放逐归来户已篷，梦魂时到浙江东。
+
+- 心如止水偏陶月，身似虚舟但逐风。
+
+- 云路自怜飞鸟倦，山盟谁与白鸥同。
+
+- 管城本乏封侯骨，人道中书却不中。
+
+## 拼音
+
+- fang4 zhu2 gui1 lai2 hu4 yi3 peng2 ， meng4 hun2 shi2 dao4 zhe4 jiang1 dong1 。
+
+- xin1 ru2 zhi3 shui3 pian1 tao2 yue4 ， shen1 si4 xu1 zhou1 dan4 zhu2 feng1 。
+
+- yun2 lu4 zi4 lian2 fei1 niao3 juan4 ， shan1 meng2 shui2 yu3 bai2 ou1 tong2 。
+
+- guan3 cheng2 ben3 fa2 feng1 hou2 gu3 ， ren2 dao4 zhong1 shu1 que4 bu4 zhong1 。

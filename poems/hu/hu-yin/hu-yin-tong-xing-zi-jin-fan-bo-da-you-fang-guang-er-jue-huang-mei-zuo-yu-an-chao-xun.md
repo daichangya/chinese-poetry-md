@@ -1,0 +1,37 @@
+---
+id: hu-yin-tong-xing-zi-jin-fan-bo-da-you-fang-guang-er-jue-huang-mei-zuo-yu-an-chao-xun
+title: 同邢子晋范伯达游方广二绝
+author: 胡寅
+authorSlug: hu-yin
+dynasty: 宋
+dynastySlug: song
+titlePinyin: tong2 xing2 zi3 jin4 fan4 bo2 da2 you2 fang1 guang3 er4 jue2
+authorPinyin: hu2 yin2
+dynastyPinyin: song4
+canonicalPoemId: 611029
+canonicalAuthorId: 6292
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 黄梅作雨暗朝曛，山北山南路不分。
+
+- 知我与君非俗驾，晓天收尽五峰云。
+
+## 拼音
+
+- huang2 mei2 zuo4 yu3 an4 chao2 xun1 ， shan1 bei3 shan1 nan2 lu4 bu4 fen1 。
+
+- zhi1 wo3 yu3 jun1 fei1 su2 jia4 ， xiao3 tian1 shou1 jin4 wu3 feng1 yun2 。
+
+## 译文
+
+黄梅作下黑暗朝曛，山北山南路不分。知道我与你不习惯驾驶，知道天收集到五峰说。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+黄梅作下黑暗朝曛，山北山南路不分。知道我与你不习惯驾驶，知道天收集到五峰说。
+	* 此部分翻译来自AI，仅供参考

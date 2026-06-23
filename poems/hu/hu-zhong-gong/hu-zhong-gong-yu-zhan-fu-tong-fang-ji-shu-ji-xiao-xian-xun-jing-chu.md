@@ -1,0 +1,45 @@
+---
+id: hu-zhong-gong-yu-zhan-fu-tong-fang-ji-shu-ji-xiao-xian-xun-jing-chu
+title: 与瞻甫同访际书记
+author: 胡仲弓
+authorSlug: hu-zhong-gong
+dynasty: 宋
+dynastySlug: song
+titlePinyin: yu3 zhan1 fu3 tong2 fang3 ji4 shu1 ji4
+authorPinyin: hu2 zhong4 gong1
+dynastyPinyin: song4
+canonicalPoemId: 567253
+canonicalAuthorId: 4783
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 销闲寻静处，古寺与居同。
+
+- 坐语僧窗日，行吟塔树风。
+
+- 香随檐卜化，句到葛藤空。
+
+- 未必西来者，能知一苇功。
+
+## 拼音
+
+- xiao1 xian2 xun2 jing4 chu4 ， gu3 si4 yu3 ju1 tong2 。
+
+- zuo4 yu3 seng1 chuang1 ri4 ， xing2 yin2 ta3 shu4 feng1 。
+
+- xiang1 sui2 yan2 bu3 hua4 ， ju4 dao4 ge2 teng2 kong1 。
+
+- wei4 bi4 xi1 lai2 zhe3 ， neng2 zhi1 yi4 wei3 gong1 。
+
+## 译文
+
+销之间寻找安静的地方，古代寺庙和在一起。交谈僧窗日，行吟塔树风。香顺着屋檐卜化，句到葛藤空。未必西来的，能知道一苇功。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+销之间寻找安静的地方，古代寺庙和在一起。交谈僧窗日，行吟塔树风。香顺着屋檐卜化，句到葛藤空。未必西来的，能知道一苇功。
+	* 此部分翻译来自AI，仅供参考

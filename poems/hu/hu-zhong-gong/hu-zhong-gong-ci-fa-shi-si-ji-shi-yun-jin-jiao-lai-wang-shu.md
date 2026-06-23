@@ -1,0 +1,45 @@
+---
+id: hu-zhong-gong-ci-fa-shi-si-ji-shi-yun-jin-jiao-lai-wang-shu
+title: 次法石寺即事韵
+author: 胡仲弓
+authorSlug: hu-zhong-gong
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ci4 fa3 shi2 si4 ji2 shi4 yun4
+authorPinyin: hu2 zhong4 gong1
+dynastyPinyin: song4
+canonicalPoemId: 566929
+canonicalAuthorId: 4783
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 近郊来往熟，驯犬向人迎。
+
+- 半是吟将老，何时隐得成。
+
+- 月明山景合，潮落海痕生。
+
+- 归路霜钟外，微闻三数声。
+
+## 拼音
+
+- jin4 jiao1 lai2 wang3 shu2 ， xun4 quan3 xiang4 ren2 ying2 。
+
+- ban4 shi4 yin2 jiang1 lao3 ， he2 shi2 yin3 de2 cheng2 。
+
+- yue4 ming2 shan1 jing3 he2 ， chao2 luo4 hai3 hen2 sheng1 。
+
+- gui1 lu4 shuang1 zhong1 wai4 ， wei1 wen2 san1 shu4 sheng1 。
+
+## 译文
+
+近郊来往成熟，驯犬向人迎接。半是吟将老，什么时候能完成隐藏。月明山景合，潮落海痕产生。归路霜钟外，隐隐听到几声。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+近郊来往成熟，驯犬向人迎接。半是吟将老，什么时候能完成隐藏。月明山景合，潮落海痕产生。归路霜钟外，隐隐听到几声。
+	* 此部分翻译来自AI，仅供参考
