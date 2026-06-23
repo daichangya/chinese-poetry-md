@@ -1,0 +1,35 @@
+---
+id: shi-yuan-zhao-ji-yu-shi-wang-shao-qing-chao-yang-you-ming-feng
+title: 寄御史王少卿
+author: 释元肇
+authorSlug: shi-yuan-zhao
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ji4 yu4 shi3 wang2 shao3 qing1
+authorPinyin: shi4 yuan2 zhao4
+dynastyPinyin: song4
+canonicalPoemId: 332313
+canonicalAuthorId: 13994
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 朝阳有鸣凤，天下喜初闻。
+
+- 去棹轻如叶，闲心淡似云。
+
+- 杯羹留奉母，一饭不忘君。
+
+- 千古濠梁水，流清涤世氛。
+
+## 拼音
+
+- chao2 yang2 you3 ming2 feng4 ， tian1 xia4 xi3 chu1 wen2 。
+
+- qu4 zhao4 qing1 ru2 ye4 ， xian2 xin1 dan4 si4 yun2 。
+
+- bei1 geng1 liu2 feng4 mu3 ， yi2 fan4 bu2 wang4 jun1 。
+
+- qian1 gu3 hao2 liang2 shui3 ， liu2 qing1 di2 shi4 fen1 。

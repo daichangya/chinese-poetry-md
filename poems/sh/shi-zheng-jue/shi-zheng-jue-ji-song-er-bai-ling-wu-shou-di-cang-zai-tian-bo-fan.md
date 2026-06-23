@@ -1,0 +1,41 @@
+---
+id: shi-zheng-jue-ji-song-er-bai-ling-wu-shou-di-cang-zai-tian-bo-fan
+title: 偈颂二百零五首
+author: 释正觉
+authorSlug: shi-zheng-jue
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ji4 song4 er4 bai3 ling2 wu3 shou3
+authorPinyin: shi4 zheng4 jue2
+dynastyPinyin: song4
+canonicalPoemId: 624313
+canonicalAuthorId: 6813
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 地藏栽田博饭，南泉买镰割禾。
+
+- 六祖负舂明历历，金牛棒钵笑呵呵。
+
+- 古人得恁饱参煞，尔辈莫嫌辛苦多。
+
+## 拼音
+
+- di4 cang2 zai1 tian2 bo2 fan4 ， nan2 quan2 mai3 lian2 ge1 he2 。
+
+- liu4 zu3 fu4 chong1 ming2 li4 li4 ， jin1 niu2 bang4 bo1 xiao4 he1 he1 。
+
+- gu3 ren2 de2 nen4 bao3 can1 sha4 ， er3 bei4 mo4 xian2 xin1 ku3 duo1 。
+
+## 译文
+
+地藏栽田博饭，南泉买镰刀割禾。六祖父背着春明清晰，金牛棒钵笑呵呵。古人这么饱参煞，你们没有人嫌辛苦多。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+地藏栽田博饭，南泉买镰刀割禾。六祖父背着春明清晰，金牛棒钵笑呵呵。古人这么饱参煞，你们没有人嫌辛苦多。
+	* 此部分翻译来自AI，仅供参考

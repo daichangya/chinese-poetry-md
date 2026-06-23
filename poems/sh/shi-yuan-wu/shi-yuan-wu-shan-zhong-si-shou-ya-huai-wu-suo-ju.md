@@ -1,0 +1,45 @@
+---
+id: shi-yuan-wu-shan-zhong-si-shou-ya-huai-wu-suo-ju
+title: 山中四首
+author: 释圆悟
+authorSlug: shi-yuan-wu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: shan1 zhong1 si4 shou3
+authorPinyin: shi4 yuan2 wu4
+dynastyPinyin: song4
+canonicalPoemId: 649380
+canonicalAuthorId: 11020
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 雅怀无所拘，偶行度前岗。
+
+- 长松发佳色，澄潭閟幽光。
+
+- 而我亦何幸，于此得相羊。
+
+- 低头心语口，兹游那可忘。
+
+## 拼音
+
+- ya3 huai2 wu2 suo3 ju1 ， ou3 xing2 du4 qian2 gang3 。
+
+- chang2 song1 fa1 jia1 se4 ， cheng2 tan2 bi4 you1 guang1 。
+
+- er2 wo3 yi4 he2 xing4 ， yu2 ci3 de2 xiang1 yang2 。
+
+- di1 tou2 xin1 yu3 kou3 ， zi1 you2 na4 ke3 wang4 。
+
+## 译文
+
+高雅的情怀无所拘束，偶尔运行前岗。长松发好颜色，元澄潭幽深黑暗光。而我也多么幸运，在这里可以相互羊。低头心话口，现在在那可以忘记。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+高雅的情怀无所拘束，偶尔运行前岗。长松发好颜色，元澄潭幽深黑暗光。而我也多么幸运，在这里可以相互羊。低头心话口，现在在那可以忘记。
+	* 此部分翻译来自AI，仅供参考

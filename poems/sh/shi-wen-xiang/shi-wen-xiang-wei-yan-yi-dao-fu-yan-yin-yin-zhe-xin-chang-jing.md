@@ -1,0 +1,49 @@
+---
+id: shi-wen-xiang-wei-yan-yi-dao-fu-yan-yin-yin-zhe-xin-chang-jing
+title: 为言以道赋岩隐
+author: 释文珦
+authorSlug: shi-wen-xiang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: wei4 yan2 yi3 dao4 fu4 yan2 yin3
+authorPinyin: shi4 wen2 xiang4
+dynastyPinyin: song4
+canonicalPoemId: 621462
+canonicalAuthorId: 6647
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 隐者心常静，山林迹易安。
+
+- 几年灵运屐。
+
+- 九转葛玄丹。
+
+- 石圃菁苗在，崖房桂影寒。
+
+- 岂知尘世窄，万事杂悲欢。
+
+## 拼音
+
+- yin3 zhe3 xin1 chang2 jing4 ， shan1 lin2 ji4 yi4 an1 。
+
+- ji3 nian2 ling2 yun4 ji1 。
+
+- jiu3 zhuan3 ge3 xuan2 dan1 。
+
+- shi2 pu3 jing1 miao2 zai4 ， ya2 fang2 gui4 ying3 han2 。
+
+- qi3 zhi1 chen2 shi4 zhai3 ， wan4 shi4 za2 bei1 huan1 。
+
+## 译文
+
+隐藏的心常静，山林迹易安。几年灵运鞋。九转玄丹葛。石圃菁苗在，崖房桂树影寒。哪里知道人世间窄，万事各种悲伤欢乐。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+隐藏的心常静，山林迹易安。几年灵运鞋。九转玄丹葛。石圃菁苗在，崖房桂树影寒。哪里知道人世间窄，万事各种悲伤欢乐。
+	* 此部分翻译来自AI，仅供参考

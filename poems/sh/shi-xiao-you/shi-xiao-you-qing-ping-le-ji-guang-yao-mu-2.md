@@ -1,0 +1,57 @@
+---
+id: shi-xiao-you-qing-ping-le-ji-guang-yao-mu-2
+title: 清平乐
+author: 石孝友
+authorSlug: shi-xiao-you
+dynasty: 宋
+dynastySlug: song
+titlePinyin: qing1 ping2 le4
+authorPinyin: shi2 xiao4 you3
+dynastyPinyin: song4
+canonicalPoemId: 529257
+canonicalAuthorId: 12261
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 霁光摇目。
+
+- 春入郊原绿。
+
+- 残雪压枝堆烂玉。
+
+- 时闻枝间蔌蔌。
+
+- 瘦藤细履平沙。
+
+- 醉中一任＿斜。
+
+- 落日数声啼乌，香风满路梅花。
+
+## 拼音
+
+- ji4 guang1 yao2 mu4 。
+
+- chun1 ru4 jiao1 yuan2 lü4 。
+
+- can2 xue3 ya1 zhi1 dui1 lan4 yu4 。
+
+- shi2 wen2 zhi1 jian1 su4 su4 。
+
+- shou4 teng2 xi4 lü3 ping2 sha1 。
+
+- zui4 zhong1 yi2 ren4 ＿ xie2 。
+
+- luo4 ri4 shu4 sheng1 ti2 wu1 ， xiang1 feng1 man3 lu4 mei2 hua1 。
+
+## 译文
+
+晴光摇目。春进城郊原绿。残雪压枝堆烂玉。时听到树枝间蔬菜蔬菜。瘦藤鞋平沙细。醉中一任＿斜。落日几声啼鸟，香风满路梅花。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+晴光摇目。春进城郊原绿。残雪压枝堆烂玉。时听到树枝间蔬菜蔬菜。瘦藤鞋平沙细。醉中一任＿斜。落日几声啼鸟，香风满路梅花。
+	* 此部分翻译来自AI，仅供参考
