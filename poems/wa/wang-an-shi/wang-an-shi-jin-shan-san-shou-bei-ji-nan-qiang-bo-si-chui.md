@@ -1,0 +1,37 @@
+---
+id: wang-an-shi-jin-shan-san-shou-bei-ji-nan-qiang-bo-si-chui
+title: 金山三首
+author: 王安石
+authorSlug: wang-an-shi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: jin1 shan1 san1 shou3
+authorPinyin: wang2 an1 shi2
+dynastyPinyin: song4
+canonicalPoemId: 385354
+canonicalAuthorId: 4847
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 北檝南樯泊四垂，共怜金碧烂参差。
+
+- 孤根万丈沧波底，除却蛟龙世不知。
+
+## 拼音
+
+- bei3 ji2 nan2 qiang2 bo2 si4 chui2 ， gong4 lian2 jin1 bi4 lan4 cen1 ci1 。
+
+- gu1 gen1 wan4 zhang4 cang1 bo1 di3 ， chu2 que4 jiao1 long2 shi4 bu4 zhi1 。
+
+## 译文
+
+北揖南桅杆停泊四垂，共可怜金碧辉煌灿烂参差不齐。孤根万丈沧波底，除了蛟龙一般不知道。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+北揖南桅杆停泊四垂，共可怜金碧辉煌灿烂参差不齐。孤根万丈沧波底，除了蛟龙一般不知道。
+	* 此部分翻译来自AI，仅供参考

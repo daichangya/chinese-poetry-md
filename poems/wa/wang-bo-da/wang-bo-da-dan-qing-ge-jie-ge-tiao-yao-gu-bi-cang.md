@@ -1,0 +1,45 @@
+---
+id: wang-bo-da-dan-qing-ge-jie-ge-tiao-yao-gu-bi-cang
+title: 丹青阁
+author: 王伯大
+authorSlug: wang-bo-da
+dynasty: 宋
+dynastySlug: song
+titlePinyin: dan1 qing1 ge2
+authorPinyin: wang2 bo2 da4
+dynastyPinyin: song4
+canonicalPoemId: 499684
+canonicalAuthorId: 11416
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 杰阁岧峣估碧苍，菊花时节此持觞。
+
+- 市声一段隔秋水，桥影半空横夕阳。
+
+- 挺挺霜筠排壑立，涓涓石溜引山长。
+
+- 人言绝顶多奇观，安得闲身宿上方。
+
+## 拼音
+
+- jie2 ge2 tiao2 yao2 gu1 bi4 cang1 ， ju2 hua1 shi2 jie2 ci3 chi2 shang1 。
+
+- shi4 sheng1 yi2 duan4 ge2 qiu1 shui3 ， qiao2 ying3 ban4 kong1 heng2 xi1 yang2 。
+
+- ting3 ting3 shuang1 yun2 pai2 he4 li4 ， juan1 juan1 shi2 liu1 yin3 shan1 chang2 。
+
+- ren2 yan2 jue2 ding3 duo1 qi2 guan1 ， an1 de2 xian2 shen1 su4 shang4 fang1 。
+
+## 译文
+
+杰阁向高峻估碧苍，菊花时节这样持杯。市声一段隔秋水，桥影半空中横夕阳。挺挺霜筠排沟站，涓涓细流石涧引山长。人说绝顶多奇观，怎么能闲身在上方。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+杰阁向高峻估碧苍，菊花时节这样持杯。市声一段隔秋水，桥影半空中横夕阳。挺挺霜筠排沟站，涓涓细流石涧引山长。人说绝顶多奇观，怎么能闲身在上方。
+	* 此部分翻译来自AI，仅供参考

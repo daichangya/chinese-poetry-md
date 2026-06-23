@@ -1,0 +1,57 @@
+---
+id: wang-bin-die-lian-hua-song-chun-yi-shang-wu-shou-xin-an-wen-xian-zhi-juan-liu-shi-fbe9210c
+title: 蝶恋花 送春 以上五首新安文献志卷六十
+author: 汪斌
+authorSlug: wang-bin
+dynasty: 元
+dynastySlug: yuan
+titlePinyin: die2 lian4 hua1   song4 chun1   yi3 shang4 wu3 shou3 xin1 an1 wen2 xian4 zhi4 juan4 liu4 shi2
+authorPinyin: wang1 bin1
+dynastyPinyin: yuan2
+canonicalPoemId: 626165
+canonicalAuthorId: 6972
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 蝶懒莺慵芳草歇。
+
+- 绿暗红稀，柳絮飘晴雪。
+
+- 有意送春还惜别。
+
+- 杜鹃争奈催归切。
+
+- 绣阁无人帘半揭。
+
+- 暗忆边城，十载音书绝。
+
+- 惟有东风无异说。
+
+## 拼音
+
+- die2 lan3 ying1 yong1 fang1 cao3 xie1 。
+
+- lü4 an4 hong2 xi1 ， liu3 xu4 piao1 qing2 xue3 。
+
+- you3 yi4 song4 chun1 hai2 xi1 bie2 。
+
+- du4 juan1 zheng1 nai4 cui1 gui1 qie4 。
+
+- xiu4 ge2 wu2 ren2 lian2 ban4 jie1 。
+
+- an4 yi4 bian1 cheng2 ， shi2 zai3 yin1 shu1 jue2 。
+
+- wei2 you3 dong1 feng1 wu2 yi4 shuo1 。
+
+## 译文
+
+蝴蝶懒莺慵芳草歇。绿暗红稀，柳絮飘晴雪。有意把春天返回珍惜别。杜鹃无奈催回切。闺阁无人帘半揭。暗想起边城，十年音书绝。只有东风没有不同的说法。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+蝴蝶懒莺慵芳草歇。绿暗红稀，柳絮飘晴雪。有意把春天返回珍惜别。杜鹃无奈催回切。闺阁无人帘半揭。暗想起边城，十年音书绝。只有东风没有不同的说法。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,37 @@
+---
+id: wang-an-shi-bing-xu-wu-ri-jing-shi-zuo-er-shou-bei-feng-ge-yu-qu-bu-xia
+title: 丙戌五日京师作二首
+author: 王安石
+authorSlug: wang-an-shi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: bing3 xu1 wu3 ri4 jing1 shi1 zuo4 er4 shou3
+authorPinyin: wang2 an1 shi2
+dynastyPinyin: song4
+canonicalPoemId: 572867
+canonicalAuthorId: 4847
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 北风阁雨去不下，惊沙苍茫乱昏晓。
+
+- 传闻城外八九里，雹大如拳死飞鸟。
+
+## 拼音
+
+- bei3 feng1 ge2 yu3 qu4 bu2 xia4 ， jing1 sha1 cang1 mang2 luan4 hun1 xiao3 。
+
+- chuan2 wen2 cheng2 wai4 ba1 jiu3 li3 ， bao2 da4 ru2 quan2 si3 fei1 niao3 。
+
+## 译文
+
+北风阁下了不下，惊沙苍茫乱昏晓。传到城外八九里，冰雹大如拳死鸟。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+北风阁下了不下，惊沙苍茫乱昏晓。传到城外八九里，冰雹大如拳死鸟。
+	* 此部分翻译来自AI，仅供参考

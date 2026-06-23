@@ -1,0 +1,37 @@
+---
+id: wang-an-shi-guo-liu-quan-mei-suo-ju-xi-yan-qing-tian-de-qiang-fu
+title: 过刘全美所居
+author: 王安石
+authorSlug: wang-an-shi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: guo4 liu2 quan2 mei3 suo3 ju1
+authorPinyin: wang2 an1 shi2
+dynastyPinyin: song4
+canonicalPoemId: 385467
+canonicalAuthorId: 4847
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 西崦晴天得强扶，出林知有故人居。
+
+- 数能过我论奇字，当复令公见异书。
+
+## 拼音
+
+- xi1 yan1 qing2 tian1 de2 qiang2 fu2 ， chu1 lin2 zhi1 you3 gu4 ren2 ju1 。
+
+- shu4 neng2 guo4 wo3 lun4 qi2 zi4 ， dang1 fu4 ling4 gong1 jian4 yi4 shu1 。
+
+## 译文
+
+西崦晴天得到强扶，从林知道有朋友在。数不能超过我论奇字，应当再让你看见异书。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+西崦晴天得到强扶，从林知道有朋友在。数不能超过我论奇字，应当再让你看见异书。
+	* 此部分翻译来自AI，仅供参考

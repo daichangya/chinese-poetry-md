@@ -1,0 +1,45 @@
+---
+id: wang-an-shi-huai-gu-er-shou-qi-yi-ri-mi-wei-qian-jing
+title: 怀古二首 其一
+author: 王安石
+authorSlug: wang-an-shi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: huai2 gu3 er4 shou3   qi2 yi1
+authorPinyin: wang2 an1 shi2
+dynastyPinyin: song4
+canonicalPoemId: 384944
+canonicalAuthorId: 4847
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 日密畏前境，渊明欣故园。
+
+- 那知饭不赐，所喜菊犹存。
+
+- 亦有床座好，但无车马喧。
+
+- 谁为吾侍者，稚子候柴门。
+
+## 拼音
+
+- ri4 mi4 wei4 qian2 jing4 ， yuan1 ming2 xin1 gu4 yuan2 。
+
+- na4 zhi1 fan4 bu2 ci4 ， suo3 xi3 ju2 you2 cun2 。
+
+- yi4 you3 chuang2 zuo4 hao3 ， dan4 wu2 che1 ma3 xuan1 。
+
+- shui2 wei4 wu2 shi4 zhe3 ， zhi4 zi3 hou4 chai2 men2 。
+
+## 译文
+
+天秘密害怕前境，渊明欣故园。那知道吃饭不给，我喜欢菊花仍然存在。也有座位好，但无车马喧。谁是我们的侍者，稚子候柴门。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+天秘密害怕前境，渊明欣故园。那知道吃饭不给，我喜欢菊花仍然存在。也有座位好，但无车马喧。谁是我们的侍者，稚子候柴门。
+	* 此部分翻译来自AI，仅供参考

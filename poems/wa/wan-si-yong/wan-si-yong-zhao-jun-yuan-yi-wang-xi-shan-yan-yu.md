@@ -1,0 +1,62 @@
+---
+id: wan-si-yong-zhao-jun-yuan-yi-wang-xi-shan-yan-yu
+title: 昭君怨
+author: 万俟咏
+authorSlug: wan-si-yong
+dynasty: 宋
+dynastySlug: song
+titlePinyin: zhao1 jun1 yuan4
+authorPinyin: wan4 si4 yong3
+dynastyPinyin: song4
+canonicalPoemId: 497168
+canonicalAuthorId: 12801
+rhythmic: 昭君怨
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 一望西山烟雨。
+
+- 目断心飞何处。
+
+- 天外白云城。
+
+- 几多程。
+
+- 谩记阳关句。
+
+- 衣上粉啼痕污。
+
+- 陇水一分流。
+
+- 此生休。
+
+## 拼音
+
+- yi2 wang4 xi1 shan1 yan1 yu3 。
+
+- mu4 duan4 xin1 fei1 he2 chu4 。
+
+- tian1 wai4 bai2 yun2 cheng2 。
+
+- ji3 duo1 cheng2 。
+
+- man4 ji4 yang2 guan1 ju4 。
+
+- yi1 shang4 fen3 ti2 hen2 wu1 。
+
+- long3 shui3 yi4 fen1 liu2 。
+
+- ci3 sheng1 xiu1 。
+
+## 译文
+
+一看到西山烟雨。目断心飞何处。天外白云城。多少程。谩记阳关句。穿上粉啼痕沾污。陇水一分流。此生休。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+一看到西山烟雨。目断心飞何处。天外白云城。多少程。谩记阳关句。穿上粉啼痕沾污。陇水一分流。此生休。
+	* 此部分翻译来自AI，仅供参考

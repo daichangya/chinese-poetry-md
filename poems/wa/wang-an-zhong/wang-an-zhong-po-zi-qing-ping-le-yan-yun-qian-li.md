@@ -1,0 +1,57 @@
+---
+id: wang-an-zhong-po-zi-qing-ping-le-yan-yun-qian-li
+title: 破子清平乐
+author: 王安中
+authorSlug: wang-an-zhong
+dynasty: 宋
+dynastySlug: song
+titlePinyin: po4 zi3 qing1 ping2 le4
+authorPinyin: wang2 an1 zhong1
+dynastyPinyin: song4
+canonicalPoemId: 526338
+canonicalAuthorId: 11582
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 烟云千里。
+
+- 一抹西山翠。
+
+- 碧瓦红楼山对起。
+
+- 楼下飞花流水。
+
+- 锦堂风月依然。
+
+- 后池莲叶田田。
+
+- 缥缈贯珠歌里，从容倒玉尊前。
+
+## 拼音
+
+- yan1 yun2 qian1 li3 。
+
+- yi4 mo3 xi1 shan1 cui4 。
+
+- bi4 wa3 hong2 lou2 shan1 dui4 qi3 。
+
+- lou2 xia4 fei1 hua1 liu2 shui3 。
+
+- jin3 tang2 feng1 yue4 yi1 ran2 。
+
+- hou4 chi2 lian2 ye4 tian2 tian2 。
+
+- piao1 miao3 guan4 zhu1 ge1 li3 ， cong2 rong2 dao3 yu4 zun1 qian2 。
+
+## 译文
+
+烟云千里。一抹西山翠。碧瓦红楼山回答起来。楼下飞花流水。锦堂风月依然。后池莲叶田田。缥缈贯珠歌里，从容倒玉樽前。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+烟云千里。一抹西山翠。碧瓦红楼山回答起来。楼下飞花流水。锦堂风月依然。后池莲叶田田。缥缈贯珠歌里，从容倒玉樽前。
+	* 此部分翻译来自AI，仅供参考
