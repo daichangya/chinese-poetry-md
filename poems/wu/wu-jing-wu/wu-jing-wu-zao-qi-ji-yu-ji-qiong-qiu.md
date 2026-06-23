@@ -1,0 +1,40 @@
+---
+id: wu-jing-wu-zao-qi-ji-yu-ji-qiong-qiu
+title: 早起
+author: 吴儆
+authorSlug: wu-jing-wu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: zao3 qi3
+authorPinyin: wu2 jing3
+dynastyPinyin: song4
+canonicalPoemId: 522251
+canonicalAuthorId: 11918
+tags:
+  - 诗词
+  - 洞庭湖
+---
+
+## 正文
+
+- 积雨霁穷秋，柴扃立清晓。
+
+- 溪光照烟岫，未觉秋容老。
+
+- 溪边乌臼林，他日没飞鸟。
+
+- 浓绿半枯枝，殷红乱衰草。
+
+- 摇落想骚人，洞庭风袅袅。
+
+## 拼音
+
+- ji1 yu3 ji4 qiong2 qiu1 ， chai2 jiong1 li4 qing1 xiao3 。
+
+- xi1 guang1 zhao4 yan1 xiu4 ， wei4 jue2 qiu1 rong2 lao3 。
+
+- xi1 bian1 wu1 jiu4 lin2 ， ta1 ri4 mei2 fei1 niao3 。
+
+- nong2 lü4 ban4 ku1 zhi1 ， yan1 hong2 luan4 shuai1 cao3 。
+
+- yao2 luo4 xiang3 sao1 ren2 ， dong4 ting2 feng1 niao3 niao3 。

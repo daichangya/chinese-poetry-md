@@ -1,0 +1,45 @@
+---
+id: wu-ke-ke-song-qi-gong-zi-gui-yang-fu-nan-hai-nan-xing-deng-ling-shou
+title: 送契公自桂阳赴南海
+author: 无可
+authorSlug: wu-ke-ke
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: song4 qi4 gong1 zi4 gui4 yang2 fu4 nan2 hai3
+authorPinyin: wu2 ke3
+dynastyPinyin: tang2
+canonicalPoemId: 532963
+canonicalAuthorId: 6063
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 南行登岭首，与俗洗烦埃。
+
+- 磬罢孤舟发，禅移积瘴开。
+
+- 中餐湘鸟下，朝讲海人来。
+
+- 莫便将经卷，炎方去不回。
+
+## 拼音
+
+- nan2 xing2 deng1 ling3 shou3 ， yu3 su2 xi3 fan2 ai1 。
+
+- qing4 ba4 gu1 zhou1 fa1 ， chan2 yi2 ji1 zhang4 kai1 。
+
+- zhong1 can1 xiang1 niao3 xia4 ， chao2 jiang3 hai3 ren2 lai2 。
+
+- mo4 bian4 jiang1 jing1 juan4 ， yan2 fang1 qu4 bu4 hui2 。
+
+## 译文
+
+南行登上岭头，与一般洗烦埃。磬结束我船发，在移动积瘴开。中吃翅鸟下，朝廷讲海人来。没有就将经卷，炎热的地方去不回。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+南行登上岭头，与一般洗烦埃。磬结束我船发，在移动积瘴开。中吃翅鸟下，朝廷讲海人来。没有就将经卷，炎热的地方去不回。
+	* 此部分翻译来自AI，仅供参考

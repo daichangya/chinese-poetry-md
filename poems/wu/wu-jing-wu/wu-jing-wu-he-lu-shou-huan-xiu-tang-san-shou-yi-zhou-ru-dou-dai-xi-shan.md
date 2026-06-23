@@ -1,0 +1,35 @@
+---
+id: wu-jing-wu-he-lu-shou-huan-xiu-tang-san-shou-yi-zhou-ru-dou-dai-xi-shan
+title: 和吕守环秀堂三首
+author: 吴儆
+authorSlug: wu-jing-wu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: he2 lü3 shou3 huan2 xiu4 tang2 san1 shou3
+authorPinyin: wu2 jing3
+dynastyPinyin: song4
+canonicalPoemId: 522157
+canonicalAuthorId: 11918
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 一州如斗带溪山，农药翠家绕画栏。
+
+- 丘壑自非胸次有，云烟谁暇青中看。
+
+- 衣冠共识家风在，闾里方知汉法宽。
+
+- 戴白垂髫相与语，今年有饭饱加餐。
+
+## 拼音
+
+- yi4 zhou1 ru2 dou4 dai4 xi1 shan1 ， nong2 yao4 cui4 jia1 rao4 hua4 lan2 。
+
+- qiu1 he4 zi4 fei1 xiong1 ci4 you3 ， yun2 yan1 shui2 xia2 qing1 zhong1 kan4 。
+
+- yi1 guan1 gong4 shi2 jia1 feng1 zai4 ， lü2 li3 fang1 zhi1 han4 fa3 kuan1 。
+
+- dai4 bai2 chui2 tiao2 xiang1 yu3 yu3 ， jin1 nian2 you3 fan4 bao3 jia1 can1 。
