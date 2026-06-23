@@ -1,0 +1,45 @@
+---
+id: yang-wan-li-he-zhang-de-mao-shao-qing-la-guan-xue-zhi-shi-si-ren-fang-wang-de-xiu-ti-93bb98f2
+title: 和章德茂少卿拉馆学之士四人访王德修提干
+author: 杨万里
+authorSlug: yang-wan-li
+dynasty: 宋
+dynastySlug: song
+titlePinyin: he2 zhang1 de2 mao4 shao3 qing1 la1 guan3 xue2 zhi1 shi4 si4 ren2 fang3 wang2 de2 xiu1 ti2 gan4
+authorPinyin: yang2 wan4 li3
+dynastyPinyin: song4
+canonicalPoemId: 389284
+canonicalAuthorId: 5339
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 西玉南金价则同，帝城相对落花风。
+
+- 人如天上珠星聚，谈到尊中竹叶空。
+
+- 白纻乌纱青宝玦，紫鸾黄鹄碧梧桐。
+
+- 千龄此过还孤往，恨杀灯前欠老翁。
+
+## 拼音
+
+- xi1 yu4 nan2 jin1 jia4 ze2 tong2 ， di4 cheng2 xiang1 dui4 luo4 hua1 feng1 。
+
+- ren2 ru2 tian1 shang4 zhu1 xing1 ju4 ， tan2 dao4 zun1 zhong1 zhu2 ye4 kong1 。
+
+- bai2 zhu4 wu1 sha1 qing1 bao3 jue2 ， zi3 luan2 huang2 hu2 bi4 wu2 tong2 。
+
+- qian1 ling2 ci3 guo4 hai2 gu1 wang3 ， hen4 sha1 deng1 qian2 qian4 lao3 weng1 。
+
+## 译文
+
+西玉南黄金的价格则同，黄帝城相对落花风。人如天上珠星聚集，谈论到尊中竹叶空。白藓乌纱青宝块，紫鸾黄鹄碧梧桐树。千龄这过回我去，恨杀灯前欠老头。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+西玉南黄金的价格则同，黄帝城相对落花风。人如天上珠星聚集，谈论到尊中竹叶空。白藓乌纱青宝块，紫鸾黄鹄碧梧桐树。千龄这过回我去，恨杀灯前欠老头。
+	* 此部分翻译来自AI，仅供参考

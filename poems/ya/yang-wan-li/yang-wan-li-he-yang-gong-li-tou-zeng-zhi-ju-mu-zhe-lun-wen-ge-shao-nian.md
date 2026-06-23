@@ -1,0 +1,45 @@
+---
+id: yang-wan-li-he-yang-gong-li-tou-zeng-zhi-ju-mu-zhe-lun-wen-ge-shao-nian
+title: 和昜公立投赠之句
+author: 杨万里
+authorSlug: yang-wan-li
+dynasty: 宋
+dynastySlug: song
+titlePinyin: he2 yang2 gong1 li4 tou2 zeng4 zhi1 ju4
+authorPinyin: yang2 wan4 li3
+dynastyPinyin: song4
+canonicalPoemId: 389164
+canonicalAuthorId: 5339
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 目者论文各少年，中间岁月似风旋。
+
+- 老来书册惟生睡，里许生涯未苦贤。
+
+- 好句撩人那得嬾，胜流觅纸便争傅。
+
+- 诗坛正欠风骚将，君合为真不用权。
+
+## 拼音
+
+- mu4 zhe3 lun4 wen2 ge4 shao4 nian2 ， zhong1 jian1 sui4 yue4 si4 feng1 xuan2 。
+
+- lao3 lai2 shu1 ce4 wei2 sheng1 shui4 ， li3 xu3 sheng1 ya2 wei4 ku3 xian2 。
+
+- hao3 ju4 liao2 ren2 na4 de2 lan3 ， sheng4 liu2 mi4 zhi3 bian4 zheng1 fu4 。
+
+- shi1 tan2 zheng4 qian4 feng1 sao1 jiang1 ， jun1 he2 wei4 zhen1 bu2 yong4 quan2 。
+
+## 译文
+
+眼睛的论文各少年，中间岁月似风旋。老来书本只有生睡，里多度过一生还苦好。佳句撩人那得到嬾，名流找纸便争傅。诗坛正欠风骚将，你应该为真不使用权。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+眼睛的论文各少年，中间岁月似风旋。老来书本只有生睡，里多度过一生还苦好。佳句撩人那得到嬾，名流找纸便争傅。诗坛正欠风骚将，你应该为真不使用权。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,53 @@
+---
+id: yang-wan-li-da-gu-shan-xiao-gu-xiao-nian-jia-peng-lang
+title: 大孤山
+author: 杨万里
+authorSlug: yang-wan-li
+dynasty: 宋
+dynastySlug: song
+titlePinyin: da4 gu1 shan1
+authorPinyin: yang2 wan4 li3
+dynastyPinyin: song4
+canonicalPoemId: 510869
+canonicalAuthorId: 5339
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 小姑小年嫁彭郎，大姑不嫁空自孀。
+
+- 小姑有夫似织女，大姑无夫如阿姮。
+
+- 卢兹也曾作媒妁，执柯教与五老约。
+
+- 东方一老差妙龄，匹似彭郎却老成。
+
+- 大姑背面啼更道，岂有老人会年少。
+
+- 大姑年来年去今亦老。
+
+## 拼音
+
+- xiao3 gu1 xiao3 nian2 jia4 peng2 lang2 ， da4 gu1 bu2 jia4 kong1 zi4 shuang1 。
+
+- xiao3 gu1 you3 fu1 si4 zhi1 nü3 ， da4 gu1 wu2 fu1 ru2 a1 heng2 。
+
+- lu2 zi1 ye3 ceng2 zuo4 mei2 shuo4 ， zhi2 ke1 jiao4 yu3 wu3 lao3 yue1 。
+
+- dong1 fang1 yi4 lao3 cha4 miao4 ling2 ， pi3 si4 peng2 lang2 que4 lao3 cheng2 。
+
+- da4 gu1 bei4 mian4 ti2 geng4 dao4 ， qi3 you3 lao3 ren2 hui4 nian2 shao4 。
+
+- da4 gu1 nian2 lai2 nian2 qu4 jin1 yi4 lao3 。
+
+## 译文
+
+小姑小年嫁彭郎，大姑不嫁白白丧夫。小姑有那些像织女，大姑不要这样阿姮。卢兹也曾作媒人，拉柯教授和五老峰约。东方一个差妙龄，匹像彭郎却老成。大姑背后哭更道，难道有人老与年轻。大姑年以来年离现在也老。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+小姑小年嫁彭郎，大姑不嫁白白丧夫。小姑有那些像织女，大姑不要这样阿姮。卢兹也曾作媒人，拉柯教授和五老峰约。东方一个差妙龄，匹像彭郎却老成。大姑背后哭更道，难道有人老与年轻。大姑年以来年离现在也老。
+	* 此部分翻译来自AI，仅供参考

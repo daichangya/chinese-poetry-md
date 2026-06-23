@@ -1,0 +1,50 @@
+---
+id: yang-ze-min-shao-nian-you-jin-lu-pen-shou-zhen-qi-shan
+title: 少年游
+author: 杨泽民
+authorSlug: yang-ze-min
+dynasty: 宋
+dynastySlug: song
+titlePinyin: shao4 nian2 you2
+authorPinyin: yang2 ze2 min2
+dynastyPinyin: song4
+canonicalPoemId: 456896
+canonicalAuthorId: 12448
+rhythmic: 少年游
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 金炉喷兽枕欹山。
+
+- 衾帐不知寒。
+
+- 数片飞花，初临窗外，犹作坠梅看。
+
+- 明年此际应东去，藤轿逐征鞍。
+
+- 山水屏中，莺花堆里，相与下临安。
+
+## 拼音
+
+- jin1 lu2 pen1 shou4 zhen3 qi1 shan1 。
+
+- qin1 zhang4 bu4 zhi1 han2 。
+
+- shu4 pian4 fei1 hua1 ， chu1 lin2 chuang1 wai4 ， you2 zuo4 zhui4 mei2 kan4 。
+
+- ming2 nian2 ci3 ji4 ying4 dong1 qu4 ， teng2 jiao4 zhu2 zheng1 an1 。
+
+- shan1 shui3 ping2 zhong1 ， ying1 hua1 dui1 li3 ， xiang1 yu3 xia4 lin2 an1 。
+
+## 译文
+
+金炉喷兽枕头山。衾帐不知道寒冷。几片飞花，初到窗外，还作落梅看。明年这个时候应该向东走，藤轿追征鞍。山水屏中，莺花堆里，一起下临安。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+金炉喷兽枕头山。衾帐不知道寒冷。几片飞花，初到窗外，还作落梅看。明年这个时候应该向东走，藤轿追征鞍。山水屏中，莺花堆里，一起下临安。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,37 @@
+---
+id: yang-wan-li-wan-han-ti-shui-xian-hua-bing-hu-shan-san-shou-lian-ju-lu-chui-qi-ke-wu
+title: 晚寒题水仙花并湖山三首
+author: 杨万里
+authorSlug: yang-wan-li
+dynasty: 宋
+dynastySlug: song
+titlePinyin: wan3 han2 ti2 shui3 xian1 hua1 bing4 hu2 shan1 san1 shou3
+authorPinyin: yang2 wan4 li3
+dynastyPinyin: song4
+canonicalPoemId: 596757
+canonicalAuthorId: 5339
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 链句炉槌岂可无，句成未必尽缘渠。
+
+- 老夫不是寻诗句，诗句自来寻老夫。
+
+## 拼音
+
+- lian4 ju4 lu2 chui2 qi3 ke3 wu2 ， ju4 cheng2 wei4 bi4 jin4 yuan2 qu2 。
+
+- lao3 fu1 bu2 shi4 xun2 shi1 ju4 ， shi1 ju4 zi4 lai2 xun2 lao3 fu1 。
+
+## 译文
+
+链句炉槌怎么可以没有，句成未必尽缘渠。老夫不这不久诗句，诗句自己来找老夫。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+链句炉槌怎么可以没有，句成未必尽缘渠。老夫不这不久诗句，诗句自己来找老夫。
+	* 此部分翻译来自AI，仅供参考

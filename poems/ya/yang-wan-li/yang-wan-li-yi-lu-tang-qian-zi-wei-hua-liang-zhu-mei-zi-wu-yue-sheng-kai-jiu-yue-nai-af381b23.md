@@ -1,0 +1,37 @@
+---
+id: yang-wan-li-yi-lu-tang-qian-zi-wei-hua-liang-zhu-mei-zi-wu-yue-sheng-kai-jiu-yue-nai-af381b23
+title: 疑露堂前紫薇花两株，每自五月盛开，九月乃
+author: 杨万里
+authorSlug: yang-wan-li
+dynasty: 宋
+dynastySlug: song
+titlePinyin: yi2 lu4 tang2 qian2 zi3 wei1 hua1 liang3 zhu1 ， mei3 zi4 wu3 yue4 sheng4 kai1 ， jiu3 yue4 nai3
+authorPinyin: yang2 wan4 li3
+dynastyPinyin: song4
+canonicalPoemId: 389131
+canonicalAuthorId: 5339
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 晴霞艳艳覆檐牙，绛雪霏霏点砌沙。
+
+- 莫管身非香案吏，也移床对紫薇花。
+
+## 拼音
+
+- qing2 xia2 yan4 yan4 fu4 yan2 ya2 ， jiang4 xue3 fei1 fei1 dian3 qi4 sha1 。
+
+- mo4 guan3 shen1 fei1 xiang1 an4 li4 ， ye3 yi2 chuang2 dui4 zi3 wei1 hua1 。
+
+## 译文
+
+晴霞艳美丽覆盖屋檐，绛雪霏霏点砌沙。莫管我不是香案吏，的移动床对紫薇花。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+晴霞艳美丽覆盖屋檐，绛雪霏霏点砌沙。莫管我不是香案吏，的移动床对紫薇花。
+	* 此部分翻译来自AI，仅供参考

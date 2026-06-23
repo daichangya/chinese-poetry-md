@@ -1,0 +1,37 @@
+---
+id: yang-wan-li-zhou-guo-e-xing-kou-hui-wang-he-zhou-ji-long-shan-liang-yue-qing-shan-bu-zan-li
+title: 舟过鹅行口，回望和州鸡笼山
+author: 杨万里
+authorSlug: yang-wan-li
+dynasty: 宋
+dynastySlug: song
+titlePinyin: zhou1 guo4 e2 xing2 kou3 ， hui2 wang4 he2 zhou1 ji1 long2 shan1
+authorPinyin: yang2 wan4 li3
+dynastyPinyin: song4
+canonicalPoemId: 389954
+canonicalAuthorId: 5339
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 两月青山不暂离，入城未见有山时。
+
+- 万峰送我都回去，只有鸡笼未肯辞。
+
+## 拼音
+
+- liang3 yue4 qing1 shan1 bu2 zan4 li2 ， ru4 cheng2 wei4 jian4 you3 shan1 shi2 。
+
+- wan4 feng1 song4 wo3 dou1 hui2 qu4 ， zhi3 you3 ji1 long2 wei4 ken3 ci2 。
+
+## 译文
+
+两个月青山不离，入城不见有山时。万山送我都回去，只有鸡笼不肯告别。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+两个月青山不离，入城不见有山时。万山送我都回去，只有鸡笼不肯告别。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,65 @@
+---
+id: yang-wan-li-hu-ji-heng-zeng-ji-ju-gu-feng-xiao-qi-ti-feng-chou-qiu-qi-ji-nan-jian-2
+title: 胡季亨赠集句古风，效其体奉酬
+author: 杨万里
+authorSlug: yang-wan-li
+dynasty: 宋
+dynastySlug: song
+titlePinyin: hu2 ji4 heng1 zeng4 ji2 ju4 gu3 feng1 ， xiao4 qi2 ti3 feng4 chou2
+authorPinyin: yang2 wan4 li3
+dynastyPinyin: song4
+canonicalPoemId: 598655
+canonicalAuthorId: 5339
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 秋气集南涧，清风来故人。
+
+- 遗我一端绮，桃李不成春。
+
+- 大句干元造，高词媲皇坟。
+
+- 百衲收寸锦，一字买堪贫。
+
+- 苦恨邻里间，良觌渺无因。
+
+- 今日是何朝，始闻扣柴荆。
+
+- 黄菊有佳色，寒水各依痕。
+
+- 且共欢此饮，重与细论文。
+
+- 何以报佳惠，山中有白云。
+
+## 拼音
+
+- qiu1 qi4 ji2 nan2 jian4 ， qing1 feng1 lai2 gu4 ren2 。
+
+- yi2 wo3 yi4 duan1 qi3 ， tao2 li3 bu4 cheng2 chun1 。
+
+- da4 ju4 gan1 yuan2 zao4 ， gao1 ci2 pi4 huang2 fen2 。
+
+- bai3 na4 shou1 cun4 jin3 ， yi2 zi4 mai3 kan1 pin2 。
+
+- ku3 hen4 lin2 li3 jian1 ， liang2 di2 miao3 wu2 yin1 。
+
+- jin1 ri4 shi4 he2 chao2 ， shi3 wen2 kou4 chai2 jing1 。
+
+- huang2 ju2 you3 jia1 se4 ， han2 shui3 ge4 yi1 hen2 。
+
+- qie3 gong4 huan1 ci3 yin3 ， zhong4 yu3 xi4 lun4 wen2 。
+
+- he2 yi3 bao4 jia1 hui4 ， shan1 zhong1 you3 bai2 yun2 。
+
+## 译文
+
+秋气集南涧，清风来所以人。送给我一种华丽，桃李不成春。大句干元制造，高词比喻皇坟。百衲收寸锦，一个字买忍受贫穷。苦恨邻里之间，良规渺无因。今天是什么时，开始听到敲打柴荆。黄菊有佳色，寒水分别按痕。并且一起同欢饮酒，只能遥相思念。怎样回报好惠，山中有白云。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+秋气集南涧，清风来所以人。送给我一种华丽，桃李不成春。大句干元制造，高词比喻皇坟。百衲收寸锦，一个字买忍受贫穷。苦恨邻里之间，良规渺无因。今天是什么时，开始听到敲打柴荆。黄菊有佳色，寒水分别按痕。并且一起同欢饮酒，只能遥相思念。怎样回报好惠，山中有白云。
+	* 此部分翻译来自AI，仅供参考

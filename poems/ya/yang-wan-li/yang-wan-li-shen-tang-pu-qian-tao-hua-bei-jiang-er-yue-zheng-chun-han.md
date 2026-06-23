@@ -1,0 +1,37 @@
+---
+id: yang-wan-li-shen-tang-pu-qian-tao-hua-bei-jiang-er-yue-zheng-chun-han
+title: 神堂铺前桃花
+author: 杨万里
+authorSlug: yang-wan-li
+dynasty: 宋
+dynastySlug: song
+titlePinyin: shen2 tang2 pu4 qian2 tao2 hua1
+authorPinyin: yang2 wan4 li3
+dynastyPinyin: song4
+canonicalPoemId: 388904
+canonicalAuthorId: 5339
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 北江二月政春寒，初见桃花喜未残。
+
+- 腊月潮州见桃李，元来不作好春看。
+
+## 拼音
+
+- bei3 jiang1 er4 yue4 zheng4 chun1 han2 ， chu1 jian4 tao2 hua1 xi3 wei4 can2 。
+
+- la4 yue4 chao2 zhou1 jian4 tao2 li3 ， yuan2 lai2 bu2 zuo4 hao3 chun1 kan4 。
+
+## 译文
+
+北江二月政令春寒，初看桃花喜不残。腊月潮州见到桃李，元来不做好春看。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+北江二月政令春寒，初看桃花喜不残。腊月潮州见到桃李，元来不做好春看。
+	* 此部分翻译来自AI，仅供参考

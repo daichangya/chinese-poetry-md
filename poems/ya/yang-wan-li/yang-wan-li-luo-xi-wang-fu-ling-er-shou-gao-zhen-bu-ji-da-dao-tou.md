@@ -1,0 +1,37 @@
+---
+id: yang-wan-li-luo-xi-wang-fu-ling-er-shou-gao-zhen-bu-ji-da-dao-tou
+title: 罗溪望夫岭二首
+author: 杨万里
+authorSlug: yang-wan-li
+dynasty: 宋
+dynastySlug: song
+titlePinyin: luo2 xi1 wang4 fu1 ling3 er4 shou3
+authorPinyin: yang2 wan4 li3
+dynastyPinyin: song4
+canonicalPoemId: 511044
+canonicalAuthorId: 5339
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 稿砧不寄大刀头，化作峰头石也愁。
+
+- 岂有心情管风雨，向人弹泪绕天流。
+
+## 拼音
+
+- gao3 zhen1 bu2 ji4 da4 dao1 tou2 ， hua4 zuo4 feng1 tou2 shi2 ye3 chou2 。
+
+- qi3 you3 xin1 qing2 guan3 feng1 yu3 ， xiang4 ren2 tan2 lei4 rao4 tian1 liu2 。
+
+## 译文
+
+稿砧不寄大刀头，化作峰头石的愁苦。哪有心情管风雨，向人弹泪绕天流。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+稿砧不寄大刀头，化作峰头石的愁苦。哪有心情管风雨，向人弹泪绕天流。
+	* 此部分翻译来自AI，仅供参考

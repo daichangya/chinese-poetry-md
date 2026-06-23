@@ -1,0 +1,45 @@
+---
+id: yang-wan-li-guang-kou-ye-yu-xia-jiang-qing-kong-xia-yu-ji
+title: 光口夜雨
+author: 杨万里
+authorSlug: yang-wan-li
+dynasty: 宋
+dynastySlug: song
+titlePinyin: guang1 kou3 ye4 yu3
+authorPinyin: yang2 wan4 li3
+dynastyPinyin: song4
+canonicalPoemId: 510525
+canonicalAuthorId: 5339
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 峡江清空峡雨急，寒声夜半萧潇发。
+
+- 玻璃盆面跳万珠，一颗一声清入骨。
+
+- 梦中搔首起来听，听来听去到天明。
+
+- 一生听雨今头白，不识春江夜雨声。
+
+## 拼音
+
+- xia2 jiang1 qing1 kong1 xia2 yu3 ji2 ， han2 sheng1 ye4 ban4 xiao1 xiao1 fa1 。
+
+- bo1 li2 pen2 mian4 tiao4 wan4 zhu1 ， yi4 ke1 yi4 sheng1 qing1 ru4 gu3 。
+
+- meng4 zhong1 sao1 shou3 qi3 lai2 ting1 ， ting1 lai2 ting1 qu4 dao4 tian1 ming2 。
+
+- yi4 sheng1 ting1 yu3 jin1 tou2 bai2 ， bu4 shi2 chun1 jiang1 ye4 yu3 sheng1 。
+
+## 译文
+
+峡江清空峡谷雨急，寒声半夜萧潇发。玻璃盆面跳万珠，一颗一声清入骨。梦中搔首弄姿起来听，听来听去到天亮。一生听雨现在头白，不知道春江夜雨声。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+峡江清空峡谷雨急，寒声半夜萧潇发。玻璃盆面跳万珠，一颗一声清入骨。梦中搔首弄姿起来听，听来听去到天亮。一生听雨现在头白，不知道春江夜雨声。
+	* 此部分翻译来自AI，仅供参考

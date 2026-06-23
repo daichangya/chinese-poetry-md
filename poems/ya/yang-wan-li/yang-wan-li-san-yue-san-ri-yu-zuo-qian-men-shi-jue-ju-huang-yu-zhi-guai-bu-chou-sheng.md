@@ -1,0 +1,37 @@
+---
+id: yang-wan-li-san-yue-san-ri-yu-zuo-qian-men-shi-jue-ju-huang-yu-zhi-guai-bu-chou-sheng
+title: 三月三日雨作遣闷十绝句
+author: 杨万里
+authorSlug: yang-wan-li
+dynasty: 宋
+dynastySlug: song
+titlePinyin: san1 yue4 san1 ri4 yu3 zuo4 qian3 men1 shi2 jue2 ju4
+authorPinyin: yang2 wan4 li3
+dynastyPinyin: song4
+canonicalPoemId: 389657
+canonicalAuthorId: 5339
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 荒余只怪不愁声，好语烦君细细听。
+
+- 秧早不由田父懒，蚕迟端待柘阴成。
+
+## 拼音
+
+- huang1 yu2 zhi1 guai4 bu4 chou2 sheng1 ， hao3 yu3 fan2 jun1 xi4 xi4 ting1 。
+
+- yang1 zao3 bu4 you2 tian2 fu4 lan3 ， can2 chi2 duan1 dai4 zhe4 yin1 cheng2 。
+
+## 译文
+
+我只怪不愁声荒，请你仔细听好话。秧苗早不是由农夫懒，蚕迟开端等待拓阴成。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+我只怪不愁声荒，请你仔细听好话。秧苗早不是由农夫懒，蚕迟开端等待拓阴成。
+	* 此部分翻译来自AI，仅供参考

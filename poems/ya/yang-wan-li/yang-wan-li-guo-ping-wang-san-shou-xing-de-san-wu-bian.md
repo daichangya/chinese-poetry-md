@@ -1,0 +1,45 @@
+---
+id: yang-wan-li-guo-ping-wang-san-shou-xing-de-san-wu-bian
+title: 过平望三首
+author: 杨万里
+authorSlug: yang-wan-li
+dynasty: 宋
+dynastySlug: song
+titlePinyin: guo4 ping2 wang4 san1 shou3
+authorPinyin: yang2 wan4 li3
+dynastyPinyin: song4
+canonicalPoemId: 596524
+canonicalAuthorId: 5339
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 行得三吴遍，清奇最是苏。
+
+- 树围平野合，水隔别村孤。
+
+- 震泽非尘世，松陵是画图。
+
+- 更添一诗老，载雪过重湖。
+
+## 拼音
+
+- xing2 de2 san1 wu2 bian4 ， qing1 qi2 zui4 shi4 su1 。
+
+- shu4 wei2 ping2 ye3 he2 ， shui3 ge2 bie2 cun1 gu1 。
+
+- zhen4 ze2 fei1 chen2 shi4 ， song1 ling2 shi4 hua4 tu2 。
+
+- geng4 tian1 yi4 shi1 lao3 ， zai3 xue3 guo4 zhong4 hu2 。
+
+## 译文
+
+行得三吴遍，清奇最是苏。树围平野合，水分隔村孤儿。震泽不是人间，松陵是图画。更添一首老，年积雪过重湖。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+行得三吴遍，清奇最是苏。树围平野合，水分隔村孤儿。震泽不是人间，松陵是图画。更添一首老，年积雪过重湖。
+	* 此部分翻译来自AI，仅供参考

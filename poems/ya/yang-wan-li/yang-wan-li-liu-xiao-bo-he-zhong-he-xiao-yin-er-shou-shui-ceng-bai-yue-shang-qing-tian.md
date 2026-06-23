@@ -1,0 +1,45 @@
+---
+id: yang-wan-li-liu-xiao-bo-he-zhong-he-xiao-yin-er-shou-shui-ceng-bai-yue-shang-qing-tian
+title: 留萧伯和仲和小饮二首
+author: 杨万里
+authorSlug: yang-wan-li
+dynasty: 宋
+dynastySlug: song
+titlePinyin: liu2 xiao1 bo2 he2 zhong4 he2 xiao3 yin3 er4 shou3
+authorPinyin: yang2 wan4 li3
+dynastyPinyin: song4
+canonicalPoemId: 389843
+canonicalAuthorId: 5339
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 谁曾白月上青天，谁羡千锺况万钱。
+
+- 要入诗家须有骨，若除酒外更无仙。
+
+- 三杯未必通大道，一斗真能出百篇。
+
+- 李杜饥寒才几日，却教富贵不论年。
+
+## 拼音
+
+- shui2 ceng2 bai2 yue4 shang4 qing1 tian1 ， shui2 xian4 qian1 zhong1 kuang4 wan4 qian2 。
+
+- yao4 ru4 shi1 jia1 xu1 you3 gu3 ， ruo4 chu2 jiu3 wai4 geng4 wu2 xian1 。
+
+- san1 bei1 wei4 bi4 tong1 da4 dao4 ， yi4 dou3 zhen1 neng2 chu1 bai3 pian1 。
+
+- li3 du4 ji1 han2 cai2 ji3 ri4 ， que4 jiao4 fu4 gui4 bu2 lun4 nian2 。
+
+## 译文
+
+谁曾白月亮上青天，谁羡慕千钟何况万钱。要入诗家需要有骨，如果除酒之外没有仙。三杯不必通大道，一斗真能出一百篇。李杜饥寒交迫才几天，却让富贵不论年。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+谁曾白月亮上青天，谁羡慕千钟何况万钱。要入诗家需要有骨，如果除酒之外没有仙。三杯不必通大道，一斗真能出一百篇。李杜饥寒交迫才几天，却让富贵不论年。
+	* 此部分翻译来自AI，仅供参考

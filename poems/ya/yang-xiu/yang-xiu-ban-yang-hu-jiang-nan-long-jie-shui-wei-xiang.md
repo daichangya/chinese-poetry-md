@@ -1,0 +1,37 @@
+---
+id: yang-xiu-ban-yang-hu-jiang-nan-long-jie-shui-wei-xiang
+title: 半阳湖
+author: 杨修
+authorSlug: yang-xiu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ban4 yang2 hu2
+authorPinyin: yang2 xiu1
+dynastyPinyin: song4
+canonicalPoemId: 543166
+canonicalAuthorId: 1243
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 江南龙节水为乡，水不纯阴有半阳。
+
+- 一片湖光共深浅，两般泉脉异温凉。
+
+## 拼音
+
+- jiang1 nan2 long2 jie2 shui3 wei4 xiang1 ， shui3 bu4 chun2 yin1 you3 ban4 yang2 。
+
+- yi2 pian4 hu2 guang1 gong4 shen1 qian3 ， liang3 ban1 quan2 mai4 yi4 wen1 liang2 。
+
+## 译文
+
+江南水为乡龙节，水不纯阴有半阳。一片湖光共深浅，两种泉脉不同温凉。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+江南水为乡龙节，水不纯阴有半阳。一片湖光共深浅，两种泉脉不同温凉。
+	* 此部分翻译来自AI，仅供参考

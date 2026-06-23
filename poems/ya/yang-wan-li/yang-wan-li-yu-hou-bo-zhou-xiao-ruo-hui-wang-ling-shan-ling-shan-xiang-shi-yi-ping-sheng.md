@@ -1,0 +1,45 @@
+---
+id: yang-wan-li-yu-hou-bo-zhou-xiao-ruo-hui-wang-ling-shan-ling-shan-xiang-shi-yi-ping-sheng
+title: 雨后泊舟小箬，回望灵山
+author: 杨万里
+authorSlug: yang-wan-li
+dynasty: 宋
+dynastySlug: song
+titlePinyin: yu3 hou4 bo2 zhou1 xiao3 ruo4 ， hui2 wang4 ling2 shan1
+authorPinyin: yang2 wan4 li3
+dynastyPinyin: song4
+canonicalPoemId: 510002
+canonicalAuthorId: 5339
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 灵山相识已平生，雨后精神见未曾。
+
+- 一朵碧莲三万丈，数来花片八千层。
+
+- 云姿雾态排天出，竹杖芒鞋欠我登。
+
+- 羡杀峰头头上寺，厌山不看是诸僧。
+
+## 拼音
+
+- ling2 shan1 xiang1 shi2 yi3 ping2 sheng1 ， yu3 hou4 jing1 shen2 jian4 wei4 ceng2 。
+
+- yi4 duo3 bi4 lian2 san1 wan4 zhang4 ， shu4 lai2 hua1 pian4 ba1 qian1 ceng2 。
+
+- yun2 zi1 wu4 tai4 pai2 tian1 chu1 ， zhu2 zhang4 mang2 xie2 qian4 wo3 deng1 。
+
+- xian4 sha1 feng1 tou2 tou2 shang4 si4 ， yan4 shan1 bu2 kan4 shi4 zhu1 seng1 。
+
+## 译文
+
+灵山认识了一生，下雨后精神见未曾。一朵碧莲三万余丈，多次来花片干层。说姿态雾态排天出，竹手杖草鞋欠我登上。羡杀峰头上寺，满足山不看这些和尚。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+灵山认识了一生，下雨后精神见未曾。一朵碧莲三万余丈，多次来花片干层。说姿态雾态排天出，竹手杖草鞋欠我登上。羡杀峰头上寺，满足山不看这些和尚。
+	* 此部分翻译来自AI，仅供参考

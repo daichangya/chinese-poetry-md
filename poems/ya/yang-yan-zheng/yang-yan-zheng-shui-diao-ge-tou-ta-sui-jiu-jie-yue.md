@@ -1,0 +1,62 @@
+---
+id: yang-yan-zheng-shui-diao-ge-tou-ta-sui-jiu-jie-yue
+title: 水调歌头
+author: 杨炎正
+authorSlug: yang-yan-zheng
+dynasty: 宋
+dynastySlug: song
+titlePinyin: shui3 diao4 ge1 tou2
+authorPinyin: yang2 yan2 zheng4
+dynastyPinyin: song4
+canonicalPoemId: 420917
+canonicalAuthorId: 12348
+rhythmic: 水调歌头
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 踏碎九街月，乘醉出京华。
+
+- 半生湖海，谁念今日老还家。
+
+- 独把瓦盆盛酒，自与渔樵分席，说伊政声佳。
+
+- 竹马望尘去，倦客亦随车。
+
+- 听熏风，清晓角，韵梅花。
+
+- 人家十万，说尽炎热与咨嗟。
+
+- 只恐棠阴未满，已有枫宸趣召，归路不容遮。
+
+- 回首江边柳，空著旧栖鸦。
+
+## 拼音
+
+- ta4 sui4 jiu3 jie1 yue4 ， cheng2 zui4 chu1 jing1 hua2 。
+
+- ban4 sheng1 hu2 hai3 ， shui2 nian4 jin1 ri4 lao3 hai2 jia1 。
+
+- du2 ba3 wa3 pen2 sheng4 jiu3 ， zi4 yu3 yu2 qiao2 fen1 xi2 ， shuo1 yi1 zheng4 sheng1 jia1 。
+
+- zhu2 ma3 wang4 chen2 qu4 ， juan4 ke4 yi4 sui2 che1 。
+
+- ting1 xun1 feng1 ， qing1 xiao3 jiao3 ， yun4 mei2 hua1 。
+
+- ren2 jia1 shi2 wan4 ， shuo1 jin4 yan2 re4 yu3 zi1 jie1 。
+
+- zhi1 kong3 tang2 yin1 wei4 man3 ， yi3 you3 feng1 chen2 qu4 zhao4 ， gui1 lu4 bu4 rong2 zhe1 。
+
+- hui2 shou3 jiang1 bian1 liu3 ， kong1 zhu4 jiu4 qi1 ya1 。
+
+## 译文
+
+踏碎九街月，乘醉出京城。半生湖海，谁想到今天我回家。独自把瓦盆盛酒，从与渔樵分席，对伊政策声音好。竹马望尘离开，倦客也随车。听熏风，清晨角，韵梅花。人家十万，观点被炎热和叹息。只担心棠阴未满，已经有枫宸催促，回去的路不能遮。回首江边柳，空著旧栖鸦。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+踏碎九街月，乘醉出京城。半生湖海，谁想到今天我回家。独自把瓦盆盛酒，从与渔樵分席，对伊政策声音好。竹马望尘离开，倦客也随车。听熏风，清晨角，韵梅花。人家十万，观点被炎热和叹息。只担心棠阴未满，已经有枫宸催促，回去的路不能遮。回首江边柳，空著旧栖鸦。
+	* 此部分翻译来自AI，仅供参考

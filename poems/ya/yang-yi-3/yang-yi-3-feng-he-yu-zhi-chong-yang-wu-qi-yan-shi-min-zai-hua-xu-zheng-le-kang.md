@@ -1,0 +1,45 @@
+---
+id: yang-yi-3-feng-he-yu-zhi-chong-yang-wu-qi-yan-shi-min-zai-hua-xu-zheng-le-kang
+title: 奉和御制重阳五七言诗
+author: 杨亿
+authorSlug: yang-yi-3
+dynasty: 宋
+dynastySlug: song
+titlePinyin: feng4 he2 yu4 zhi4 chong2 yang2 wu3 qi1 yan2 shi1
+authorPinyin: yang2 yi4
+dynastyPinyin: song4
+canonicalPoemId: 578480
+canonicalAuthorId: 5046
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 民在华胥正乐康，高秋实雁指衡阳。
+
+- 蒹葭渐见凝清露，𫛸鴂先惊歇众芳。
+
+- 节值登高真胜会，年逢大有是殊祥。
+
+- 宸心悦豫流新唱，星汉垂文示八方。
+
+## 拼音
+
+- min2 zai4 hua2 xu1 zheng4 le4 kang1 ， gao1 qiu1 shi2 yan4 zhi3 heng2 yang2 。
+
+- jian1 jia1 jian4 jian4 ning2 qing1 lu4 ， 𫛸 jue2 xian1 jing1 xie1 zhong4 fang1 。
+
+- jie2 zhi2 deng1 gao1 zhen1 sheng4 hui4 ， nian2 feng2 da4 you3 shi4 shu1 xiang2 。
+
+- chen2 xin1 yue4 yu4 liu2 xin1 chang4 ， xing1 han4 chui2 wen2 shi4 ba1 fang1 。
+
+## 译文
+
+人民在华胥正乐康，深秋是指向衡阳雁。芦苇逐渐出现凝清露，𫛸杜鹃先惊歇众芳。节正值登高真盛会，年逢大有是特别吉祥。宸心中高兴流新唱，银河垂文示八方。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+人民在华胥正乐康，深秋是指向衡阳雁。芦苇逐渐出现凝清露，𫛸杜鹃先惊歇众芳。节正值登高真盛会，年逢大有是特别吉祥。宸心中高兴流新唱，银河垂文示八方。
+	* 此部分翻译来自AI，仅供参考

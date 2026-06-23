@@ -1,0 +1,45 @@
+---
+id: yang-yi-3-ci-xi-ci-xi-qiu-feng-la-bai-he
+title: 此夕
+author: 杨亿
+authorSlug: yang-yi-3
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ci3 xi1
+authorPinyin: yang2 yi4
+dynastyPinyin: song4
+canonicalPoemId: 428874
+canonicalAuthorId: 5046
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 此夕秋风腊败荷，玉钩斜影转庭柯。
+
+- 鲛人泪有千珠迸，楚客愁添万斛多。
+
+- 锦里琴心谁涤器，石城桃叶自横波。
+
+- 程乡酒薄难成醉，带眼频移奈瘦何。
+
+## 拼音
+
+- ci3 xi1 qiu1 feng1 la4 bai4 he2 ， yu4 gou1 xie2 ying3 zhuan3 ting2 ke1 。
+
+- jiao1 ren2 lei4 you3 qian1 zhu1 beng4 ， chu3 ke4 chou2 tian1 wan4 hu2 duo1 。
+
+- jin3 li3 qin2 xin1 shui2 di2 qi4 ， shi2 cheng2 tao2 ye4 zi4 heng2 bo1 。
+
+- cheng2 xiang1 jiu3 bao2 nan2 cheng2 zui4 ， dai4 yan3 pin2 yi2 nai4 shou4 he2 。
+
+## 译文
+
+这一夜秋风腊败荷，玉钩斜影转庭树。鲛人泪有千珠迸，楚客愁添万斛多。锦里琴心谁涤器，石城桃叶从横向波。程乡酒薄难成醉，带眼睛频移怎么瘦什么。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+这一夜秋风腊败荷，玉钩斜影转庭树。鲛人泪有千珠迸，楚客愁添万斛多。锦里琴心谁涤器，石城桃叶从横向波。程乡酒薄难成醉，带眼睛频移怎么瘦什么。
+	* 此部分翻译来自AI，仅供参考

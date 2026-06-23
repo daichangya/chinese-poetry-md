@@ -1,0 +1,45 @@
+---
+id: yang-wan-li-yan-lai-hong-kai-le-yuan-wu-yan-2
+title: 鴈来红
+author: 杨万里
+authorSlug: yang-wan-li
+dynasty: 宋
+dynastySlug: song
+titlePinyin: yan4 lai2 hong2
+authorPinyin: yang2 wan4 li3
+dynastyPinyin: song4
+canonicalPoemId: 509748
+canonicalAuthorId: 5339
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 开了元无鴈，看来不是花。
+
+- 若为黄更紫，乃借叶为葩。
+
+- 藜苋真何择，鸡冠却较差。
+
+- 未鴈犀菊辈，赤脚也容他。
+
+## 拼音
+
+- kai1 le0 yuan2 wu2 yan4 ， kan4 lai2 bu2 shi4 hua1 。
+
+- ruo4 wei4 huang2 geng4 zi3 ， nai3 jie4 ye4 wei4 pa1 。
+
+- li2 xian4 zhen1 he2 ze2 ， ji1 guan1 que4 jiao4 cha4 。
+
+- wei4 yan4 xi1 ju2 bei4 ， chi4 jiao3 ye3 rong2 ta1 。
+
+## 译文
+
+开了元无雁，看来不是花。如果是黄更紫色，于是借叶为花卉。藜苋真有什么区别，鸡冠花却比较差。没有雁犀菊等，赤脚的让他。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+开了元无雁，看来不是花。如果是黄更紫色，于是借叶为花卉。藜苋真有什么区别，鸡冠花却比较差。没有雁犀菊等，赤脚的让他。
+	* 此部分翻译来自AI，仅供参考

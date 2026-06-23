@@ -1,0 +1,45 @@
+---
+id: yang-wan-li-xie-huai-dong-cao-yu-shou-lao-bao-wen-cha-yuan-ji-shi-er-shou-shi-xi-san-42977577
+title: 谢淮东漕虞寿老宝文察院寄诗二首
+author: 杨万里
+authorSlug: yang-wan-li
+dynasty: 宋
+dynastySlug: song
+titlePinyin: xie4 huai2 dong1 cao2 yu2 shou4 lao3 bao3 wen2 cha2 yuan4 ji4 shi1 er4 shou3
+authorPinyin: yang2 wan4 li3
+dynastyPinyin: song4
+canonicalPoemId: 510538
+canonicalAuthorId: 5339
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 诗吸三江卷五湖，雕琼为句字为珠。
+
+- 前身谢守吟澄练，今代世南行秘书。
+
+- 獬豸峨冠久尘醭，星辰听履郎须臾。
+
+- 夜来飞入东园去，梦里分明觉后虚。
+
+## 拼音
+
+- shi1 xi1 san1 jiang1 juan4 wu3 hu2 ， diao1 qiong2 wei4 ju4 zi4 wei4 zhu1 。
+
+- qian2 shen1 xie4 shou3 yin2 cheng2 lian4 ， jin1 dai4 shi4 nan2 xing2 mi4 shu1 。
+
+- xie4 zhi4 e2 guan1 jiu3 chen2 bu2 ， xing1 chen2 ting1 lü3 lang2 xu1 yu2 。
+
+- ye4 lai2 fei1 ru4 dong1 yuan2 qu4 ， meng4 li3 fen1 ming2 jue2 hou4 xu1 。
+
+## 译文
+
+诗吸卷五湖三江，雕刻琼是一句字为珠。前身感谢守吟澄训练，现在代世南行秘书。獬豸峨冠长期尘醭，星辰听踏郎一会儿。夜里来飞入东园离开，梦里分明觉得后虚。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+诗吸卷五湖三江，雕刻琼是一句字为珠。前身感谢守吟澄训练，现在代世南行秘书。獬豸峨冠长期尘醭，星辰听踏郎一会儿。夜里来飞入东园离开，梦里分明觉得后虚。
+	* 此部分翻译来自AI，仅供参考

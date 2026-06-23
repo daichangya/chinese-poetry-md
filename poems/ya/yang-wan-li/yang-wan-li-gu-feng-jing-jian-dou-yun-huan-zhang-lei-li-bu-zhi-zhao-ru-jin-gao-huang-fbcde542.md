@@ -1,0 +1,73 @@
+---
+id: yang-wan-li-gu-feng-jing-jian-dou-yun-huan-zhang-lei-li-bu-zhi-zhao-ru-jin-gao-huang-fbcde542
+title: 古风敬饯都运焕章雷吏部祗召入觐
+author: 杨万里
+authorSlug: yang-wan-li
+dynasty: 宋
+dynastySlug: song
+titlePinyin: gu3 feng1 jing4 jian4 dou1 yun4 huan4 zhang1 lei2 li4 bu4 zhi1 zhao4 ru4 jin4
+authorPinyin: yang2 wan4 li3
+dynastyPinyin: song4
+canonicalPoemId: 510712
+canonicalAuthorId: 5339
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 高皇中兴祛稷臣，紫岩先生弟一人。
+
+- 来从紫岩住紫盖，鸿钧转作湘中春。
+
+- 风流人物被草木，香满橘洲连狱麓。
+
+- 一时宾客盛邹枚，明月夜光和结绿。
+
+- 雷家夫子龙凤章，优入其室升其堂。
+
+- 朱幡玉节遍南纪，锦帐绫衾推望郎。
+
+- 使星下照翼轸旁，西山南浦回风光。
+
+- 渠侬别有经世具，袖却两手惟深藏。
+
+- 玉皇唤渠登庙廊，小却犹在持橐行。
+
+- 野人亦忝同门者，久挂衣冠卧林下。
+
+- 病身只合钓烟波，儿辈犹堪累甄冶。
+
+## 拼音
+
+- gao1 huang2 zhong1 xing1 qu1 ji4 chen2 ， zi3 yan2 xian1 sheng1 di4 yi4 ren2 。
+
+- lai2 cong2 zi3 yan2 zhu4 zi3 gai4 ， hong2 jun1 zhuan3 zuo4 xiang1 zhong1 chun1 。
+
+- feng1 liu2 ren2 wu4 bei4 cao3 mu4 ， xiang1 man3 ju2 zhou1 lian2 yu4 lu4 。
+
+- yi4 shi2 bin1 ke4 sheng4 zou1 mei2 ， ming2 yue4 ye4 guang1 he2 jie2 lü4 。
+
+- lei2 jia1 fu1 zi3 long2 feng4 zhang1 ， you1 ru4 qi2 shi4 sheng1 qi2 tang2 。
+
+- zhu1 fan1 yu4 jie2 bian4 nan2 ji4 ， jin3 zhang4 ling2 qin1 tui1 wang4 lang2 。
+
+- shi3 xing1 xia4 zhao4 yi4 zhen3 pang2 ， xi1 shan1 nan2 pu3 hui2 feng1 guang1 。
+
+- qu2 nong2 bie2 you3 jing1 shi4 ju4 ， xiu4 que4 liang3 shou3 wei2 shen1 cang2 。
+
+- yu4 huang2 huan4 qu2 deng1 miao4 lang2 ， xiao3 que4 you2 zai4 chi2 tuo2 xing2 。
+
+- ye3 ren2 yi4 tian3 tong2 men2 zhe3 ， jiu3 gua4 yi1 guan1 wo4 lin2 xia4 。
+
+- bing4 shen1 zhi1 he2 diao4 yan1 bo1 ， er2 bei4 you2 kan1 lei4 zhen1 ye3 。
+
+## 译文
+
+高皇中兴祛社稷之臣，紫色岩先生的弟弟一人。来从紫岩洞住紫盖，大钧转作湘中春。风雅人物被草木，香满橘洲连监狱山麓。一时宾客盛邹阳、枚乘，明月夜和结绿。雷家夫子龙凤章，优进入他家登孔氏之堂。朱幡玉节遍南纪，锦帐薄被子推望郎。使星下照翼轸旁边，西山南浦回风光。渠侬另外有经世具，袖子却两手只是隐藏。玉皇大帝叫渠登庙廊，小却还在拿着袋子走。野人也勉强同出一门的，长期挂衣服躺在林下。病身只合钓烟波，孩子们还可以多次甄冶。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+高皇中兴祛社稷之臣，紫色岩先生的弟弟一人。来从紫岩洞住紫盖，大钧转作湘中春。风雅人物被草木，香满橘洲连监狱山麓。一时宾客盛邹阳、枚乘，明月夜和结绿。雷家夫子龙凤章，优进入他家登孔氏之堂。朱幡玉节遍南纪，锦帐薄被子推望郎。使星下照翼轸旁边，西山南浦回风光。渠侬另外有经世具，袖子却两手只是隐藏。玉皇大帝叫渠登庙廊，小却还在拿着袋子走。野人也勉强同出一门的，长期挂衣服躺在林下。病身只合钓烟波，孩子们还可以多次甄冶。
+	* 此部分翻译来自AI，仅供参考

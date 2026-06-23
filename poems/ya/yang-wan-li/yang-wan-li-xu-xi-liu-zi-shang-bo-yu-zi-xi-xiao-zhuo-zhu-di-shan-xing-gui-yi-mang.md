@@ -1,0 +1,45 @@
+---
+id: yang-wan-li-xu-xi-liu-zi-shang-bo-yu-zi-xi-xiao-zhuo-zhu-di-shan-xing-gui-yi-mang
+title: 徐夕留子上、伯玉、子西小酌
+author: 杨万里
+authorSlug: yang-wan-li
+dynasty: 宋
+dynastySlug: song
+titlePinyin: xu2 xi1 liu2 zi3 shang4 、 bo2 yu4 、 zi3 xi1 xiao3 zhuo2
+authorPinyin: yang2 wan4 li3
+dynastyPinyin: song4
+canonicalPoemId: 602318
+canonicalAuthorId: 5339
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 诸弟山行皈意忙，老夫雪卧病身僵。
+
+- 维风及雨岁云暮，不醉无皈夜未央。
+
+- 五醆更搀三醆么，四更偏觉五更长。
+
+- 也知柏酒明朝近，且为梅花尽此觞。
+
+## 拼音
+
+- zhu1 di4 shan1 xing2 gui1 yi4 mang2 ， lao3 fu1 xue3 wo4 bing4 shen1 jiang1 。
+
+- wei2 feng1 ji2 yu3 sui4 yun2 mu4 ， bu2 zui4 wu2 gui1 ye4 wei4 yang1 。
+
+- wu3 zhan3 geng4 chan1 san1 zhan3 me0 ， si4 geng1 pian1 jue2 wu3 geng1 chang2 。
+
+- ye3 zhi1 bai3 jiu3 ming2 chao2 jin4 ， qie3 wei4 mei2 hua1 jin4 ci3 shang1 。
+
+## 译文
+
+诸位弟弟山走饭意忙，老夫雪生病身体僵硬。维风和雨年终，不醉无饭夜未央。五杯再掺三杯么，四更偏觉得五更长。也知道柏酒明天近，而且为梅花尽这杯。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+诸位弟弟山走饭意忙，老夫雪生病身体僵硬。维风和雨年终，不醉无饭夜未央。五杯再掺三杯么，四更偏觉得五更长。也知道柏酒明天近，而且为梅花尽这杯。
+	* 此部分翻译来自AI，仅供参考

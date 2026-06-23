@@ -1,0 +1,45 @@
+---
+id: yang-wu-jiu-jiu-ren-yue-yuan-feng-he-ri-pu-yu-yan-nen
+title: 人月圆
+author: 杨无咎
+authorSlug: yang-wu-jiu-jiu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ren2 yue4 yuan2
+authorPinyin: yang2 wu2 jiu4
+dynastyPinyin: song4
+canonicalPoemId: 408087
+canonicalAuthorId: 11606
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 风和日蒲余烟嫩，测测透鲛绡。
+
+- 相逢且喜，人圆玳席，月满丹霄。
+
+- 烂游胜赏，高低灯火，鼎沸笙箫。
+
+- 一年三百六十日，愿长似今宵。
+
+## 拼音
+
+- feng1 he2 ri4 pu2 yu2 yan1 nen4 ， ce4 ce4 tou4 jiao1 xiao1 。
+
+- xiang1 feng2 qie3 xi3 ， ren2 yuan2 dai4 xi2 ， yue4 man3 dan1 xiao1 。
+
+- lan4 you2 sheng4 shang3 ， gao1 di1 deng1 huo3 ， ding3 fei4 sheng1 xiao1 。
+
+- yi4 nian2 san1 bai3 liu4 shi2 ri4 ， yuan4 chang2 si4 jin1 xiao1 。
+
+## 译文
+
+风和太阳在我烟嫩，测测透鲛绡。相逢又高兴，人圆华席，月满丹霄。烂游胜赏，高低灯，鼎沸笙箫。一年三百六十天，愿长像今晚。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+风和太阳在我烟嫩，测测透鲛绡。相逢又高兴，人圆华席，月满丹霄。烂游胜赏，高低灯，鼎沸笙箫。一年三百六十天，愿长像今晚。
+	* 此部分翻译来自AI，仅供参考

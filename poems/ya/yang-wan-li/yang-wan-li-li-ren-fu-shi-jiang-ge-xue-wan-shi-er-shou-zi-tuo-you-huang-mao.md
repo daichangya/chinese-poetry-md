@@ -1,0 +1,45 @@
+---
+id: yang-wan-li-li-ren-fu-shi-jiang-ge-xue-wan-shi-er-shou-zi-tuo-you-huang-mao
+title: 李仁甫侍讲阁学挽诗二首
+author: 杨万里
+authorSlug: yang-wan-li
+dynasty: 宋
+dynastySlug: song
+titlePinyin: li3 ren2 fu3 shi4 jiang3 ge2 xue2 wan3 shi1 er4 shou3
+authorPinyin: yang2 wan4 li3
+dynastyPinyin: song4
+canonicalPoemId: 596590
+canonicalAuthorId: 5339
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 紫橐犹黄帽，青灯到白头。
+
+- 芝庭过晁董，金鐀续春秋。
+
+- 晓月承明寂，东风玉垒愁。
+
+- 殷懃倩潮水，将泪去西州。
+
+## 拼音
+
+- zi3 tuo2 you2 huang2 mao4 ， qing1 deng1 dao4 bai2 tou2 。
+
+- zhi1 ting2 guo4 chao2 dong3 ， jin1 gui4 xu4 chun1 qiu1 。
+
+- xiao3 yue4 cheng2 ming2 ji4 ， dong1 feng1 yu4 lei3 chou2 。
+
+- yin1 qin2 qian4 chao2 shui3 ， jiang1 lei4 qu4 xi1 zhou1 。
+
+## 译文
+
+紫橐还是黄帽子，青灯到白头。芝庭走过晃董，金鐀续春秋。晓月承明寂，东风玉垒愁。殷勤地请潮水，将眼泪离开西州。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+紫橐还是黄帽子，青灯到白头。芝庭走过晃董，金鐀续春秋。晓月承明寂，东风玉垒愁。殷勤地请潮水，将眼泪离开西州。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,45 @@
+---
+id: yang-wan-li-yi-chou-shang-yuan-hou-wan-wang-xue-li-jing-pian-hao
+title: 已丑上元后晚望
+author: 杨万里
+authorSlug: yang-wan-li
+dynasty: 宋
+dynastySlug: song
+titlePinyin: yi3 chou3 shang4 yuan2 hou4 wan3 wang4
+authorPinyin: yang2 wan4 li3
+dynastyPinyin: song4
+canonicalPoemId: 510993
+canonicalAuthorId: 5339
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 雪里睛偏好，寒余暖尚轻。
+
+- 山烟春自起，野烧暮方明。
+
+- 又是元宵过，端令病骨惊。
+
+- 遣愁聊觅句，得句却愁生。
+
+## 拼音
+
+- xue3 li3 jing1 pian1 hao3 ， han2 yu2 nuan3 shang4 qing1 。
+
+- shan1 yan1 chun1 zi4 qi3 ， ye3 shao1 mu4 fang1 ming2 。
+
+- you4 shi4 yuan2 xiao1 guo4 ， duan1 ling4 bing4 gu3 jing1 。
+
+- qian3 chou2 liao2 mi4 ju4 ， de2 ju4 que4 chou2 sheng1 。
+
+## 译文
+
+雪里眼睛偏好，我还轻寒暖。山烟春从起，野外烧暮方明。又是元宵过，故意使病骨惊。遣愁聊觅句，有句却愁生。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+雪里眼睛偏好，我还轻寒暖。山烟春从起，野外烧暮方明。又是元宵过，故意使病骨惊。遣愁聊觅句，有句却愁生。
+	* 此部分翻译来自AI，仅供参考
