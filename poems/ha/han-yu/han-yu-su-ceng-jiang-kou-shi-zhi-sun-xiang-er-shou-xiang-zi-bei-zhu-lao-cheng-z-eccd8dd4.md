@@ -1,0 +1,77 @@
+---
+id: han-yu-su-ceng-jiang-kou-shi-zhi-sun-xiang-er-shou-xiang-zi-bei-zhu-lao-cheng-z-eccd8dd4
+title: 宿曾江口示侄孙湘二首（湘，字北渚，老成之子）
+author: 韩愈
+authorSlug: han-yu
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: su4 ceng2 jiang1 kou3 shi4 zhi2 sun1 xiang1 er4 shou3 （ xiang1 ， zi4 bei3 zhu3 ， lao3 cheng2 zhi1 zi3 ）
+authorPinyin: han2 yu4
+dynastyPinyin: tang2
+canonicalPoemId: 536530
+canonicalAuthorId: 305
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 云昏水奔流，天水漭相围。
+
+- 三江灭无口，其谁识涯圻。
+
+- 暮宿投民村，高处水半扉。
+
+- 犬鸡俱上屋，不复走与飞。
+
+- 篙舟入其家，暝闻屋中唏。
+
+- 问知岁常然，哀此为生微。
+
+- 海风吹寒晴，波扬众星辉。
+
+- 仰视北斗高，不知路所归。
+
+- 舟行忘故道，屈曲高林间。
+
+- 林间无所有，奔流但潺潺。
+
+- 嗟我亦拙谋，致身落南蛮。
+
+- 茫然失所诣，无路何能还。
+
+## 拼音
+
+- yun2 hun1 shui3 ben1 liu2 ， tian1 shui3 mang3 xiang1 wei2 。
+
+- san1 jiang1 mie4 wu2 kou3 ， qi2 shui2 shi2 ya2 qi2 。
+
+- mu4 su4 tou2 min2 cun1 ， gao1 chu4 shui3 ban4 fei1 。
+
+- quan3 ji1 ju4 shang4 wu1 ， bu2 fu4 zou3 yu3 fei1 。
+
+- gao1 zhou1 ru4 qi2 jia1 ， ming2 wen2 wu1 zhong1 xi1 。
+
+- wen4 zhi1 sui4 chang2 ran2 ， ai1 ci3 wei2 sheng1 wei1 。
+
+- hai3 feng1 chui1 han2 qing2 ， bo1 yang2 zhong4 xing1 hui1 。
+
+- yang3 shi4 bei3 dou4 gao1 ， bu4 zhi1 lu4 suo3 gui1 。
+
+- zhou1 xing2 wang4 gu4 dao4 ， qu1 qu3 gao1 lin2 jian1 。
+
+- lin2 jian1 wu2 suo3 you3 ， ben1 liu2 dan4 chan2 chan2 。
+
+- jie1 wo3 yi4 zhuo1 mou2 ， zhi4 shen1 luo4 nan2 man2 。
+
+- mang2 ran2 shi1 suo3 yi4 ， wu2 lu4 he2 neng2 hai2 。
+
+## 译文
+
+说昏水奔流，天水漭相包围。三江灭无口，那些谁认识涯涯。晚上在投民村，高的地方水半扇门。狗、鸡一起上屋，不再奔跑和飞翔。竹篙船进入他的家，傍晚听到屋里郭唏。问知道每年但，可怜这是产生轻微。海风吹寒冷天气，波扬众星辉。抬头看北斗高，不知道路归宿。船行忘故道，弯曲高森林中。林之间不会有，奔腾的水流只是潺潺。唉我又不善于谋划，把身体落在南蛮。茫然失所到，没有什么能回路。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+说昏水奔流，天水漭相包围。三江灭无口，那些谁认识涯涯。晚上在投民村，高的地方水半扇门。狗、鸡一起上屋，不再奔跑和飞翔。竹篙船进入他的家，傍晚听到屋里郭唏。问知道每年但，可怜这是产生轻微。海风吹寒冷天气，波扬众星辉。抬头看北斗高，不知道路归宿。船行忘故道，弯曲高森林中。林之间不会有，奔腾的水流只是潺潺。唉我又不善于谋划，把身体落在南蛮。茫然失所到，没有什么能回路。
+	* 此部分翻译来自AI，仅供参考

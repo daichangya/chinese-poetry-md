@@ -1,0 +1,37 @@
+---
+id: han-yu-bie-ying-shang-ren-shan-seng-ai-shan-chu-wu-qi
+title: 别盈上人
+author: 韩愈
+authorSlug: han-yu
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: bie2 ying2 shang4 ren2
+authorPinyin: han2 yu4
+dynastyPinyin: tang2
+canonicalPoemId: 384202
+canonicalAuthorId: 305
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 山僧爱山出无期，俗士牵俗来何时。
+
+- 祝融峰下一回首，即是此生长别离。
+
+## 拼音
+
+- shan1 seng1 ai4 shan1 chu1 wu2 qi1 ， su2 shi4 qian1 su2 lai2 he2 shi2 。
+
+- zhu4 rong2 feng1 xia4 yi4 hui2 shou3 ， ji2 shi4 ci3 sheng1 zhang3 bie2 li2 。
+
+## 译文
+
+山寺的和尚爱山出无期，俗士牵习俗来什么时候。祝融峰下一回头，这就是此生永远离别。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+山寺的和尚爱山出无期，俗士牵习俗来什么时候。祝融峰下一回头，这就是此生永远离别。
+	* 此部分翻译来自AI，仅供参考

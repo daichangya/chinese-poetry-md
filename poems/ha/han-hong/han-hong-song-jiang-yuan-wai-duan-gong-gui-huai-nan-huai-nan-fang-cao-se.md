@@ -1,0 +1,45 @@
+---
+id: han-hong-song-jiang-yuan-wai-duan-gong-gui-huai-nan-huai-nan-fang-cao-se
+title: 送蒋员外端公归淮南
+author: 韩翃
+authorSlug: han-hong
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: song4 jiang3 yuan2 wai4 duan1 gong1 gui1 huai2 nan2
+authorPinyin: han2 hong2
+dynastyPinyin: tang2
+canonicalPoemId: 452602
+canonicalAuthorId: 252
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 淮南芳草色，日夕引归船。
+
+- 御史王元贶，郎官顾彦先。
+
+- 光风千日暖，寒食百花燃。
+
+- 惆怅佳期近，澄江与暮天。
+
+## 拼音
+
+- huai2 nan2 fang1 cao3 se4 ， ri4 xi1 yin3 gui1 chuan2 。
+
+- yu4 shi3 wang2 yuan2 kuang4 ， lang2 guan1 gu4 yan4 xian1 。
+
+- guang1 feng1 qian1 ri4 nuan3 ， han2 shi2 bai3 hua1 ran2 。
+
+- chou2 chang4 jia1 qi1 jin4 ， cheng2 jiang1 yu3 mu4 tian1 。
+
+## 译文
+
+淮南王芳草色，一天晚上返回船。御史王元恩赐，郎官顾彦先。光风千日暖，寒食节百花点燃。惆怅佳期近，澄江和傍晚天。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+淮南王芳草色，一天晚上返回船。御史王元恩赐，郎官顾彦先。光风千日暖，寒食节百花点燃。惆怅佳期近，澄江和傍晚天。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,37 @@
+---
+id: han-yuan-ji-fang-wu-yuan-ding-ru-cun-wu-shou-jing-xun-ni-liao-lu-nan-gan
+title: 访吴元鼎如村五首
+author: 韩元吉
+authorSlug: han-yuan-ji
+dynasty: 宋
+dynastySlug: song
+titlePinyin: fang3 wu2 yuan2 ding3 ru2 cun1 wu3 shou3
+authorPinyin: han2 yuan2 ji2
+dynastyPinyin: song4
+canonicalPoemId: 474682
+canonicalAuthorId: 5079
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 经旬泥潦路难干，烟袅长林雨暗山。
+
+- 常笑诗人愁屋漏，却思寒士与千间。
+
+## 拼音
+
+- jing1 xun2 ni2 liao2 lu4 nan2 gan1 ， yan1 niao3 chang2 lin2 yu3 an4 shan1 。
+
+- chang2 xiao4 shi1 ren2 chou2 wu1 lou4 ， que4 si1 han2 shi4 yu3 qian1 jian1 。
+
+## 译文
+
+经天泥水路难干，烟袅袅长林雨暗山。常笑着诗人愁屋漏，现在想起寒人与千里。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+经天泥水路难干，烟袅袅长林雨暗山。常笑着诗人愁屋漏，现在想起寒人与千里。
+	* 此部分翻译来自AI，仅供参考

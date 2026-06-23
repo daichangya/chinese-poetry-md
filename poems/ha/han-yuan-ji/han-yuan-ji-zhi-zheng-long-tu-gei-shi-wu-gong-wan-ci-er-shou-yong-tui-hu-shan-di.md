@@ -1,0 +1,45 @@
+---
+id: han-yuan-ji-zhi-zheng-long-tu-gei-shi-wu-gong-wan-ci-er-shou-yong-tui-hu-shan-di
+title: 致政龙图给事吴公挽词二首
+author: 韩元吉
+authorSlug: han-yuan-ji
+dynasty: 宋
+dynastySlug: song
+titlePinyin: zhi4 zheng4 long2 tu2 gei3 shi4 wu2 gong1 wan3 ci2 er4 shou3
+authorPinyin: han2 yuan2 ji2
+dynastyPinyin: song4
+canonicalPoemId: 475079
+canonicalAuthorId: 5079
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 勇退湖山地，心期白傅论。
+
+- 仙风占苍岭，乐土并桃源。
+
+- 壮节传交旧，儒科付子孙。
+
+- 修龄才八十，殄瘁只声吞。
+
+## 拼音
+
+- yong3 tui4 hu2 shan1 di4 ， xin1 qi1 bai2 fu4 lun4 。
+
+- xian1 feng1 zhan4 cang1 ling3 ， le4 tu3 bing4 tao2 yuan2 。
+
+- zhuang4 jie2 chuan2 jiao1 jiu4 ， ru2 ke1 fu4 zi3 sun1 。
+
+- xiu1 ling2 cai2 ba1 shi2 ， tian3 cui4 zhi1 sheng1 tun1 。
+
+## 译文
+
+勇敢地退湖山，心期白傅论。仙风占苍岭，乐土并桃源。壮节传交朋友，儒家科给子孙。修龄才八十，衰微只声吞。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+勇敢地退湖山，心期白傅论。仙风占苍岭，乐土并桃源。壮节传交朋友，儒家科给子孙。修龄才八十，衰微只声吞。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,41 @@
+---
+id: han-hong-ling-hu-yuan-wai-zhai-yan-ji-zhong-cheng-han-se-ning-luo-mu
+title: 令狐员外宅宴寄中丞
+author: 韩翃
+authorSlug: han-hong
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: ling2 hu2 yuan2 wai4 zhai2 yan4 ji4 zhong1 cheng2
+authorPinyin: han2 hong2
+dynastyPinyin: tang2
+canonicalPoemId: 452534
+canonicalAuthorId: 252
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 寒色凝罗幕，同人清夜期。
+
+- 玉杯留醉处，银烛送归时。
+
+- 独坐隔千里，空吟对雪诗。
+
+## 拼音
+
+- han2 se4 ning2 luo2 mu4 ， tong2 ren2 qing1 ye4 qi1 。
+
+- yu4 bei1 liu2 zui4 chu4 ， yin2 zhu2 song4 gui1 shi2 。
+
+- du2 zuo4 ge2 qian1 li3 ， kong1 yin2 dui4 xue3 shi1 。
+
+## 译文
+
+寒凝罗幕色，朋友深夜约会。玉杯留醉处，银烛送回家的时候。独坐隔千里，空吟回答雪诗。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+寒凝罗幕色，朋友深夜约会。玉杯留醉处，银烛送回家的时候。独坐隔千里，空吟回答雪诗。
+	* 此部分翻译来自AI，仅供参考

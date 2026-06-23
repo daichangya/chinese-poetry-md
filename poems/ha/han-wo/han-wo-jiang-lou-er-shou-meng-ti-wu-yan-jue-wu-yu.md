@@ -1,0 +1,46 @@
+---
+id: han-wo-jiang-lou-er-shou-meng-ti-wu-yan-jue-wu-yu
+title: 江楼二首
+author: 韩偓
+authorSlug: han-wo
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: jiang1 lou2 er4 shou3
+authorPinyin: han2 wo4
+dynastyPinyin: tang2
+canonicalPoemId: 393653
+canonicalAuthorId: 4857
+tags:
+  - 诗词
+  - 御定全唐诗
+---
+
+## 正文
+
+- 梦啼呜咽觉无语，杳杳微微望烟浦。
+
+- 楼空客散燕交飞，江静帆飞日亭午。
+
+- ok鱼苦笋香味新，杨柳酒旗三月春。
+
+- 风光百计牵人老，争奈多情是病身。
+
+## 拼音
+
+- meng4 ti2 wu1 yan4 jue2 wu2 yu3 ， yao3 yao3 wei1 wei1 wang4 yan1 pu3 。
+
+- lou2 kong1 ke4 san4 yan4 jiao1 fei1 ， jiang1 jing4 fan1 fei1 ri4 ting2 wu3 。
+
+- o k yu2 ku3 sun3 xiang1 wei4 xin1 ， yang2 liu3 jiu3 qi2 san1 yue4 chun1 。
+
+- feng1 guang1 bai3 ji4 qian1 ren2 lao3 ， zheng1 nai4 duo1 qing2 shi4 bing4 shen1 。
+
+## 译文
+
+梦啼呜咽觉得无语，杳杳微微看烟浦。楼空客人散燕交飞，江静帆飞日正午。 ok鱼苦笋香味新，杨柳酒旗三月春。风光千方百计拉老人，无奈多情是人身体。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+梦啼呜咽觉得无语，杳杳微微看烟浦。楼空客人散燕交飞，江静帆飞日正午。 ok鱼苦笋香味新，杨柳酒旗三月春。风光千方百计拉老人，无奈多情是人身体。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,31 @@
+---
+id: han-wei-you-long-men-shi-shi-er-shou-qi-jiu-sheng-shan-si-zhi-jing-fan-ji-pan
+title: 游龙门诗十二首 其九 圣善寺
+author: 韩维
+authorSlug: han-wei
+dynasty: 宋
+dynastySlug: song
+titlePinyin: you2 long2 men2 shi1 shi2 er4 shou3   qi2 jiu3   sheng4 shan4 si4
+authorPinyin: han2 wei2
+dynastyPinyin: song4
+canonicalPoemId: 484472
+canonicalAuthorId: 5307
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 陟径凡几盘，坐堂聊一息。
+
+- 龙去空旧岩，崖崩有遗石。
+
+- 不见林下僧，鸟啼山寂寂。
+
+## 拼音
+
+- zhi4 jing4 fan2 ji3 pan2 ， zuo4 tang2 liao2 yi4 xi1 。
+
+- long2 qu4 kong1 jiu4 yan2 ， ya2 beng1 you3 yi2 shi2 。
+
+- bu2 jian4 lin2 xia4 seng1 ， niao3 ti2 shan1 ji4 ji4 。

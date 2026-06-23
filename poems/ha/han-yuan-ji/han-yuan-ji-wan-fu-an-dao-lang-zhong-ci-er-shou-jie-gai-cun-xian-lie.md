@@ -1,0 +1,45 @@
+---
+id: han-yuan-ji-wan-fu-an-dao-lang-zhong-ci-er-shou-jie-gai-cun-xian-lie
+title: 挽傅安道郎中词二首
+author: 韩元吉
+authorSlug: han-yuan-ji
+dynasty: 宋
+dynastySlug: song
+titlePinyin: wan3 fu4 an1 dao4 lang2 zhong1 ci2 er4 shou3
+authorPinyin: han2 yuan2 ji2
+dynastyPinyin: song4
+canonicalPoemId: 475086
+canonicalAuthorId: 5079
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 节概存先烈，文才蔼俊声。
+
+- 弟兄联膴仕，父子擅英名。
+
+- 密勿栖郎省，光华拥使旌。
+
+- 甘泉虚从橐，曾未席恩荣。
+
+## 拼音
+
+- jie2 gai4 cun2 xian1 lie4 ， wen2 cai2 ai3 jun4 sheng1 。
+
+- di4 xiong0 lian2 wu3 shi4 ， fu4 zi3 shan4 ying1 ming2 。
+
+- mi4 wu4 qi1 lang2 sheng3 ， guang1 hua2 yong1 shi3 jing1 。
+
+- gan1 quan2 xu1 cong2 tuo2 ， ceng2 wei4 xi2 en1 rong2 。
+
+## 译文
+
+节保存先烈，文才蔼俊声。兄弟联长满退休，父子擅英名称。秘密，不要住在郎省，光华拥有使族。甘泉虚从袋子，未曾席恩荣。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+节保存先烈，文才蔼俊声。兄弟联长满退休，父子擅英名称。秘密，不要住在郎省，光华拥有使族。甘泉虚从袋子，未曾席恩荣。
+	* 此部分翻译来自AI，仅供参考

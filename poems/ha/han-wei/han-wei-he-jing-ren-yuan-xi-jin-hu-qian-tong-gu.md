@@ -1,0 +1,45 @@
+---
+id: han-wei-he-jing-ren-yuan-xi-jin-hu-qian-tong-gu
+title: 和景仁元夕
+author: 韩维
+authorSlug: han-wei
+dynasty: 宋
+dynastySlug: song
+titlePinyin: he2 jing3 ren2 yuan2 xi1
+authorPinyin: han2 wei2
+dynastyPinyin: song4
+canonicalPoemId: 484444
+canonicalAuthorId: 5307
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 禁户千通鼓，天街万点灯。
+
+- 怀君莹如玉，驱马不嫌冰。
+
+- 乐事看流俗，狂游记旧朋。
+
+- 回思真梦幻，不待访林僧。
+
+## 拼音
+
+- jin4 hu4 qian1 tong1 gu3 ， tian1 jie1 wan4 dian3 deng1 。
+
+- huai2 jun1 ying2 ru2 yu4 ， qu1 ma3 bu4 xian2 bing1 。
+
+- le4 shi4 kan4 liu2 su2 ， kuang2 you2 ji4 jiu4 peng2 。
+
+- hui2 si1 zhen1 meng4 huan4 ， bu2 dai4 fang3 lin2 seng1 。
+
+## 译文
+
+禁止千户通鼓，天街万点灯火。怀你晶莹如玉，驱马不嫌冰。快乐的事看民间，狂游记旧朋。回想真梦幻，不需要访问林僧。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+禁止千户通鼓，天街万点灯火。怀你晶莹如玉，驱马不嫌冰。快乐的事看民间，狂游记旧朋。回想真梦幻，不需要访问林僧。
+	* 此部分翻译来自AI，仅供参考

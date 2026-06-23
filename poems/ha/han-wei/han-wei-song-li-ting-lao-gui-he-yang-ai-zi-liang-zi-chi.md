@@ -1,0 +1,57 @@
+---
+id: han-wei-song-li-ting-lao-gui-he-yang-ai-zi-liang-zi-chi
+title: 送李廷老归河阳
+author: 韩维
+authorSlug: han-wei
+dynasty: 宋
+dynastySlug: song
+titlePinyin: song4 li3 ting2 lao3 gui1 he2 yang2
+authorPinyin: han2 wei2
+dynastyPinyin: song4
+canonicalPoemId: 592814
+canonicalAuthorId: 5307
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 爱子良自持，不复前日并。
+
+- 乃能从古人，帖帖事闲静。
+
+- 西轩雨新足，众药长条颍。
+
+- 援琴对浊酒，尽此夏日永。
+
+- 归心不可留，知子念晨省。
+
+- 驱车遵大河，回首望嵩岭。
+
+- 相思倘以诗，见寄尉幽屏。
+
+## 拼音
+
+- ai4 zi3 liang2 zi4 chi2 ， bu2 fu4 qian2 ri4 bing4 。
+
+- nai3 neng2 cong2 gu3 ren2 ， tie1 tie1 shi4 xian2 jing4 。
+
+- xi1 xuan1 yu3 xin1 zu2 ， zhong4 yao4 chang2 tiao2 ying3 。
+
+- yuan2 qin2 dui4 zhuo2 jiu3 ， jin4 ci3 xia4 ri4 yong3 。
+
+- gui1 xin1 bu4 ke3 liu2 ， zhi1 zi3 nian4 chen2 sheng3 。
+
+- qu1 che1 zun1 da4 he2 ， hui2 shou3 wang4 song1 ling3 。
+
+- xiang1 si1 tang3 yi3 shi1 ， jian4 ji4 wei4 you1 ping2 。
+
+## 译文
+
+爱你很挣扎，不能再前一天都。便能从古人，帖事安静。西廊下新足，多药长条颖。弹琴相对浑浊的酒，全部这夏天永远。回心不可留，知道你想早晨省。驱车沿着大河，回首望嵩岭。相思如果用诗，见寄慰幽屏。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+爱你很挣扎，不能再前一天都。便能从古人，帖事安静。西廊下新足，多药长条颖。弹琴相对浑浊的酒，全部这夏天永远。回心不可留，知道你想早晨省。驱车沿着大河，回首望嵩岭。相思如果用诗，见寄慰幽屏。
+	* 此部分翻译来自AI，仅供参考

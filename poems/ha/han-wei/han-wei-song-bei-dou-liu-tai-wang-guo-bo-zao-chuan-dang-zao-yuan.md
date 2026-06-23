@@ -1,0 +1,69 @@
+---
+id: han-wei-song-bei-dou-liu-tai-wang-guo-bo-zao-chuan-dang-zao-yuan
+title: 送北都留台王国博
+author: 韩维
+authorSlug: han-wei
+dynasty: 宋
+dynastySlug: song
+titlePinyin: song4 bei3 dou1 liu2 tai2 wang2 guo2 bo2
+authorPinyin: han2 wei2
+dynastyPinyin: song4
+canonicalPoemId: 592359
+canonicalAuthorId: 5307
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 凿川当凿源，植木当植根。
+
+- 修身有本末，请自心术言。
+
+- 中正检欹侧，明诚破疑昏。
+
+- 性通学且博，事业乃可论。
+
+- 问胡能致然，圣有六经存。
+
+- 子诚好古士，拔足立贵门。
+
+- 愿分留台务，力学甘避喧。
+
+- 吾知大其业，流远实亦繁。
+
+- 归来骋夷路，良马驾轻轩。
+
+- 赠言君勿嗤，兹道古所敦。
+
+## 拼音
+
+- zao2 chuan1 dang1 zao2 yuan2 ， zhi2 mu4 dang1 zhi2 gen1 。
+
+- xiu1 shen1 you3 ben3 mo4 ， qing3 zi4 xin1 shu4 yan2 。
+
+- zhong1 zheng4 jian3 qi1 ce4 ， ming2 cheng2 po4 yi2 hun1 。
+
+- xing4 tong1 xue2 qie3 bo2 ， shi4 ye4 nai3 ke3 lun4 。
+
+- wen4 hu2 neng2 zhi4 ran2 ， sheng4 you3 liu4 jing1 cun2 。
+
+- zi3 cheng2 hao3 gu3 shi4 ， ba2 zu2 li4 gui4 men2 。
+
+- yuan4 fen1 liu2 tai2 wu4 ， li4 xue2 gan1 bi4 xuan1 。
+
+- wu2 zhi1 da4 qi2 ye4 ， liu2 yuan3 shi2 yi4 fan2 。
+
+- gui1 lai2 cheng3 yi2 lu4 ， liang2 ma3 jia4 qing1 xuan1 。
+
+- zeng4 yan2 jun1 wu4 chi1 ， zi1 dao4 gu3 suo3 dun1 。
+
+## 译文
+
+当挖凿河流源头，种植树木在植物根。修身有本末，请从思想言论。中正检查倾斜，第二是打破怀疑昏。性通学习并且广泛，事业是可以讨论。问怎么能造成，圣人有六经保存。你确实喜欢古代士，拔足立贵门。愿分留台事务，努力学习甘避开喧闹。我知道大的行业，流远实际上也越多。回来发挥民族路，好马驾轻轩。赠说你不要笑话，这道古老的敦。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+当挖凿河流源头，种植树木在植物根。修身有本末，请从思想言论。中正检查倾斜，第二是打破怀疑昏。性通学习并且广泛，事业是可以讨论。问怎么能造成，圣人有六经保存。你确实喜欢古代士，拔足立贵门。愿分留台事务，努力学习甘避开喧闹。我知道大的行业，流远实际上也越多。回来发挥民族路，好马驾轻轩。赠说你不要笑话，这道古老的敦。
+	* 此部分翻译来自AI，仅供参考
