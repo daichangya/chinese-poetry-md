@@ -1,0 +1,41 @@
+---
+id: lu-you-deng-xia-xiao-zhuo-jiang-hu-shuang-bin-tu
+title: 灯下小酌
+author: 陆游
+authorSlug: lu-you
+dynasty: 宋
+dynastySlug: song
+titlePinyin: deng1 xia4 xiao3 zhuo2
+authorPinyin: lu4 you2
+dynastyPinyin: song4
+canonicalPoemId: 381842
+canonicalAuthorId: 5076
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 江湖双鬓秃，宇宙一身穷，酒浪摇轻碧，灯花落碎红。
+
+- 交情元易见，春事半成空。
+
+- 尚觊身强健，烟畦撷芥菘。
+
+## 拼音
+
+- jiang1 hu2 shuang1 bin4 tu1 ， yu3 zhou4 yi4 shen1 qiong2 ， jiu3 lang4 yao2 qing1 bi4 ， deng1 hua1 luo4 sui4 hong2 。
+
+- jiao1 qing2 yuan2 yi4 jian4 ， chun1 shi4 ban4 cheng2 kong1 。
+
+- shang4 ji4 shen1 qiang2 jian4 ， yan1 qi2 xie2 jie4 song1 。
+
+## 译文
+
+江湖双头发秃，宇宙一个人穷，浪轻轻摇动碧酒，灯光落碎红。交情元易见，春天事半成空。还希望身体健壮，烟田畦撷芥菘。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+江湖双头发秃，宇宙一个人穷，浪轻轻摇动碧酒，灯光落碎红。交情元易见，春天事半成空。还希望身体健壮，烟田畦撷芥菘。
+	* 此部分翻译来自AI，仅供参考

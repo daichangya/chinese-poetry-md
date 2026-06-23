@@ -1,0 +1,45 @@
+---
+id: lu-you-qi-yue-ba-ri-ma-shang-zuo-gou-shui-jin-xin-yue
+title: 七月八日马上作
+author: 陆游
+authorSlug: lu-you
+dynasty: 宋
+dynastySlug: song
+titlePinyin: qi1 yue4 ba1 ri4 ma3 shang4 zuo4
+authorPinyin: lu4 you2
+dynastyPinyin: song4
+canonicalPoemId: 378882
+canonicalAuthorId: 5076
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 沟水浸新月，街槐生碧烟。
+
+- 明河七夕后，倦马五门前。
+
+- 小市灯初闹，高楼鼓已传。
+
+- 赋诗宽客恨，哦罢却凄然。
+
+## 拼音
+
+- gou1 shui3 jin4 xin1 yue4 ， jie1 huai2 sheng1 bi4 yan1 。
+
+- ming2 he2 qi1 xi1 hou4 ， juan4 ma3 wu3 men2 qian2 。
+
+- xiao3 shi4 deng1 chu1 nao4 ， gao1 lou2 gu3 yi3 chuan2 。
+
+- fu4 shi1 kuan1 ke4 hen4 ， o4 ba4 que4 qi1 ran2 。
+
+## 译文
+
+沟水浸新月，街槐树生碧烟。银河七夕后，倦马五门前。小市灯开始闹，高楼鼓已传。赋诗宽客恨，哦罢却凄凉。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+沟水浸新月，街槐树生碧烟。银河七夕后，倦马五门前。小市灯开始闹，高楼鼓已传。赋诗宽客恨，哦罢却凄凉。
+	* 此部分翻译来自AI，仅供参考

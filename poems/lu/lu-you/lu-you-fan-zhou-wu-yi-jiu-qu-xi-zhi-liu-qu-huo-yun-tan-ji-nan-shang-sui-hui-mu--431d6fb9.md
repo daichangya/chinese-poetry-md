@@ -1,0 +1,37 @@
+---
+id: lu-you-fan-zhou-wu-yi-jiu-qu-xi-zhi-liu-qu-huo-yun-tan-ji-nan-shang-sui-hui-mu--431d6fb9
+title: 泛舟武夷九曲溪至六曲或云滩急难上遂回
+author: 陆游
+authorSlug: lu-you
+dynasty: 宋
+dynastySlug: song
+titlePinyin: fan4 zhou1 wu3 yi2 jiu3 qu1 xi1 zhi4 liu4 qu3 huo4 yun2 tan1 ji2 nan2 shang4 sui4 hui2
+authorPinyin: lu4 you2
+dynastyPinyin: song4
+canonicalPoemId: 588084
+canonicalAuthorId: 5076
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 暮年脚力倦跻攀，借得扁舟卧看山。
+
+- 怪怪奇奇何所似，绿萝溪入下牢关。
+
+## 拼音
+
+- mu4 nian2 jiao3 li4 juan4 ji1 pan1 ， jie4 de2 pian1 zhou1 wo4 kan4 shan1 。
+
+- guai4 guai4 qi2 qi2 he2 suo3 si4 ， lü4 luo2 xi1 ru4 xia4 lao2 guan1 。
+
+## 译文
+
+晚年腿力疲劳攀登，借来小船躺在床上看山。怪怪奇奇像什么，绿色梦溪入下牢关。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+晚年腿力疲劳攀登，借来小船躺在床上看山。怪怪奇奇像什么，绿色梦溪入下牢关。
+	* 此部分翻译来自AI，仅供参考

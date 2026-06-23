@@ -1,0 +1,45 @@
+---
+id: lu-you-zi-jing-ru-peng-fo-zhou-ju-ru-xu
+title: 自警
+author: 陆游
+authorSlug: lu-you
+dynasty: 宋
+dynastySlug: song
+titlePinyin: zi4 jing3
+authorPinyin: lu4 you2
+dynastyPinyin: song4
+canonicalPoemId: 381465
+canonicalAuthorId: 5076
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 乳烹佛粥遽如许，菜簇春盘行及时。
+
+- 草木欣欣渠得意，乾坤浩浩我何私。
+
+- 怀材所忌多轻用，学道当从不自欺。
+
+- 旦暮置规君勿怪，修身三省自先师。
+
+## 拼音
+
+- ru3 peng1 fo2 zhou1 ju4 ru2 xu3 ， cai4 cu4 chun1 pan2 xing2 ji2 shi2 。
+
+- cao3 mu4 xin1 xin1 qu2 de2 yi4 ， qian2 kun1 hao4 hao4 wo3 he2 si1 。
+
+- huai2 cai2 suo3 ji4 duo1 qing1 yong4 ， xue2 dao4 dang1 cong2 bu2 zi4 qi1 。
+
+- dan4 mu4 zhi4 gui1 jun1 wu4 guai4 ， xiu1 shen1 san1 sheng3 zi4 xian1 shi1 。
+
+## 译文
+
+奶煮粥就如许佛，菜簇春盘行及时。草木欣欣渠得意，乾坤浩浩我什么私人。怀材所忌多轻易，学道应当从自己不欺骗。早晚设置规划你不要奇怪，修身三省从先师。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+奶煮粥就如许佛，菜簇春盘行及时。草木欣欣渠得意，乾坤浩浩我什么私人。怀材所忌多轻易，学道应当从自己不欺骗。早晚设置规划你不要奇怪，修身三省从先师。
+	* 此部分翻译来自AI，仅供参考

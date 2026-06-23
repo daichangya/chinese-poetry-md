@@ -1,0 +1,89 @@
+---
+id: lu-you-ci-yun-he-yang-bai-zi-zhu-bo-jian-zeng-zhai-jie-kou-tou-jian-tian-gong-2
+title: 次韵和杨伯子主簿见赠
+author: 陆游
+authorSlug: lu-you
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ci4 yun4 he2 yang2 bai3 zi0 zhu3 bo2 jian4 zeng4
+authorPinyin: lu4 you2
+dynastyPinyin: song4
+canonicalPoemId: 381895
+canonicalAuthorId: 5076
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 斋戒叩头牋天公，幸矣使我为枯蓬；
+
+- 枯蓬于世百无用，始得旷快乘秋风。
+
+- 此生安往失贫贱，白发萧萧对黄卷，今人虽邻有不觌，古人却向书中见。
+
+- 猿啼月落青山空，旧隐梦寐思东蒙；
+
+- 不愿峨冠赤墀下，且可短剑红尘中。
+
+- 终年无人问良苦，眼望青天惟自许；
+
+- 可怜对酒不敢豪，它日空浇坟上土。
+
+- 文章最忌百家衣，火龙黼黻世不知。
+
+- 谁能养气塞天地，吐出自足成虹蜺。
+
+- 渡江诸贤骨已朽，老夫亦将正丘首。
+
+- 杜郎苦瘦帽𢬍耳，程子久贫衣露肘。
+
+- 君复作意寻齐盟，岂知衰懦畏后生。
+
+- 大篇一读我起立，喜君得法从家庭。
+
+- 鲲鹏自有天池著，谁谓太狂须束缚？
+
+- 大机大用君已传，那遣老夫安注脚。
+
+## 拼音
+
+- zhai1 jie4 kou4 tou2 jian1 tian1 gong1 ， xing4 yi3 shi3 wo3 wei4 ku1 peng2 ；
+
+- ku1 peng2 yu2 shi4 bai3 wu2 yong4 ， shi3 de2 kuang4 kuai4 cheng2 qiu1 feng1 。
+
+- ci3 sheng1 an1 wang3 shi1 pin2 jian4 ， bai2 fa4 xiao1 xiao1 dui4 huang2 juan4 ， jin1 ren2 sui1 lin2 you3 bu4 di2 ， gu3 ren2 que4 xiang4 shu1 zhong1 jian4 。
+
+- yuan2 ti2 yue4 luo4 qing1 shan1 kong1 ， jiu4 yin3 meng4 mei4 si1 dong1 meng2 ；
+
+- bu2 yuan4 e2 guan1 chi4 chi2 xia4 ， qie3 ke3 duan3 jian4 hong2 chen2 zhong1 。
+
+- zhong1 nian2 wu2 ren2 wen4 liang2 ku3 ， yan3 wang4 qing1 tian1 wei2 zi4 xu3 ；
+
+- ke3 lian2 dui4 jiu3 bu4 gan3 hao2 ， ta1 ri4 kong1 jiao1 fen2 shang4 tu3 。
+
+- wen2 zhang1 zui4 ji4 bai3 jia1 yi1 ， huo3 long2 fu3 fu2 shi4 bu4 zhi1 。
+
+- shui2 neng2 yang3 qi4 sai1 tian1 di4 ， tu3 chu1 zi4 zu2 cheng2 hong2 ni2 。
+
+- du4 jiang1 zhu1 xian2 gu3 yi3 xiu3 ， lao3 fu1 yi4 jiang1 zheng4 qiu1 shou3 。
+
+- du4 lang2 ku3 shou4 mao4 𢬍 er3 ， cheng2 zi3 jiu3 pin2 yi1 lu4 zhou3 。
+
+- jun1 fu4 zuo4 yi4 xun2 qi2 meng2 ， qi3 zhi1 shuai1 nuo4 wei4 hou4 sheng1 。
+
+- da4 pian1 yi4 du2 wo3 qi3 li4 ， xi3 jun1 de2 fa3 cong2 jia1 ting2 。
+
+- kun1 peng2 zi4 you3 tian1 chi2 zhu4 ， shui2 wei4 tai4 kuang2 xu1 shu4 fu4 ？
+
+- da4 ji1 da4 yong4 jun1 yi3 chuan2 ， na4 qian3 lao3 fu1 an1 zhu4 jiao3 。
+
+## 译文
+
+斋戒叩头牋天公，到了让我们为枯蓬；在社会上各种无用枯蓬，开始得到旷节乘秋风。这一生怎么去失去贫穷卑贱的人，白发萧萧对黄卷，现在的人虽然邻居有不规，古代人却向书中看到。猿啼月落青山空，旧隐梦思东蒙；不愿意戴高帽赤墀下，而且可以把短剑红尘中。终年没有人问过苦，眼望青天只有从许；可怜对酒不敢豪，其他天空浇坟上的土。文章最忌百家衣服，火龙黼黻世人不知道。谁能养气充塞天地，吐出自己能够成彩虹。渡江，骨头已经腐烂，老夫也将正丘头。杜郎辛苦瘦帽𢬍罢了，程子长期贫困衣露肘。君又故意寻找结盟，岂知衰弱懦弱后生可畏。大篇一读我站起来，很高兴你能法从家庭。辊鹏自己有天池著，谁说太狂需要束缚？大机大用你已经流传，那派老夫安注脚。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+斋戒叩头牋天公，到了让我们为枯蓬；在社会上各种无用枯蓬，开始得到旷节乘秋风。这一生怎么去失去贫穷卑贱的人，白发萧萧对黄卷，现在的人虽然邻居有不规，古代人却向书中看到。猿啼月落青山空，旧隐梦思东蒙；不愿意戴高帽赤墀下，而且可以把短剑红尘中。终年没有人问过苦，眼望青天只有从许；可怜对酒不敢豪，其他天空浇坟上的土。文章最忌百家衣服，火龙黼黻世人不知道。谁能养气充塞天地，吐出自己能够成彩虹。渡江，骨头已经腐烂，老夫也将正丘头。杜郎辛苦瘦帽𢬍罢了，程子长期贫困衣露肘。君又故意寻找结盟，岂知衰弱懦弱后生可畏。大篇一读我站起来，很高兴你能法从家庭。辊鹏自己有天池著，谁说太狂需要束缚？大机大用你已经流传，那派老夫安注脚。
+	* 此部分翻译来自AI，仅供参考

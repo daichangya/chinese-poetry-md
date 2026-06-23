@@ -1,0 +1,45 @@
+---
+id: lu-you-ni-gu-ning-ren-qian-ri-ji
+title: 拟古
+author: 陆游
+authorSlug: lu-you
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ni3 gu3
+authorPinyin: lu4 you2
+dynastyPinyin: song4
+canonicalPoemId: 581816
+canonicalAuthorId: 5076
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 宁忍千日饥，野葛不可烹；
+
+- 宁枉百里途，捷径不可行。
+
+- 自古风俗坏，善土亦沦胥。
+
+- 橘柚禹包贡，后世称木奴。
+
+## 拼音
+
+- ning2 ren3 qian1 ri4 ji1 ， ye3 ge3 bu4 ke3 peng1 ；
+
+- ning2 wang3 bai3 li3 tu2 ， jie2 jing4 bu4 ke3 xing2 。
+
+- zi4 gu3 feng1 su2 huai4 ， shan4 tu3 yi4 lun2 xu1 。
+
+- ju2 you4 yu3 bao1 gong4 ， hou4 shi4 cheng1 mu4 nu2 。
+
+## 译文
+
+我怎么忍心千日饥荒，野葛不能煮；宁枉百里途径，捷径不可行。自古败坏风俗，好人也沦。禹贡橘柚包，后世称木奴。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+我怎么忍心千日饥荒，野葛不能煮；宁枉百里途径，捷径不可行。自古败坏风俗，好人也沦。禹贡橘柚包，后世称木奴。
+	* 此部分翻译来自AI，仅供参考

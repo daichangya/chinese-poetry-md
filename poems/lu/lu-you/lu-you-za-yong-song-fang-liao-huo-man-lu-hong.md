@@ -1,0 +1,37 @@
+---
+id: lu-you-za-yong-song-fang-liao-huo-man-lu-hong
+title: 杂咏
+author: 陆游
+authorSlug: lu-you
+dynasty: 宋
+dynastySlug: song
+titlePinyin: za2 yong3
+authorPinyin: lu4 you2
+dynastyPinyin: song4
+canonicalPoemId: 584922
+canonicalAuthorId: 5076
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 松肪燎火满炉红，甖粟煎汤到手空。
+
+- 试问斋居守丹灶，何如醉卧听松风？
+
+## 拼音
+
+- song1 fang2 liao2 huo3 man3 lu2 hong2 ， ying1 su4 jian1 tang1 dao4 shou3 kong1 。
+
+- shi4 wen4 zhai1 ju1 shou3 dan1 zao4 ， he2 ru2 zui4 wo4 ting1 song1 feng1 ？
+
+## 译文
+
+松肪大火炉红满，粮食煎汤到手空坛。试问斋居守炼丹灶，如何醉卧听松风？
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+松肪大火炉红满，粮食煎汤到手空坛。试问斋居守炼丹灶，如何醉卧听松风？
+	* 此部分翻译来自AI，仅供参考

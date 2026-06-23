@@ -1,0 +1,45 @@
+---
+id: lu-you-zi-xi-shen-xian-xian-bu-yuan-2
+title: 自喜
+author: 陆游
+authorSlug: lu-you
+dynasty: 宋
+dynastySlug: song
+titlePinyin: zi4 xi3
+authorPinyin: lu4 you2
+dynastyPinyin: song4
+canonicalPoemId: 382734
+canonicalAuthorId: 5076
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 身闲僊不远，食足富何加。
+
+- 庭卧长生犊，园开手种花。
+
+- 狂歌声跌宕，醉草笔横斜。
+
+- 八十明年是，衰残岂复嗟。
+
+## 拼音
+
+- shen1 xian2 xian1 bu4 yuan3 ， shi2 zu2 fu4 he2 jia1 。
+
+- ting2 wo4 chang2 sheng1 du2 ， yuan2 kai1 shou3 zhong3 hua1 。
+
+- kuang2 ge1 sheng1 die1 dang4 ， zui4 cao3 bi3 heng2 xie2 。
+
+- ba1 shi2 ming2 nian2 shi4 ， shuai1 can2 qi3 fu4 jie1 。
+
+## 译文
+
+本人熟悉仙不远，吃足够富裕怎么办。庭在长生犊，园开亲手种花。狂歌声跌宕，醉草笔横斜。八十明年是，已经衰老又哪啊。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+本人熟悉仙不远，吃足够富裕怎么办。庭在长生犊，园开亲手种花。狂歌声跌宕，醉草笔横斜。八十明年是，已经衰老又哪啊。
+	* 此部分翻译来自AI，仅供参考

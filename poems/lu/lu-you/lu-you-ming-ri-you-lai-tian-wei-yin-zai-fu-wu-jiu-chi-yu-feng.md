@@ -1,0 +1,45 @@
+---
+id: lu-you-ming-ri-you-lai-tian-wei-yin-zai-fu-wu-jiu-chi-yu-feng
+title: 明日又来天微阴再赋
+author: 陆游
+authorSlug: lu-you
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ming2 ri4 you4 lai2 tian1 wei1 yin1 zai4 fu4
+authorPinyin: lu4 you2
+dynastyPinyin: song4
+canonicalPoemId: 585054
+canonicalAuthorId: 5076
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 乌臼赤于枫，园林九月中。
+
+- 天寒山惨淡，云薄日曈昽。
+
+- 旋摘分猿果，宽编养鹤笼。
+
+- 身闲足幽事，归卧莫??。
+
+## 拼音
+
+- wu1 jiu4 chi4 yu2 feng1 ， yuan2 lin2 jiu3 yue4 zhong1 。
+
+- tian1 han2 shan1 can3 dan4 ， yun2 bao2 ri4 tong2 long2 。
+
+- xuan2 zhai1 fen1 yuan2 guo3 ， kuan1 bian1 yang3 he4 long2 。
+
+- shen1 xian2 zu2 you1 shi4 ， gui1 wo4 mo4 ? ? 。
+
+## 译文
+
+乌臼赤在枫树，园林九月中。天寒山暗淡，薄云日董昽。随时摘分猿果然，宽编养鹤笼。身闲足幽州事，回去睡不？？。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+乌臼赤在枫树，园林九月中。天寒山暗淡，薄云日董昽。随时摘分猿果然，宽编养鹤笼。身闲足幽州事，回去睡不？？。
+	* 此部分翻译来自AI，仅供参考

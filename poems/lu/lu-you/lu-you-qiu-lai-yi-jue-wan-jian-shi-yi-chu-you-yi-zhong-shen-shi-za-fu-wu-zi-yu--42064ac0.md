@@ -1,0 +1,45 @@
+---
+id: lu-you-qiu-lai-yi-jue-wan-jian-shi-yi-chu-you-yi-zhong-shen-shi-za-fu-wu-zi-yu--42064ac0
+title: 秋来益觉顽健时一出游意中甚适杂赋五字
+author: 陆游
+authorSlug: lu-you
+dynasty: 宋
+dynastySlug: song
+titlePinyin: qiu1 lai2 yi4 jue2 wan2 jian4 shi2 yi4 chu1 you2 yi4 zhong1 shen4 shi4 za2 fu4 wu3 zi4
+authorPinyin: lu4 you2
+dynastyPinyin: song4
+canonicalPoemId: 584964
+canonicalAuthorId: 5076
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 寓世年虽往，安心矣已平。
+
+- 每思丹灶冷，宜觉世缘轻。
+
+- 布被鸡催晓，蓬窗鹊噪晴。
+
+- 呼儿净洗砚，书帖寄青城。
+
+## 拼音
+
+- yu4 shi4 nian2 sui1 wang3 ， an1 xin1 yi3 yi3 ping2 。
+
+- mei3 si1 dan1 zao4 leng3 ， yi2 jue2 shi4 yuan2 qing1 。
+
+- bu4 bei4 ji1 cui1 xiao3 ， peng2 chuang1 que4 zao4 qing2 。
+
+- hu1 er2 jing4 xi3 yan4 ， shu1 tie1 ji4 qing1 cheng2 。
+
+## 译文
+
+住在世年虽然去，安心了平。每想到炼丹灶冷，应该觉得世缘轻。布被鸡催晓，蓬窗鹊呐喊晴。呼儿净洗砚，书帖在青城。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+住在世年虽然去，安心了平。每想到炼丹灶冷，应该觉得世缘轻。布被鸡催晓，蓬窗鹊呐喊晴。呼儿净洗砚，书帖在青城。
+	* 此部分翻译来自AI，仅供参考

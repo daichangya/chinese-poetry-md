@@ -1,0 +1,45 @@
+---
+id: lu-shi-zheng-feng-pei-wu-xiang-gong-xi-ting-ye-yan-lu-lang-zhong-hua-tang-liang-yan-kai
+title: 奉陪武相公西亭夜宴陆郎中
+author: 卢士政
+authorSlug: lu-shi-zheng
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: feng4 pei2 wu3 xiang4 gong0 xi1 ting2 ye4 yan4 lu4 lang2 zhong1
+authorPinyin: lu2 shi4 zheng4
+dynastyPinyin: tang2
+canonicalPoemId: 536843
+canonicalAuthorId: 4553
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 华堂良宴开，星使自天来。
+
+- 舞转朱丝逐，歌馀素扇回。
+
+- 水光凌曲槛，夜色霭高台。
+
+- 不在宾阶末，何由接上台。
+
+## 拼音
+
+- hua2 tang2 liang2 yan4 kai1 ， xing1 shi3 zi4 tian1 lai2 。
+
+- wu3 zhuan3 zhu1 si1 zhu2 ， ge1 yu2 su4 shan4 hui2 。
+
+- shui3 guang1 ling2 qu3 kan3 ， ye4 se4 ai3 gao1 tai2 。
+
+- bu2 zai4 bin1 jie1 mo4 ， he2 you2 jie1 shang4 tai2 。
+
+## 译文
+
+华堂好宴开，星使者从天上来。舞转红丝带追逐，歌多素扇回。水光凌曲槛，夜色蒸腾高台。不在西阶末，如何接上台。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+华堂好宴开，星使者从天上来。舞转红丝带追逐，歌多素扇回。水光凌曲槛，夜色蒸腾高台。不在西阶末，如何接上台。
+	* 此部分翻译来自AI，仅供参考

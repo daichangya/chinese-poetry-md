@@ -1,0 +1,45 @@
+---
+id: lu-you-shan-yuan-za-fu-fang-quan-zhen-miao-shi
+title: 山园杂赋
+author: 陆游
+authorSlug: lu-you
+dynasty: 宋
+dynastySlug: song
+titlePinyin: shan1 yuan2 za2 fu4
+authorPinyin: lu4 you2
+dynastyPinyin: song4
+canonicalPoemId: 584336
+canonicalAuthorId: 5076
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 芳荃真妙士，霜菊亦奇才。
+
+- 邂逅心生敬，殷懃手自培。
+
+- 扶持新长桂，护惜欲残梅。
+
+- 此意何人解，颓然付酒杯。
+
+## 拼音
+
+- fang1 quan2 zhen1 miao4 shi4 ， shuang1 ju2 yi4 qi2 cai2 。
+
+- xie4 hou4 xin1 sheng1 jing4 ， yin1 qin2 shou3 zi4 pei2 。
+
+- fu2 chi2 xin1 chang2 gui4 ， hu4 xi1 yu4 can2 mei2 。
+
+- ci3 yi4 he2 ren2 jie3 ， tui2 ran2 fu4 jiu3 bei1 。
+
+## 译文
+
+芳荃真妙士，白色的菊花也奇才。邂逅心生敬意，殷勤手自培。扶持新长桂，护惜想摧残梅。这个意思什么人解，心甘情愿地交给酒杯。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+芳荃真妙士，白色的菊花也奇才。邂逅心生敬意，殷勤手自培。扶持新长桂，护惜想摧残梅。这个意思什么人解，心甘情愿地交给酒杯。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,61 @@
+---
+id: lu-you-qian-you-zun-jiu-xing-xu-tang-yu-guo-sheng-liang-si
+title: 前有樽酒行
+author: 陆游
+authorSlug: lu-you
+dynasty: 宋
+dynastySlug: song
+titlePinyin: qian2 you3 zun1 jiu3 xing2
+authorPinyin: lu4 you2
+dynastyPinyin: song4
+canonicalPoemId: 382339
+canonicalAuthorId: 5076
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 虚堂雨过生凉飔，劝君一醉君勿辞。
+
+- 去年不知今岁事，明年万事今得知？
+
+- 旧时扶床同戏儿，还乡问讯令人悲。
+
+- 冢丘累累在者谁？
+
+- 纸钱雨湿抱树枝。
+
+- 君去六十有几时？
+
+- 更望七十何其痴！
+
+- 求师学道亦已迟，谢客努力从鸱夷。
+
+## 拼音
+
+- xu1 tang2 yu3 guo4 sheng1 liang2 si1 ， quan4 jun1 yi2 zui4 jun1 wu4 ci2 。
+
+- qu4 nian2 bu4 zhi1 jin1 sui4 shi4 ， ming2 nian2 wan4 shi4 jin1 de2 zhi1 ？
+
+- jiu4 shi2 fu2 chuang2 tong2 xi4 er2 ， huan2 xiang1 wen4 xun4 ling4 ren2 bei1 。
+
+- zhong3 qiu1 lei4 lei4 zai4 zhe3 shui2 ？
+
+- zhi3 qian2 yu3 shi1 bao4 shu4 zhi1 。
+
+- jun1 qu4 liu4 shi2 you3 ji3 shi2 ？
+
+- geng4 wang4 qi1 shi2 he2 qi2 chi1 ！
+
+- qiu2 shi1 xue2 dao4 yi4 yi3 chi2 ， xie4 ke4 nu3 li4 cong2 chi1 yi2 。
+
+## 译文
+
+空堂下过雨冰凉飔，劝你不要推辞一喝醉了你。去年不知道今年事，第二年万事现在能知道？过去扶床同戏儿，回到故乡问候让人悲伤。墓丘堆积在的人是谁？纸钱雨湿抱着树枝。你走六十有多少时间？更希望七十多么傻！求师学习方法也已晚，感谢客人努力从鸱夷。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+空堂下过雨冰凉飔，劝你不要推辞一喝醉了你。去年不知道今年事，第二年万事现在能知道？过去扶床同戏儿，回到故乡问候让人悲伤。墓丘堆积在的人是谁？纸钱雨湿抱着树枝。你走六十有多少时间？更希望七十多么傻！求师学习方法也已晚，感谢客人努力从鸱夷。
+	* 此部分翻译来自AI，仅供参考

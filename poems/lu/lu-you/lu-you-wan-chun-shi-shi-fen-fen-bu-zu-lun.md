@@ -1,0 +1,45 @@
+---
+id: lu-you-wan-chun-shi-shi-fen-fen-bu-zu-lun
+title: 晚春
+author: 陆游
+authorSlug: lu-you
+dynasty: 宋
+dynastySlug: song
+titlePinyin: wan3 chun1
+authorPinyin: lu4 you2
+dynastyPinyin: song4
+canonicalPoemId: 380271
+canonicalAuthorId: 5076
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 世事纷纷不足论，流年去似海涛翻。
+
+- 莫因齿发悲残景，且喜柴荆是故园。
+
+- 千里桑麻无旷土，数家鸡犬自成村。
+
+- 邻翁过我夸秧信，雨后春泥一尺浑。
+
+## 拼音
+
+- shi4 shi4 fen1 fen1 bu4 zu2 lun4 ， liu2 nian2 qu4 si4 hai3 tao1 fan1 。
+
+- mo4 yin1 chi3 fa1 bei1 can2 jing3 ， qie3 xi3 chai2 jing1 shi4 gu4 yuan2 。
+
+- qian1 li3 sang1 ma2 wu2 kuang4 tu3 ， shu4 jia1 ji1 quan3 zi4 cheng2 cun1 。
+
+- lin2 weng1 guo4 wo3 kua1 yang1 xin4 ， yu3 hou4 chun1 ni2 yi4 chi3 hun2 。
+
+## 译文
+
+世事纷纭不值得讨论，流年去似海波涛翻。没有因为年龄悲残景，而且喜欢柴荆所以园。千里桑麻没有闲置的土地，几家的鸡犬自然村。邻居老翁过我夸秧信，雨后春泥一尺浑。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+世事纷纭不值得讨论，流年去似海波涛翻。没有因为年龄悲残景，而且喜欢柴荆所以园。千里桑麻没有闲置的土地，几家的鸡犬自然村。邻居老翁过我夸秧信，雨后春泥一尺浑。
+	* 此部分翻译来自AI，仅供参考

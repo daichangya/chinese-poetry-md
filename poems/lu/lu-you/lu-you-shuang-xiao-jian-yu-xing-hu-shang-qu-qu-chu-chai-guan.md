@@ -1,0 +1,45 @@
+---
+id: lu-you-shuang-xiao-jian-yu-xing-hu-shang-qu-qu-chu-chai-guan
+title: 霜晓肩舆行湖上
+author: 陆游
+authorSlug: lu-you
+dynasty: 宋
+dynastySlug: song
+titlePinyin: shuang1 xiao3 jian1 yu2 xing2 hu2 shang4
+authorPinyin: lu4 you2
+dynastyPinyin: song4
+canonicalPoemId: 588496
+canonicalAuthorId: 5076
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 去去出柴关，巾车古陌间。
+
+- 晨霜染丹叶，宿雾淡青山。
+
+- 登览身犹健，歌呼酒每悭。
+
+- 殷勤镜湖水，聊为照衰颜。
+
+## 拼音
+
+- qu4 qu4 chu1 chai2 guan1 ， jin1 che1 gu3 mo4 jian1 。
+
+- chen2 shuang1 ran3 dan1 ye4 ， su4 wu4 dan4 qing1 shan1 。
+
+- deng1 lan3 shen1 you2 jian4 ， ge1 hu1 jiu3 mei3 qian1 。
+
+- yin1 qin2 jing4 hu2 shui3 ， liao2 wei4 zhao4 shuai1 yan2 。
+
+## 译文
+
+去去出柴关，巾车古陌间。晨霜染丹叶，夜雾淡青色山。登览身体还很健壮，唱歌喝酒每次艰难。殷勤镜湖绵延水，我是照衰颜。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+去去出柴关，巾车古陌间。晨霜染丹叶，夜雾淡青色山。登览身体还很健壮，唱歌喝酒每次艰难。殷勤镜湖绵延水，我是照衰颜。
+	* 此部分翻译来自AI，仅供参考

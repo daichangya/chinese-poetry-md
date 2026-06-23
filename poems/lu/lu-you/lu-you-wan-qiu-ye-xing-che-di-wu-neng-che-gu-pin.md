@@ -1,0 +1,45 @@
+---
+id: lu-you-wan-qiu-ye-xing-che-di-wu-neng-che-gu-pin
+title: 晚秋野兴
+author: 陆游
+authorSlug: lu-you
+dynasty: 宋
+dynastySlug: song
+titlePinyin: wan3 qiu1 ye3 xing1
+authorPinyin: lu4 you2
+dynastyPinyin: song4
+canonicalPoemId: 381492
+canonicalAuthorId: 5076
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 彻底无能彻骨贫，自怜虚作六朝民。
+
+- 学因病废捐长日，志与年衰媿古人。
+
+- 露湿乱萤飞暗庑，霜清饥雀噪空囷。
+
+- 一生眼境常如此，草赋凭谁问大钧？
+
+## 拼音
+
+- che4 di3 wu2 neng2 che4 gu3 pin2 ， zi4 lian2 xu1 zuo4 liu4 chao2 min2 。
+
+- xue2 yin1 bing4 fei4 juan1 chang2 ri4 ， zhi4 yu3 nian2 shuai1 kui4 gu3 ren2 。
+
+- lu4 shi1 luan4 ying2 fei1 an4 wu3 ， shuang1 qing1 ji1 que4 zao4 kong1 qun1 。
+
+- yi4 sheng1 yan3 jing4 chang2 ru2 ci3 ， cao3 fu4 ping2 shui2 wen4 da4 jun1 ？
+
+## 译文
+
+彻底不能彻骨贫穷，自怜幻梦六朝人民。学因此病废弃长天，志与年老无愧于古人。露湿乱萤飞黑暗走廊，霜清饥饿雀噪空困。一生眼境常如此，赋凭谁问大钧草？
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+彻底不能彻骨贫穷，自怜幻梦六朝人民。学因此病废弃长天，志与年老无愧于古人。露湿乱萤飞黑暗走廊，霜清饥饿雀噪空困。一生眼境常如此，赋凭谁问大钧草？
+	* 此部分翻译来自AI，仅供参考

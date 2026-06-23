@@ -1,0 +1,45 @@
+---
+id: lu-you-mao-yu-deng-ni-xian-tai-guan-jiang-zhang-yu-qi-hun-qian-zhang
+title: 冒雨登拟岘台观江涨
+author: 陆游
+authorSlug: lu-you
+dynasty: 宋
+dynastySlug: song
+titlePinyin: mao4 yu3 deng1 ni3 xian4 tai2 guan1 jiang1 zhang3
+authorPinyin: lu4 you2
+dynastyPinyin: song4
+canonicalPoemId: 592155
+canonicalAuthorId: 5076
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 雨气昏千嶂，江声撼万家。
+
+- 云翻一天墨，浪蹴半空花。
+
+- 喷薄侵虚阁，低昂泛断槎。
+
+- 壮游思夙昔，乘醉下三巴。
+
+## 拼音
+
+- yu3 qi4 hun1 qian1 zhang4 ， jiang1 sheng1 han4 wan4 jia1 。
+
+- yun2 fan1 yi4 tian1 mo4 ， lang4 cu4 ban4 kong1 hua1 。
+
+- pen1 bao2 qin1 xu1 ge2 ， di1 ang2 fan4 duan4 cha2 。
+
+- zhuang4 you2 si1 su4 xi1 ， cheng2 zui4 xia4 san1 ba1 。
+
+## 译文
+
+雨气昏千嶂，江声音撼动万家。说翻一天墨，浪踢空了一半花。喷薄侵犯虚阁，高低泛断木头。壮游思夙昔，乘醉下三巴。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+雨气昏千嶂，江声音撼动万家。说翻一天墨，浪踢空了一半花。喷薄侵犯虚阁，高低泛断木头。壮游思夙昔，乘醉下三巴。
+	* 此部分翻译来自AI，仅供参考

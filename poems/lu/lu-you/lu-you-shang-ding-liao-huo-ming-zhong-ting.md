@@ -1,0 +1,61 @@
+---
+id: lu-you-shang-ding-liao-huo-ming-zhong-ting
+title: 上丁
+author: 陆游
+authorSlug: lu-you
+dynasty: 宋
+dynastySlug: song
+titlePinyin: shang4 ding1
+authorPinyin: lu4 you2
+dynastyPinyin: song4
+canonicalPoemId: 586931
+canonicalAuthorId: 5076
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 燎火明中庭，老槐泣残雨。
+
+- 白头奉祀事，恐惧剧仰俯。
+
+- 三终乐在悬，再拜肉升俎。
+
+- 谁言千载后，恍若到邹鲁。
+
+- 吾国虽褊小，大社胙茆土。
+
+- 如何俨章绶，日夜临箠楚？
+
+- 藏书如丘山，及物无一羽。
+
+- 吾其可怜哉，去去老农圃！
+
+## 拼音
+
+- liao2 huo3 ming2 zhong1 ting2 ， lao3 huai2 qi4 can2 yu3 。
+
+- bai2 tou2 feng4 si4 shi4 ， kong3 ju4 ju4 yang3 fu3 。
+
+- san1 zhong1 le4 zai4 xuan2 ， zai4 bai4 rou4 sheng1 zu3 。
+
+- shui2 yan2 qian1 zai3 hou4 ， huang3 ruo4 dao4 zou1 lu3 。
+
+- wu2 guo2 sui1 bian3 xiao3 ， da4 she4 zuo4 mao2 tu3 。
+
+- ru2 he2 yan3 zhang1 shou4 ， ri4 ye4 lin2 chui2 chu3 ？
+
+- cang2 shu1 ru2 qiu1 shan1 ， ji2 wu4 wu2 yi4 yu3 。
+
+- wu2 qi2 ke3 lian2 zai1 ， qu4 qu4 lao3 nong2 pu3 ！
+
+## 译文
+
+燎火明中庭，老槐树哭泣残雨。白头供奉祭祀的事，恐惧剧仰俯。三终乐在悬，拜了两拜登俎肉。谁说千年后，仿佛到达邹鲁。我国虽小，大社祭肉茅土。如何俨印章绶带，一天晚上在鞭打？藏书堆积如山，和任何一个羽毛。我那可怜吗，去去老干活！
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+燎火明中庭，老槐树哭泣残雨。白头供奉祭祀的事，恐惧剧仰俯。三终乐在悬，拜了两拜登俎肉。谁说千年后，仿佛到达邹鲁。我国虽小，大社祭肉茅土。如何俨印章绶带，一天晚上在鞭打？藏书堆积如山，和任何一个羽毛。我那可怜吗，去去老干活！
+	* 此部分翻译来自AI，仅供参考

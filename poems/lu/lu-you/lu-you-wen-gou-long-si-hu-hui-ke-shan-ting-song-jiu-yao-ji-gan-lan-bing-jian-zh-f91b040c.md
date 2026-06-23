@@ -1,0 +1,69 @@
+---
+id: lu-you-wen-gou-long-si-hu-hui-ke-shan-ting-song-jiu-yao-ji-gan-lan-bing-jian-zh-f91b040c
+title: 闻勾龙司户会客山亭送酒殽及橄榄并简诸同僚
+author: 陆游
+authorSlug: lu-you
+dynasty: 宋
+dynastySlug: song
+titlePinyin: wen2 gou1 long2 si1 hu4 hui4 ke4 shan1 ting2 song4 jiu3 yao2 ji2 gan3 lan3 bing4 jian3 zhu1 tong2 liao2
+authorPinyin: lu4 you2
+dynastyPinyin: song4
+canonicalPoemId: 381662
+canonicalAuthorId: 5076
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 东山如高人，吾辈岂易见；
+
+- 君独不出门，终日与相面。
+
+- 阴晴烟雨月，朝暮知几变。
+
+- 闻君交不渎，冠佩未尝燕。
+
+- 弛张要有时，一笑山未谴。
+
+- 高秋得佳日，折简唤诸彦。
+
+- 风流非俗饮，歌舞参笔砚。
+
+- 但恨五日尹，阻造三语掾。
+
+- 清樽遣分似，霜果亦可荐。
+
+- 烂醉君勿辞，光景真掣电。
+
+## 拼音
+
+- dong1 shan1 ru2 gao1 ren2 ， wu2 bei4 qi3 yi4 jian4 ；
+
+- jun1 du2 bu4 chu1 men2 ， zhong1 ri4 yu3 xiang4 mian4 。
+
+- yin1 qing2 yan1 yu3 yue4 ， chao2 mu4 zhi1 ji3 bian4 。
+
+- wen2 jun1 jiao1 bu4 du2 ， guan1 pei4 wei4 chang2 yan4 。
+
+- chi2 zhang1 yao4 you3 shi2 ， yi2 xiao4 shan1 wei4 qian3 。
+
+- gao1 qiu1 de2 jia1 ri4 ， zhe2 jian3 huan4 zhu1 yan4 。
+
+- feng1 liu2 fei1 su2 yin3 ， ge1 wu3 can1 bi3 yan4 。
+
+- dan4 hen4 wu3 ri4 yin3 ， zu3 zao4 san1 yu3 yuan4 。
+
+- qing1 zun1 qian3 fen1 si4 ， shuang1 guo3 yi4 ke3 jian4 。
+
+- lan4 zui4 jun1 wu4 ci2 ， guang1 jing3 zhen1 che4 dian4 。
+
+## 译文
+
+东山如高人，我们难道容易出现；你不出门，整天和你面。阴晴烟雨月，早晚都知道有变化。听到你交不读，冠佩不曾宴请。弛张要有时间，一个微笑山没有谴责。高秋得好日子，写信叫才子。风流不是习惯喝，参与同学唱歌跳舞。只恨五天？，利用制造三语掾。清樽派分相似，霜果也可以推荐。烂醉你不要推辞，光景真掣闪电。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+东山如高人，我们难道容易出现；你不出门，整天和你面。阴晴烟雨月，早晚都知道有变化。听到你交不读，冠佩不曾宴请。弛张要有时间，一个微笑山没有谴责。高秋得好日子，写信叫才子。风流不是习惯喝，参与同学唱歌跳舞。只恨五天？，利用制造三语掾。清樽派分相似，霜果也可以推荐。烂醉你不要推辞，光景真掣闪电。
+	* 此部分翻译来自AI，仅供参考

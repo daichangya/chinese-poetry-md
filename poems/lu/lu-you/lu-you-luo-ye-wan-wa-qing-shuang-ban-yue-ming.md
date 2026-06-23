@@ -1,0 +1,37 @@
+---
+id: lu-you-luo-ye-wan-wa-qing-shuang-ban-yue-ming
+title: 落叶
+author: 陆游
+authorSlug: lu-you
+dynasty: 宋
+dynastySlug: song
+titlePinyin: luo4 ye4
+authorPinyin: lu4 you2
+dynastyPinyin: song4
+canonicalPoemId: 381014
+canonicalAuthorId: 5076
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 万瓦清霜伴月明，卧听残漏若为情。
+
+- 无端木叶萧萧下，更与愁人作雨声。
+
+## 拼音
+
+- wan4 wa3 qing1 shuang1 ban4 yue4 ming2 ， wo4 ting1 can2 lou4 ruo4 wei4 qing2 。
+
+- wu2 duan1 mu4 ye4 xiao1 xiao1 xia4 ， geng4 yu3 chou2 ren2 zuo4 yu3 sheng1 。
+
+## 译文
+
+一万瓦清霜伴明，躺在床上听残漏或是情。无端木叶萧萧下，更与愁人作雨声。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+一万瓦清霜伴明，躺在床上听残漏或是情。无端木叶萧萧下，更与愁人作雨声。
+	* 此部分翻译来自AI，仅供参考

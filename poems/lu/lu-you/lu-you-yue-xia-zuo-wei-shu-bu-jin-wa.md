@@ -1,0 +1,57 @@
+---
+id: lu-you-yue-xia-zuo-wei-shu-bu-jin-wa
+title: 月下作
+author: 陆游
+authorSlug: lu-you
+dynasty: 宋
+dynastySlug: song
+titlePinyin: yue4 xia4 zuo4
+authorPinyin: lu4 you2
+dynastyPinyin: song4
+canonicalPoemId: 381670
+canonicalAuthorId: 5076
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 畏暑不巾袜，步月榰短筇，瘦身发鬅鬙，顾影如孤松。
+
+- 径幽萤阖开，池涨鱼𪡋喁。
+
+- 飞泉穿北垣，珠玉相撞舂。
+
+- 东湖更奇绝，百亩银初熔，但能抱琴往，绝恨欠鹤从。
+
+- 重露倾荷盘，微风堕芙蓉。
+
+- 欢言美清夜，缥渺吹疏钟。
+
+- 空中飞僊人，粲然冰雪容，笑我老尘世，不记瑶台逢。
+
+## 拼音
+
+- wei4 shu3 bu4 jin1 wa4 ， bu4 yue4 zhi1 duan3 qiong2 ， shou4 shen1 fa1 peng2 seng1 ， gu4 ying3 ru2 gu1 song1 。
+
+- jing4 you1 ying2 he2 kai1 ， chi2 zhang3 yu2 𪡋 yong2 。
+
+- fei1 quan2 chuan1 bei3 yuan2 ， zhu1 yu4 xiang1 zhuang4 chong1 。
+
+- dong1 hu2 geng4 qi2 jue2 ， bai3 mu3 yin2 chu1 rong2 ， dan4 neng2 bao4 qin2 wang3 ， jue2 hen4 qian4 he4 cong2 。
+
+- zhong4 lu4 qing1 he2 pan2 ， wei1 feng1 duo4 fu2 rong2 。
+
+- huan1 yan2 mei3 qing1 ye4 ， piao3 miao3 chui1 shu1 zhong1 。
+
+- kong1 zhong1 fei1 xian1 ren2 ， can4 ran2 bing1 xue3 rong2 ， xiao4 wo3 lao3 chen2 shi4 ， bu2 ji4 yao2 tai2 feng2 。
+
+## 译文
+
+害怕暑热不丝袜，步月榰短炸，消瘦身体发鬅鬙，顾影像挺拔的孤松傲然。径幽萤火虫阖开，池涨鱼𪡋期待。飞泉穿过北墙，珠玉相撞击时。东湖更奇妙绝伦，百亩银初熔，只要能抱琴去，非常遗憾没有鹤从。重露倾荷盘，微风下芙蓉。欢言美清静的夜晚，缥缈吹疏钟。空中飞仙人，清晰冰雪容，笑我老尘世，不记瑶台逢。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+害怕暑热不丝袜，步月榰短炸，消瘦身体发鬅鬙，顾影像挺拔的孤松傲然。径幽萤火虫阖开，池涨鱼𪡋期待。飞泉穿过北墙，珠玉相撞击时。东湖更奇妙绝伦，百亩银初熔，只要能抱琴去，非常遗憾没有鹤从。重露倾荷盘，微风下芙蓉。欢言美清静的夜晚，缥缈吹疏钟。空中飞仙人，清晰冰雪容，笑我老尘世，不记瑶台逢。
+	* 此部分翻译来自AI，仅供参考

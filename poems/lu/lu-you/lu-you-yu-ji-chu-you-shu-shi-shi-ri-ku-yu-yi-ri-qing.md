@@ -1,0 +1,61 @@
+---
+id: lu-you-yu-ji-chu-you-shu-shi-shi-ri-ku-yu-yi-ri-qing
+title: 雨霁出游书事
+author: 陆游
+authorSlug: lu-you
+dynasty: 宋
+dynastySlug: song
+titlePinyin: yu3 ji4 chu1 you2 shu1 shi4
+authorPinyin: lu4 you2
+dynastyPinyin: song4
+canonicalPoemId: 587727
+canonicalAuthorId: 5076
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 十日苦雨一日晴，拂拭拄杖西村行。
+
+- 清沟泠泠流水细，好风习习吹衣轻。
+
+- 四邻蛙声已合合，两岸柳色争青青。
+
+- 辛夷先开半委地，海棠独立方倾城。
+
+- 春工遇物初不择，亦秀燕麦开芜菁。
+
+- 荠花如雪又烂熳，百草红紫那知名。
+
+- 小鱼谁取置道侧，细柳穿颊危将烹。
+
+- 欣然买放寄吾意，草莱无地苏疲氓。
+
+## 拼音
+
+- shi2 ri4 ku3 yu3 yi2 ri4 qing2 ， fu2 shi4 zhu3 zhang4 xi1 cun1 xing2 。
+
+- qing1 gou1 ling2 ling2 liu2 shui3 xi4 ， hao3 feng1 xi2 xi2 chui1 yi1 qing1 。
+
+- si4 lin2 wa1 sheng1 yi3 he2 he2 ， liang3 an4 liu3 se4 zheng1 qing1 qing1 。
+
+- xin1 yi2 xian1 kai1 ban4 wei3 di4 ， hai3 tang2 du2 li4 fang1 qing1 cheng2 。
+
+- chun1 gong1 yu4 wu4 chu1 bu4 ze2 ， yi4 xiu4 yan4 mai4 kai1 wu2 jing1 。
+
+- qi2 hua1 ru2 xue3 you4 lan4 man4 ， bai3 cao3 hong2 zi3 na4 zhi1 ming2 。
+
+- xiao3 yu2 shui2 qu3 zhi4 dao4 ce4 ， xi4 liu3 chuan1 jia2 wei1 jiang1 peng1 。
+
+- xin1 ran2 mai3 fang4 ji4 wu2 yi4 ， cao3 lai2 wu2 di4 su1 pi2 mang2 。
+
+## 译文
+
+十天苦降一日晴，拂拭拄杖西村走。清沟冷冷流水细，好风习习吹拂穿着轻便的衣服。四邻蛙声已合合，两岸青青柳色争。辛夷先开半拖地，海棠独立方全城。春工遇到事情开始不选择，也秀燕麦开芜菁。荠菜花如雪又烂熳，百草红紫色那闻名。小鱼谁取放在路边，细柳穿颊危险将烹饪。欣然购买放寄我的意思，草地无地农民缓解疲劳。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+十天苦降一日晴，拂拭拄杖西村走。清沟冷冷流水细，好风习习吹拂穿着轻便的衣服。四邻蛙声已合合，两岸青青柳色争。辛夷先开半拖地，海棠独立方全城。春工遇到事情开始不选择，也秀燕麦开芜菁。荠菜花如雪又烂熳，百草红紫色那闻名。小鱼谁取放在路边，细柳穿颊危险将烹饪。欣然购买放寄我的意思，草地无地农民缓解疲劳。
+	* 此部分翻译来自AI，仅供参考

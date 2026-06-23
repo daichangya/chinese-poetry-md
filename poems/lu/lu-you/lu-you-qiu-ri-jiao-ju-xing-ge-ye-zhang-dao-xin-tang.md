@@ -1,0 +1,37 @@
+---
+id: lu-you-qiu-ri-jiao-ju-xing-ge-ye-zhang-dao-xin-tang
+title: 秋日郊居
+author: 陆游
+authorSlug: lu-you
+dynasty: 宋
+dynastySlug: song
+titlePinyin: qiu1 ri4 jiao1 ju1
+authorPinyin: lu4 you2
+dynastyPinyin: song4
+canonicalPoemId: 380686
+canonicalAuthorId: 5076
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 行歌曳杖到新塘，银阙瑶台无此凉。
+
+- 万里秋风菰菜老，一川明月稻花香。
+
+## 拼音
+
+- xing2 ge1 ye4 zhang4 dao4 xin1 tang2 ， yin2 que1 yao2 tai2 wu2 ci3 liang2 。
+
+- wan4 li3 qiu1 feng1 gu1 cai4 lao3 ， yi4 chuan1 ming2 yue4 dao4 hua1 xiang1 。
+
+## 译文
+
+行歌拄着拐杖到新塘，银网瑶台无此凉。万里秋风菰菜老，一条第二个水稻花香。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+行歌拄着拐杖到新塘，银网瑶台无此凉。万里秋风菰菜老，一条第二个水稻花香。
+	* 此部分翻译来自AI，仅供参考

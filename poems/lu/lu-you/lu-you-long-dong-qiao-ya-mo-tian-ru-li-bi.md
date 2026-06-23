@@ -1,0 +1,61 @@
+---
+id: lu-you-long-dong-qiao-ya-mo-tian-ru-li-bi
+title: 龙洞
+author: 陆游
+authorSlug: lu-you
+dynasty: 宋
+dynastySlug: song
+titlePinyin: long2 dong4
+authorPinyin: lu4 you2
+dynastyPinyin: song4
+canonicalPoemId: 377687
+canonicalAuthorId: 5076
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 峭崖磨天如立壁，柟根横走松倒植。
+
+- 呀然一岫惊倒人，空洞坡阤三百尺。
+
+- 幽阴宜为异物托，角爪痕存犹可识。
+
+- 想当蟠蛰未奋时，腥风逼人云触石。
+
+- 一朝偶为旱岁起，卷海作雨飞霹雳。
+
+- 向来伊吕正如此，莘渭千年有遗迹。
+
+- 我欲酌酒招蜿蜒，安用辛苦常行天；
+
+- 太平海内多丰年，归来故祠听管弦。
+
+## 拼音
+
+- qiao4 ya2 mo2 tian1 ru2 li4 bi4 ， nan2 gen1 heng2 zou3 song1 dao3 zhi2 。
+
+- ya0 ran2 yi2 xiu4 jing1 dao3 ren2 ， kong1 dong4 po1 tuo2 san1 bai3 chi3 。
+
+- you1 yin1 yi2 wei4 yi4 wu4 tuo1 ， jiao3 zhua3 hen2 cun2 you2 ke3 shi2 。
+
+- xiang3 dang1 pan2 zhe2 wei4 fen4 shi2 ， xing1 feng1 bi1 ren2 yun2 chu4 shi2 。
+
+- yi4 chao2 ou3 wei4 han4 sui4 qi3 ， juan4 hai3 zuo4 yu3 fei1 pi1 li4 。
+
+- xiang4 lai2 yi1 lü3 zheng4 ru2 ci3 ， shen1 wei4 qian1 nian2 you3 yi2 ji4 。
+
+- wo3 yu4 zhuo2 jiu3 zhao1 wan1 yan2 ， an1 yong4 xin1 ku3 chang2 xing2 tian1 ；
+
+- tai4 ping2 hai3 nei4 duo1 feng1 nian2 ， gui1 lai2 gu4 ci2 ting1 guan3 xian2 。
+
+## 译文
+
+陡峭的山崖磨天如立壁，楠根横走松倒栽。呀地一上惊倒别人，空洞坡脱落三百尺。幽阴应为异物托，角爪痕保存还可以认识。想来蟠蛰伏不奋时，腥风强迫人说碰到石头。一时偶然是大旱之年起，卷海作雨飞霹雳。刚才伊吕正是这样，莘渭千年有遗迹。我想酌酒招蜿蜒，还要辛苦常行天；太平天下多丰收年，回来所以在听音乐。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+陡峭的山崖磨天如立壁，楠根横走松倒栽。呀地一上惊倒别人，空洞坡脱落三百尺。幽阴应为异物托，角爪痕保存还可以认识。想来蟠蛰伏不奋时，腥风强迫人说碰到石头。一时偶然是大旱之年起，卷海作雨飞霹雳。刚才伊吕正是这样，莘渭千年有遗迹。我想酌酒招蜿蜒，还要辛苦常行天；太平天下多丰收年，回来所以在听音乐。
+	* 此部分翻译来自AI，仅供参考

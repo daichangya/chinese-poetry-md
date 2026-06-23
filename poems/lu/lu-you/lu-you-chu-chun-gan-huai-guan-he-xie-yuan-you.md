@@ -1,0 +1,45 @@
+---
+id: lu-you-chu-chun-gan-huai-guan-he-xie-yuan-you
+title: 初春感怀
+author: 陆游
+authorSlug: lu-you
+dynasty: 宋
+dynastySlug: song
+titlePinyin: chu1 chun1 gan3 huai2
+authorPinyin: lu4 you2
+dynastyPinyin: song4
+canonicalPoemId: 587897
+canonicalAuthorId: 5076
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 关河谢远游，岁月迫归休。
+
+- 敢恨骥伏枥，但思狐首丘。
+
+- 雪明窗误晓，霜点鬓惊秋。
+
+- 羁旅饶愁思，谁怜季子裘？
+
+## 拼音
+
+- guan1 he2 xie4 yuan3 you2 ， sui4 yue4 po4 gui1 xiu1 。
+
+- gan3 hen4 ji4 fu2 li4 ， dan4 si1 hu2 shou3 qiu1 。
+
+- xue3 ming2 chuang1 wu4 xiao3 ， shuang1 dian3 bin4 jing1 qiu1 。
+
+- ji1 lü3 rao2 chou2 si1 ， shui2 lian2 ji4 zi3 qiu2 ？
+
+## 译文
+
+关河向远处游，时间紧迫回来休息。敢恨千里马伏在，但是狐狸的头？。雪明窗误解了，点鬓霜惊秋。羁旅愁思丰富，谁怜季子大衣？
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+关河向远处游，时间紧迫回来休息。敢恨千里马伏在，但是狐狸的头？。雪明窗误解了，点鬓霜惊秋。羁旅愁思丰富，谁怜季子大衣？
+	* 此部分翻译来自AI，仅供参考

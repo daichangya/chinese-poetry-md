@@ -1,0 +1,45 @@
+---
+id: lu-you-long-zhong-long-zhong-yi-lao-ji-huang-cun-2
+title: 龙锺
+author: 陆游
+authorSlug: lu-you
+dynasty: 宋
+dynastySlug: song
+titlePinyin: long2 zhong1
+authorPinyin: lu4 you2
+dynastyPinyin: song4
+canonicalPoemId: 589249
+canonicalAuthorId: 5076
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 龙锺一老寄荒村，鼎食山栖久已分。
+
+- 平日气吞云梦泽，暮年缘在武夷君。
+
+- 抢榆敢羡垂天翼，倚市从嗤刺绣文。
+
+- 幸有笔床茶灶在，孤舟更入剡溪云。
+
+## 拼音
+
+- long2 zhong1 yi4 lao3 ji4 huang1 cun1 ， ding3 shi2 shan1 qi1 jiu3 yi3 fen1 。
+
+- ping2 ri4 qi4 tun1 yun2 meng4 ze2 ， mu4 nian2 yuan2 zai4 wu3 yi2 jun1 。
+
+- qiang3 yu2 gan3 xian4 chui2 tian1 yi4 ， yi3 shi4 cong2 chi1 ci4 xiu4 wen2 。
+
+- xing4 you3 bi3 chuang2 cha2 zao4 zai4 ， gu1 zhou1 geng4 ru4 yan3 xi1 yun2 。
+
+## 译文
+
+龙锺一个寄荒村，鼎食山栖早已分。平天气吞云梦泽，晚年由于在武夷君。抢榆敢羡垂天翼，在市场从嗤笑刺绣文化。幸有笔床茶灶在，我船重新进入剡溪云。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+龙锺一个寄荒村，鼎食山栖早已分。平天气吞云梦泽，晚年由于在武夷君。抢榆敢羡垂天翼，在市场从嗤笑刺绣文化。幸有笔床茶灶在，我船重新进入剡溪云。
+	* 此部分翻译来自AI，仅供参考

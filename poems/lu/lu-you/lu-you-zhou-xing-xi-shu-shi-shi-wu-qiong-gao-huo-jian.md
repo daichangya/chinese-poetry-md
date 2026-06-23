@@ -1,0 +1,45 @@
+---
+id: lu-you-zhou-xing-xi-shu-shi-shi-wu-qiong-gao-huo-jian
+title: 舟行戏书
+author: 陆游
+authorSlug: lu-you
+dynasty: 宋
+dynastySlug: song
+titlePinyin: zhou1 xing2 xi4 shu1
+authorPinyin: lu4 you2
+dynastyPinyin: song4
+canonicalPoemId: 589895
+canonicalAuthorId: 5076
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 世事无穷膏火煎，羁魂病骨久羸然。
+
+- 觉时不及梦差乐，死去始嗟生可怜。
+
+- 慷慨知非请缨日，推移忽及挂冠年。
+
+- 扬帆海浦差强意，卧看秋涛蹴远天。
+
+## 拼音
+
+- shi4 shi4 wu2 qiong2 gao1 huo3 jian1 ， ji1 hun2 bing4 gu3 jiu3 lei2 ran2 。
+
+- jue2 shi2 bu4 ji2 meng4 cha4 le4 ， si3 qu4 shi3 jie1 sheng1 ke3 lian2 。
+
+- kang1 kai3 zhi1 fei1 qing3 ying1 ri4 ， tui1 yi2 hu1 ji2 gua4 guan1 nian2 。
+
+- yang2 fan1 hai3 pu3 cha4 qiang2 yi4 ， wo4 kan4 qiu1 tao1 cu4 yuan3 tian1 。
+
+## 译文
+
+世事无穷膏火煎，对精神病骨长期虚弱地。醒时不到梦更快乐，死去才感叹生可怜。慷慨知道不是请戴上太阳，移动忽然和挂帽子年。扬帆海浦比较意，躺在床上看秋涛踢远天。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+世事无穷膏火煎，对精神病骨长期虚弱地。醒时不到梦更快乐，死去才感叹生可怜。慷慨知道不是请戴上太阳，移动忽然和挂帽子年。扬帆海浦比较意，躺在床上看秋涛踢远天。
+	* 此部分翻译来自AI，仅供参考

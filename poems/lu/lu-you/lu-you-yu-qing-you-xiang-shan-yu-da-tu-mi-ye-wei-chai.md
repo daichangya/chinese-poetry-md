@@ -1,0 +1,61 @@
+---
+id: lu-you-yu-qing-you-xiang-shan-yu-da-tu-mi-ye-wei-chai
+title: 雨晴游香山
+author: 陆游
+authorSlug: lu-you
+dynasty: 宋
+dynastySlug: song
+titlePinyin: yu3 qing2 you2 xiang1 shan1
+authorPinyin: lu4 you2
+dynastyPinyin: song4
+canonicalPoemId: 381835
+canonicalAuthorId: 5076
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 雨打酴醾夜未拆，一晴柳岸先飘雪。
+
+- 我摇画楫镜湖中，碧水青天两奇绝。
+
+- 长歌缥缈云不动，横笛清悲竹将裂。
+
+- 悠然起舞影零乱，卓尔四顾心激烈。
+
+- 好山可隐轻舍去，故人已贵长乖隔。
+
+- 肺渴生尘防酒兴，眼晕成花作书厄。
+
+- 平生所期无一遂，独有旷快相除折。
+
+- 夜归灯火闹湖边，淡淡西南一勾月。
+
+## 拼音
+
+- yu3 da3 tu2 mi2 ye4 wei4 chai1 ， yi4 qing2 liu3 an4 xian1 piao1 xue3 。
+
+- wo3 yao2 hua4 ji2 jing4 hu2 zhong1 ， bi4 shui3 qing1 tian1 liang3 qi2 jue2 。
+
+- chang2 ge1 piao1 miao3 yun2 bu2 dong4 ， heng2 di2 qing1 bei1 zhu2 jiang1 lie4 。
+
+- you1 ran2 qi3 wu3 ying3 ling2 luan4 ， zhuo2 er3 si4 gu4 xin1 ji1 lie4 。
+
+- hao3 shan1 ke3 yin3 qing1 she4 qu4 ， gu4 ren2 yi3 gui4 chang2 guai1 ge2 。
+
+- fei4 ke3 sheng1 chen2 fang2 jiu3 xing4 ， yan3 yun1 cheng2 hua1 zuo4 shu1 e4 。
+
+- ping2 sheng1 suo3 qi1 wu2 yi2 sui4 ， du2 you3 kuang4 kuai4 xiang1 chu2 zhe2 。
+
+- ye4 gui1 deng1 huo3 nao4 hu2 bian1 ， dan4 dan4 xi1 nan2 yi4 gou1 yue4 。
+
+## 译文
+
+雨打酴醾夜未拆，一个晴朗柳岸先吹雪。我摇着桨镜湖绵延中画，碧水青天两奇绝。长歌缥缈说不动，横笛清悲竹子将破裂。悠然起舞影零乱，卓越四顾心激烈。好山可以隐藏轻易放弃，所以人已贵长隔离。肺渴生尘防酒兴，眼晕成花写信困境。平生所期没有一个结果，只有空节相抵折。夜归灯闹湖边，淡淡的西南一勾月。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+雨打酴醾夜未拆，一个晴朗柳岸先吹雪。我摇着桨镜湖绵延中画，碧水青天两奇绝。长歌缥缈说不动，横笛清悲竹子将破裂。悠然起舞影零乱，卓越四顾心激烈。好山可以隐藏轻易放弃，所以人已贵长隔离。肺渴生尘防酒兴，眼晕成花写信困境。平生所期没有一个结果，只有空节相抵折。夜归灯闹湖边，淡淡的西南一勾月。
+	* 此部分翻译来自AI，仅供参考

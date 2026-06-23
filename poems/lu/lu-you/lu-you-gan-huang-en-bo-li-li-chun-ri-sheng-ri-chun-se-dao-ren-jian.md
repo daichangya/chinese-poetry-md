@@ -1,0 +1,61 @@
+---
+id: lu-you-gan-huang-en-bo-li-li-chun-ri-sheng-ri-chun-se-dao-ren-jian
+title: 感皇恩（伯礼立春日生日）
+author: 陆游
+authorSlug: lu-you
+dynasty: 宋
+dynastySlug: song
+titlePinyin: gan3 huang2 en1 （ bo2 li3 li4 chun1 ri4 sheng1 ri4 ）
+authorPinyin: lu4 you2
+dynastyPinyin: song4
+canonicalPoemId: 532093
+canonicalAuthorId: 5076
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 春色到人间，彩＿初戴。
+
+- 正好春盘细生菜。
+
+- 一般日月，只有仙家偏耐。
+
+- 雪霜从点鬓，朱颜在。
+
+- 温诏鼎来，延英催对。
+
+- 凤阁鸾台看除拜。
+
+- 对衣裁稳，恰称＿纹新带。
+
+- 个时方旋了、功名债。
+
+## 拼音
+
+- chun1 se4 dao4 ren2 jian1 ， cai3 ＿ chu1 dai4 。
+
+- zheng4 hao3 chun1 pan2 xi4 sheng1 cai4 。
+
+- yi4 ban1 ri4 yue4 ， zhi3 you3 xian1 jia1 pian1 nai4 。
+
+- xue3 shuang1 cong2 dian3 bin4 ， zhu1 yan2 zai4 。
+
+- wen1 zhao4 ding3 lai2 ， yan2 ying1 cui1 dui4 。
+
+- feng4 ge2 luan2 tai2 kan4 chu2 bai4 。
+
+- dui4 yi1 cai2 wen3 ， qia4 cheng1 ＿ wen2 xin1 dai4 。
+
+- ge4 shi2 fang1 xuan2 le0 、 gong1 ming2 zhai4 。
+
+## 译文
+
+春色到人间，彩＿初戴。正好春盘细生菜。一样时间，只有仙家偏耐。雪霜从点鬓，红颜在。温下鼎来，延英催促回答。凤阁鸾台看拜。回答衣服裁稳，恰好符合＿纹新带。个当时正旋了、功名债。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+春色到人间，彩＿初戴。正好春盘细生菜。一样时间，只有仙家偏耐。雪霜从点鬓，红颜在。温下鼎来，延英催促回答。凤阁鸾台看拜。回答衣服裁稳，恰好符合＿纹新带。个当时正旋了、功名债。
+	* 此部分翻译来自AI，仅供参考

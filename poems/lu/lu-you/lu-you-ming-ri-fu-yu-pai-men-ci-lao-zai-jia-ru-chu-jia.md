@@ -1,0 +1,45 @@
+---
+id: lu-you-ming-ri-fu-yu-pai-men-ci-lao-zai-jia-ru-chu-jia
+title: 明日复雨排闷
+author: 陆游
+authorSlug: lu-you
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ming2 ri4 fu4 yu3 pai2 men1
+authorPinyin: lu4 you2
+dynastyPinyin: song4
+canonicalPoemId: 378317
+canonicalAuthorId: 5076
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 此老在家如出家，蒲团趺坐读南华。
+
+- 湿云不散雁呼伴，幽室无声灯坠花。
+
+- 心法先当破窠窟，世缘最忌养萌芽。
+
+- 行年七十方知悔，万事无涯生有涯。
+
+## 拼音
+
+- ci3 lao3 zai4 jia1 ru2 chu1 jia1 ， pu2 tuan2 fu1 zuo4 du2 nan2 hua2 。
+
+- shi1 yun2 bu2 san4 yan4 hu1 ban4 ， you1 shi4 wu2 sheng1 deng1 zhui4 hua1 。
+
+- xin1 fa3 xian1 dang1 po4 ke1 ku1 ， shi4 yuan2 zui4 ji4 yang3 meng2 ya2 。
+
+- xing2 nian2 qi1 shi2 fang1 zhi1 hui3 ， wan4 shi4 wu2 ya2 sheng1 you3 ya2 。
+
+## 译文
+
+这位老人在家像出家，蒲团打坐读南华。湿说不散雁叫伴，黑暗的房间里没有声音灯坠花。心法应当先攻破窝窟，世缘最忌收养萌芽。行七十岁才知道后悔，万事无涯生有涯。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+这位老人在家像出家，蒲团打坐读南华。湿说不散雁叫伴，黑暗的房间里没有声音灯坠花。心法应当先攻破窝窟，世缘最忌收养萌芽。行七十岁才知道后悔，万事无涯生有涯。
+	* 此部分翻译来自AI，仅供参考

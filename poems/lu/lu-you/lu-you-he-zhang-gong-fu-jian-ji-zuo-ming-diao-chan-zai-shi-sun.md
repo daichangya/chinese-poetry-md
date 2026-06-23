@@ -1,0 +1,45 @@
+---
+id: lu-you-he-zhang-gong-fu-jian-ji-zuo-ming-diao-chan-zai-shi-sun
+title: 和张功父见寄
+author: 陆游
+authorSlug: lu-you
+dynasty: 宋
+dynastySlug: song
+titlePinyin: he2 zhang1 gong1 fu4 jian4 ji4
+authorPinyin: lu4 you2
+dynastyPinyin: song4
+canonicalPoemId: 377287
+canonicalAuthorId: 5076
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 佐命貂蝉再世孙，手鉏瓜垄傍青门。
+
+- 超腾已得丹换骨，恋著肯求香返魂？
+
+- 正复悲秋如骑省，可令病渴似文园？
+
+- 庭前柏树西来意，握手何时得共论？
+
+## 拼音
+
+- zuo3 ming4 diao1 chan2 zai4 shi4 sun1 ， shou3 chu2 gua1 long3 bang4 qing1 men2 。
+
+- chao1 teng2 yi3 de2 dan1 huan4 gu3 ， lian4 zhu4 ken3 qiu2 xiang1 fan3 hun2 ？
+
+- zheng4 fu4 bei1 qiu1 ru2 qi2 sheng3 ， ke3 ling4 bing4 ke3 si4 wen2 yuan2 ？
+
+- ting2 qian2 bai3 shu4 xi1 lai2 yi4 ， wo4 shou3 he2 shi2 de2 gong4 lun4 ？
+
+## 译文
+
+辅佐貂蝉两代孙，手锄瓜坟墓旁边青门。越级已经得到丹换骨，恋着肯要求返魂香？正又悲秋天如骑省，可以让生病口渴似文园？庭前柏树西来意，握着我的手什么时候能够一起讨论？
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+辅佐貂蝉两代孙，手锄瓜坟墓旁边青门。越级已经得到丹换骨，恋着肯要求返魂香？正又悲秋天如骑省，可以让生病口渴似文园？庭前柏树西来意，握着我的手什么时候能够一起讨论？
+	* 此部分翻译来自AI，仅供参考

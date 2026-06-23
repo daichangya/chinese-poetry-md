@@ -1,0 +1,37 @@
+---
+id: lu-you-bi-lao-qiu-xiao-an-shi-tai-sheng-zhu-gong-liu-chu-qi
+title: 壁老求笑庵诗
+author: 陆游
+authorSlug: lu-you
+dynasty: 宋
+dynastySlug: song
+titlePinyin: bi4 lao3 qiu2 xiao4 an1 shi1
+authorPinyin: lu4 you2
+dynastyPinyin: song4
+canonicalPoemId: 378276
+canonicalAuthorId: 5076
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 台省诸公六出奇，江湖狂客一生痴。
+
+- 无人为问净光老，抚掌掀髯端为谁？
+
+## 拼音
+
+- tai2 sheng3 zhu1 gong1 liu4 chu1 qi2 ， jiang1 hu2 kuang2 ke4 yi4 sheng1 chi1 。
+
+- wu2 ren2 wei2 wen4 jing4 guang1 lao3 ， fu3 zhang3 xian1 ran2 duan1 wei4 shui2 ？
+
+## 译文
+
+台省各公六出奇，江湖狂客人一辈子傻。没有人被问净光老，拍手掀髯端是谁？
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+台省各公六出奇，江湖狂客人一辈子傻。没有人被问净光老，拍手掀髯端是谁？
+	* 此部分翻译来自AI，仅供参考

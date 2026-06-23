@@ -1,0 +1,101 @@
+---
+id: lu-you-song-ceng-xue-shi-fu-xing-zai-er-yue-shi-yan-shang
+title: 送曾学士赴行在
+author: 陆游
+authorSlug: lu-you
+dynasty: 宋
+dynastySlug: song
+titlePinyin: song4 ceng2 xue2 shi4 fu4 xing2 zai4
+authorPinyin: lu4 you2
+dynastyPinyin: song4
+canonicalPoemId: 380872
+canonicalAuthorId: 5076
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 二月侍燕觞，红杏寒未拆；
+
+- 四月送入都，杏子已可摘。
+
+- 流年不贷人，俯仰遂成昔。
+
+- 事贤要及时，感此我心恻。
+
+- 欲书加餐字，寄之西飞翮。
+
+- 念公为民起，我得怨乖隔？
+
+- 摇摇跂前旌，去去望车轭。
+
+- 亭鄣郁将暮，落日澹陂泽。
+
+- 敢忘国士风，涕泣效臧获。
+
+- 敬输千一虑，或取二三策。
+
+- 公归对延英，清问方侧席；
+
+- 民瘼公所知，愿言写肝膈。
+
+- 向来酷吏横，至今有遗螫；
+
+- 织罗士破胆，白著民碎魄。
+
+- 诏书已屡下，宿蠹或未革；
+
+- 期公作医和，汤剂穷络脉。
+
+- 士生恨不用，得位忍辞责。
+
+- 并乞谢诸贤：努力光竹帛。
+
+## 拼音
+
+- er4 yue4 shi4 yan4 shang1 ， hong2 xing4 han2 wei4 chai1 ；
+
+- si4 yue4 song4 ru4 dou1 ， xing4 zi3 yi3 ke3 zhai1 。
+
+- liu2 nian2 bu2 dai4 ren2 ， fu3 yang3 sui4 cheng2 xi1 。
+
+- shi4 xian2 yao4 ji2 shi2 ， gan3 ci3 wo3 xin1 ce4 。
+
+- yu4 shu1 jia1 can1 zi4 ， ji4 zhi1 xi1 fei1 he2 。
+
+- nian4 gong1 wei4 min2 qi3 ， wo3 de2 yuan4 guai1 ge2 ？
+
+- yao2 yao2 qi2 qian2 jing1 ， qu4 qu4 wang4 che1 e4 。
+
+- ting2 zhang1 yu4 jiang1 mu4 ， luo4 ri4 dan4 bei1 ze2 。
+
+- gan3 wang4 guo2 shi4 feng1 ， ti4 qi4 xiao4 zang1 huo4 。
+
+- jing4 shu1 qian1 yi2 lü4 ， huo4 qu3 er4 san1 ce4 。
+
+- gong1 gui1 dui4 yan2 ying1 ， qing1 wen4 fang1 ce4 xi2 ；
+
+- min2 mo4 gong1 suo3 zhi1 ， yuan4 yan2 xie3 gan1 ge2 。
+
+- xiang4 lai2 ku4 li4 heng2 ， zhi4 jin1 you3 yi2 shi4 ；
+
+- zhi1 luo2 shi4 po4 dan3 ， bai2 zhu4 min2 sui4 po4 。
+
+- zhao4 shu1 yi3 lü3 xia4 ， su4 du4 huo4 wei4 ge2 ；
+
+- qi1 gong1 zuo4 yi1 he2 ， tang1 ji4 qiong2 luo4 mai4 。
+
+- shi4 sheng1 hen4 bu2 yong4 ， de2 wei4 ren3 ci2 ze2 。
+
+- bing4 qi3 xie4 zhu1 xian2 ： nu3 li4 guang1 zhu2 bo2 。
+
+## 译文
+
+二月侍奉燕杯，红杏寒未拆；四月送进去都，杏子已可以摘。流年不贷人，俯仰遂成过去。事贤要及时，感谢这我心里难过。想书加餐字，寄的东西飞翅。念公为民起，我得抱怨隔离？摇摆起前表彰，去去望车轭。亭鄣郁将暮，落日澹沼泽。不敢忘记国风俗，眼泪证明奴仆。敬输一千考虑，或取二三策。公回家对着延英殿，清问方侧席；你是知道百姓的疾苦，我想说写肺腑之言。刚才酷吏横行，至今留有刺；织罗士吓破胆，白著百姓胆战心惊。诏书已经多次下，在腐蚀或没有改变；期望您在医生和，络脉汤剂穷。士生恨不能用，有位忍心推辞责任。并请求谢各位：努力光辉史册。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+二月侍奉燕杯，红杏寒未拆；四月送进去都，杏子已可以摘。流年不贷人，俯仰遂成过去。事贤要及时，感谢这我心里难过。想书加餐字，寄的东西飞翅。念公为民起，我得抱怨隔离？摇摆起前表彰，去去望车轭。亭鄣郁将暮，落日澹沼泽。不敢忘记国风俗，眼泪证明奴仆。敬输一千考虑，或取二三策。公回家对着延英殿，清问方侧席；你是知道百姓的疾苦，我想说写肺腑之言。刚才酷吏横行，至今留有刺；织罗士吓破胆，白著百姓胆战心惊。诏书已经多次下，在腐蚀或没有改变；期望您在医生和，络脉汤剂穷。士生恨不能用，有位忍心推辞责任。并请求谢各位：努力光辉史册。
+	* 此部分翻译来自AI，仅供参考

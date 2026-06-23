@@ -1,0 +1,37 @@
+---
+id: lu-wen-kan-hun-zhong-cheng-shan-tao-hua-chu-you-ta-ke-bu-tong-wan-fang-de-ru-yi-78d35379
+title: 看浑中丞山桃花初有他客不通晚方得入因有戏赠
+author: 吕温
+authorSlug: lu-wen
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: kan4 hun2 zhong1 cheng2 shan1 tao2 hua1 chu1 you3 ta1 ke4 bu4 tong1 wan3 fang1 de2 ru4 yin1 you3 xi4 zeng4
+authorPinyin: lü3 wen1
+dynastyPinyin: tang2
+canonicalPoemId: 536037
+canonicalAuthorId: 4834
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 朝来驻马香街里，风度遥闻语笑声。
+
+- 无事闭门教日晚，山桃落尽不胜情。
+
+## 拼音
+
+- chao2 lai2 zhu4 ma3 xiang1 jie1 li3 ， feng1 du4 yao2 wen2 yu3 xiao4 sheng1 。
+
+- wu2 shi4 bi4 men2 jiao4 ri4 wan3 ， shan1 tao2 luo4 jin4 bu2 sheng4 qing2 。
+
+## 译文
+
+朝来停马香街里，风度远远听到笑语声。无事关上门教天晚，山桃花落尽不胜情。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+朝来停马香街里，风度远远听到笑语声。无事关上门教天晚，山桃花落尽不胜情。
+	* 此部分翻译来自AI，仅供参考
