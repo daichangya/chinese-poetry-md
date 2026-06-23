@@ -1,0 +1,53 @@
+---
+id: si-ma-guang-jiang-jun-xing-shi-guang-man-mian-chun-ji-zhu
+title: 将军行
+author: 司马光
+authorSlug: si-ma-guang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: jiang1 jun1 xing2
+authorPinyin: si1 ma3 guang1
+dynastyPinyin: song4
+canonicalPoemId: 363502
+canonicalAuthorId: 6633
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 示光满面唇激朱，虬须虎颡三十余。
+
+- 腰垂金印结紫绶，诸将不敢过庭除。
+
+- 羽林精卒二十万，注听钟鼓观麾旟。
+
+- 肥牛百头酒万石，烂漫一日供欢娱。
+
+- 自言不喜读兵法，智略何必求孙吴。
+
+- 贺兰山前烽火满，谁令小虏骄慢延须臾。
+
+## 拼音
+
+- shi4 guang1 man3 mian4 chun2 ji1 zhu1 ， qiu2 xu1 hu3 sang3 san1 shi2 yu2 。
+
+- yao1 chui2 jin1 yin4 jie2 zi3 shou4 ， zhu1 jiang1 bu4 gan3 guo4 ting2 chu2 。
+
+- yu3 lin2 jing1 zu2 er4 shi2 wan4 ， zhu4 ting1 zhong1 gu3 guan1 hui1 yu2 。
+
+- fei2 niu2 bai3 tou2 jiu3 wan4 shi2 ， lan4 man4 yi2 ri4 gong4 huan1 yu2 。
+
+- zi4 yan2 bu4 xi3 du2 bing1 fa3 ， zhi4 lüe4 he2 bi4 qiu2 sun1 wu2 。
+
+- he4 lan2 shan1 qian2 feng1 huo3 man3 ， shui2 ling4 xiao3 lu3 jiao1 man4 yan2 xu1 yu2 。
+
+## 译文
+
+表示光满面唇激朱，龙须老虎额头三十多。腰垂金印紫绶结，将领们不敢走过院子。羽林精兵二十万，注意听音乐看麾旗。肥一百头牛酒石，浪漫一天供欢娱。说自己不喜欢读兵法，智谋为什么一定要求孙吴。贺兰山前烽火满，谁让小国傲慢延一会儿。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+表示光满面唇激朱，龙须老虎额头三十多。腰垂金印紫绶结，将领们不敢走过院子。羽林精兵二十万，注意听音乐看麾旗。肥一百头牛酒石，浪漫一天供欢娱。说自己不喜欢读兵法，智谋为什么一定要求孙吴。贺兰山前烽火满，谁让小国傲慢延一会儿。
+	* 此部分翻译来自AI，仅供参考

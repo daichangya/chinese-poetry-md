@@ -1,0 +1,45 @@
+---
+id: si-ma-guang-song-zhang-jing-you-zhi-shao-wu-jun-min-ling-yao-he-zai
+title: 送张景游知邵武军
+author: 司马光
+authorSlug: si-ma-guang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: song4 zhang1 jing3 you2 zhi1 shao4 wu3 jun1
+authorPinyin: si1 ma3 guang1
+dynastyPinyin: song4
+canonicalPoemId: 363864
+canonicalAuthorId: 6633
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 闽领窅何在，东南千里遥。
+
+- 仳离伤草草，会合更迢迢。
+
+- 隋岸微吹絮，吴江欲上潮。
+
+- 肯无同舍念，回首弭轻桡。
+
+## 拼音
+
+- min3 ling3 yao3 he2 zai4 ， dong1 nan2 qian1 li3 yao2 。
+
+- pi3 li2 shang1 cao3 cao3 ， hui4 he2 geng4 tiao2 tiao2 。
+
+- sui2 an4 wei1 chui1 xu4 ， wu2 jiang1 yu4 shang4 chao2 。
+
+- ken3 wu2 tong2 she4 nian4 ， hui2 shou3 mi3 qing1 rao2 。
+
+## 译文
+
+闽领幽何在，东南数千里远。仳离伤草草，会合再迢迢。隋岸微吹柳絮，吴江想上潮。肯没有同舍念，回首消除轻微弯曲。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+闽领幽何在，东南数千里远。仳离伤草草，会合再迢迢。隋岸微吹柳絮，吴江想上潮。肯没有同舍念，回首消除轻微弯曲。
+	* 此部分翻译来自AI，仅供参考

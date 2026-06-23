@@ -1,0 +1,37 @@
+---
+id: si-ma-guang-long-nu-ci-hou-tang-zi-sheng-he-hua-shu-quan-yu-shi-cheng-zhi-geng-xiang-79e22f4f
+title: 龙女祠后塘自生荷花数权与史诚之更相酬和
+author: 司马光
+authorSlug: si-ma-guang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: long2 nü3 ci2 hou4 tang2 zi4 sheng1 he2 hua1 shu4 quan2 yu3 shi3 cheng2 zhi1 geng4 xiang1 chou2 he2
+authorPinyin: si1 ma3 guang1
+dynastyPinyin: song4
+canonicalPoemId: 363546
+canonicalAuthorId: 6633
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 荷底肖涟照绮罗，长安公子旧情多。
+
+- 踌躇不去知君意，重唱吴音白伫歌。
+
+## 拼音
+
+- he2 di3 xiao4 lian2 zhao4 qi3 luo2 ， chang2 an1 gong1 zi3 jiu4 qing2 duo1 。
+
+- chou2 chu2 bu2 qu4 zhi1 jun1 yi4 ， chong2 chang4 wu2 yin1 bai2 zhu4 ge1 。
+
+## 译文
+
+荷底模仿起照绮罗，长安公子旧感情多。踌躇不去了解你的意思，重唱吴地口音白色站着唱。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+荷底模仿起照绮罗，长安公子旧感情多。踌躇不去了解你的意思，重唱吴地口音白色站着唱。
+	* 此部分翻译来自AI，仅供参考

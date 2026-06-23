@@ -1,0 +1,77 @@
+---
+id: si-ma-guang-ci-yun-he-bu-yi-jia-shu-lin-ji-zhi-fang-han-qin-wei-shi-tong-yi-jiang-we-9798dc7f
+title: 次韵和不疑假书邻几知方酣寝为诗通意
+author: 司马光
+authorSlug: si-ma-guang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ci4 yun4 he2 bu4 yi2 jia3 shu1 lin2 ji3 zhi1 fang1 han1 qin3 wei4 shi1 tong1 yi4
+authorPinyin: si1 ma3 guang1
+dynastyPinyin: song4
+canonicalPoemId: 364346
+canonicalAuthorId: 6633
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 江翁顺天和，心迹两夷简。
+
+- 虽如边韶寝，且异宰予懒。
+
+- 平居无进间，经史自课限。
+
+- 高歌慕翰林，鸣琴写中散。
+
+- 悠然物外人，强为章绶绾。
+
+- 官舍苦秋霖，瞬息聊休眼。
+
+- 勤勚已有余，宴安何愧赧。
+
+- 借书谁敢惊，欹枕尚未暖。
+
+- 不疑神骥才，垂耳困皂栈。
+
+- 碌碌随吾侪，拜揖把手版。
+
+- 毋嫌朱墨倦，腾举已为晚。
+
+- 慎勿思山林，山林付愚孱。
+
+## 拼音
+
+- jiang1 weng1 shun4 tian1 he2 ， xin1 ji4 liang3 yi2 jian3 。
+
+- sui1 ru2 bian1 shao2 qin3 ， qie3 yi4 zai3 yu3 lan3 。
+
+- ping2 ju1 wu2 jin4 jian1 ， jing1 shi3 zi4 ke4 xian4 。
+
+- gao1 ge1 mu4 han4 lin2 ， ming2 qin2 xie3 zhong1 san4 。
+
+- you1 ran2 wu4 wai4 ren2 ， qiang2 wei4 zhang1 shou4 wan3 。
+
+- guan1 she4 ku3 qiu1 lin2 ， shun4 xi1 liao2 xiu1 yan3 。
+
+- qin2 yi4 yi3 you3 yu2 ， yan4 an1 he2 kui4 nan3 。
+
+- jie4 shu1 shui2 gan3 jing1 ， qi1 zhen3 shang4 wei4 nuan3 。
+
+- bu4 yi2 shen2 ji4 cai2 ， chui2 er3 kun4 zao4 zhan4 。
+
+- lu4 lu4 sui2 wu2 chai2 ， bai4 yi1 ba3 shou3 ban3 。
+
+- wu2 xian2 zhu1 mo4 juan4 ， teng2 ju3 yi3 wei4 wan3 。
+
+- shen4 wu4 si1 shan1 lin2 ， shan1 lin2 fu4 yu2 chan2 。
+
+## 译文
+
+江老头顺天和，心理痕迹两吕夷简。虽然像边韶睡觉，而且不同宰我懒。平时没有进间，经史从课限。高歌慕翰林，琴写中散。悠悠然物外的人，强为印章丝带绾。官舍苦连绵的秋雨，转眼间我休眼。勤勚已经有多，平安何愧赧。借来的书谁敢惊吓，倾斜枕头还没有温暖。不怀疑神马才能，垂耳困马厩。碌碌跟我们，拜揖把手版。不要嫌朱墨疲倦，腾举已为晚。千万不要想山林，山林给愚屏。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+江老头顺天和，心理痕迹两吕夷简。虽然像边韶睡觉，而且不同宰我懒。平时没有进间，经史从课限。高歌慕翰林，琴写中散。悠悠然物外的人，强为印章丝带绾。官舍苦连绵的秋雨，转眼间我休眼。勤勚已经有多，平安何愧赧。借来的书谁敢惊吓，倾斜枕头还没有温暖。不怀疑神马才能，垂耳困马厩。碌碌跟我们，拜揖把手版。不要嫌朱墨疲倦，腾举已为晚。千万不要想山林，山林给愚屏。
+	* 此部分翻译来自AI，仅供参考

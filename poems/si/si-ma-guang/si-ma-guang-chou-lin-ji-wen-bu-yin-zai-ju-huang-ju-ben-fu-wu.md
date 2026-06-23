@@ -1,0 +1,49 @@
+---
+id: si-ma-guang-chou-lin-ji-wen-bu-yin-zai-ju-huang-ju-ben-fu-wu
+title: 酬邻几问不饮栽菊
+author: 司马光
+authorSlug: si-ma-guang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: chou2 lin2 ji3 wen4 bu4 yin3 zai1 ju2
+authorPinyin: si1 ma3 guang1
+dynastyPinyin: song4
+canonicalPoemId: 618198
+canonicalAuthorId: 6633
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 黄菊本夫物，先随元化生。
+
+- 酒醴乃人功，后因仪狄成。
+
+- 酒客强亲菊，菊酒初无情。
+
+- 种之荒阶侧，何尝妨独醒。
+
+- 修竹气萧洒，自合生君庭。
+
+## 拼音
+
+- huang2 ju2 ben3 fu1 wu4 ， xian1 sui2 yuan2 hua4 sheng1 。
+
+- jiu3 li3 nai3 ren2 gong1 ， hou4 yin1 yi2 di2 cheng2 。
+
+- jiu3 ke4 qiang2 qin1 ju2 ， ju2 jiu3 chu1 wu2 qing2 。
+
+- zhong3 zhi1 huang1 jie1 ce4 ， he2 chang2 fang2 du2 xing3 。
+
+- xiu1 zhu2 qi4 xiao1 sa3 ， zi4 he2 sheng1 jun1 ting2 。
+
+## 译文
+
+黄色菊花本事物，首先根据元化生。酒是人工，后来因为仪狄成。酒客强亲菊，菊花酒开始无情。种的荒台阶旁边，何曾妨碍独醒。修竹气潇洒，从与生君庭。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+黄色菊花本事物，首先根据元化生。酒是人工，后来因为仪狄成。酒客强亲菊，菊花酒开始无情。种的荒台阶旁边，何曾妨碍独醒。修竹气潇洒，从与生君庭。
+	* 此部分翻译来自AI，仅供参考

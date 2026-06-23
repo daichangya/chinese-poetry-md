@@ -1,0 +1,45 @@
+---
+id: si-ma-guang-he-zi-yuan-yuan-xi-shen-yue-tiao-yao-que-jiao-qi
+title: 和子渊元夕
+author: 司马光
+authorSlug: si-ma-guang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: he2 zi3 yuan1 yuan2 xi1
+authorPinyin: si1 ma3 guang1
+dynastyPinyin: song4
+canonicalPoemId: 364301
+canonicalAuthorId: 6633
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 神岳岧峣阙角齐，银檐无影玉绳低。
+
+- 风传丝管交加发，灯滉星河上下迷。
+
+- 清醴横飞金鉴落，香尘不染锦障泥。
+
+- 谁知此夕斋祠客，近在宫城槐柳西。
+
+## 拼音
+
+- shen2 yue4 tiao2 yao2 que1 jiao3 qi2 ， yin2 yan2 wu2 ying3 yu4 sheng2 di1 。
+
+- feng1 chuan2 si1 guan3 jiao1 jia1 fa1 ， deng1 huang4 xing1 he2 shang4 xia4 mi2 。
+
+- qing1 li3 heng2 fei1 jin1 jian4 luo4 ， xiang1 chen2 bu4 ran3 jin3 zhang4 ni2 。
+
+- shui2 zhi1 ci3 xi1 zhai1 ci2 ke4 ， jin4 zai4 gong1 cheng2 huai2 liu3 xi1 。
+
+## 译文
+
+神岳向高峻缺角齐，银檐没有影玉绳低。风传丝管相交发，灯韩滉星河上下迷。清醇美酒横飞金鉴落，香尘不染锦障泥。谁知道今晚斋祠客，最近在宫城槐柳西。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+神岳向高峻缺角齐，银檐没有影玉绳低。风传丝管相交发，灯韩滉星河上下迷。清醇美酒横飞金鉴落，香尘不染锦障泥。谁知道今晚斋祠客，最近在宫城槐柳西。
+	* 此部分翻译来自AI，仅供参考

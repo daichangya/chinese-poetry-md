@@ -1,0 +1,45 @@
+---
+id: si-ma-guang-hu-lao-guan-tian-xian-xian-xi-dong
+title: 虎牢关
+author: 司马光
+authorSlug: si-ma-guang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: hu3 lao2 guan1
+authorPinyin: si1 ma3 guang1
+dynastyPinyin: song4
+canonicalPoemId: 363661
+canonicalAuthorId: 6633
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 天险限西东，难知造化功。
+
+- 路邀三晋会，势压两河雄。
+
+- 余雪沾枯草，惊飚卷断蓬。
+
+- 徒观争战处，今古索然空。
+
+## 拼音
+
+- tian1 xian3 xian4 xi1 dong1 ， nan2 zhi1 zao4 hua4 gong1 。
+
+- lu4 yao1 san1 jin4 hui4 ， shi4 ya1 liang3 he2 xiong2 。
+
+- yu2 xue3 zhan1 ku1 cao3 ， jing1 biao1 juan4 duan4 peng2 。
+
+- tu2 guan1 zheng1 zhan4 chu4 ， jin1 gu3 suo3 ran2 kong1 。
+
+## 译文
+
+天险限西东，很难知道造化功。半路三晋会，势镇两雄。多雪浸湿枯草，惊狂卷断蓬。只观察争夺战场，古今冷落空。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+天险限西东，很难知道造化功。半路三晋会，势镇两雄。多雪浸湿枯草，惊狂卷断蓬。只观察争夺战场，古今冷落空。
+	* 此部分翻译来自AI，仅供参考
