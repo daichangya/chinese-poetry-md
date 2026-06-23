@@ -1,0 +1,45 @@
+---
+id: ou-yang-xiu-nei-zhi-chen-chu-bian-fu-feng-ci-zhai-gong-ma-shang-kou-zhan-ling-chen-g-7cad3d30
+title: 内直晨出便赴奉慈斋宫马上口占
+author: 欧阳修
+authorSlug: ou-yang-xiu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: nei4 zhi2 chen2 chu1 bian4 fu4 feng4 ci2 zhai1 gong1 ma3 shang4 kou3 zhan4
+authorPinyin: ou1 yang2 xiu1
+dynastyPinyin: song4
+canonicalPoemId: 621383
+canonicalAuthorId: 6548
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 凌晨更直九门开，驱马悠悠望禁街。
+
+- 霜后楼台明晓日，天寒烟雾著宫櫰。
+
+- 山林未去犹贪宠，◇酒何时共放怀。
+
+- 已觉萧条悲晚岁，更怜衰病怯清斋。
+
+## 拼音
+
+- ling2 chen2 geng4 zhi2 jiu3 men2 kai1 ， qu1 ma3 you1 you1 wang4 jin4 jie1 。
+
+- shuang1 hou4 lou2 tai2 ming2 xiao3 ri4 ， tian1 han2 yan1 wu4 zhu4 gong1 huai2 。
+
+- shan1 lin2 wei4 qu4 you2 tan1 chong3 ， ◇ jiu3 he2 shi2 gong4 fang4 huai2 。
+
+- yi3 jue2 xiao1 tiao2 bei1 wan3 sui4 ， geng4 lian2 shuai1 bing4 qie4 qing1 zhai1 。
+
+## 译文
+
+凌晨更直九门开，驱马悠悠希望禁止街。霜后楼台明晓日，天气烟雾在宫櫰。山林不离还贪宠，王◇酒什么时候一起放怀。已经觉得萧条悲凉晚年，更可怜衰老多病胆小清斋。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+凌晨更直九门开，驱马悠悠希望禁止街。霜后楼台明晓日，天气烟雾在宫櫰。山林不离还贪宠，王◇酒什么时候一起放怀。已经觉得萧条悲凉晚年，更可怜衰老多病胆小清斋。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,41 @@
+---
+id: ou-yang-xiu-song-shan-shi-er-shou-yan-xia-tian-men-shen
+title: 嵩山十二首·天门泉
+author: 欧阳修
+authorSlug: ou-yang-xiu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: song1 shan1 shi2 er4 shou3 · tian1 men2 quan2
+authorPinyin: ou1 yang2 xiu1
+dynastyPinyin: song4
+canonicalPoemId: 621432
+canonicalAuthorId: 6548
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 烟霞天门深，灵泉吐岩侧。
+
+- 云湿颢气寒，石老林腴碧。
+
+- 长松暂休坐，一酌烦心涤。
+
+## 拼音
+
+- yan1 xia2 tian1 men2 shen1 ， ling2 quan2 tu3 yan2 ce4 。
+
+- yun2 shi1 hao4 qi4 han2 ， shi2 lao3 lin2 yu2 bi4 。
+
+- chang2 song1 zan4 xiu1 zuo4 ， yi4 zhuo2 fan2 xin1 di2 。
+
+## 译文
+
+烟霞天门深，灵泉吐山岩。说湿大气冷，石老人林肥肉碧。长松暂休坐，一杯酒心烦洗涤。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+烟霞天门深，灵泉吐山岩。说湿大气冷，石老人林肥肉碧。长松暂休坐，一杯酒心烦洗涤。
+	* 此部分翻译来自AI，仅供参考
