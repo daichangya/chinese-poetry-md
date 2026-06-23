@@ -1,0 +1,35 @@
+---
+id: guan-xiu-shao-jian-san-shou-qi-yi-qi-zhuo-xian-gui-mei-you-yu
+title: 少监三首 其一
+author: 贯休
+authorSlug: guan-xiu
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: shao3 jian1 san1 shou3   qi2 yi1
+authorPinyin: guan4 xiu1
+dynastyPinyin: tang2
+canonicalPoemId: 499465
+canonicalAuthorId: 147
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 器琢仙圭美有馀，席珍国宝比难如。
+
+- 衔花乳燕看调瑟，衣锦佳人侍读书。
+
+- 荀氏门风龙变化，谢家庭树玉扶疏。
+
+- 即期寰海隆平日，归佐吾皇侍玉除。
+
+## 拼音
+
+- qi4 zhuo2 xian1 gui1 mei3 you3 yu2 ， xi2 zhen1 guo2 bao3 bi3 nan2 ru2 。
+
+- xian2 hua1 ru3 yan4 kan4 tiao2 se4 ， yi1 jin3 jia1 ren2 shi4 du2 shu1 。
+
+- xun2 shi4 men2 feng1 long2 bian4 hua4 ， xie4 jia1 ting2 shu4 yu4 fu2 shu1 。
+
+- ji2 qi1 huan2 hai3 long2 ping2 ri4 ， gui1 zuo3 wu2 huang2 shi4 yu4 chu2 。

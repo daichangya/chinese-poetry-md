@@ -1,0 +1,70 @@
+---
+id: guan-xiu-shang-feng-shi-jun-wu-shou-cheng-chuan-bi-jiang-shang
+title: 上冯使君五首
+author: 贯休
+authorSlug: guan-xiu
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: shang4 feng2 shi3 jun1 wu3 shou3
+authorPinyin: guan4 xiu1
+dynastyPinyin: tang2
+canonicalPoemId: 499327
+canonicalAuthorId: 147
+tags:
+  - 诗词
+  - 御定全唐诗
+---
+
+## 正文
+
+- 撑船碧江上，春日何迟迟。
+
+- 汀花最深处，拾得鸳鸯儿。
+
+- 渔父无忧苦，水仙亦何别。
+
+- 眠在绿苇边，不知钓筒发。
+
+- 樵叟无忧苦，地仙亦何别。
+
+- 茆屋岸花中，弄孙头似雪。
+
+- 扣舷得新诗，茶煮桃花水。
+
+- n5々数片帆，去去殊未已。
+
+- 仁政无不及，乳獭将子行。
+
+- 谁家苦竹林，中有读书声。
+
+## 拼音
+
+- cheng1 chuan2 bi4 jiang1 shang4 ， chun1 ri4 he2 chi2 chi2 。
+
+- ting1 hua1 zui4 shen1 chu4 ， shi2 de2 yuan1 yang1 er2 。
+
+- yu2 fu4 wu2 you1 ku3 ， shui3 xian1 yi4 he2 bie2 。
+
+- mian2 zai4 lü4 wei3 bian1 ， bu4 zhi1 diao4 tong3 fa1 。
+
+- qiao2 sou3 wu2 you1 ku3 ， di4 xian1 yi4 he2 bie2 。
+
+- mao2 wu1 an4 hua1 zhong1 ， nong4 sun1 tou2 si4 xue3 。
+
+- kou4 xian2 de2 xin1 shi1 ， cha2 zhu3 tao2 hua1 shui3 。
+
+- n 5 tong2 shu4 pian4 fan1 ， qu4 qu4 shu1 wei4 yi3 。
+
+- ren2 zheng4 wu2 bu4 ji2 ， ru3 ta3 jiang1 zi3 xing2 。
+
+- shui2 jia1 ku3 zhu2 lin2 ， zhong1 you3 du2 shu1 sheng1 。
+
+## 译文
+
+撑船碧江上，春日迟迟没什么。汀花最深处，拾得鸳鸯儿。渔夫没有烦恼，水仙也有什么区别。睡在绿苇边，不知道钓竹筒发。樵夫没有烦恼，地仙也有什么区别。茆屋岸花中，弄孙头似雪。敲着船边找到新诗，茶煮桃花水。 n5劲几片帆，去去不能已。仁政无不及，乳獭将子行。谁家苦竹林，中有读书声。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+撑船碧江上，春日迟迟没什么。汀花最深处，拾得鸳鸯儿。渔夫没有烦恼，水仙也有什么区别。睡在绿苇边，不知道钓竹筒发。樵夫没有烦恼，地仙也有什么区别。茆屋岸花中，弄孙头似雪。敲着船边找到新诗，茶煮桃花水。 n5劲几片帆，去去不能已。仁政无不及，乳獭将子行。谁家苦竹林，中有读书声。
+	* 此部分翻译来自AI，仅供参考

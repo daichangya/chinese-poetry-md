@@ -1,0 +1,45 @@
+---
+id: gu-fei-xiong-tian-he-ge-dao-ti-yuan-ge-ji-shi-wan-he-bao-zhong-lu
+title: 天河阁到啼猿阁即事
+author: 顾非熊
+authorSlug: gu-fei-xiong
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: tian1 he2 ge2 dao4 ti2 yuan2 ge2 ji2 shi4
+authorPinyin: gu4 fei1 xiong2
+dynastyPinyin: tang2
+canonicalPoemId: 436856
+canonicalAuthorId: 5044
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 万壑褒中路，何层不架虚。
+
+- 湿云和栈起，燋枿带畲馀。
+
+- 岩狖牵垂果，湍禽接迸鱼。
+
+- 每逢维艇处，坞里有人居。
+
+## 拼音
+
+- wan4 he4 bao1 zhong1 lu4 ， he2 ceng2 bu2 jia4 xu1 。
+
+- shi1 yun2 he2 zhan4 qi3 ， jiao1 nie4 dai4 she1 yu2 。
+
+- yan2 you4 qian1 chui2 guo3 ， tuan1 qin2 jie1 beng4 yu2 。
+
+- mei3 feng2 wei2 ting3 chu4 ， wu4 li3 you3 ren2 ju1 。
+
+## 译文
+
+万壑褒中道路，为什么不架空层。湿云和栈起来，焦场带荒地就想耕种熟地多。岩拉垂果然猴子，湍禽接触迸鱼。每逢维艇处，城堡里有人居住。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+万壑褒中道路，为什么不架空层。湿云和栈起来，焦场带荒地就想耕种熟地多。岩拉垂果然猴子，湍禽接触迸鱼。每逢维艇处，城堡里有人居住。
+	* 此部分翻译来自AI，仅供参考

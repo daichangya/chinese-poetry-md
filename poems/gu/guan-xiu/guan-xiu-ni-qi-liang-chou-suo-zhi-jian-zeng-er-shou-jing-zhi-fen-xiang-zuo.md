@@ -1,0 +1,66 @@
+---
+id: guan-xiu-ni-qi-liang-chou-suo-zhi-jian-zeng-er-shou-jing-zhi-fen-xiang-zuo
+title: 拟齐梁酬所知见赠二首
+author: 贯休
+authorSlug: guan-xiu
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: ni3 qi2 liang2 chou2 suo3 zhi1 jian4 zeng4 er4 shou3
+authorPinyin: guan4 xiu1
+dynastyPinyin: tang2
+canonicalPoemId: 499562
+canonicalAuthorId: 147
+tags:
+  - 诗词
+  - 御定全唐诗
+---
+
+## 正文
+
+- 静只焚香坐，咏怀悲岁阑。
+
+- 佳人忽有赠，满手红琅玕.
+
+- 不独耀肌魄，将行为羽翰。
+
+- 酬如上青天，风雪空漫漫。
+
+- 美如仙鼎金，清如纤手琴。
+
+- 孙登啸一声，缥缈不可寻。
+
+- 但觉神洋洋，如入三昧林。
+
+- 释手复在手，古意深复深。
+
+- 惭无英琼瑶，何以酬知音。
+
+## 拼音
+
+- jing4 zhi1 fen2 xiang1 zuo4 ， yong3 huai2 bei1 sui4 lan2 。
+
+- jia1 ren2 hu1 you3 zeng4 ， man3 shou3 hong2 lang2 gan1 .
+
+- bu4 du2 yao4 ji1 po4 ， jiang1 xing2 wei2 yu3 han4 。
+
+- chou2 ru2 shang4 qing1 tian1 ， feng1 xue3 kong1 man4 man4 。
+
+- mei3 ru2 xian1 ding3 jin1 ， qing1 ru2 qian4 shou3 qin2 。
+
+- sun1 deng1 xiao4 yi4 sheng1 ， piao1 miao3 bu4 ke3 xun2 。
+
+- dan4 jue2 shen2 yang2 yang2 ， ru2 ru4 san1 mei4 lin2 。
+
+- shi4 shou3 fu4 zai4 shou3 ， gu3 yi4 shen1 fu4 shen1 。
+
+- can2 wu2 ying1 qiong2 yao2 ， he2 yi3 chou2 zhi1 yin1 。
+
+## 译文
+
+静神焚香坐，咏怀悲伤年结束。佳人忽然有赠，满手红琅歼.不仅显示肌魄，将行为羽毛笔。酬如上青天，风雪空漫漫。美如仙鼎金，清如纤细的手琴。孙登长啸一声，缥缈不可寻。只觉得神洋洋，如进入三昧林。放开手又在手，古代意深又深。惭愧没有英琼瑶，如何实现知识音。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+静神焚香坐，咏怀悲伤年结束。佳人忽然有赠，满手红琅歼.不仅显示肌魄，将行为羽毛笔。酬如上青天，风雪空漫漫。美如仙鼎金，清如纤细的手琴。孙登长啸一声，缥缈不可寻。只觉得神洋洋，如进入三昧林。放开手又在手，古代意深又深。惭愧没有英琼瑶，如何实现知识音。
+	* 此部分翻译来自AI，仅供参考

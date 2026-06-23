@@ -1,0 +1,46 @@
+---
+id: gu-kuang-za-ge-yao-ci-bu-xu-ci-hui-bu-you-san-dong
+title: 杂歌谣辞。步虚词
+author: 顾况
+authorSlug: gu-kuang
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: za2 ge1 yao2 ci2 。 bu4 xu1 ci2
+authorPinyin: gu4 kuang4
+dynastyPinyin: tang2
+canonicalPoemId: 532888
+canonicalAuthorId: 225
+tags:
+  - 诗词
+  - 御定全唐诗
+---
+
+## 正文
+
+- 回步游三洞，清心礼七真。
+
+- 飞符超羽翼，禁火醮星辰。
+
+- 残药沾鸡犬，灵香出凤麟。
+
+- 壶中无窄处，愿得一容身。
+
+## 拼音
+
+- hui2 bu4 you2 san1 dong4 ， qing1 xin1 li3 qi1 zhen1 。
+
+- fei1 fu2 chao1 yu3 yi4 ， jin4 huo3 jiao4 xing1 chen2 。
+
+- can2 yao4 zhan1 ji1 quan3 ， ling2 xiang1 chu1 feng4 lin2 。
+
+- hu2 zhong1 wu2 zhai3 chu4 ， yuan4 de2 yi4 rong2 shen1 。
+
+## 译文
+
+回步游三洞，清心礼七真。飞符超翅膀，禁火占星术。残药沾鸡犬，灵香从凤麟。壶里没有窄处，我希望找到一个容身。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+回步游三洞，清心礼七真。飞符超翅膀，禁火占星术。残药沾鸡犬，灵香从凤麟。壶里没有窄处，我希望找到一个容身。
+	* 此部分翻译来自AI，仅供参考

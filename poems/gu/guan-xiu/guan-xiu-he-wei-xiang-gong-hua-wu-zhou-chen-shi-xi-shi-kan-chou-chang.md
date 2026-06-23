@@ -1,0 +1,45 @@
+---
+id: guan-xiu-he-wei-xiang-gong-hua-wu-zhou-chen-shi-xi-shi-kan-chou-chang
+title: 和韦相公话婺州陈事
+author: 贯休
+authorSlug: guan-xiu
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: he2 wei2 xiang4 gong0 hua4 wu4 zhou1 chen2 shi4
+authorPinyin: guan4 xiu1
+dynastyPinyin: tang2
+canonicalPoemId: 532023
+canonicalAuthorId: 147
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 昔事堪惆怅，谈玄爱白牛。
+
+- 千场花下醉，一片梦中游。
+
+- 耕避初平石，烧残沈约楼。
+
+- 无因更重到，且副济川舟。
+
+## 拼音
+
+- xi1 shi4 kan1 chou2 chang4 ， tan2 xuan2 ai4 bai2 niu2 。
+
+- qian1 chang3 hua1 xia4 zui4 ， yi2 pian4 meng4 zhong1 you2 。
+
+- geng1 bi4 chu1 ping2 shi2 ， shao1 can2 shen3 yue1 lou2 。
+
+- wu2 yin1 geng4 zhong4 dao4 ， qie3 fu4 ji4 chuan1 zhou1 。
+
+## 译文
+
+过去事堪惆怅，谈玄爱白牛。千场花下醉，一片梦中游览。耕作避开初平石，烧残沈约楼。没有因此更重到，而且副济川船。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+过去事堪惆怅，谈玄爱白牛。千场花下醉，一片梦中游览。耕作避开初平石，烧残沈约楼。没有因此更重到，而且副济川船。
+	* 此部分翻译来自AI，仅供参考

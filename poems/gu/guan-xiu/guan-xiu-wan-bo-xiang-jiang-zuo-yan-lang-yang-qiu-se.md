@@ -1,0 +1,35 @@
+---
+id: guan-xiu-wan-bo-xiang-jiang-zuo-yan-lang-yang-qiu-se
+title: 晚泊湘江作
+author: 贯休
+authorSlug: guan-xiu
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: wan3 bo2 xiang1 jiang1 zuo4
+authorPinyin: guan4 xiu1
+dynastyPinyin: tang2
+canonicalPoemId: 499426
+canonicalAuthorId: 147
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 烟浪瀁秋色，高吟似有邻。
+
+- 一轮湘渚月，万古独醒人。
+
+- 岸湿穿花远，风香祷庙频。
+
+- 祗应谀佞者，到此不伤神。
+
+## 拼音
+
+- yan1 lang4 yang3 qiu1 se4 ， gao1 yin2 si4 you3 lin2 。
+
+- yi4 lun2 xiang1 zhu3 yue4 ， wan4 gu3 du2 xing3 ren2 。
+
+- an4 shi1 chuan1 hua1 yuan3 ， feng1 xiang1 dao3 miao4 pin2 。
+
+- zhi1 ying4 yu2 ning4 zhe3 ， dao4 ci3 bu4 shang1 shen2 。
