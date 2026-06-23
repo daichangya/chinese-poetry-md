@@ -1,0 +1,61 @@
+---
+id: shen-quan-qi-ku-dao-shi-liu-wu-de-wen-you-xuan-dou-ke
+title: 哭道士刘无得
+author: 沈佺期
+authorSlug: shen-quan-qi
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: ku1 dao4 shi4 liu2 wu2 de2
+authorPinyin: shen3 quan2 qi1
+dynastyPinyin: tang2
+canonicalPoemId: 407336
+canonicalAuthorId: 53
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 闻有玄都客，成仙不易祈。
+
+- 蓬莱向清浅，桃杏欲芳菲。
+
+- 缩地黄泉出，升天白日飞。
+
+- 少微星夜落，高掌露朝晞。
+
+- 吐甲龙应出，衔符鸟自归。
+
+- 国人思负局，天子惜被衣。
+
+- 花月留丹洞，琴笙阁翠微。
+
+- 嗟来子桑扈，尔独返于几。
+
+## 拼音
+
+- wen2 you3 xuan2 dou1 ke4 ， cheng2 xian1 bu2 yi4 qi2 。
+
+- peng2 lai2 xiang4 qing1 qian3 ， tao2 xing4 yu4 fang1 fei1 。
+
+- suo1 di4 huang2 quan2 chu1 ， sheng1 tian1 bai2 ri4 fei1 。
+
+- shao3 wei1 xing1 ye4 luo4 ， gao1 zhang3 lu4 chao2 xi1 。
+
+- tu3 jia3 long2 ying4 chu1 ， xian2 fu2 niao3 zi4 gui1 。
+
+- guo2 ren2 si1 fu4 ju2 ， tian1 zi3 xi1 bei4 yi1 。
+
+- hua1 yue4 liu2 dan1 dong4 ， qin2 sheng1 ge2 cui4 wei1 。
+
+- jie1 lai2 zi3 sang1 hu4 ， er3 du2 fan3 yu2 ji3 。
+
+## 译文
+
+听说有玄都客，成仙不易祈祷。蓬莱向清浅，桃杏想芳菲。缩地黄泉出来，升天白日飞。少微星夜落，高掌管露朝王晞。吐甲龙应该出来，对符鸟自己回家。国人想背着一，天子爱惜被衣服。花月留丹洞，琴笙阁翠微。嗟来子桑扈，你独自返回到几乎。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+听说有玄都客，成仙不易祈祷。蓬莱向清浅，桃杏想芳菲。缩地黄泉出来，升天白日飞。少微星夜落，高掌管露朝王晞。吐甲龙应该出来，对符鸟自己回家。国人想背着一，天子爱惜被衣服。花月留丹洞，琴笙阁翠微。嗟来子桑扈，你独自返回到几乎。
+	* 此部分翻译来自AI，仅供参考

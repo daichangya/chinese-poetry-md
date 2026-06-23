@@ -1,0 +1,45 @@
+---
+id: sheng-lie-tong-huang-yin-yin-hu-shang-san-bu-nuan-fan-ya-ding-yi-chuan-qing
+title: 同黄吟隐湖上散步
+author: 盛烈
+authorSlug: sheng-lie
+dynasty: 宋
+dynastySlug: song
+titlePinyin: tong2 huang2 yin2 yin3 hu2 shang4 san4 bu4
+authorPinyin: sheng4 lie4
+dynastyPinyin: song4
+canonicalPoemId: 646983
+canonicalAuthorId: 10525
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 暖翻鸭顶一川晴，喜共长堤缓辔行。
+
+- 落尽繁红春结局，传来太白酒寻盟。
+
+- 人于冷淡交偏好，句向萧闲吟倍清。
+
+- 鹈𫛞一声林外唤，短篷归带夕阳明。
+
+## 拼音
+
+- nuan3 fan1 ya1 ding3 yi4 chuan1 qing2 ， xi3 gong4 chang2 di1 huan3 pei4 xing2 。
+
+- luo4 jin4 fan2 hong2 chun1 jie2 ju2 ， chuan2 lai2 tai4 bai2 jiu3 xun2 meng2 。
+
+- ren2 yu2 leng3 dan4 jiao1 pian1 hao3 ， ju4 xiang4 xiao1 xian2 yin2 bei4 qing1 。
+
+- ti2 𫛞 yi4 sheng1 lin2 wai4 huan4 ， duan3 peng2 gui1 dai4 xi1 yang2 ming2 。
+
+## 译文
+
+暖翻鸭一顶川晴，很高兴同长堤缓辔行。落尽繁红春结局，传来太白酒重温过去的盟约。人在冷淡交偏好，句向萧闲吟倍清。鹈𫛞林外唤一声，短篷回家带夕阳。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+暖翻鸭一顶川晴，很高兴同长堤缓辔行。落尽繁红春结局，传来太白酒重温过去的盟约。人在冷淡交偏好，句向萧闲吟倍清。鹈𫛞林外唤一声，短篷回家带夕阳。
+	* 此部分翻译来自AI，仅供参考

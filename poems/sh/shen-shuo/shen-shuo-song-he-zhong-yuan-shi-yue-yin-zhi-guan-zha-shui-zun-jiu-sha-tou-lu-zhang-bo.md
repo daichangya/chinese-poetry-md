@@ -1,0 +1,35 @@
+---
+id: shen-shuo-song-he-zhong-yuan-shi-yue-yin-zhi-guan-zha-shui-zun-jiu-sha-tou-lu-zhang-bo
+title: 送何仲远适越因之官霅水
+author: 沈说
+authorSlug: shen-shuo
+dynasty: 宋
+dynastySlug: song
+titlePinyin: song4 he2 zhong4 yuan3 shi4 yue4 yin1 zhi1 guan1 zha4 shui3
+authorPinyin: shen3 shuo1
+dynastyPinyin: song4
+canonicalPoemId: 519248
+canonicalAuthorId: 10516
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 樽酒沙头绿涨波，事欢其柰别愁何。
+
+- 去程想憩兰亭竹，到日须看霅浦荷。
+
+- 年少莫嫌官职小，名高却怕荐书多。
+
+- 腊前拟作孤山梦，还许扁舟载雪过。
+
+## 拼音
+
+- zun1 jiu3 sha1 tou2 lü4 zhang3 bo1 ， shi4 huan1 qi2 nai4 bie2 chou2 he2 。
+
+- qu4 cheng2 xiang3 qi4 lan2 ting2 zhu2 ， dao4 ri4 xu1 kan4 zha4 pu3 he2 。
+
+- nian2 shao4 mo4 xian2 guan1 zhi2 xiao3 ， ming2 gao1 que4 pa4 jian4 shu1 duo1 。
+
+- la4 qian2 ni3 zuo4 gu1 shan1 meng4 ， hai2 xu3 pian1 zhou1 zai3 xue3 guo4 。
