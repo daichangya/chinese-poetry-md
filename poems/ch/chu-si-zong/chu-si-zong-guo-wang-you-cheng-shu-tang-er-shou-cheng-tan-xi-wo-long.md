@@ -1,0 +1,62 @@
+---
+id: chu-si-zong-guo-wang-you-cheng-shu-tang-er-shou-cheng-tan-xi-wo-long
+title: 过王右丞书堂二首
+author: 储嗣宗
+authorSlug: chu-si-zong
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: guo4 wang2 you4 cheng2 shu1 tang2 er4 shou3
+authorPinyin: chu3 si4 zong1
+dynastyPinyin: tang2
+canonicalPoemId: 525043
+canonicalAuthorId: 5228
+tags:
+  - 诗词
+  - 御定全唐诗
+---
+
+## 正文
+
+- 澄潭昔卧龙，章句世为宗。
+
+- 独步声名在，千岩水石空。
+
+- 野禽悲灌木，落日吊清风。
+
+- 后学攀遗址，秋山闻草虫。
+
+- 万树影参差，石床藤半垂。
+
+- 萤光虽散草，鸟迹尚临池。
+
+- 风雅传今日，云山想昔时。
+
+- 感深苏属国，千载五言诗。
+
+## 拼音
+
+- cheng2 tan2 xi1 wo4 long2 ， zhang1 ju4 shi4 wei4 zong1 。
+
+- du2 bu4 sheng1 ming2 zai4 ， qian1 yan2 shui3 shi2 kong1 。
+
+- ye3 qin2 bei1 guan4 mu4 ， luo4 ri4 diao4 qing1 feng1 。
+
+- hou4 xue2 pan1 yi2 zhi3 ， qiu1 shan1 wen2 cao3 chong2 。
+
+- wan4 shu4 ying3 cen1 ci1 ， shi2 chuang2 teng2 ban4 chui2 。
+
+- ying2 guang1 sui1 san4 cao3 ， niao3 ji4 shang4 lin2 chi2 。
+
+- feng1 ya3 chuan2 jin1 ri4 ， yun2 shan1 xiang3 xi1 shi2 。
+
+- gan3 shen1 su1 shu3 guo2 ， qian1 zai3 wu3 yan2 shi1 。
+
+## 译文
+
+元澄潭从前卧龙，章句社会为宗旨。独一无二名声在，千岩水石空。野禽悲伤灌木，落日吊清风。后学习攀登遗址，秋山听说草虫。万树影参差，石床藤半垂。萤火虫光虽然散草，鸟的足迹还面临池。风雅传今天，云山想起昔时。感深苏属国，千年五言诗。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+元澄潭从前卧龙，章句社会为宗旨。独一无二名声在，千岩水石空。野禽悲伤灌木，落日吊清风。后学习攀登遗址，秋山听说草虫。万树影参差，石床藤半垂。萤火虫光虽然散草，鸟的足迹还面临池。风雅传今天，云山想起昔时。感深苏属国，千年五言诗。
+	* 此部分翻译来自AI，仅供参考

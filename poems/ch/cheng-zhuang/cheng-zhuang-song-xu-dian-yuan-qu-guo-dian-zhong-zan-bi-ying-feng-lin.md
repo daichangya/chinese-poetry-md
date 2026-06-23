@@ -1,0 +1,45 @@
+---
+id: cheng-zhuang-song-xu-dian-yuan-qu-guo-dian-zhong-zan-bi-ying-feng-lin
+title: 送徐殿院去国
+author: 程壮
+authorSlug: cheng-zhuang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: song4 xu2 dian4 yuan4 qu4 guo2
+authorPinyin: cheng2 zhuang4
+dynastyPinyin: song4
+canonicalPoemId: 635559
+canonicalAuthorId: 8103
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 殿中簪笔英风凛，直比朱弦清玉壶。
+
+- 谏奏百篇多蹇谔，精忠一力撼干枢。
+
+- 笑哦老凤池边句，要取骊龙颔下珠。
+
+- 扣阙举幡心未副，芳名赢得满江湖。
+
+## 拼音
+
+- dian4 zhong1 zan1 bi3 ying1 feng1 lin3 ， zhi2 bi3 zhu1 xian2 qing1 yu4 hu2 。
+
+- jian4 zou4 bai3 pian1 duo1 jian3 e4 ， jing1 zhong1 yi2 li4 han4 gan1 shu1 。
+
+- xiao4 o4 lao3 feng4 chi2 bian1 ju4 ， yao4 qu3 li2 long2 han4 xia4 zhu1 。
+
+- kou4 que1 ju3 fan1 xin1 wei4 fu4 ， fang1 ming2 ying2 de2 man3 jiang1 hu2 。
+
+## 译文
+
+殿中簪笔英风凛冽，直等到朱弦清玉壶。上奏劝谏百篇多直率敢言，精忠一力量撼动干枢纽。笑哦老凤池边句，要把骊龙颌下珠。扣网举旗心没有副，芳名赢得满江湖。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+殿中簪笔英风凛冽，直等到朱弦清玉壶。上奏劝谏百篇多直率敢言，精忠一力量撼动干枢纽。笑哦老凤池边句，要把骊龙颌下珠。扣网举旗心没有副，芳名赢得满江湖。
+	* 此部分翻译来自AI，仅供参考
