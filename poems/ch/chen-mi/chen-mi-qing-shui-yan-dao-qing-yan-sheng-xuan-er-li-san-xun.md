@@ -1,0 +1,37 @@
+---
+id: chen-mi-qing-shui-yan-dao-qing-yan-sheng-xuan-er-li-san-xun
+title: 清水岩祷晴
+author: 陈宓
+authorSlug: chen-mi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: qing1 shui3 yan2 dao3 qing2
+authorPinyin: chen2 mi4
+dynastyPinyin: song4
+canonicalPoemId: 595268
+canonicalAuthorId: 5336
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 檐声喧耳历三旬，云气低低过一春。
+
+- 今日举头逢皎日，也知天道总由人。
+
+## 拼音
+
+- yan2 sheng1 xuan1 er3 li4 san1 xun2 ， yun2 qi4 di1 di1 guo4 yi4 chun1 。
+
+- jin1 ri4 ju3 tou2 feng2 jiao3 ri4 ， ye3 zhi1 tian1 dao4 zong3 you2 ren2 。
+
+## 译文
+
+檐声喧天耳经历三天，云气低矮低过一个春天。今日发头与明亮的太阳，也知道天道总由人。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+檐声喧天耳经历三天，云气低矮低过一个春天。今日发头与明亮的太阳，也知道天道总由人。
+	* 此部分翻译来自AI，仅供参考

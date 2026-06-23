@@ -1,0 +1,37 @@
+---
+id: chen-pu-yi-si-shao-wu-jian-ning-ye-zuo-shu-cheng-zhu-gong-qiu-yu-zhi-lu-gong-wu-tian
+title: 乙巳邵武建宁夜坐书呈诸公
+author: 陈普
+authorSlug: chen-pu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: yi3 si4 shao4 wu3 jian4 ning2 ye4 zuo4 shu1 cheng2 zhu1 gong1
+authorPinyin: chen2 pu3
+dynastyPinyin: song4
+canonicalPoemId: 595915
+canonicalAuthorId: 5341
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 求鱼指鹿共诬天，驷马嘶声更可怜。
+
+- 不下但嗔机上叟，中庭犹有泪如泉。
+
+## 拼音
+
+- qiu2 yu2 zhi3 lu4 gong4 wu1 tian1 ， si4 ma3 si1 sheng1 geng4 ke3 lian2 。
+
+- bu2 xia4 dan4 chen1 ji1 shang4 sou3 ， zhong1 ting2 you2 you3 lei4 ru2 quan2 。
+
+## 译文
+
+求鱼指着鹿一起诬陷天，匹马嘶声更可怜。不下只是生气机上老人，院子里还有泪如泉。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+求鱼指着鹿一起诬陷天，匹马嘶声更可怜。不下只是生气机上老人，院子里还有泪如泉。
+	* 此部分翻译来自AI，仅供参考

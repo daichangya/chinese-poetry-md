@@ -1,0 +1,37 @@
+---
+id: chen-shi-dao-ba-yue-shi-ri-er-shou-ren-sheng-qi-shi-jin-qiang-ban
+title: 八月十日二首
+author: 陈师道
+authorSlug: chen-shi-dao
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ba1 yue4 shi2 ri4 er4 shou3
+authorPinyin: chen2 shi1 dao4
+dynastyPinyin: song4
+canonicalPoemId: 465221
+canonicalAuthorId: 5511
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 人生七十今强半，老去光阴已后身。
+
+- 更欲置身须世外，世间元自不关人。
+
+## 拼音
+
+- ren2 sheng1 qi1 shi2 jin1 qiang2 ban4 ， lao3 qu4 guang1 yin1 yi3 hou4 shen1 。
+
+- geng4 yu4 zhi4 shen1 xu1 shi4 wai4 ， shi4 jian1 yuan2 zi4 bu4 guan1 ren2 。
+
+## 译文
+
+人生七十如今大半，老去光阴以后身体。更想置身须代外，世间元自不关别人。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+人生七十如今大半，老去光阴以后身体。更想置身须代外，世间元自不关别人。
+	* 此部分翻译来自AI，仅供参考

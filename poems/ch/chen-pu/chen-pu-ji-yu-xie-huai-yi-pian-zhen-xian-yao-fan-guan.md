@@ -1,0 +1,45 @@
+---
+id: chen-pu-ji-yu-xie-huai-yi-pian-zhen-xian-yao-fan-guan
+title: 积雨写怀
+author: 陈普
+authorSlug: chen-pu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ji1 yu3 xie3 huai2
+authorPinyin: chen2 pu3
+dynastyPinyin: song4
+canonicalPoemId: 482500
+canonicalAuthorId: 5341
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 一片真线要反观，纤毫外物不相干。
+
+- 乐天岂向青云乐，安土须从陋巷安。
+
+- 日出扶筇天地喜，云深拨火鬼神看。
+
+- 化机何啻亲兄弟，但与为徒有底难。
+
+## 拼音
+
+- yi2 pian4 zhen1 xian4 yao4 fan3 guan1 ， xian1 hao2 wai4 wu4 bu4 xiang1 gan1 。
+
+- le4 tian1 qi3 xiang4 qing1 yun2 le4 ， an1 tu3 xu1 cong2 lou4 xiang4 an1 。
+
+- ri4 chu1 fu2 qiong2 tian1 di4 xi3 ， yun2 shen1 bo1 huo3 gui3 shen2 kan4 。
+
+- hua4 ji1 he2 chi4 qin1 xiong1 di4 ， dan4 yu3 wei4 tu2 you3 di3 nan2 。
+
+## 译文
+
+一片真线要反过来看，外界丝毫不相干。夭岂向青云快乐，安土必须从简陋的巷子里安。日出扶筇天地喜，云深拨火鬼神看。化机什么比亲兄弟，但与为人有底部很难。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+一片真线要反过来看，外界丝毫不相干。夭岂向青云快乐，安土必须从简陋的巷子里安。日出扶筇天地喜，云深拨火鬼神看。化机什么比亲兄弟，但与为人有底部很难。
+	* 此部分翻译来自AI，仅供参考

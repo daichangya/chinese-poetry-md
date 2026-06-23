@@ -1,0 +1,45 @@
+---
+id: chen-shun-yu-ke-yi-wu-shou-gao-an-song-ru-ling
+title: 客意五首
+author: 陈舜俞
+authorSlug: chen-shun-yu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ke4 yi4 wu3 shou3
+authorPinyin: chen2 shun4 yu2
+dynastyPinyin: song4
+canonicalPoemId: 631856
+canonicalAuthorId: 7459
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 高岸耸如陵，秋光著处清。
+
+- 遥山照眼碧，黄叶逐人行。
+
+- 莫怪新烟火，曾经古战争。
+
+- 深林茅屋小，气象亦豪英。
+
+## 拼音
+
+- gao1 an4 song3 ru2 ling2 ， qiu1 guang1 zhu4 chu4 qing1 。
+
+- yao2 shan1 zhao4 yan3 bi4 ， huang2 ye4 zhu2 ren2 xing2 。
+
+- mo4 guai4 xin1 yan1 huo3 ， ceng2 jing1 gu3 zhan4 zheng1 。
+
+- shen1 lin2 mao2 wu1 xiao3 ， qi4 xiang4 yi4 hao2 ying1 。
+
+## 译文
+
+高高的山崖高耸如陵，秋光著处清。远山照眼碧，黄叶逐人行。别说新烟火，曾经在古代战争。深林茅屋顶小，气候也很英。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+高高的山崖高耸如陵，秋光著处清。远山照眼碧，黄叶逐人行。别说新烟火，曾经在古代战争。深林茅屋顶小，气候也很英。
+	* 此部分翻译来自AI，仅供参考
