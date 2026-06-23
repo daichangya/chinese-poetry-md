@@ -1,0 +1,45 @@
+---
+id: shi-zhi-yuan-chun-ri-hu-ju-shu-shi-ji-zi-xuan-shi-xian-ju-zuo-fu-ni-an-ren
+title: 春日湖居书事寄子璇师
+author: 释智圆
+authorSlug: shi-zhi-yuan
+dynasty: 宋
+dynastySlug: song
+titlePinyin: chun1 ri4 hu2 ju1 shu1 shi4 ji4 zi3 xuan2 shi1
+authorPinyin: shi4 zhi4 yuan2
+dynastyPinyin: song4
+canonicalPoemId: 577473
+canonicalAuthorId: 5010
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 闲居作赋拟安仁，壮志潜消白发新。
+
+- 烟浪静牵来往梦，莺花深慰寂寥身。
+
+- 野塘草绿湖村暮，石鼎茶香岳寺春。
+
+- 终学支公买山住，白云深处待为邻。
+
+## 拼音
+
+- xian2 ju1 zuo4 fu4 ni3 an1 ren2 ， zhuang4 zhi4 qian2 xiao1 bai2 fa4 xin1 。
+
+- yan1 lang4 jing4 qian1 lai2 wang3 meng4 ， ying1 hua1 shen1 wei4 ji4 liao2 shen1 。
+
+- ye3 tang2 cao3 lü4 hu2 cun1 mu4 ， shi2 ding3 cha2 xiang1 yue4 si4 chun1 。
+
+- zhong1 xue2 zhi1 gong1 mai3 shan1 zhu4 ， bai2 yun2 shen1 chu4 dai4 wei4 lin2 。
+
+## 译文
+
+闲居作赋拟安仁，壮志潜消白发新。烟浪静拉来往梦，莺花深安抚寂寥身。野塘草绿色湖村晚，石鼎茶香气岳寺春。最终学习支公买山住，白云深处等待为邻。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+闲居作赋拟安仁，壮志潜消白发新。烟浪静拉来往梦，莺花深安抚寂寥身。野塘草绿色湖村晚，石鼎茶香气岳寺春。最终学习支公买山住，白云深处等待为邻。
+	* 此部分翻译来自AI，仅供参考

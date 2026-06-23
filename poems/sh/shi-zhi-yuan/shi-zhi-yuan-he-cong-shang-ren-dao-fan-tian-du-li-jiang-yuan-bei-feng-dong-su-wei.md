@@ -1,0 +1,45 @@
+---
+id: shi-zhi-yuan-he-cong-shang-ren-dao-fan-tian-du-li-jiang-yuan-bei-feng-dong-su-wei
+title: 和聪上人悼梵天阇棃
+author: 释智圆
+authorSlug: shi-zhi-yuan
+dynasty: 宋
+dynastySlug: song
+titlePinyin: he2 cong1 shang4 ren2 dao4 fan4 tian1 du1 li2
+authorPinyin: shi4 zhi4 yuan2
+dynastyPinyin: song4
+canonicalPoemId: 578085
+canonicalAuthorId: 5010
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 讲院悲风动素帷，摇松难更见吾师。
+
+- 尘生旧榻休开卷，月上秋轩罢赋诗。
+
+- 真法自将传后学，清名谁为勤丰碑。
+
+- 横经弟子怀高迹，共指龙华作后期。
+
+## 拼音
+
+- jiang3 yuan4 bei1 feng1 dong4 su4 wei2 ， yao2 song1 nan2 geng4 jian4 wu2 shi1 。
+
+- chen2 sheng1 jiu4 ta4 xiu1 kai1 juan4 ， yue4 shang4 qiu1 xuan1 ba4 fu4 shi1 。
+
+- zhen1 fa3 zi4 jiang1 chuan2 hou4 xue2 ， qing1 ming2 shui2 wei4 qin2 feng1 bei1 。
+
+- heng2 jing1 di4 zi3 huai2 gao1 ji4 ， gong4 zhi3 long2 hua2 zuo4 hou4 qi1 。
+
+## 译文
+
+研究院悲风激动素帐，很难再看到我的老师摇动松。尘生旧床体开卷，月上秋轩停止写诗。真法从将传给后人学习，清谁的名字为勤丰碑。横经学生怀有高尚行为，共指龙华作迟到。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+研究院悲风激动素帐，很难再看到我的老师摇动松。尘生旧床体开卷，月上秋轩停止写诗。真法从将传给后人学习，清谁的名字为勤丰碑。横经学生怀有高尚行为，共指龙华作迟到。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,37 @@
+---
+id: shu-yue-xiang-guan-wan-tang-qian-jiao-wei-wei-feng-yu-suo-bai-dui-zhi-you-gan-lu-jiao--46f73482
+title: 观万堂前蕉苇为风雨所败对之有感
+author: 舒岳祥
+authorSlug: shu-yue-xiang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: guan1 wan4 tang2 qian2 jiao1 wei3 wei4 feng1 yu3 suo3 bai4 dui4 zhi1 you3 gan3
+authorPinyin: shu1 yue4 xiang2
+dynastyPinyin: song4
+canonicalPoemId: 629830
+canonicalAuthorId: 7229
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 绿蕉青苇列旗枪，一夜西风作战场。
+
+- 薏苡低垂菰米老，花鹅绣鸭阵横塘。
+
+## 拼音
+
+- lü4 jiao1 qing1 wei3 lie4 qi2 qiang1 ， yi2 ye4 xi1 feng1 zuo4 zhan4 chang3 。
+
+- yi4 yi3 di1 chui2 gu1 mi3 lao3 ， hua1 e2 xiu4 ya1 zhen4 heng2 tang2 。
+
+## 译文
+
+绿蕉青苇列旗枪，一夜西风作战场。薏苡低垂菰米老，花绣鸭鹅阵横塘。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+绿蕉青苇列旗枪，一夜西风作战场。薏苡低垂菰米老，花绣鸭鹅阵横塘。
+	* 此部分翻译来自AI，仅供参考

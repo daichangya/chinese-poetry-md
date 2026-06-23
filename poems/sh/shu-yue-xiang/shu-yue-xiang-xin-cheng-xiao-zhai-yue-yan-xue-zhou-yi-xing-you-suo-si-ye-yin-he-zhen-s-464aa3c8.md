@@ -1,0 +1,37 @@
+---
+id: shu-yue-xiang-xin-cheng-xiao-zhai-yue-yan-xue-zhou-yi-xing-you-suo-si-ye-yin-he-zhen-s-464aa3c8
+title: 新成小斋曰剡雪舟以兴有所思也
+author: 舒岳祥
+authorSlug: shu-yue-xiang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: xin1 cheng2 xiao3 zhai1 yue1 yan3 xue3 zhou1 yi3 xing1 you3 suo3 si1 ye3
+authorPinyin: shu1 yue4 xiang2
+dynastyPinyin: song4
+canonicalPoemId: 629714
+canonicalAuthorId: 7229
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 银河枕上客星来，残梦西窗水鸟啼。
+
+- 身入布衾如卧雪，当年曾泛戴公溪。
+
+## 拼音
+
+- yin2 he2 zhen3 shang4 ke4 xing1 lai2 ， can2 meng4 xi1 chuang1 shui3 niao3 ti2 。
+
+- shen1 ru4 bu4 qin1 ru2 wo4 xue3 ， dang1 nian2 ceng2 fan4 dai4 gong1 xi1 。
+
+## 译文
+
+银河枕上客星来，残梦西窗水鸟啼。身入布被子如卧雪，当年曾泛戴公溪。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+银河枕上客星来，残梦西窗水鸟啼。身入布被子如卧雪，当年曾泛戴公溪。
+	* 此部分翻译来自AI，仅供参考

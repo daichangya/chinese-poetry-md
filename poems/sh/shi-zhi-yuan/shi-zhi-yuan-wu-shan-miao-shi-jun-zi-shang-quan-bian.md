@@ -1,0 +1,73 @@
+---
+id: shi-zhi-yuan-wu-shan-miao-shi-jun-zi-shang-quan-bian
+title: 吴山庙诗
+author: 释智圆
+authorSlug: shi-zhi-yuan
+dynasty: 宋
+dynastySlug: song
+titlePinyin: wu2 shan1 miao4 shi1
+authorPinyin: shi4 zhi4 yuan2
+dynastyPinyin: song4
+canonicalPoemId: 577770
+canonicalAuthorId: 5010
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 君子尚权变，权变贵合道。
+
+- 子胥荐专诸，子光专非好。
+
+- 父雠共戴天，乞师恨不早。
+
+- 子光既得志，入郢事征讨。
+
+- 报父既鞭尸，谏王仍杀身。
+
+- 孝子节方全，忠臣道且新。
+
+- 驰名天地间，岂是悠悠人。
+
+- 青史书盛烈，血食旌遗尘。
+
+- 庙堂耀晨曦，庙木荂阳春。
+
+- 往来无知俗，焚香勤祷祝。
+
+- 忠孝不敢行，神兮宁降福。
+
+## 拼音
+
+- jun1 zi3 shang4 quan2 bian4 ， quan2 bian4 gui4 he2 dao4 。
+
+- zi3 xu1 jian4 zhuan1 zhu1 ， zi3 guang1 zhuan1 fei1 hao3 。
+
+- fu4 chou2 gong4 dai4 tian1 ， qi3 shi1 hen4 bu4 zao3 。
+
+- zi3 guang1 ji4 de2 zhi4 ， ru4 ying3 shi4 zheng1 tao3 。
+
+- bao4 fu4 ji4 bian1 shi1 ， jian4 wang2 reng2 sha1 shen1 。
+
+- xiao4 zi3 jie2 fang1 quan2 ， zhong1 chen2 dao4 qie3 xin1 。
+
+- chi2 ming2 tian1 di4 jian1 ， qi3 shi4 you1 you1 ren2 。
+
+- qing1 shi3 shu1 sheng4 lie4 ， xue4 shi2 jing1 yi2 chen2 。
+
+- miao4 tang2 yao4 chen2 xi1 ， miao4 mu4 fu1 yang2 chun1 。
+
+- wang3 lai2 wu2 zhi1 su2 ， fen2 xiang1 qin2 dao3 zhu4 。
+
+- zhong1 xiao4 bu4 gan3 xing2 ， shen2 xi1 ning2 jiang4 fu2 。
+
+## 译文
+
+君子崇尚权变，权变贵合道。子胥推荐专诸，你光专门不是好。父亲仇敌共戴天，请老师遗憾没有早。子光得到志，进入郢都事征讨。报答父亲既鞭尸，劝谏王又杀身。孝子节正在全，忠臣道并且新。驰名天地间，难道这悠悠的人。青史书伟业，血食族遗迹。庙堂耀晨曦，庙木荂阳春。往来的没有不知道风俗，焚香勤祷告。忠孝不敢走，神啊宁降福。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+君子崇尚权变，权变贵合道。子胥推荐专诸，你光专门不是好。父亲仇敌共戴天，请老师遗憾没有早。子光得到志，进入郢都事征讨。报答父亲既鞭尸，劝谏王又杀身。孝子节正在全，忠臣道并且新。驰名天地间，难道这悠悠的人。青史书伟业，血食族遗迹。庙堂耀晨曦，庙木荂阳春。往来的没有不知道风俗，焚香勤祷告。忠孝不敢走，神啊宁降福。
+	* 此部分翻译来自AI，仅供参考
