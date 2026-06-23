@@ -1,16 +1,15 @@
 {
   "authorDirs": 13584,
   "missing": 0,
-  "stub": 13,
+  "stub": 9,
   "titleMismatch": 0,
-  "noShortDescription": 0,
+  "noShortDescription": 6,
   "ambiguousSlugs": 0,
   "famousFailures": [],
   "issuesSample": [
     {
       "slug": "bao-ying",
-      "kind": "stub",
-      "detail": ""
+      "kind": "no_short_description"
     },
     {
       "slug": "cheng",
@@ -19,8 +18,7 @@
     },
     {
       "slug": "dai-yan",
-      "kind": "stub",
-      "detail": ""
+      "kind": "no_short_description"
     },
     {
       "slug": "fu",
@@ -29,8 +27,7 @@
     },
     {
       "slug": "han-jun",
-      "kind": "stub",
-      "detail": ""
+      "kind": "no_short_description"
     },
     {
       "slug": "ji-yuan-gao",
@@ -39,8 +36,7 @@
     },
     {
       "slug": "li-hong-gao",
-      "kind": "stub",
-      "detail": ""
+      "kind": "no_short_description"
     },
     {
       "slug": "li-wen-ru",
@@ -53,14 +49,22 @@
       "detail": ""
     },
     {
-      "slug": "su-gui",
+      "slug": "su",
       "kind": "stub",
-      "detail": ""
+      "detail": "苏可以指："
+    },
+    {
+      "slug": "su-gui",
+      "kind": "no_short_description"
     },
     {
       "slug": "tang-wan",
+      "kind": "no_short_description"
+    },
+    {
+      "slug": "xiao-bai",
       "kind": "stub",
-      "detail": ""
+      "detail": "小白"
     },
     {
       "slug": "xue-shen-huo",
