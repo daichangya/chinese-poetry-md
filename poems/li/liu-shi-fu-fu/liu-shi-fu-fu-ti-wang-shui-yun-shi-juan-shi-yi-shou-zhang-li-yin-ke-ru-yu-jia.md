@@ -1,0 +1,37 @@
+---
+id: liu-shi-fu-fu-ti-wang-shui-yun-shi-juan-shi-yi-shou-zhang-li-yin-ke-ru-yu-jia
+title: 题汪水云诗卷十一首
+author: 刘师复
+authorSlug: liu-shi-fu-fu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ti2 wang1 shui3 yun2 shi1 juan4 shi2 yi1 shou3
+authorPinyin: liu2 shi1 fu4
+dynastyPinyin: song4
+canonicalPoemId: 643893
+canonicalAuthorId: 9765
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 杖藜引客入渔家，尽敞蓬窗作供茶。
+
+- 三面阑干诗思阔，湖光千顷浸荷花。
+
+## 拼音
+
+- zhang4 li2 yin3 ke4 ru4 yu2 jia1 ， jin4 chang3 peng2 chuang1 zuo4 gong4 cha2 。
+
+- san1 mian4 lan2 gan1 shi1 si1 kuo4 ， hu2 guang1 qian1 qing3 jin4 he2 hua1 。
+
+## 译文
+
+杖藜领客人进入渔家，完全敞蓬窗作供茶。三面栏杆诗思阔，湖杨千顷浸荷花。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+杖藜领客人进入渔家，完全敞蓬窗作供茶。三面栏杆诗思阔，湖杨千顷浸荷花。
+	* 此部分翻译来自AI，仅供参考
