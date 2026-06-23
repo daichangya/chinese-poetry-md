@@ -1,0 +1,45 @@
+---
+id: pi-ri-xiu-feng-he-tian-jiu-zhong-liu-yong-jiu-chuan-yan-gui-fu-ku-lan
+title: 奉和添酒中六咏。酒船
+author: 皮日休
+authorSlug: pi-ri-xiu
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: feng4 he2 tian1 jiu3 zhong1 liu4 yong3 。 jiu3 chuan2
+authorPinyin: pi2 ri4 xiu1
+dynastyPinyin: tang2
+canonicalPoemId: 394319
+canonicalAuthorId: 846
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 剡桂复刳兰，陶陶任行乐。
+
+- 但知涵泳好，不计风涛恶。
+
+- 尝行麹封内，稍系糟丘泊。
+
+- 东海如可倾，乘之就斟酌。
+
+## 拼音
+
+- yan3 gui4 fu4 ku1 lan2 ， tao2 tao2 ren4 xing2 le4 。
+
+- dan4 zhi1 han2 yong3 hao3 ， bu2 ji4 feng1 tao1 e4 。
+
+- chang2 xing2 qu1 feng1 nei4 ， shao1 xi4 zao1 qiu1 bo2 。
+
+- dong1 hai3 ru2 ke3 qing1 ， cheng2 zhi1 jiu4 zhen1 zhuo2 。
+
+## 译文
+
+剡县桂兰又挖，陶陶任行乐。只知涵泳于好，不考虑风涛恶。曾行面封内，稍微系糟丘停泊。东海像可以倾，乘坐的去斟酌。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+剡县桂兰又挖，陶陶任行乐。只知涵泳于好，不考虑风涛恶。曾行面封内，稍微系糟丘停泊。东海像可以倾，乘坐的去斟酌。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,121 @@
+---
+id: pi-ri-xiu-chu-xia-ji-shi-ji-lu-wang-xia-jing-tian-qie-kuang
+title: 初夏即事寄鲁望
+author: 皮日休
+authorSlug: pi-ri-xiu
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: chu1 xia4 ji2 shi4 ji4 lu3 wang4
+authorPinyin: pi2 ri4 xiu1
+dynastyPinyin: tang2
+canonicalPoemId: 394185
+canonicalAuthorId: 846
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 夏景恬且旷，远人疾初平。
+
+- 黄鸟语方熟，紫桐阴正清。
+
+- 廨宇有幽处，私游无定程。
+
+- 归来闭双关，亦忘枯与荣。
+
+- 土室作深谷，藓垣为干城。
+
+- 𫖯杉突杝架，迸笋支檐楹。
+
+- 片石共坐稳，病鹤同喜晴。
+
+- 瘿木四五器，筇杖一两茎。
+
+- 泉为葛天味，松作羲皇声。
+
+- 或看名画彻，或吟闲诗成。
+
+- 忽枕素琴睡，时把仙书行。
+
+- 自然寡俦侣，莫说更纷争。
+
+- 具区包地髓，震泽含天英。
+
+- 粤从三让来，俊造纷然生。
+
+- 顾予客兹地，薄我皆为伧。
+
+- 唯有陆夫子，尽力提客卿。
+
+- 各负出俗才，俱怀超世情。
+
+- 驻我一栈车，啜君数藜羹。
+
+- 敲门若我访，倒屣欣逢迎。
+
+- 胡饼蒸甚熟，貊盘举尤轻。
+
+- 茗脆不禁炙，酒肥或难倾。
+
+- 扫除就藤下，移榻寻虚明。
+
+- 唯共陆夫子，醉与天壤并。
+
+## 拼音
+
+- xia4 jing3 tian2 qie3 kuang4 ， yuan3 ren2 ji2 chu1 ping2 。
+
+- huang2 niao3 yu3 fang1 shu2 ， zi3 tong2 yin1 zheng4 qing1 。
+
+- xie4 yu3 you3 you1 chu4 ， si1 you2 wu2 ding4 cheng2 。
+
+- gui1 lai2 bi4 shuang1 guan1 ， yi4 wang4 ku1 yu3 rong2 。
+
+- tu3 shi4 zuo4 shen1 gu3 ， xian3 yuan2 wei4 gan1 cheng2 。
+
+- fu3 shan1 tu1 yi2 jia4 ， beng4 sun3 zhi1 yan2 ying2 。
+
+- pian4 shi2 gong4 zuo4 wen3 ， bing4 he4 tong2 xi3 qing2 。
+
+- ying3 mu4 si4 wu3 qi4 ， qiong2 zhang4 yi4 liang3 jing1 。
+
+- quan2 wei4 ge3 tian1 wei4 ， song1 zuo4 xi1 huang2 sheng1 。
+
+- huo4 kan4 ming2 hua4 che4 ， huo4 yin2 xian2 shi1 cheng2 。
+
+- hu1 zhen3 su4 qin2 shui4 ， shi2 ba3 xian1 shu1 xing2 。
+
+- zi4 ran2 gua3 chou2 lü3 ， mo4 shuo1 geng4 fen1 zheng1 。
+
+- ju4 qu1 bao1 di4 sui3 ， zhen4 ze2 han2 tian1 ying1 。
+
+- yue4 cong2 san1 rang4 lai2 ， jun4 zao4 fen1 ran2 sheng1 。
+
+- gu4 yu3 ke4 zi1 di4 ， bao2 wo3 jie1 wei4 chen0 。
+
+- wei2 you3 lu4 fu1 zi3 ， jin4 li4 ti2 ke4 qing1 。
+
+- ge4 fu4 chu1 su2 cai2 ， ju4 huai2 chao1 shi4 qing2 。
+
+- zhu4 wo3 yi2 zhan4 che1 ， chuo4 jun1 shu4 li2 geng1 。
+
+- qiao1 men2 ruo4 wo3 fang3 ， dao3 xi3 xin1 feng2 ying2 。
+
+- hu2 bing3 zheng1 shen4 shu2 ， mo4 pan2 ju3 you2 qing1 。
+
+- ming2 cui4 bu4 jin1 zhi4 ， jiu3 fei2 huo4 nan2 qing1 。
+
+- sao3 chu2 jiu4 teng2 xia4 ， yi2 ta4 xun2 xu1 ming2 。
+
+- wei2 gong4 lu4 fu1 zi3 ， zui4 yu3 tian1 rang3 bing4 。
+
+## 译文
+
+夏景恬静而且开阔，远方的人病初平。黄鸟说话才能成熟，紫梧桐阴正清。房屋有幽静的地方，自己游不定程。回来关闭双关，也忘枯和荣。土室作深谷，藓墙是干城。俯杉突杝架，开榫支檐柱。石片一起坐稳当，病鹤同喜欢晴天。瘿木四五器，邓竹杖一两根。泉是葛天氏味，松作羲皇声。或者看名画彻，有人在闲诗成。忽然枕素琴睡，当时把仙书行。自然少俦伴侣，不要说更纷争。具区包地髓，太湖含天英。粤从三次谦让来，优秀纷然生。只给客人这个地方，我都是个薄。只有陆先生，尽力提客卿。各负出家人才，都想超越世情。驻我一个栈车，吃你多次藜羹。敲门如果我访问，热情很高兴欢迎。烧饼蒸很熟，貊盘举更轻。茗脆不禁止烤，酒肥或难以倾倒。扫除到藤下，移动床不久虚明。只有共同陆先生，醉与天地并。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+夏景恬静而且开阔，远方的人病初平。黄鸟说话才能成熟，紫梧桐阴正清。房屋有幽静的地方，自己游不定程。回来关闭双关，也忘枯和荣。土室作深谷，藓墙是干城。俯杉突杝架，开榫支檐柱。石片一起坐稳当，病鹤同喜欢晴天。瘿木四五器，邓竹杖一两根。泉是葛天氏味，松作羲皇声。或者看名画彻，有人在闲诗成。忽然枕素琴睡，当时把仙书行。自然少俦伴侣，不要说更纷争。具区包地髓，太湖含天英。粤从三次谦让来，优秀纷然生。只给客人这个地方，我都是个薄。只有陆先生，尽力提客卿。各负出家人才，都想超越世情。驻我一个栈车，吃你多次藜羹。敲门如果我访问，热情很高兴欢迎。烧饼蒸很熟，貊盘举更轻。茗脆不禁止烤，酒肥或难以倾倒。扫除到藤下，移动床不久虚明。只有共同陆先生，醉与天地并。
+	* 此部分翻译来自AI，仅供参考
