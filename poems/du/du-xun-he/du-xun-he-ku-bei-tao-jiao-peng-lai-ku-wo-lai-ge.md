@@ -1,0 +1,37 @@
+---
+id: du-xun-he-ku-bei-tao-jiao-peng-lai-ku-wo-lai-ge
+title: 哭贝韬
+author: 杜荀鹤
+authorSlug: du-xun-he
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: ku1 bei4 tao1
+authorPinyin: du4 xun2 he4
+dynastyPinyin: tang2
+canonicalPoemId: 536503
+canonicalAuthorId: 5361
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 交朋来哭我来歌，喜傍山家葬荔萝。
+
+- 四海十年人杀尽，似君埋少不埋多。
+
+## 拼音
+
+- jiao1 peng2 lai2 ku1 wo3 lai2 ge1 ， xi3 bang4 shan1 jia1 zang4 li4 luo2 。
+
+- si4 hai3 shi2 nian2 ren2 sha1 jin4 ， si4 jun1 mai2 shao3 bu4 mai2 duo1 。
+
+## 译文
+
+交朋友来哭我来唱，喜欢傍山家葬荔萝。四海十年人杀尽，似乎你埋少不埋多。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+交朋友来哭我来唱，喜欢傍山家葬荔萝。四海十年人杀尽，似乎你埋少不埋多。
+	* 此部分翻译来自AI，仅供参考

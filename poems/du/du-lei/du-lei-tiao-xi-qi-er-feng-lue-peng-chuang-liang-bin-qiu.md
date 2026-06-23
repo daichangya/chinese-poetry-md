@@ -1,0 +1,27 @@
+---
+id: du-lei-tiao-xi-qi-er-feng-lue-peng-chuang-liang-bin-qiu
+title: 苕溪 其二
+author: 杜耒
+authorSlug: du-lei
+dynasty: 宋
+dynastySlug: song
+titlePinyin: tiao2 xi1   qi2 er4
+authorPinyin: du4 lei3
+dynastyPinyin: song4
+canonicalPoemId: 426421
+canonicalAuthorId: 11652
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 风掠篷窗两鬓秋，生涯无岁不扁舟。
+
+- 吟诗本欲相消遣，及到吟成字字愁。
+
+## 拼音
+
+- feng1 lüe4 peng2 chuang1 liang3 bin4 qiu1 ， sheng1 ya2 wu2 sui4 bu4 pian1 zhou1 。
+
+- yin2 shi1 ben3 yu4 xiang1 xiao1 qian3 ， ji2 dao4 yin2 cheng2 zi4 zi4 chou2 。

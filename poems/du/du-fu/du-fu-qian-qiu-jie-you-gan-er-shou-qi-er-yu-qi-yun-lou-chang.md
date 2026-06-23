@@ -1,0 +1,43 @@
+---
+id: du-fu-qian-qiu-jie-you-gan-er-shou-qi-er-yu-qi-yun-lou-chang
+title: 千秋节有感二首 其二
+author: 杜甫
+authorSlug: du-fu
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: qian1 qiu1 jie2 you3 gan3 er4 shou3   qi2 er4
+authorPinyin: du4 fu3
+dynastyPinyin: tang2
+canonicalPoemId: 453585
+canonicalAuthorId: 316
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 御气云楼敞，含风彩仗高。
+
+- 仙人张内乐，王母献宫桃。
+
+- 罗袜红蕖艳，金羁白雪毛。
+
+- 舞阶衔寿酒，走索背秋毫。
+
+- 圣主他年贵，边心此日劳。
+
+- 桂江流向北，满眼送波涛。
+
+## 拼音
+
+- yu4 qi4 yun2 lou2 chang3 ， han2 feng1 cai3 zhang4 gao1 。
+
+- xian1 ren2 zhang1 nei4 le4 ， wang2 mu3 xian4 gong1 tao2 。
+
+- luo2 wa4 hong2 qu2 yan4 ， jin1 ji1 bai2 xue3 mao2 。
+
+- wu3 jie1 xian2 shou4 jiu3 ， zou3 suo3 bei4 qiu1 hao2 。
+
+- sheng4 zhu3 ta1 nian2 gui4 ， bian1 xin1 ci3 ri4 lao2 。
+
+- gui4 jiang1 liu2 xiang4 bei3 ， man3 yan3 song4 bo1 tao1 。

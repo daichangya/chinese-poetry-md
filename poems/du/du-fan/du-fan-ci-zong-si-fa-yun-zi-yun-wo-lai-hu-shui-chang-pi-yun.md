@@ -1,0 +1,45 @@
+---
+id: du-fan-ci-zong-si-fa-yun-zi-yun-wo-lai-hu-shui-chang-pi-yun
+title: 次宗司法云字韵
+author: 杜范
+authorSlug: du-fan
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ci4 zong1 si1 fa3 yun2 zi4 yun4
+authorPinyin: du4 fan4
+dynastyPinyin: song4
+canonicalPoemId: 599125
+canonicalAuthorId: 5378
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 我来縠水偿披云，秋堂霭霭生春薰。
+
+- 落笔盘空斗神速，刮眼一破平生闻。
+
+- 自笑黏黐日凭案，抽思索句曾未半。
+
+- 弱步何由附天骥，肝胆轮囷惭寸管。
+
+## 拼音
+
+- wo3 lai2 hu2 shui3 chang2 pi1 yun2 ， qiu1 tang2 ai3 ai3 sheng1 chun1 xun1 。
+
+- luo4 bi3 pan2 kong1 dou4 shen2 su4 ， gua1 yan3 yi2 po4 ping2 sheng1 wen2 。
+
+- zi4 xiao4 nian2 chi1 ri4 ping2 an4 ， chou1 si1 suo3 ju4 ceng2 wei4 ban4 。
+
+- ruo4 bu4 he2 you2 fu4 tian1 ji4 ， gan1 dan3 lun2 qun1 can2 cun4 guan3 。
+
+## 译文
+
+我来拢水补偿拨开云雾，秋堂霭霭生春薰。落笔盘空斗快，把眼一破平生听到。嘲笑自己黏黐日凭案，抽出思索句子没有半。弱步怎么附天骥，肝胆轮囷惭愧寸管。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+我来拢水补偿拨开云雾，秋堂霭霭生春薰。落笔盘空斗快，把眼一破平生听到。嘲笑自己黏黐日凭案，抽出思索句子没有半。弱步怎么附天骥，肝胆轮囷惭愧寸管。
+	* 此部分翻译来自AI，仅供参考

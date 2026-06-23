@@ -1,0 +1,37 @@
+---
+id: duan-cheng-shi-he-zhang-xi-fu-yong-xuan-lu-he-shang-jia-sha-nan-shan-pi-shi-han-ye-zhong
+title: 和张希复咏宣律和尚袈裟
+author: 段成式
+authorSlug: duan-cheng-shi
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: he2 zhang1 xi1 fu4 yong3 xuan1 lü4 he2 shang4 jia1 sha1
+authorPinyin: duan4 cheng2 shi4
+dynastyPinyin: tang2
+canonicalPoemId: 517670
+canonicalAuthorId: 5215
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 南山披时寒夜中，一角不动毗岚风。
+
+- 何人见此生惭愧，断续犹应护得龙。
+
+## 拼音
+
+- nan2 shan1 pi1 shi2 han2 ye4 zhong1 ， yi4 jiao3 bu2 dong4 pi2 lan2 feng1 。
+
+- he2 ren2 jian4 ci3 sheng1 can2 kui4 ， duan4 xu4 you2 ying4 hu4 de2 long2 。
+
+## 译文
+
+南山分开时寒冷的夜晚中，一角不动腿岚风。什么人看到这生惭愧，断断续续还应保护得到龙。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+南山分开时寒冷的夜晚中，一角不动腿岚风。什么人看到这生惭愧，断断续续还应保护得到龙。
+	* 此部分翻译来自AI，仅供参考
