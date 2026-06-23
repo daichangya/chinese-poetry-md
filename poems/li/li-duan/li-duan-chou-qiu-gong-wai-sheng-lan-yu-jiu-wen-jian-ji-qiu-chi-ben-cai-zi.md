@@ -1,0 +1,69 @@
+---
+id: li-duan-chou-qiu-gong-wai-sheng-lan-yu-jiu-wen-jian-ji-qiu-chi-ben-cai-zi
+title: 酬丘拱外甥览余旧文见寄
+author: 李端
+authorSlug: li-duan
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: chou2 qiu1 gong3 wai4 sheng1 lan3 yu2 jiu4 wen2 jian4 ji4
+authorPinyin: li3 duan1
+dynastyPinyin: tang2
+canonicalPoemId: 370608
+canonicalAuthorId: 154
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 丘迟本才子，始冠即周旋。
+
+- 舅乏郄鉴爱，君如卫玠贤。
+
+- 礼将金友等，情向玉人偏。
+
+- 鄙俗那劳似，龙钟却要怜。
+
+- 投砖聊取笑，赠绮一何妍。
+
+- 野坐临黄菊，溪行踏绿钱。
+
+- 岩高云反下，洞黑水潜穿。
+
+- 僻岭猿偷栗，枯池雁唼莲。
+
+- 身居霞外寺，思发月明田。
+
+- 犹恨萦尘网，昏昏过岁年。
+
+## 拼音
+
+- qiu1 chi2 ben3 cai2 zi3 ， shi3 guan1 ji2 zhou1 xuan2 。
+
+- jiu4 fa2 xi4 jian4 ai4 ， jun1 ru2 wei4 jie4 xian2 。
+
+- li3 jiang1 jin1 you3 deng3 ， qing2 xiang4 yu4 ren2 pian1 。
+
+- bi3 su2 na4 lao2 si4 ， long2 zhong1 que4 yao4 lian2 。
+
+- tou2 zhuan1 liao2 qu3 xiao4 ， zeng4 qi3 yi4 he2 yan2 。
+
+- ye3 zuo4 lin2 huang2 ju2 ， xi1 xing2 ta4 lü4 qian2 。
+
+- yan2 gao1 yun2 fan3 xia4 ， dong4 hei1 shui3 qian2 chuan1 。
+
+- pi4 ling3 yuan2 tou1 li4 ， ku1 chi2 yan4 sha4 lian2 。
+
+- shen1 ju1 xia2 wai4 si4 ， si1 fa1 yue4 ming2 tian2 。
+
+- you2 hen4 ying2 chen2 wang3 ， hun1 hun1 guo4 sui4 nian2 。
+
+## 译文
+
+丘迟本才子，刚成年就周旋。舅舅缺乏郄鉴爱，你像卫阶贤。礼将金朋友等，情向玉人偏。粗俗那劳累似乎，龙钟却要可怜。扔砖聊取笑，追赠绮多么美好。野坐在临黄菊，溪行踏绿钱。岩高说反下，洞黑水悄悄穿过。偏岭猿偷栗子，莲花池雁咋干。身晚霞外寺，想发个月第二田。还恨萦尘网，昏昏超过一年。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+丘迟本才子，刚成年就周旋。舅舅缺乏郄鉴爱，你像卫阶贤。礼将金朋友等，情向玉人偏。粗俗那劳累似乎，龙钟却要可怜。扔砖聊取笑，追赠绮多么美好。野坐在临黄菊，溪行踏绿钱。岩高说反下，洞黑水悄悄穿过。偏岭猿偷栗子，莲花池雁咋干。身晚霞外寺，想发个月第二田。还恨萦尘网，昏昏超过一年。
+	* 此部分翻译来自AI，仅供参考

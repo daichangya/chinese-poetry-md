@@ -1,0 +1,69 @@
+---
+id: li-bai-liu-bie-jin-ling-zhu-gong-hai-shui-xi-fei-dong
+title: 留别金陵诸公
+author: 李白
+authorSlug: li-bai
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: liu2 bie2 jin1 ling2 zhu1 gong1
+authorPinyin: li3 bai2
+dynastyPinyin: tang2
+canonicalPoemId: 451232
+canonicalAuthorId: 143
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 海水昔飞动，三龙纷战争。
+
+- 钟山危波澜，倾侧骇奔鲸。
+
+- 黄旗一扫荡，割壤开吴京。
+
+- 六代更霸王，遗迹见都城。
+
+- 至今秦淮间，礼乐秀群英。
+
+- 地扇邹鲁学，诗腾颜谢名。
+
+- 五月金陵西，祖余白下亭。
+
+- 欲寻庐峰顶，先绕汉水行。
+
+- 香炉紫烟灭，瀑布落太清。
+
+- 若攀星辰去，挥手缅含情。
+
+## 拼音
+
+- hai3 shui3 xi1 fei1 dong4 ， san1 long2 fen1 zhan4 zheng1 。
+
+- zhong1 shan1 wei1 bo1 lan2 ， qing1 ce4 hai4 ben1 jing1 。
+
+- huang2 qi2 yi4 sao3 dang4 ， ge1 rang3 kai1 wu2 jing1 。
+
+- liu4 dai4 geng4 ba4 wang2 ， yi2 ji4 jian4 du1 cheng2 。
+
+- zhi4 jin1 qin2 huai2 jian1 ， li3 yue4 xiu4 qun2 ying1 。
+
+- di4 shan4 zou1 lu3 xue2 ， shi1 teng2 yan2 xie4 ming2 。
+
+- wu3 yue4 jin1 ling2 xi1 ， zu3 yu2 bai2 xia4 ting2 。
+
+- yu4 xun2 lu2 feng1 ding3 ， xian1 rao4 han4 shui3 xing2 。
+
+- xiang1 lu2 zi3 yan1 mie4 ， pu4 bu4 luo4 tai4 qing1 。
+
+- ruo4 pan1 xing1 chen2 qu4 ， hui1 shou3 mian3 han2 qing2 。
+
+## 译文
+
+海水过去飞动，三个龙纷乱战争。钟山危险波澜，倾斜惊逃到鲸。黄旗一扫荡，割地开吴京。六代再霸王，见城遗迹。至今秦淮之间，礼乐秀群英。地扇邹鲁学，诗腾颜姓名。五月金陵西，祖父我白下亭。想寻找庐峰山顶，先绕着汉水走。香炉紫色烟雾消失，瀑布落太清。如果攀星离开，挥手缅甸含情。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+海水过去飞动，三个龙纷乱战争。钟山危险波澜，倾斜惊逃到鲸。黄旗一扫荡，割地开吴京。六代再霸王，见城遗迹。至今秦淮之间，礼乐秀群英。地扇邹鲁学，诗腾颜姓名。五月金陵西，祖父我白下亭。想寻找庐峰山顶，先绕着汉水走。香炉紫色烟雾消失，瀑布落太清。如果攀星离开，挥手缅甸含情。
+	* 此部分翻译来自AI，仅供参考

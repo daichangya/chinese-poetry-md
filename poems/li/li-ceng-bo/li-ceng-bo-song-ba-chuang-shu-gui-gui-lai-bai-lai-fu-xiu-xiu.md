@@ -1,0 +1,45 @@
+---
+id: li-ceng-bo-song-ba-chuang-shu-gui-gui-lai-bai-lai-fu-xiu-xiu
+title: 送八窗叔归
+author: 李曾伯
+authorSlug: li-ceng-bo
+dynasty: 宋
+dynastySlug: song
+titlePinyin: song4 ba1 chuang1 shu1 gui1
+authorPinyin: li3 ceng2 bo2
+dynastyPinyin: song4
+canonicalPoemId: 517057
+canonicalAuthorId: 3883
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 归来百来付休休，又向空山断送秋。
+
+- 整叠衣篝双赤脚，携持拄杖一苍头。
+
+- 儒书梵语相参看，酒柱诗盟自献酬。
+
+- 客有可人留不住，夜长谁与话清愁。
+
+## 拼音
+
+- gui1 lai2 bai3 lai2 fu4 xiu1 xiu1 ， you4 xiang4 kong1 shan1 duan4 song4 qiu1 。
+
+- zheng3 die2 yi1 gou1 shuang1 chi4 jiao3 ， xie2 chi2 zhu3 zhang4 yi4 cang1 tou2 。
+
+- ru2 shu1 fan4 yu3 xiang1 can1 kan4 ， jiu3 zhu4 shi1 meng2 zi4 xian4 chou2 。
+
+- ke4 you3 ke3 ren2 liu2 bu2 zhu4 ， ye4 chang2 shui2 yu3 hua4 qing1 chou2 。
+
+## 译文
+
+回来老来给休休，又向空山断送秋。整叠衣服点燃一双赤脚，带着一个仆人拄着手杖。儒书印度语相参看，酒柱诗盟从交流。客人可以有人留不住，夜长谁与话清愁。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+回来老来给休休，又向空山断送秋。整叠衣服点燃一双赤脚，带着一个仆人拄着手杖。儒书印度语相参看，酒柱诗盟从交流。客人可以有人留不住，夜长谁与话清愁。
+	* 此部分翻译来自AI，仅供参考

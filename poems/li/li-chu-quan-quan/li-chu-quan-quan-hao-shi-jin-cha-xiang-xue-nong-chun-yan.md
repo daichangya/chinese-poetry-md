@@ -1,0 +1,45 @@
+---
+id: li-chu-quan-quan-hao-shi-jin-cha-xiang-xue-nong-chun-yan
+title: 好事近（茶＿）
+author: 李处全
+authorSlug: li-chu-quan-quan
+dynasty: 宋
+dynastySlug: song
+titlePinyin: hao3 shi4 jin4 （ cha2 ＿ ）
+authorPinyin: li3 chu4 quan2
+dynastyPinyin: song4
+canonicalPoemId: 531328
+canonicalAuthorId: 11624
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 香雪弄春妍，柳外黄昏池阁。
+
+- 要看月华相映，卷东风帘幕。
+
+- 更倾壶酒伴芳姿，名字胜桑落。
+
+- 直与岭梅兄弟，是醍醐酥酪。
+
+## 拼音
+
+- xiang1 xue3 nong4 chun1 yan2 ， liu3 wai4 huang2 hun1 chi2 ge2 。
+
+- yao4 kan4 yue4 hua2 xiang1 ying4 ， juan4 dong1 feng1 lian2 mu4 。
+
+- geng4 qing1 hu2 jiu3 ban4 fang1 zi1 ， ming2 zi4 sheng4 sang1 luo4 。
+
+- zhi2 yu3 ling3 mei2 xiong1 di4 ， shi4 ti2 hu2 su1 lao4 。
+
+## 译文
+
+香雪弄春美，柳外黄昏池阁。要看月光相映，卷东风帘幕。更倾壶酒伴芬芳姿态，名字胜利桑落。直接与岭梅兄弟，这醍醐酥酪。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+香雪弄春美，柳外黄昏池阁。要看月光相映，卷东风帘幕。更倾壶酒伴芬芳姿态，名字胜利桑落。直接与岭梅兄弟，这醍醐酥酪。
+	* 此部分翻译来自AI，仅供参考

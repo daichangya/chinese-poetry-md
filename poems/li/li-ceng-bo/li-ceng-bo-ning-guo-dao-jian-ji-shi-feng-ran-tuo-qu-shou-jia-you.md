@@ -1,0 +1,45 @@
+---
+id: li-ceng-bo-ning-guo-dao-jian-ji-shi-feng-ran-tuo-qu-shou-jia-you
+title: 宁国道间即事
+author: 李曾伯
+authorSlug: li-ceng-bo
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ning2 guo2 dao4 jian1 ji2 shi4
+authorPinyin: li3 ceng2 bo2
+dynastyPinyin: song4
+canonicalPoemId: 517375
+canonicalAuthorId: 3883
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 枫染{拖去扌加酉}颜菊亦酣，霜天风味饱相谙。
+
+- 马蹄去去江之北，雁影来来塞以南。
+
+- 云外数峰轻抹翠，雨余一水碎挼蓝。
+
+- 肩舆催问谁家宿，落日西山已半含。
+
+## 拼音
+
+- feng1 ran3 { tuo1 qu4 shou3 jia1 you3 } yan2 ju2 yi4 han1 ， shuang1 tian1 feng1 wei4 bao3 xiang1 an1 。
+
+- ma3 ti2 qu4 qu4 jiang1 zhi1 bei3 ， yan4 ying3 lai2 lai2 sai1 yi3 nan2 。
+
+- yun2 wai4 shu4 feng1 qing1 mo3 cui4 ， yu3 yu2 yi4 shui3 sui4 ruo2 lan2 。
+
+- jian1 yu2 cui1 wen4 shui2 jia1 su4 ， luo4 ri4 xi1 shan1 yi3 ban4 han2 。
+
+## 译文
+
+枫染{拖离杨加酉}颜菊也喝酒，霜天风味饱相熟悉。马蹄去去长江以北，大雁影子来边境以南。云外数峰轻抹翠，雨后一条碎用蓝。轿子催问谁家住宿，太阳已落下西山已经半含。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+枫染{拖离杨加酉}颜菊也喝酒，霜天风味饱相熟悉。马蹄去去长江以北，大雁影子来边境以南。云外数峰轻抹翠，雨后一条碎用蓝。轿子催问谁家住宿，太阳已落下西山已经半含。
+	* 此部分翻译来自AI，仅供参考

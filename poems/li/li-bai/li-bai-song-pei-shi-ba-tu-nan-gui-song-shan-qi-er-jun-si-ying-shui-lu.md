@@ -1,0 +1,45 @@
+---
+id: li-bai-song-pei-shi-ba-tu-nan-gui-song-shan-qi-er-jun-si-ying-shui-lu
+title: 送裴十八图南归嵩山其二
+author: 李白
+authorSlug: li-bai
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: song4 pei2 shi2 ba1 tu2 nan2 gui1 song1 shan1 qi2 er4
+authorPinyin: li3 bai2
+dynastyPinyin: tang2
+canonicalPoemId: 566661
+canonicalAuthorId: 143
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 君思颍水绿，忽复归嵩岑。
+
+- 归时莫洗耳，为我洗其心。
+
+- 洗心得真情，洗耳徒买名。
+
+- 谢公终一起，相与济苍生。
+
+## 拼音
+
+- jun1 si1 ying3 shui3 lü4 ， hu1 fu4 gui1 song1 cen2 。
+
+- gui1 shi2 mo4 xi3 er3 ， wei4 wo3 xi3 qi2 xin1 。
+
+- xi3 xin1 de2 zhen1 qing2 ， xi3 er3 tu2 mai3 ming2 。
+
+- xie4 gong1 zhong1 yi4 qi3 ， xiang1 yu3 ji4 cang1 sheng1 。
+
+## 译文
+
+你想颖水绿色，忽然又回到嵩山岑。回去时别洗了，为我洗自己的心。洗心得到真情，洗耳只买名。谢安一起来，相对与济苍生。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+你想颖水绿色，忽然又回到嵩山岑。回去时别洗了，为我洗自己的心。洗心得到真情，洗耳只买名。谢安一起来，相对与济苍生。
+	* 此部分翻译来自AI，仅供参考

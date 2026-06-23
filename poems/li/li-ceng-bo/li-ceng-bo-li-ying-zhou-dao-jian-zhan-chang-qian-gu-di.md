@@ -1,0 +1,45 @@
+---
+id: li-ceng-bo-li-ying-zhou-dao-jian-zhan-chang-qian-gu-di
+title: 离颍州道间
+author: 李曾伯
+authorSlug: li-ceng-bo
+dynasty: 宋
+dynastySlug: song
+titlePinyin: li2 ying3 zhou1 dao4 jian1
+authorPinyin: li3 ceng2 bo2
+dynastyPinyin: song4
+canonicalPoemId: 560385
+canonicalAuthorId: 3883
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 战场千古地，咫尺是京河。
+
+- 远磴连荒壁，深林长乱柯。
+
+- 路迷人迹少，草密兽蹄多。
+
+- 忆著中原事，令人抚剑歌。
+
+## 拼音
+
+- zhan4 chang3 qian1 gu3 di4 ， zhi3 chi3 shi4 jing1 he2 。
+
+- yuan3 deng4 lian2 huang1 bi4 ， shen1 lin2 chang2 luan4 ke1 。
+
+- lu4 mi2 ren2 ji4 shao3 ， cao3 mi4 shou4 ti2 duo1 。
+
+- yi4 zhu4 zhong1 yuan2 shi4 ， ling4 ren2 fu3 jian4 ge1 。
+
+## 译文
+
+战场千古地，眼前是京河。远瞪流连荒壁，深林长乱柯。路迷人迹少，草密兽蹄多。回忆着中原事，让人抚剑唱。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+战场千古地，眼前是京河。远瞪流连荒壁，深林长乱柯。路迷人迹少，草密兽蹄多。回忆着中原事，让人抚剑唱。
+	* 此部分翻译来自AI，仅供参考

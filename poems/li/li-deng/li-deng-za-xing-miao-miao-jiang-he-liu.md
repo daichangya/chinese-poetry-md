@@ -1,0 +1,53 @@
+---
+id: li-deng-za-xing-miao-miao-jiang-he-liu
+title: 杂兴
+author: 利登
+authorSlug: li-deng
+dynasty: 宋
+dynastySlug: song
+titlePinyin: za2 xing1
+authorPinyin: li4 deng1
+dynastyPinyin: song4
+canonicalPoemId: 438315
+canonicalAuthorId: 6718
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 渺渺江河流，蛟龙所为沼。
+
+- 高山苟无松，不如低平阜。
+
+- 洁身服休美，荣辱非所囿。
+
+- 孤航何翩翩，独往不我觏。
+
+- 眷言友仙乔，寤寐耿长抱。
+
+- 安得翔风鸾，栖神此蓬岛。
+
+## 拼音
+
+- miao3 miao3 jiang1 he2 liu2 ， jiao1 long2 suo3 wei4 zhao3 。
+
+- gao1 shan1 gou3 wu2 song1 ， bu4 ru2 di1 ping2 fu4 。
+
+- jie2 shen1 fu2 xiu1 mei3 ， rong2 ru3 fei1 suo3 you4 。
+
+- gu1 hang2 he2 pian1 pian1 ， du2 wang3 bu4 wo3 gou4 。
+
+- juan4 yan2 you3 xian1 qiao2 ， wu4 mei4 geng3 chang2 bao4 。
+
+- an1 de2 xiang2 feng1 luan2 ， qi1 shen2 ci3 peng2 dao3 。
+
+## 译文
+
+渺渺江河水，蛟龙所为沼。高山如果没有松，不如低平阜。清洁身体穿休美，荣辱不是所囿。我航何翩翩，一个人去不我遇见。回顾朋友仙乔，日夜耿长抱。怎能飞翔风鸾，凝神这蓬岛。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+渺渺江河水，蛟龙所为沼。高山如果没有松，不如低平阜。清洁身体穿休美，荣辱不是所囿。我航何翩翩，一个人去不我遇见。回顾朋友仙乔，日夜耿长抱。怎能飞翔风鸾，凝神这蓬岛。
+	* 此部分翻译来自AI，仅供参考

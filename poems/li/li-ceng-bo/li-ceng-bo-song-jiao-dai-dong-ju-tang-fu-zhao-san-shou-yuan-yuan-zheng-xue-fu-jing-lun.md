@@ -1,0 +1,45 @@
+---
+id: li-ceng-bo-song-jiao-dai-dong-ju-tang-fu-zhao-san-shou-yuan-yuan-zheng-xue-fu-jing-lun
+title: 送交代董矩堂赴召三首
+author: 李曾伯
+authorSlug: li-ceng-bo
+dynasty: 宋
+dynastySlug: song
+titlePinyin: song4 jiao1 dai4 dong3 ju3 tang2 fu4 zhao4 san1 shou3
+authorPinyin: li3 ceng2 bo2
+dynastyPinyin: song4
+canonicalPoemId: 517184
+canonicalAuthorId: 3883
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 渊源正学富经纶，炳炳如丹一片心。
+
+- 中外久期还荷橐，江湖所至是棠阴。
+
+- 威声足使戎心慑，边腹休虞客气侵。
+
+- 指日玉阶清问及，盍思长策济当今。
+
+## 拼音
+
+- yuan1 yuan2 zheng4 xue2 fu4 jing1 lun2 ， bing3 bing3 ru2 dan1 yi2 pian4 xin1 。
+
+- zhong1 wai4 jiu3 qi1 hai2 he2 tuo2 ， jiang1 hu2 suo3 zhi4 shi4 tang2 yin1 。
+
+- wei1 sheng1 zu2 shi3 rong2 xin1 she4 ， bian1 fu4 xiu1 yu2 ke4 qi4 qin1 。
+
+- zhi3 ri4 yu4 jie1 qing1 wen4 ji2 ， he2 si1 chang2 ce4 ji4 dang1 jin1 。
+
+## 译文
+
+渊源正学富经纶，炳炳如丹一片心。中外早期还扛着袋子，江湖所至是棠阴。威名足以使戎心恐惧，边腹休虞客气侵。指着天玉阶清问到，何不考虑长远成功现在。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+渊源正学富经纶，炳炳如丹一片心。中外早期还扛着袋子，江湖所至是棠阴。威名足以使戎心恐惧，边腹休虞客气侵。指着天玉阶清问到，何不考虑长远成功现在。
+	* 此部分翻译来自AI，仅供参考

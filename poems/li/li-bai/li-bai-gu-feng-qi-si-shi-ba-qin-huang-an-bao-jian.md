@@ -1,0 +1,69 @@
+---
+id: li-bai-gu-feng-qi-si-shi-ba-qin-huang-an-bao-jian
+title: 古风其四十八
+author: 李白
+authorSlug: li-bai
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: gu3 feng1 qi2 si4 shi2 ba1
+authorPinyin: li3 bai2
+dynastyPinyin: tang2
+canonicalPoemId: 451377
+canonicalAuthorId: 143
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 秦皇按宝剑。
+
+- 赫怒震威神。
+
+- 逐日巡海右。
+
+- 驱石驾沧津。
+
+- 征卒空九寓。
+
+- 作桥伤万人。
+
+- 但求蓬岛药。
+
+- 岂思农扈春。
+
+- 力尽功不赡。
+
+- 千载为悲辛。
+
+## 拼音
+
+- qin2 huang2 an4 bao3 jian4 。
+
+- he4 nu4 zhen4 wei1 shen2 。
+
+- zhu2 ri4 xun2 hai3 you4 。
+
+- qu1 shi2 jia4 cang1 jin1 。
+
+- zheng1 zu2 kong1 jiu3 yu4 。
+
+- zuo4 qiao2 shang1 wan4 ren2 。
+
+- dan4 qiu2 peng2 dao3 yao4 。
+
+- qi3 si1 nong2 hu4 chun1 。
+
+- li4 jin4 gong1 bu2 shan4 。
+
+- qian1 zai3 wei4 bei1 xin1 。
+
+## 译文
+
+秦始皇按住宝剑。震怒震威神。每天巡海右。驱赶石头驾沧津。征去世空九寓所。架桥损伤万人。只求蓬岛药。难道想农启春。力尽功不足。千载为悲辛。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+秦始皇按住宝剑。震怒震威神。每天巡海右。驱赶石头驾沧津。征去世空九寓所。架桥损伤万人。只求蓬岛药。难道想农启春。力尽功不足。千载为悲辛。
+	* 此部分翻译来自AI，仅供参考

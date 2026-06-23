@@ -1,0 +1,37 @@
+---
+id: li-fei-fei-wu-xi-du-zhong-xing-song-jie-gu-li-yuan-ji-yi-huang
+title: 浯溪读中兴颂
+author: 李芾
+authorSlug: li-fei-fei
+dynasty: 宋
+dynastySlug: song
+titlePinyin: wu2 xi1 du2 zhong1 xing1 song4
+authorPinyin: li3 fei4
+dynastyPinyin: song4
+canonicalPoemId: 641570
+canonicalAuthorId: 9318
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 羯鼓梨园迹已荒，斯文犹在日星光。
+
+- 我来细拂青苔石，不忆三郎忆漫郎。
+
+## 拼音
+
+- jie2 gu3 li2 yuan2 ji4 yi3 huang1 ， si1 wen2 you2 zai4 ri4 xing1 guang1 。
+
+- wo3 lai2 xi4 fu2 qing1 tai2 shi2 ， bu2 yi4 san1 lang2 yi4 man4 lang2 。
+
+## 译文
+
+羯鼓梨园迹象已经荒芜，这种文化仍然在天星光。我来仔细拂着青苔石，不记得三郎回忆漫郎。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+羯鼓梨园迹象已经荒芜，这种文化仍然在天星光。我来仔细拂着青苔石，不记得三郎回忆漫郎。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,27 @@
+---
+id: li-bi-bi-liu-ti-dong-tun-shi-si-shou-qi-si-zao-ri-gao-kui-xu-zhi-shen
+title: 留题东屯诗四首 其四
+author: 李壁
+authorSlug: li-bi-bi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: liu2 ti2 dong1 tun2 shi1 si4 shou3   qi2 si4
+authorPinyin: li3 bi4
+dynastyPinyin: song4
+canonicalPoemId: 467775
+canonicalAuthorId: 12143
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 早日皋夔许致身，最怜一饭不忘君。
+
+- 飘零岂意穷山里，目断长安隔戍云。
+
+## 拼音
+
+- zao3 ri4 gao1 kui2 xu3 zhi4 shen1 ， zui4 lian2 yi2 fan4 bu2 wang4 jun1 。
+
+- piao1 ling2 qi3 yi4 qiong2 shan1 li3 ， mu4 duan4 chang2 an1 ge2 shu4 yun2 。
