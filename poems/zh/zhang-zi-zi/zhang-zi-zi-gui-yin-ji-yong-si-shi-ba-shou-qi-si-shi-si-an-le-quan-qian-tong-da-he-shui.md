@@ -1,0 +1,27 @@
+---
+id: zhang-zi-zi-gui-yin-ji-yong-si-shi-ba-shou-qi-si-shi-si-an-le-quan-qian-tong-da-he-shui
+title: 桂隐纪咏四十八首 其四十四 安乐泉
+author: 张镃
+authorSlug: zhang-zi-zi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: gui4 yin3 ji4 yong3 si4 shi2 ba1 shou3   qi2 si4 shi2 si4   an1 le4 quan2
+authorPinyin: zhang1 zi1
+dynastyPinyin: song4
+canonicalPoemId: 481005
+canonicalAuthorId: 5158
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 潜通大壑水，一杯千虑散。
+
+- 只因都放下，如热病得汗。
+
+## 拼音
+
+- qian2 tong1 da4 he4 shui3 ， yi4 bei1 qian1 lü4 san4 。
+
+- zhi1 yin1 dou1 fang4 xia4 ， ru2 re4 bing4 de2 han4 。

@@ -1,0 +1,61 @@
+---
+id: zhang-yan-5-man-ting-fang-xiao-chun-qing-jiao-shuang-hua-2
+title: 满庭芳（小春）
+author: 张炎
+authorSlug: zhang-yan-5
+dynasty: 宋
+dynastySlug: song
+titlePinyin: man3 ting2 fang1 （ xiao3 chun1 ）
+authorPinyin: zhang1 yan2
+dynastyPinyin: song4
+canonicalPoemId: 525562
+canonicalAuthorId: 5219
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 晴皎霜花，晓熔冰羽，开帘觉道寒轻。
+
+- 误闻啼鸟，生意又园林。
+
+- 闲了凄凉赋笔，便而今、不听秋声。
+
+- 消凝处，一枝借暖，终是未多情。
+
+- 阳和能几许，寻红探粉，也恁忄欠人。
+
+- 笑邻娃痴小，料理护花铃。
+
+- 却怕惊回睡蝶，恐和他、草梦都醒。
+
+- 还知否，能消几日，风雪灞桥深。
+
+## 拼音
+
+- qing2 jiao3 shuang1 hua1 ， xiao3 rong2 bing1 yu3 ， kai1 lian2 jue2 dao4 han2 qing1 。
+
+- wu4 wen2 ti2 niao3 ， sheng1 yi4 you4 yuan2 lin2 。
+
+- xian2 le0 qi1 liang2 fu4 bi3 ， bian4 er2 jin1 、 bu4 ting1 qiu1 sheng1 。
+
+- xiao1 ning2 chu4 ， yi4 zhi1 jie4 nuan3 ， zhong1 shi4 wei4 duo1 qing2 。
+
+- yang2 he2 neng2 ji3 xu3 ， xun2 hong2 tan4 fen3 ， ye3 nen4 xin1 qian4 ren2 。
+
+- xiao4 lin2 wa2 chi1 xiao3 ， liao4 li3 hu4 hua1 ling2 。
+
+- que4 pa4 jing1 hui2 shui4 die2 ， kong3 he2 ta1 、 cao3 meng4 dou1 xing3 。
+
+- hai2 zhi1 fou3 ， neng2 xiao1 ji3 ri4 ， feng1 xue3 ba4 qiao2 shen1 。
+
+## 译文
+
+天气明亮白色花，理解熔冰羽，打开窗帘觉道冷轻。误听啼鸟，生意又园林。闲了凄凉赋笔，方便而现在、不听秋声。消凝处，一枝借温暖，毕竟没有多情。阳和能多少，不久红探粉，的恁老欠别人。笑邻娃傻小，料理护花铃。却怕惊回睡蝴蝶，担心和其他杂草做梦都醒来。还知道吗，能消几天，风雪灞桥深。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+天气明亮白色花，理解熔冰羽，打开窗帘觉道冷轻。误听啼鸟，生意又园林。闲了凄凉赋笔，方便而现在、不听秋声。消凝处，一枝借温暖，毕竟没有多情。阳和能多少，不久红探粉，的恁老欠别人。笑邻娃傻小，料理护花铃。却怕惊回睡蝴蝶，担心和其他杂草做梦都醒来。还知道吗，能消几天，风雪灞桥深。
+	* 此部分翻译来自AI，仅供参考

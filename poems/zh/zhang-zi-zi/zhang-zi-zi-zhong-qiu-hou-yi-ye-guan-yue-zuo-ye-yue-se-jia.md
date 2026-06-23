@@ -1,0 +1,85 @@
+---
+id: zhang-zi-zi-zhong-qiu-hou-yi-ye-guan-yue-zuo-ye-yue-se-jia
+title: 中秋后一夜观月
+author: 张镃
+authorSlug: zhang-zi-zi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: zhong1 qiu1 hou4 yi2 ye4 guan1 yue4
+authorPinyin: zhang1 zi1
+dynastyPinyin: song4
+canonicalPoemId: 480792
+canonicalAuthorId: 5158
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 昨夜月色佳，孤坐不及赏。
+
+- 深叹一岁中，此景无复两。
+
+- 冒冷试出户，雾气方漭沆。
+
+- 金行既中分，宇宙萃澄漺。
+
+- 堂堂大圆镜，倒摄山河像。
+
+- 或云有挂树，强作枝叶想。
+
+- 畴能穷兆腾，聊尔付惚怳。
+
+- 曾无惊鹊飞，但听悲虫响。
+
+- 气舒厌偪仄，望极增叹仰。
+
+- 今夕看尤好，流光透帷幌。
+
+- 祗欠些子缘，照物尚晶爽。
+
+- 盆池局墙角，刺历认菰蒋。
+
+- 病余不举酒，安得诗思广。
+
+- 何当揖浮丘，跨鹤离尘坱。
+
+## 拼音
+
+- zuo2 ye4 yue4 se4 jia1 ， gu1 zuo4 bu4 ji2 shang3 。
+
+- shen1 tan4 yi2 sui4 zhong1 ， ci3 jing3 wu2 fu4 liang3 。
+
+- mao4 leng3 shi4 chu1 hu4 ， wu4 qi4 fang1 mang3 hang4 。
+
+- jin1 xing2 ji4 zhong1 fen1 ， yu3 zhou4 cui4 cheng2 shuang3 。
+
+- tang2 tang2 da4 yuan2 jing4 ， dao3 she4 shan1 he2 xiang4 。
+
+- huo4 yun2 you3 gua4 shu4 ， qiang2 zuo4 zhi1 ye4 xiang3 。
+
+- chou2 neng2 qiong2 zhao4 teng2 ， liao2 er3 fu4 hu1 huang3 。
+
+- ceng2 wu2 jing1 que4 fei1 ， dan4 ting1 bei1 chong2 xiang3 。
+
+- qi4 shu1 yan4 bi1 ze4 ， wang4 ji2 zeng1 tan4 yang3 。
+
+- jin1 xi1 kan4 you2 hao3 ， liu2 guang1 tou4 wei2 huang3 。
+
+- zhi1 qian4 xie1 zi3 yuan2 ， zhao4 wu4 shang4 jing1 shuang3 。
+
+- pen2 chi2 ju2 qiang2 jiao3 ， ci4 li4 ren4 gu1 jiang3 。
+
+- bing4 yu2 bu4 ju3 jiu3 ， an1 de2 shi1 si1 guang3 。
+
+- he2 dang1 yi1 fu2 qiu1 ， kua4 he4 li2 chen2 yang3 。
+
+## 译文
+
+昨天夜里月光好，我坐不到奖赏。深深地一年中，此景不再两。冒冷试出户，雾气正在漭沆。晋朝已经中分，宇宙萃澄清漺。堂堂大圆镜，倒摄山河像。或者说有挂树，强作枝叶想。谁能穷尽兆上升，只是你给迷迷糊糊。曾无惊鹊飞，只听悲伤虫响。气舒压狭窄，绝望增加感叹仰。今晚看特别好，流光穿过帷帘。只欠一丁点沿，照物还很爽。盆池局墙角，刺历认菰蒋。病我不推荐酒吧，怎么能诗思广。何当面对浮丘，跨鹤离开尘坱。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+昨天夜里月光好，我坐不到奖赏。深深地一年中，此景不再两。冒冷试出户，雾气正在漭沆。晋朝已经中分，宇宙萃澄清漺。堂堂大圆镜，倒摄山河像。或者说有挂树，强作枝叶想。谁能穷尽兆上升，只是你给迷迷糊糊。曾无惊鹊飞，只听悲伤虫响。气舒压狭窄，绝望增加感叹仰。今晚看特别好，流光穿过帷帘。只欠一丁点沿，照物还很爽。盆池局墙角，刺历认菰蒋。病我不推荐酒吧，怎么能诗思广。何当面对浮丘，跨鹤离开尘坱。
+	* 此部分翻译来自AI，仅供参考

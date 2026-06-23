@@ -1,0 +1,45 @@
+---
+id: zhang-zi-zi-ci-yun-chen-xiu-cai-gui-mo-dang-shi-ye-ren-ju
+title: 次韵陈秀才
+author: 张镃
+authorSlug: zhang-zi-zi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ci4 yun4 chen2 xiu4 cai2
+authorPinyin: zhang1 zi1
+dynastyPinyin: song4
+canonicalPoemId: 480500
+canonicalAuthorId: 5158
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 规模党是野人居，剪结苍松荫屋除。
+
+- 闲把欹眠酬懒架，静便徐步当安舆。
+
+- 青精饭好终延老，紫石潭空总付渠。
+
+- 玩世从来畏人觉，他年方信此心初。
+
+## 拼音
+
+- gui1 mo2 dang3 shi4 ye3 ren2 ju1 ， jian3 jie2 cang1 song1 yin4 wu1 chu2 。
+
+- xian2 ba3 qi1 mian2 chou2 lan3 jia4 ， jing4 bian4 xu2 bu4 dang1 an1 yu2 。
+
+- qing1 jing1 fan4 hao3 zhong1 yan2 lao3 ， zi3 shi2 tan2 kong1 zong3 fu4 qu2 。
+
+- wan2 shi4 cong2 lai2 wei4 ren2 jue2 ， ta1 nian2 fang1 xin4 ci3 xin1 chu1 。
+
+## 译文
+
+规模党是野人居住，剪结苍松荫屋任。闲把欹眠酬懒架，静就慢慢在安全车。青精饭好最终延衰老，紫石潭空总交付渠道。玩世从来不怕人觉得，一年才相信这心开始。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+规模党是野人居住，剪结苍松荫屋任。闲把欹眠酬懒架，静就慢慢在安全车。青精饭好最终延衰老，紫石潭空总交付渠道。玩世从来不怕人觉得，一年才相信这心开始。
+	* 此部分翻译来自AI，仅供参考

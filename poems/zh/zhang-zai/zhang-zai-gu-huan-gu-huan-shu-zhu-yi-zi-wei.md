@@ -1,0 +1,35 @@
+---
+id: zhang-zai-gu-huan-gu-huan-shu-zhu-yi-zi-wei
+title: 孤宦
+author: 张载
+authorSlug: zhang-zai
+dynasty: 宋
+dynastySlug: song
+titlePinyin: gu1 huan4
+authorPinyin: zhang1 zai3
+dynastyPinyin: song4
+canonicalPoemId: 427281
+canonicalAuthorId: 2010
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 孤宦殊主意自违，邻光兹幸咤余辉。
+
+- 人心识尽童心灭，世事谙多乐事稀。
+
+- 直有岁寒甘柏说，终无春思惜花飞。
+
+- 岂同毛刺墦间客，向望他门卜所依。
+
+## 拼音
+
+- gu1 huan4 shu1 zhu3 yi4 zi4 wei2 ， lin2 guang1 zi1 xing4 zha4 yu2 hui1 。
+
+- ren2 xin1 shi2 jin4 tong2 xin1 mie4 ， shi4 shi4 an1 duo1 le4 shi4 xi1 。
+
+- zhi2 you3 sui4 han2 gan1 bai3 shuo1 ， zhong1 wu2 chun1 si1 xi1 hua1 fei1 。
+
+- qi3 tong2 mao2 ci4 fan2 jian1 ke4 ， xiang4 wang4 ta1 men2 bu3 suo3 yi1 。
