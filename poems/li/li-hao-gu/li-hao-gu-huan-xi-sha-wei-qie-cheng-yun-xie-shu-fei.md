@@ -1,0 +1,50 @@
+---
+id: li-hao-gu-huan-xi-sha-wei-qie-cheng-yun-xie-shu-fei
+title: 浣溪沙
+author: 李好古
+authorSlug: li-hao-gu
+dynasty: 未知
+dynastySlug: unknown
+titlePinyin: huan4 xi1 sha1
+authorPinyin: li3 hao3 gu3
+dynastyPinyin: wei4 zhi1
+canonicalPoemId: 335154
+canonicalAuthorId: 11770
+rhythmic: 浣溪沙
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 为怯赪云挟暑飞。
+
+- 嫩凉故故著征衣。
+
+- 江风吹雨过楼西。
+
+- 未必男儿生不遇，时来咳唾是珠玑。
+
+- 功名终岂壮心违。
+
+## 拼音
+
+- wei4 qie4 cheng1 yun2 xie2 shu3 fei1 。
+
+- nen4 liang2 gu4 gu4 zhu4 zheng1 yi1 。
+
+- jiang1 feng1 chui1 yu3 guo4 lou2 xi1 。
+
+- wei4 bi4 nan2 er2 sheng1 bu2 yu4 ， shi2 lai2 hai1 tuo4 shi4 zhu1 ji1 。
+
+- gong1 ming2 zhong1 qi3 zhuang4 xin1 wei2 。
+
+## 译文
+
+胆小赪说挟热飞。嫩凉所以所以戴征衣服。长江风吹雨过楼西。未必男儿生不遇，当时来咳唾是珍珠。功名而终难道壮心违背。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+胆小赪说挟热飞。嫩凉所以所以戴征衣服。长江风吹雨过楼西。未必男儿生不遇，当时来咳唾是珍珠。功名而终难道壮心违背。
+	* 此部分翻译来自AI，仅供参考

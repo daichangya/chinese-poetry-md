@@ -1,0 +1,45 @@
+---
+id: li-jian-xun-jin-ling-suo-ju-qing-xi-cao-tang-xian-xing-chuang-wai-jie-lian-shui
+title: 金陵所居青溪草堂闲兴
+author: 李建勋
+authorSlug: li-jian-xun
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: jin1 ling2 suo3 ju1 qing1 xi1 cao3 tang2 xian2 xing1
+authorPinyin: li3 jian4 xun1
+dynastyPinyin: tang2
+canonicalPoemId: 535413
+canonicalAuthorId: 5498
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 窗外皆连水，杉松欲作林。
+
+- 自怜趋竞地，独有爱闲心。
+
+- 素壁题看遍，危冠醉不簪。
+
+- 江僧暮相访，帘卷见秋岑。
+
+## 拼音
+
+- chuang1 wai4 jie1 lian2 shui3 ， shan1 song1 yu4 zuo4 lin2 。
+
+- zi4 lian2 qu1 jing4 di4 ， du2 you3 ai4 xian2 xin1 。
+
+- su4 bi4 ti2 kan4 bian4 ， wei1 guan1 zui4 bu4 zan1 。
+
+- jiang1 seng1 mu4 xiang1 fang3 ， lian2 juan4 jian4 qiu1 cen2 。
+
+## 译文
+
+窗外都连水，想作林杉松。自怜走向竞争地，只有爱在心。素壁题看遍，危冠醉不插。江僧人傍晚来访，帘卷被秋岑。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+窗外都连水，想作林杉松。自怜走向竞争地，只有爱在心。素壁题看遍，危冠醉不插。江僧人傍晚来访，帘卷被秋岑。
+	* 此部分翻译来自AI，仅供参考

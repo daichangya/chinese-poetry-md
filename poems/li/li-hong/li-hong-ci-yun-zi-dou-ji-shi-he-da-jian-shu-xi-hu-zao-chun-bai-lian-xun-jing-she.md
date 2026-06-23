@@ -1,0 +1,46 @@
+---
+id: li-hong-ci-yun-zi-dou-ji-shi-he-da-jian-shu-xi-hu-zao-chun-bai-lian-xun-jing-she
+title: 次韵子都寄示和大监叔西湖早春
+author: 李洪
+authorSlug: li-hong
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ci4 yun4 zi3 dou1 ji4 shi4 he2 da4 jian1 shu1 xi1 hu2 zao3 chun1
+authorPinyin: li3 hong2
+dynastyPinyin: song4
+canonicalPoemId: 619616
+canonicalAuthorId: 6646
+tags:
+  - 诗词
+  - 西湖
+---
+
+## 正文
+
+- 白莲寻净社，紫气觇幽关。
+
+- 吏隐无公事，鸥盟俯碧湾。
+
+- 泉声杂鸟哢，云卧爱僧闲。
+
+- 更欲支筇去，过溪多好山。
+
+## 拼音
+
+- bai2 lian2 xun2 jing4 she4 ， zi3 qi4 chan1 you1 guan1 。
+
+- li4 yin3 wu2 gong1 shi4 ， ou1 meng2 fu3 bi4 wan1 。
+
+- quan2 sheng1 za2 niao3 long4 ， yun2 wo4 ai4 seng1 xian2 。
+
+- geng4 yu4 zhi1 qiong2 qu4 ， guo4 xi1 duo1 hao3 shan1 。
+
+## 译文
+
+白莲花不久净社，紫气窥探幽深关。官吏隐瞒不公的事，鸥盟下碧绿湾。泉声杂鸟哢，云躺在爱僧闲。更想支拐杖离去，过了溪多好山。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+白莲花不久净社，紫气窥探幽深关。官吏隐瞒不公的事，鸥盟下碧绿湾。泉声杂鸟哢，云躺在爱僧闲。更想支拐杖离去，过了溪多好山。
+	* 此部分翻译来自AI，仅供参考

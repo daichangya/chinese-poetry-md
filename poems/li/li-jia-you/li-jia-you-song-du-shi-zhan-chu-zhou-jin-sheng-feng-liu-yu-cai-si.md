@@ -1,0 +1,45 @@
+---
+id: li-jia-you-song-du-shi-zhan-chu-zhou-jin-sheng-feng-liu-yu-cai-si
+title: 送杜士瞻楚州觐省
+author: 李嘉祐
+authorSlug: li-jia-you
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: song4 du4 shi4 zhan1 chu3 zhou1 jin4 sheng3
+authorPinyin: li3 jia1 you4
+dynastyPinyin: tang2
+canonicalPoemId: 526755
+canonicalAuthorId: 560
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 风流与才思，俱似晋时人。
+
+- 淮月归心促，江花入兴新。
+
+- 云深沧海暮，柳暗白田春。
+
+- 共道官犹小，怜君孝养亲。
+
+## 拼音
+
+- feng1 liu2 yu3 cai2 si1 ， ju4 si4 jin4 shi2 ren2 。
+
+- huai2 yue4 gui1 xin1 cu4 ， jiang1 hua1 ru4 xing1 xin1 。
+
+- yun2 shen1 cang1 hai3 mu4 ， liu3 an4 bai2 tian2 chun1 。
+
+- gong4 dao4 guan1 you2 xiao3 ， lian2 jun1 xiao4 yang3 qin1 。
+
+## 译文
+
+风流与才气，都是晋时人。淮月回心催促，江花入兴新。云深大海晚上，柳和旱地春。共道官还小，怜君孝养父母。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+风流与才气，都是晋时人。淮月回心催促，江花入兴新。云深大海晚上，柳和旱地春。共道官还小，怜君孝养父母。
+	* 此部分翻译来自AI，仅供参考

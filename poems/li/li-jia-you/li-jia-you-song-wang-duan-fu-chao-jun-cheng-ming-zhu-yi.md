@@ -1,0 +1,45 @@
+---
+id: li-jia-you-song-wang-duan-fu-chao-jun-cheng-ming-zhu-yi
+title: 送王端赴朝
+author: 李嘉祐
+authorSlug: li-jia-you
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: song4 wang2 duan1 fu4 chao2
+authorPinyin: li3 jia1 you4
+dynastyPinyin: tang2
+canonicalPoemId: 520099
+canonicalAuthorId: 560
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 君承明主意，日日上丹墀。
+
+- 东阁论兵后，南宫草奏期。
+
+- 人稀傍河处，槐暗入关时。
+
+- 独遣吴州客，平陵结梦思。
+
+## 拼音
+
+- jun1 cheng2 ming2 zhu3 yi4 ， ri4 ri4 shang4 dan1 chi2 。
+
+- dong1 ge2 lun4 bing1 hou4 ， nan2 gong1 cao3 zou4 qi1 。
+
+- ren2 xi1 bang4 he2 chu4 ， huai2 an4 ru4 guan1 shi2 。
+
+- du2 qian3 wu2 zhou1 ke4 ， ping2 ling2 jie2 meng4 si1 。
+
+## 译文
+
+你承明主意，天天上台阶。东阁论兵后，南宫起草奏书期。人稀傍河处，槐暗入关时。独派昊州客，平陵结梦思。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+你承明主意，天天上台阶。东阁论兵后，南宫起草奏书期。人稀傍河处，槐暗入关时。独派昊州客，平陵结梦思。
+	* 此部分翻译来自AI，仅供参考

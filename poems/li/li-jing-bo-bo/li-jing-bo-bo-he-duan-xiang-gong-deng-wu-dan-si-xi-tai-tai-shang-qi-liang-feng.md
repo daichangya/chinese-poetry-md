@@ -1,0 +1,45 @@
+---
+id: li-jing-bo-bo-he-duan-xiang-gong-deng-wu-dan-si-xi-tai-tai-shang-qi-liang-feng
+title: 和段相公登武担寺西台
+author: 李敬伯
+authorSlug: li-jing-bo-bo
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: he2 duan4 xiang4 gong0 deng1 wu3 dan1 si4 xi1 tai2
+authorPinyin: li3 jing4 bo2
+dynastyPinyin: tang2
+canonicalPoemId: 536663
+canonicalAuthorId: 4661
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 台上起凉风，乘闲览岁功。
+
+- 自随台席贵，尽许羽觞同。
+
+- 楼殿斜晖照，江山极望通。
+
+- 赋诗思共乐，俱得咏诗丰。
+
+## 拼音
+
+- tai2 shang4 qi3 liang2 feng1 ， cheng2 xian2 lan3 sui4 gong1 。
+
+- zi4 sui2 tai2 xi2 gui4 ， jin4 xu3 yu3 shang1 tong2 。
+
+- lou2 dian4 xie2 hui1 zhao4 ， jiang1 shan1 ji2 wang4 tong1 。
+
+- fu4 shi1 si1 gong4 le4 ， ju4 de2 yong3 shi1 feng1 。
+
+## 译文
+
+台上起凉风，乘闲看一年的功夫。随行台席尊贵，完全同意羽觞同。楼殿斜晖照，江山极望通。赋诗思一起快乐，都能吟诗丰。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+台上起凉风，乘闲看一年的功夫。随行台席尊贵，完全同意羽觞同。楼殿斜晖照，江山极望通。赋诗思一起快乐，都能吟诗丰。
+	* 此部分翻译来自AI，仅供参考

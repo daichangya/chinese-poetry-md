@@ -1,0 +1,45 @@
+---
+id: li-fu-you-guan-yin-yuan-qiu-lin-qing-cu-cu
+title: 游观音院
+author: 李复
+authorSlug: li-fu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: you2 guan1 yin1 yuan4
+authorPinyin: li3 fu4
+dynastyPinyin: song4
+canonicalPoemId: 608299
+canonicalAuthorId: 6104
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 秋林晴簇簇，野竹静娟娟。
+
+- 台殿横高绝，山河满大千。
+
+- 莫论金屑贵，且契布毛缘。
+
+- 试问庭前柏，干戈动几年。
+
+## 拼音
+
+- qiu1 lin2 qing2 cu4 cu4 ， ye3 zhu2 jing4 juan1 juan1 。
+
+- tai2 dian4 heng2 gao1 jue2 ， shan1 he2 man3 da4 qian1 。
+
+- mo4 lun4 jin1 xie4 gui4 ， qie3 qi4 bu4 mao2 yuan2 。
+
+- shi4 wen4 ting2 qian2 bai3 ， gan1 ge1 dong4 ji3 nian2 。
+
+## 译文
+
+秋林晴汗水，野竹静非常秀丽。台殿横高绝，山河满大干。不管金屑贵，且契布毛缘。试问庭前柏，战争行动几年。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+秋林晴汗水，野竹静非常秀丽。台殿横高绝，山河满大干。不管金屑贵，且契布毛缘。试问庭前柏，战争行动几年。
+	* 此部分翻译来自AI，仅供参考
