@@ -1,0 +1,35 @@
+---
+id: shi-shu-chou-shan-yue-jiang-yu-tou-zeng-di-li-feng-guang-hao
+title: 酬山月江与投赠
+author: 施枢
+authorSlug: shi-shu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: chou2 shan1 yue4 jiang1 yu3 tou2 zeng4
+authorPinyin: shi1 shu1
+dynastyPinyin: song4
+canonicalPoemId: 447883
+canonicalAuthorId: 6702
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 帝里风光好，随缘适宦情。
+
+- 却居城郭外，不杂市廛声。
+
+- 水国霜天冷，梅庭夜月清。
+
+- 正惭无雅韵，敢说到诗名。
+
+## 拼音
+
+- di4 li3 feng1 guang1 hao3 ， sui2 yuan2 shi4 huan4 qing2 。
+
+- que4 ju1 cheng2 guo1 wai4 ， bu4 za2 shi4 chan2 sheng1 。
+
+- shui3 guo2 shuang1 tian1 leng3 ， mei2 ting2 ye4 yue4 qing1 。
+
+- zheng4 can2 wu2 ya3 yun4 ， gan3 shuo1 dao4 shi1 ming2 。

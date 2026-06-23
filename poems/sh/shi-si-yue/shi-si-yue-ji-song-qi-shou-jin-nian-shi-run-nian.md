@@ -1,0 +1,45 @@
+---
+id: shi-si-yue-ji-song-qi-shou-jin-nian-shi-run-nian
+title: 偈颂七首
+author: 释思岳
+authorSlug: shi-si-yue
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ji4 song4 qi1 shou3
+authorPinyin: shi4 si1 yue4
+dynastyPinyin: song4
+canonicalPoemId: 648865
+canonicalAuthorId: 10918
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 今年是闰年，剩著三十日。
+
+- 返究所剩底，添些浮逼逼。
+
+- 世间没量人，一切但省力。
+
+- 净众此密语，说了却不密。
+
+## 拼音
+
+- jin1 nian2 shi4 run4 nian2 ， sheng4 zhu4 san1 shi2 ri4 。
+
+- fan3 jiu1 suo3 sheng4 di3 ， tian1 xie1 fu2 bi1 bi1 。
+
+- shi4 jian1 mei2 liang2 ren2 ， yi2 qie4 dan4 sheng3 li4 。
+
+- jing4 zhong4 ci3 mi4 yu3 ， shuo1 liao3 que4 bu2 mi4 。
+
+## 译文
+
+今年是闰年，剩着三十日。回研究所剩底，添些浮逼逼。世间没量人，一切只是省力量。净众这秘密的话，说了又不密。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+今年是闰年，剩着三十日。回研究所剩底，添些浮逼逼。世间没量人，一切只是省力量。净众这秘密的话，说了又不密。
+	* 此部分翻译来自AI，仅供参考
