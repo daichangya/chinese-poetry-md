@@ -1,0 +1,45 @@
+---
+id: chen-fu-liang-song-xie-huai-ying-dao-shi-gui-lu-shan-chang-wu-shou-yu-ce
+title: 送谢怀英道士归庐山
+author: 陈傅良
+authorSlug: chen-fu-liang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: song4 xie4 huai2 ying1 dao4 shi4 gui1 lu2 shan1
+authorPinyin: chen2 fu4 liang2
+dynastyPinyin: song4
+canonicalPoemId: 583377
+canonicalAuthorId: 5124
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 场屋收余策，匡庐寄一瓢。
+
+- 款门如有欲，委币辄难招。
+
+- 菜甲留终夕，蒲团共小桥。
+
+- 崆峒他日问，应记说神霄。
+
+## 拼音
+
+- chang3 wu1 shou1 yu2 ce4 ， kuang1 lu2 ji4 yi4 piao2 。
+
+- kuan3 men2 ru2 you3 yu4 ， wei3 bi4 zhe2 nan2 zhao1 。
+
+- cai4 jia3 liu2 zhong1 xi1 ， pu2 tuan2 gong4 xiao3 qiao2 。
+
+- kong1 tong2 ta1 ri4 wen4 ， ying4 ji4 shuo1 shen2 xiao1 。
+
+## 译文
+
+考场收多策略，庐山寄一瓢。敲门如有想，委托贷款就难招。菜甲留一晚上，蒲团共小桥。崆峒山有一天问，应记说神霄。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+考场收多策略，庐山寄一瓢。敲门如有想，委托贷款就难招。菜甲留一晚上，蒲团共小桥。崆峒山有一天问，应记说神霄。
+	* 此部分翻译来自AI，仅供参考

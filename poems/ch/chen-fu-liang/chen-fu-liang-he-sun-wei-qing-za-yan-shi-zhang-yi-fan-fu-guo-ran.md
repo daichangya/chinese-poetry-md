@@ -1,0 +1,37 @@
+---
+id: chen-fu-liang-he-sun-wei-qing-za-yan-shi-zhang-yi-fan-fu-guo-ran
+title: 和孙伟卿杂言十章
+author: 陈傅良
+authorSlug: chen-fu-liang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: he2 sun1 wei3 qing1 za2 yan2 shi2 zhang1
+authorPinyin: chen2 fu4 liang2
+dynastyPinyin: song4
+canonicalPoemId: 583122
+canonicalAuthorId: 5124
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 一饭腹果然，身外百不须。
+
+- 深知饥方朔，不似饱侏儒。
+
+## 拼音
+
+- yi2 fan4 fu4 guo3 ran2 ， shen1 wai4 bai3 bu4 xu1 。
+
+- shen1 zhi1 ji1 fang1 shuo4 ， bu2 si4 bao3 zhu1 ru2 。
+
+## 译文
+
+一顿饭肚子饱，身体外百不需要。深知道饥饿东方朔，不似饱侏儒。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+一顿饭肚子饱，身体外百不需要。深知道饥饿东方朔，不似饱侏儒。
+	* 此部分翻译来自AI，仅供参考

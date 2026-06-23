@@ -1,0 +1,45 @@
+---
+id: chen-geng-wan-zhao-qiu-xiao-ke-zhi-zhi-qiong-chu
+title: 挽赵秋晓
+author: 陈庚
+authorSlug: chen-geng
+dynasty: 宋
+dynastySlug: song
+titlePinyin: wan3 zhao4 qiu1 xiao3
+authorPinyin: chen2 geng1
+dynastyPinyin: song4
+canonicalPoemId: 475811
+canonicalAuthorId: 7822
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 客至支筇出，俱云步履强。
+
+- 礼犹尚筋力，病忍谓膏肓。
+
+- 此别终千古，相陪苦一霜。
+
+- 萧萧亭畔柳，回首重凄凉。
+
+## 拼音
+
+- ke4 zhi4 zhi1 qiong2 chu1 ， ju4 yun2 bu4 lü3 qiang2 。
+
+- li3 you2 shang4 jin1 li4 ， bing4 ren3 wei4 gao1 huang1 。
+
+- ci3 bie2 zhong1 qian1 gu3 ， xiang1 pei2 ku3 yi4 shuang1 。
+
+- xiao1 xiao1 ting2 pan4 liu3 ， hui2 shou3 zhong4 qi1 liang2 。
+
+## 译文
+
+客人到支炸出，都说走路强。礼还是体力，病人忍受对治。这另一千古，陪陪苦一霜。萧萧亭畔柳，回头重凄凉。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+客人到支炸出，都说走路强。礼还是体力，病人忍受对治。这另一千古，陪陪苦一霜。萧萧亭畔柳，回头重凄凉。
+	* 此部分翻译来自AI，仅供参考

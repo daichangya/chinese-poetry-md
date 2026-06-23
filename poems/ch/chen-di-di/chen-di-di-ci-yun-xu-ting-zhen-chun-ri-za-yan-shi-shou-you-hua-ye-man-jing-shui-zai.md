@@ -1,0 +1,37 @@
+---
+id: chen-di-di-ci-yun-xu-ting-zhen-chun-ri-za-yan-shi-shou-you-hua-ye-man-jing-shui-zai
+title: 次韵徐庭珍春日杂言十首
+author: 陈棣
+authorSlug: chen-di-di
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ci4 yun4 xu2 ting2 zhen1 chun1 ri4 za2 yan2 shi2 shou3
+authorPinyin: chen2 di4
+dynastyPinyin: song4
+canonicalPoemId: 633930
+canonicalAuthorId: 5310
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 幽花野蔓竟谁栽，傍水盈盈一笑开。
+
+- 几许远携吟笔去，未应空掉酒船回。
+
+## 拼音
+
+- you1 hua1 ye3 man4 jing4 shui2 zai1 ， bang4 shui3 ying2 ying2 yi2 xiao4 kai1 。
+
+- ji3 xu3 yuan3 xie2 yin2 bi3 qu4 ， wei4 ying4 kong1 diao4 jiu3 chuan2 hui2 。
+
+## 译文
+
+幽花蔓草到底谁栽，沿水盈盈一笑开。几许远带着乡音笔去，不应空掉酒船回。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+幽花蔓草到底谁栽，沿水盈盈一笑开。几许远带着乡音笔去，不应空掉酒船回。
+	* 此部分翻译来自AI，仅供参考

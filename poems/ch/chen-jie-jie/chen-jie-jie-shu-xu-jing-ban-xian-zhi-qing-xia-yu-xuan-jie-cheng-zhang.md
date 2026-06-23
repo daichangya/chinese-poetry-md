@@ -1,0 +1,69 @@
+---
+id: chen-jie-jie-shu-xu-jing-ban-xian-zhi-qing-xia-yu-xuan-jie-cheng-zhang
+title: 书徐经坂先志
+author: 陈杰
+authorSlug: chen-jie-jie
+dynasty: 宋
+dynastySlug: song
+titlePinyin: shu1 xu2 jing1 ban3 xian1 zhi4
+authorPinyin: chen2 jie2
+dynastyPinyin: song4
+canonicalPoemId: 594191
+canonicalAuthorId: 5331
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 青霞余绚皆成章，虎变龙匿超故常。
+
+- 异时欣然读奇崛，触眼惨淡令人伤。
+
+- 矢心为词血为笔，沈恨欲拆天茫茫。
+
+- 波澜收卷见至性，星斗隐翳回幽光。
+
+- 题将片石寄冥漠，意与万古生凄凉。
+
+- 山灵护持夜半泣，悲风著木春无芳。
+
+- 伯庸罔极白日短，龙舒归梦青山长。
+
+- 万钟不解羊枣痛，一死傥补南陔亡。
+
+- 载之实录非虚誉，斯文知心地下郎。
+
+- 檀弓孝经不浪许，椽笔足征老玉堂。
+
+## 拼音
+
+- qing1 xia2 yu2 xuan4 jie1 cheng2 zhang1 ， hu3 bian4 long2 ni4 chao1 gu4 chang2 。
+
+- yi4 shi2 xin1 ran2 du2 qi2 jue2 ， chu4 yan3 can3 dan4 ling4 ren2 shang1 。
+
+- shi3 xin1 wei4 ci2 xue4 wei4 bi3 ， shen3 hen4 yu4 chai1 tian1 mang2 mang2 。
+
+- bo1 lan2 shou1 juan4 jian4 zhi4 xing4 ， xing1 dou4 yin3 yi4 hui2 you1 guang1 。
+
+- ti2 jiang1 pian4 shi2 ji4 ming2 mo4 ， yi4 yu3 wan4 gu3 sheng1 qi1 liang2 。
+
+- shan1 ling2 hu4 chi2 ye4 ban4 qi4 ， bei1 feng1 zhu4 mu4 chun1 wu2 fang1 。
+
+- bo2 yong1 wang3 ji2 bai2 ri4 duan3 ， long2 shu1 gui1 meng4 qing1 shan1 chang2 。
+
+- wan4 zhong1 bu4 jie3 yang2 zao3 tong4 ， yi4 si3 tang3 bu3 nan2 gai1 wang2 。
+
+- zai3 zhi1 shi2 lu4 fei1 xu1 yu4 ， si1 wen2 zhi1 xin1 di4 xia4 lang2 。
+
+- tan2 gong1 xiao4 jing1 bu2 lang4 xu3 ， chuan2 bi3 zu2 zheng1 lao3 yu4 tang2 。
+
+## 译文
+
+青霞多绚丽都成章，老虎变成龙藏超常规。异时欣然读奇崛，接触眼睛暗淡让人伤。矢心为词血为笔，沉恨想拆天茫茫。波澜收卷出现到性，星星隐蔽回幽州光。题将一块石头在幽暗寂静，意和万古生凄凉。山灵保护半夜哭泣，悲风著木春无芳香。伯庸无限白日短，龙舒归梦青山长。万钟不知道羊枣疼痛，一个死如果补南陔灭亡。载的实录不是虚名，斯文知道心地下郎。檀弓》、《孝经》不浪许，尽管文章足以证明老玉堂。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+青霞多绚丽都成章，老虎变成龙藏超常规。异时欣然读奇崛，接触眼睛暗淡让人伤。矢心为词血为笔，沉恨想拆天茫茫。波澜收卷出现到性，星星隐蔽回幽州光。题将一块石头在幽暗寂静，意和万古生凄凉。山灵保护半夜哭泣，悲风著木春无芳香。伯庸无限白日短，龙舒归梦青山长。万钟不知道羊枣疼痛，一个死如果补南陔灭亡。载的实录不是虚名，斯文知道心地下郎。檀弓》、《孝经》不浪许，尽管文章足以证明老玉堂。
+	* 此部分翻译来自AI，仅供参考
