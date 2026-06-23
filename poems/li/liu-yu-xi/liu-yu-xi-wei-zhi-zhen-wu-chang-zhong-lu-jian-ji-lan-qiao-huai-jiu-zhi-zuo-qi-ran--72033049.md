@@ -1,0 +1,45 @@
+---
+id: liu-yu-xi-wei-zhi-zhen-wu-chang-zhong-lu-jian-ji-lan-qiao-huai-jiu-zhi-zuo-qi-ran--72033049
+title: 微之镇武昌中路见寄蓝桥怀旧之作凄然继和兼寄安平
+author: 刘禹锡
+authorSlug: liu-yu-xi
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: wei1 zhi1 zhen4 wu3 chang1 zhong1 lu4 jian4 ji4 lan2 qiao2 huai2 jiu4 zhi1 zuo4 qi1 ran2 ji4 he2 jian1 ji4 an1 ping2
+authorPinyin: liu2 yu3 xi1
+dynastyPinyin: tang2
+canonicalPoemId: 376139
+canonicalAuthorId: 364
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 今日油幢引，他年黄纸追。
+
+- 同为三楚客，独有九霄期。
+
+- 宿草恨长在，伤禽飞尚迟。
+
+- 武昌应已到，新柳映红旗。
+
+## 拼音
+
+- jin1 ri4 you2 zhuang4 yin3 ， ta1 nian2 huang2 zhi3 zhui1 。
+
+- tong2 wei4 san1 chu3 ke4 ， du2 you3 jiu3 xiao1 qi1 。
+
+- su4 cao3 hen4 chang2 zai4 ， shang1 qin2 fei1 shang4 chi2 。
+
+- wu3 chang1 ying4 yi3 dao4 ， xin1 liu3 ying4 hong2 qi2 。
+
+## 译文
+
+今天油幢引，其他年黄纸追。同为三楚客，只有九霄期。荒草恨长在，伤禽兽飞还慢。武昌应已到，新柳映红旗。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+今天油幢引，其他年黄纸追。同为三楚客，只有九霄期。荒草恨长在，伤禽兽飞还慢。武昌应已到，新柳映红旗。
+	* 此部分翻译来自AI，仅供参考

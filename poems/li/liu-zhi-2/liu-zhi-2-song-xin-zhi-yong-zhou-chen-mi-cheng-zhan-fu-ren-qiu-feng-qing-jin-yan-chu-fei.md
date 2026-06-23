@@ -1,0 +1,45 @@
+---
+id: liu-zhi-2-song-xin-zhi-yong-zhou-chen-mi-cheng-zhan-fu-ren-qiu-feng-qing-jin-yan-chu-fei
+title: 送新知永州陈秘丞瞻赴任
+author: 刘骘
+authorSlug: liu-zhi-2
+dynasty: 宋
+dynastySlug: song
+titlePinyin: song4 xin1 zhi1 yong3 zhou1 chen2 mi4 cheng2 zhan1 fu4 ren4
+authorPinyin: liu2 zhi4
+dynastyPinyin: song4
+canonicalPoemId: 644364
+canonicalAuthorId: 9849
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 秋风清紧雁初飞，半醉摇鞭出帝畿。
+
+- 名郡又分红旆去，故乡重见锦衣归。
+
+- 剖符虽暂宣皇泽，视草终须直紫微。
+
+- 从此南轩多倚望，好诗芳信莫教稀。
+
+## 拼音
+
+- qiu1 feng1 qing1 jin3 yan4 chu1 fei1 ， ban4 zui4 yao2 bian1 chu1 di4 ji1 。
+
+- ming2 jun4 you4 fen1 hong2 pei4 qu4 ， gu4 xiang1 zhong4 jian4 jin3 yi1 gui1 。
+
+- pou1 fu2 sui1 zan4 xuan1 huang2 ze2 ， shi4 cao3 zhong1 xu1 zhi2 zi3 wei1 。
+
+- cong2 ci3 nan2 xuan1 duo1 yi3 wang4 ， hao3 shi1 fang1 xin4 mo4 jiao4 xi1 。
+
+## 译文
+
+秋风清紧雁初飞，半醉摇鞭出帝畿。名郡又分红飘带走，又见锦衣归故乡。剖符虽然暂时宣皇帝的恩泽，看草必须直紫微。从此南轩多倚靠，喜欢诗芳相信没有教稀。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+秋风清紧雁初飞，半醉摇鞭出帝畿。名郡又分红飘带走，又见锦衣归故乡。剖符虽然暂时宣皇帝的恩泽，看草必须直紫微。从此南轩多倚靠，喜欢诗芳相信没有教稀。
+	* 此部分翻译来自AI，仅供参考

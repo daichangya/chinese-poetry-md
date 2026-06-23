@@ -1,0 +1,54 @@
+---
+id: liu-yu-xi-chun-ri-ji-yang-ba-tang-zhou-er-shou-huai-xi-chun-cao-chang
+title: 春日寄杨八唐州二首
+author: 刘禹锡
+authorSlug: liu-yu-xi
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: chun1 ri4 ji4 yang2 ba1 tang2 zhou1 er4 shou3
+authorPinyin: liu2 yu3 xi1
+dynastyPinyin: tang2
+canonicalPoemId: 376493
+canonicalAuthorId: 364
+tags:
+  - 诗词
+  - 御定全唐诗
+---
+
+## 正文
+
+- 淮西春草长，淮水逶迤光。
+
+- 燕入新村落，人耕旧战场。
+
+- 可怜行春守，立马看斜桑。
+
+- 漠漠淮上春，莠苗生故垒。
+
+- 梨花方城路，荻笋萧陂水。
+
+- 高斋有谪仙，坐啸清风起。
+
+## 拼音
+
+- huai2 xi1 chun1 cao3 chang2 ， huai2 shui3 wei1 yi2 guang1 。
+
+- yan4 ru4 xin1 cun1 luo4 ， ren2 geng1 jiu4 zhan4 chang3 。
+
+- ke3 lian2 xing2 chun1 shou3 ， li4 ma3 kan4 xie2 sang1 。
+
+- mo4 mo4 huai2 shang4 chun1 ， you3 miao2 sheng1 gu4 lei3 。
+
+- li2 hua1 fang1 cheng2 lu4 ， di2 sun3 xiao1 bei1 shui3 。
+
+- gao1 zhai1 you3 zhe2 xian1 ， zuo4 xiao4 qing1 feng1 qi3 。
+
+## 译文
+
+淮西春草长，淮水曲折光。燕入新村庄，人在旧战场。可怜行春守，建立马桑看斜。广漠战场上春，草苗生所以垒。梨花方城路，荻笋萧破水。高斋有谪仙，坐在清凉的风起。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+淮西春草长，淮水曲折光。燕入新村庄，人在旧战场。可怜行春守，建立马桑看斜。广漠战场上春，草苗生所以垒。梨花方城路，荻笋萧破水。高斋有谪仙，坐在清凉的风起。
+	* 此部分翻译来自AI，仅供参考

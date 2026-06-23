@@ -1,0 +1,33 @@
+---
+id: liu-yan-liu-bei-an-zi-hui-shi-zao-zhi-tai-shou-ru-lang-hu
+title: 被按自悔诗
+author: 刘炎
+authorSlug: liu-yan-liu
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: bei4 an4 zi4 hui3 shi1
+authorPinyin: liu2 yan2
+dynastyPinyin: tang2
+canonicalPoemId: 529657
+canonicalAuthorId: 6429
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 早知太守如狼虎，猎取膏粱以啖之。
+
+## 拼音
+
+- zao3 zhi1 tai4 shou3 ru2 lang2 hu3 ， lie4 qu3 gao1 liang2 yi3 dan4 zhi1 。
+
+## 译文
+
+早知道太守如虎狼，获取美味佳肴来吃的。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+早知道太守如虎狼，获取美味佳肴来吃的。
+	* 此部分翻译来自AI，仅供参考

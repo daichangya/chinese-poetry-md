@@ -1,0 +1,73 @@
+---
+id: liu-yu-xi-xiang-he-ge-ci-jia-ke-ci-jia-ke-wu-ding-you
+title: 相和歌辞。贾客词
+author: 刘禹锡
+authorSlug: liu-yu-xi
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: xiang1 he2 ge1 ci2 。 jia3 ke4 ci2
+authorPinyin: liu2 yu3 xi1
+dynastyPinyin: tang2
+canonicalPoemId: 533419
+canonicalAuthorId: 364
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 贾客无定游，所游惟利并。
+
+- 眩俗杂良苦，乘时知重轻。
+
+- 心计析秋毫，摇钩侔悬衡。
+
+- 锥刀既无弃，转化日已盈。
+
+- 邀福祷波神，施财游化城。
+
+- 妻约雕金钏，女垂贯珠缨。
+
+- 高赀比封君，奇货通幸卿。
+
+- 趋时鸷鸟思，藏镪盘龙形。
+
+- 大艑浮通川，高楼次旗亭。
+
+- 行止皆有乐，关梁似无征。
+
+- 农夫何为者，辛苦事寒耕。
+
+## 拼音
+
+- jia3 ke4 wu2 ding4 you2 ， suo3 you2 wei2 li4 bing4 。
+
+- xuan4 su2 za2 liang2 ku3 ， cheng2 shi2 zhi1 zhong4 qing1 。
+
+- xin1 ji4 xi1 qiu1 hao2 ， yao2 gou1 mou2 xuan2 heng2 。
+
+- zhui1 dao1 ji4 wu2 qi4 ， zhuan3 hua4 ri4 yi3 ying2 。
+
+- yao1 fu2 dao3 bo1 shen2 ， shi1 cai2 you2 hua4 cheng2 。
+
+- qi1 yue1 diao1 jin1 chuan4 ， nü3 chui2 guan4 zhu1 ying1 。
+
+- gao1 zi1 bi3 feng1 jun1 ， qi2 huo4 tong1 xing4 qing1 。
+
+- qu1 shi2 zhi4 niao3 si1 ， cang2 qiang3 pan2 long2 xing2 。
+
+- da4 bian4 fu2 tong1 chuan1 ， gao1 lou2 ci4 qi2 ting2 。
+
+- xing2 zhi3 jie1 you3 le4 ， guan1 liang2 si4 wu2 zheng1 。
+
+- nong2 fu1 he2 wei4 zhe3 ， xin1 ku3 shi4 han2 geng1 。
+
+## 译文
+
+商人没有固定游，我游只有利益并。乱俗杂辛苦，乘坐时知道轻重。心思剖析丝毫，摇钩与悬挂衡器。小刀既没有放弃，转化时间已满。邀福祈祷波神，施财游化城。妻子约雕金手镯，女子流贯珠缨。高资产与封君，奇货通幸你。赶时间猛禽思考，藏金子盘龙形。大船浮交通，高楼次旗亭。行为都有音乐，关卡似乎没有征。农夫何为者，辛苦工作寒耕。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+商人没有固定游，我游只有利益并。乱俗杂辛苦，乘坐时知道轻重。心思剖析丝毫，摇钩与悬挂衡器。小刀既没有放弃，转化时间已满。邀福祈祷波神，施财游化城。妻子约雕金手镯，女子流贯珠缨。高资产与封君，奇货通幸你。赶时间猛禽思考，藏金子盘龙形。大船浮交通，高楼次旗亭。行为都有音乐，关卡似乎没有征。农夫何为者，辛苦工作寒耕。
+	* 此部分翻译来自AI，仅供参考

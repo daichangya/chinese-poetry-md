@@ -1,0 +1,45 @@
+---
+id: liu-zi-hui-zhi-zhong-shou-tan-jian-zhi-hu-zhang-zhou-er-qi-zhong-wei-you-ding-lun-z-655d58d4
+title: 致中手谈见知胡漳州而奇仲未有定论
+author: 刘子翚
+authorSlug: liu-zi-hui
+dynasty: 宋
+dynastySlug: song
+titlePinyin: zhi4 zhong1 shou3 tan2 jian4 zhi1 hu2 zhang1 zhou1 er2 qi2 zhong4 wei4 you3 ding4 lun4
+authorPinyin: liu2 zi3 hui1
+dynastyPinyin: song4
+canonicalPoemId: 476064
+canonicalAuthorId: 5125
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 子无胜负著胸中，三百枯棋破老慵。
+
+- 支陈春收花脱树，雹声夜碎月衔峰。
+
+- 危机每惮张颐虎，窘步休夸独眼龙。
+
+- 无复漳州赏新妙，只应公论付吾宗。
+
+## 拼音
+
+- zi3 wu2 sheng4 fu4 zhu4 xiong1 zhong1 ， san1 bai3 ku1 qi2 po4 lao3 yong1 。
+
+- zhi1 chen2 chun1 shou1 hua1 tuo1 shu4 ， bao2 sheng1 ye4 sui4 yue4 xian2 feng1 。
+
+- wei1 ji1 mei3 dan4 zhang1 yi2 hu3 ， jiong3 bu4 xiu1 kua1 du2 yan3 long2 。
+
+- wu2 fu4 zhang1 zhou1 shang3 xin1 miao4 ， zhi1 ying4 gong1 lun4 fu4 wu2 zong1 。
+
+## 译文
+
+你没有胜负写胸中，三百枯棋打败老慵。支陈春收花脱落树，冰雹声夜碎月衔峰。危机常常害怕张嘴虎，经济步休夸独眼龙。不再漳州赏新妙，只应公评论交付我们的家族。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+你没有胜负写胸中，三百枯棋打败老慵。支陈春收花脱落树，冰雹声夜碎月衔峰。危机常常害怕张嘴虎，经济步休夸独眼龙。不再漳州赏新妙，只应公评论交付我们的家族。
+	* 此部分翻译来自AI，仅供参考

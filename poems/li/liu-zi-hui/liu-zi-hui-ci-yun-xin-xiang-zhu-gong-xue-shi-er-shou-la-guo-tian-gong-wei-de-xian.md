@@ -1,0 +1,45 @@
+---
+id: liu-zi-hui-ci-yun-xin-xiang-zhu-gong-xue-shi-er-shou-la-guo-tian-gong-wei-de-xian
+title: 次韵新乡诸公雪诗二首
+author: 刘子翚
+authorSlug: liu-zi-hui
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ci4 yun4 xin1 xiang1 zhu1 gong1 xue3 shi1 er4 shou3
+authorPinyin: liu2 zi3 hui1
+dynastyPinyin: song4
+canonicalPoemId: 475879
+canonicalAuthorId: 5125
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 腊裹天公未得闲，重阴先殿晚来寒。
+
+- 数丝绰约流空际，一阵缤纷糁夜阑。
+
+- 已傍余光窥蠹简，更消清液试龙团。
+
+- 杜门自觉心神莹，老去追随只强欢。
+
+## 拼音
+
+- la4 guo3 tian1 gong1 wei4 de2 xian2 ， zhong4 yin1 xian1 dian4 wan3 lai2 han2 。
+
+- shu4 si1 chuo4 yue1 liu2 kong1 ji4 ， yi2 zhen4 bin1 fen1 shen1 ye4 lan2 。
+
+- yi3 bang4 yu2 guang1 kui1 du4 jian3 ， geng4 xiao1 qing1 ye4 shi4 long2 tuan2 。
+
+- du4 men2 zi4 jue2 xin1 shen2 ying2 ， lao3 qu4 zhui1 sui2 zhi1 qiang2 huan1 。
+
+## 译文
+
+腊包天公不得闲，重阴先殿晚来寒。几丝柔美流空中，一阵缤纷糁夜深。已经靠近我光看蛀虫简，更何况清涕试龙团。闭门醒来精神透明，老去追随只能强装。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+腊包天公不得闲，重阴先殿晚来寒。几丝柔美流空中，一阵缤纷糁夜深。已经靠近我光看蛀虫简，更何况清涕试龙团。闭门醒来精神透明，老去追随只能强装。
+	* 此部分翻译来自AI，仅供参考

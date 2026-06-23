@@ -1,0 +1,69 @@
+---
+id: liu-xun-bu-shi-shi-zhong-shi-shi-ping-zhe-qi-zhi
+title: 补史十忠诗·丞相都督信国公文公
+author: 刘埙
+authorSlug: liu-xun
+dynasty: 宋
+dynastySlug: song
+titlePinyin: bu3 shi3 shi2 zhong1 shi1 · cheng2 xiang4 du1 du0 xin4 guo2 gong1 wen2 gong1
+authorPinyin: liu2 xun1
+dynastyPinyin: song4
+canonicalPoemId: 644036
+canonicalAuthorId: 6779
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 时平辄弃置，事迫甘前驱。
+
+- 呜呼忠义臣，匪直科目儒。
+
+- 江寒朔吹急，列城同一趋。
+
+- 岂不寄便安，网常乃当扶。
+
+- 移檄倡诸镇，奋袂躬援枹。
+
+- 川决莫我回，万险栖海隅。
+
+- 天乎复不济，道穷竟成俘。
+
+- 一死事乃了，吾头任模糊。
+
+- 悠悠讥好名，责人无已夫。
+
+- 三衢有魁相，投老作尚书。
+
+## 拼音
+
+- shi2 ping2 zhe2 qi4 zhi4 ， shi4 po4 gan1 qian2 qu1 。
+
+- wu1 hu1 zhong1 yi4 chen2 ， fei3 zhi2 ke1 mu4 ru2 。
+
+- jiang1 han2 shuo4 chui1 ji2 ， lie4 cheng2 tong2 yi4 qu1 。
+
+- qi3 bu2 ji4 bian4 an1 ， wang3 chang2 nai3 dang1 fu2 。
+
+- yi2 xi2 chang4 zhu1 zhen4 ， fen4 mei4 gong1 yuan2 bao1 。
+
+- chuan1 jue2 mo4 wo3 hui2 ， wan4 xian3 qi1 hai3 yu2 。
+
+- tian1 hu1 fu4 bu2 ji4 ， dao4 qiong2 jing4 cheng2 fu2 。
+
+- yi4 si3 shi4 nai3 le0 ， wu2 tou2 ren4 mo2 hu0 。
+
+- you1 you1 ji1 hao3 ming2 ， ze2 ren2 wu2 yi3 fu1 。
+
+- san1 qu2 you3 kui2 xiang1 ， tou2 lao3 zuo4 shang4 shu1 。
+
+## 译文
+
+太平时就放弃，事情紧迫甘先锋。唉忠义之臣，不但科目儒学。江寒朔吹紧急，列城同一趋向。难道不寄合适，通常是当扶网。公文倡诸镇，奋身拿起鼓槌。川决没有我回，万险栖海边。天呢又不能成功，道穷竟成俘虏。一死的事就了，我的头用模糊。悠悠批评好名声，责人不了啊。三衢有魁相，投老作尚书。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+太平时就放弃，事情紧迫甘先锋。唉忠义之臣，不但科目儒学。江寒朔吹紧急，列城同一趋向。难道不寄合适，通常是当扶网。公文倡诸镇，奋身拿起鼓槌。川决没有我回，万险栖海边。天呢又不能成功，道穷竟成俘虏。一死的事就了，我的头用模糊。悠悠批评好名声，责人不了啊。三衢有魁相，投老作尚书。
+	* 此部分翻译来自AI，仅供参考

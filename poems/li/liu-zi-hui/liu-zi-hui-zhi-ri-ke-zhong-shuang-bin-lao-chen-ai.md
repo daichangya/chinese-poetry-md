@@ -1,0 +1,45 @@
+---
+id: liu-zi-hui-zhi-ri-ke-zhong-shuang-bin-lao-chen-ai
+title: 至日
+author: 刘子翚
+authorSlug: liu-zi-hui
+dynasty: 宋
+dynastySlug: song
+titlePinyin: zhi4 ri4
+authorPinyin: liu2 zi3 hui1
+dynastyPinyin: song4
+canonicalPoemId: 476203
+canonicalAuthorId: 5125
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 客中双鬓老尘埃，海角仍逢至日来。
+
+- 近腊风光初染荔，新阳气力仅浮灰。
+
+- 豆糜厌胜怜荆俗，云物书祥忆鲁台。
+
+- 搔首故园心欲断，少陵赖有掌中杯。
+
+## 拼音
+
+- ke4 zhong1 shuang1 bin4 lao3 chen2 ai1 ， hai3 jiao3 reng2 feng2 zhi4 ri4 lai2 。
+
+- jin4 la4 feng1 guang1 chu1 ran3 li4 ， xin1 yang2 qi4 li4 jin3 fu2 hui1 。
+
+- dou4 mi2 yan4 sheng4 lian2 jing1 su2 ， yun2 wu4 shu1 xiang2 yi4 lu3 tai2 。
+
+- sao1 shou3 gu4 yuan2 xin1 yu4 duan4 ， shao3 ling2 lai4 you3 zhang3 zhong1 bei1 。
+
+## 译文
+
+客人中有一对头发老尘埃，海角仍然逢到一天来。靠近腊风光初染荔，新阳力量仅仅浮灰。豆粥厌胜怜惜楚国风俗，说东西书祥想起鲁台。搔头故园心欲断，杜甫依靠有掌管中杯。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+客人中有一对头发老尘埃，海角仍然逢到一天来。靠近腊风光初染荔，新阳力量仅仅浮灰。豆粥厌胜怜惜楚国风俗，说东西书祥想起鲁台。搔头故园心欲断，杜甫依靠有掌管中杯。
+	* 此部分翻译来自AI，仅供参考

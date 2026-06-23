@@ -1,0 +1,77 @@
+---
+id: liu-zi-cai-he-xin-lang-yi-he-cang-xian-nian-xi-lu
+title: 贺新郎（忆鹤）
+author: 刘子才
+authorSlug: liu-zi-cai
+dynasty: 宋
+dynastySlug: song
+titlePinyin: he4 xin1 lang2 （ yi4 he4 ）
+authorPinyin: liu2 zi3 cai2
+dynastyPinyin: song4
+canonicalPoemId: 342240
+canonicalAuthorId: 12553
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 苍藓黏溪路。
+
+- 帐山君、翛然羽化，梦魂何许。
+
+- 曾约秋云萦客袖，舞傍吟皋砚坞。
+
+- 矫清唳、裂穿云宇。
+
+- 江碧空蒙无处问，问孤山、梅底人知否。
+
+- 烟夜永，耿心语。
+
+- 瑶华一去成幽阻。
+
+- 倚修篁、抱琴愁绝，天寒日幕。
+
+- 城郭悲歌华表恨，此事销凝千古。
+
+- 有招隐、小山能赋。
+
+- 蕙帐空兮谁夜怨，算课骚、读易俱凄楚。
+
+- 步深窈，堕松露。
+
+## 拼音
+
+- cang1 xian3 nian2 xi1 lu4 。
+
+- zhang4 shan1 jun1 、 xiao1 ran2 yu3 hua4 ， meng4 hun2 he2 xu3 。
+
+- ceng2 yue1 qiu1 yun2 ying2 ke4 xiu4 ， wu3 bang4 yin2 gao1 yan4 wu4 。
+
+- jiao3 qing1 li4 、 lie4 chuan1 yun2 yu3 。
+
+- jiang1 bi4 kong1 meng2 wu2 chu4 wen4 ， wen4 gu1 shan1 、 mei2 di3 ren2 zhi1 fou3 。
+
+- yan1 ye4 yong3 ， geng3 xin1 yu3 。
+
+- yao2 hua2 yi2 qu4 cheng2 you1 zu3 。
+
+- yi3 xiu1 huang2 、 bao4 qin2 chou2 jue2 ， tian1 han2 ri4 mu4 。
+
+- cheng2 guo1 bei1 ge1 hua2 biao3 hen4 ， ci3 shi4 xiao1 ning2 qian1 gu3 。
+
+- you3 zhao1 yin3 、 xiao3 shan1 neng2 fu4 。
+
+- hui4 zhang4 kong1 xi1 shui2 ye4 yuan4 ， suan4 ke4 sao1 、 du2 yi4 ju4 qi1 chu3 。
+
+- bu4 shen1 yao3 ， duo4 song1 lu4 。
+
+## 译文
+
+苍藓黏溪路。帐山君、无拘无束地羽化，梦魂哪里。曾约秋云萦绕客袖，舞边吟皋砚坞。矫清唳、裂穿云宇。江碧迷茫无处问，问我山、梅底人知不知道。烟夜永，耿心交谈。瑶华一去成幽深险阻。靠修竹林、抱琴愁绝，天冷日幕。城郭悲歌华表遗憾，这件事销凝千古代。有招隐、小山能赋。蕙帐空啊谁日夜怨恨，算术课骚乱、读易都凄凉痛苦。步深远，堕松露。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+苍藓黏溪路。帐山君、无拘无束地羽化，梦魂哪里。曾约秋云萦绕客袖，舞边吟皋砚坞。矫清唳、裂穿云宇。江碧迷茫无处问，问我山、梅底人知不知道。烟夜永，耿心交谈。瑶华一去成幽深险阻。靠修竹林、抱琴愁绝，天冷日幕。城郭悲歌华表遗憾，这件事销凝千古代。有招隐、小山能赋。蕙帐空啊谁日夜怨恨，算术课骚乱、读易都凄凉痛苦。步深远，堕松露。
+	* 此部分翻译来自AI，仅供参考

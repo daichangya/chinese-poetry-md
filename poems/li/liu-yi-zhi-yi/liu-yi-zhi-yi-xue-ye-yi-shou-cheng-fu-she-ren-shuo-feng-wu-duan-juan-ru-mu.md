@@ -1,0 +1,35 @@
+---
+id: liu-yi-zhi-yi-xue-ye-yi-shou-cheng-fu-she-ren-shuo-feng-wu-duan-juan-ru-mu
+title: 雪夜一首呈傅舍人
+author: 刘一止
+authorSlug: liu-yi-zhi-yi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: xue3 ye4 yi4 shou3 cheng2 fu4 she4 ren2
+authorPinyin: liu2 yi4 zhi3
+dynastyPinyin: song4
+canonicalPoemId: 455243
+canonicalAuthorId: 11585
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 朔风无端卷入幕，短檠滉漾吹花落。
+
+- 怪来觅句如斲冰，门外雪花如舞鹤。
+
+- 老妻自起倾残樽，麒麟活火红炖炖。
+
+- 凭君为唤诗肠温，他日有酒不足论。
+
+## 拼音
+
+- shuo4 feng1 wu2 duan1 juan4 ru4 mu4 ， duan3 qing2 huang4 yang4 chui1 hua1 luo4 。
+
+- guai4 lai2 mi4 ju4 ru2 zhuo2 bing1 ， men2 wai4 xue3 hua1 ru2 wu3 he4 。
+
+- lao3 qi1 zi4 qi3 qing1 can2 zun1 ， qi2 lin2 huo2 huo3 hong2 dun4 dun4 。
+
+- ping2 jun1 wei4 huan4 shi1 chang2 wen1 ， ta1 ri4 you3 jiu3 bu4 zu2 lun4 。

@@ -1,0 +1,37 @@
+---
+id: liu-zai-ti-ming-xiu-xuan-bo-yao-shan-lu-jin-yun-gen
+title: 题明秀轩
+author: 刘宰
+authorSlug: liu-zai
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ti2 ming2 xiu4 xuan1
+authorPinyin: liu2 zai3
+dynastyPinyin: song4
+canonicalPoemId: 587096
+canonicalAuthorId: 5220
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 波摇山绿浸云根，山压波回不受吞。
+
+- 镜面平开三万顷，当轩管领属王孙。
+
+## 拼音
+
+- bo1 yao2 shan1 lü4 jin4 yun2 gen1 ， shan1 ya1 bo1 hui2 bu2 shou4 tun1 。
+
+- jing4 mian4 ping2 kai1 san1 wan4 qing3 ， dang1 xuan1 guan3 ling3 shu3 wang2 sun1 。
+
+## 译文
+
+波摇山绿泡云根，山压波回不接受吞。镜面平开三万顷，当轩管理属于王孙。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+波摇山绿泡云根，山压波回不接受吞。镜面平开三万顷，当轩管理属于王孙。
+	* 此部分翻译来自AI，仅供参考
