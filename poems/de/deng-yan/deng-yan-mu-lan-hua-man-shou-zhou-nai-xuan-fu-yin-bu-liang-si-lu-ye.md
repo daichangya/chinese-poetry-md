@@ -1,0 +1,65 @@
+---
+id: deng-yan-mu-lan-hua-man-shou-zhou-nai-xuan-fu-yin-bu-liang-si-lu-ye
+title: 木兰花慢（寿周耐轩府尹）
+author: 邓剡
+authorSlug: deng-yan
+dynasty: 宋
+dynastySlug: song
+titlePinyin: mu4 lan2 hua1 man4 （ shou4 zhou1 nai4 xuan1 fu3 yin3 ）
+authorPinyin: deng4 yan3
+dynastyPinyin: song4
+canonicalPoemId: 423474
+canonicalAuthorId: 6770
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 步凉飔绿野，□钟鼓、□园林。
+
+- 有骑竹更生，扶藜未老，歌舞棠阴。
+
+- 金鞭半横玉带，爆神人、风度五云深。
+
+- 大耐自应鹤骨，活人总是天心。
+
+- 寿蒲香晚尚堪斟。
+
+- 梧竹对潇森。
+
+- 早问道燕城，衣裁绣衮，台筑黄金。
+
+- 天瓢正消几滴，化中原、焦土作甘霖。
+
+- 却伴赤松未晚，碧桃花下横琴。
+
+## 拼音
+
+- bu4 liang2 si1 lü4 ye3 ， □ zhong1 gu3 、 □ yuan2 lin2 。
+
+- you3 qi2 zhu2 geng1 sheng1 ， fu2 li2 wei4 lao3 ， ge1 wu3 tang2 yin1 。
+
+- jin1 bian1 ban4 heng2 yu4 dai4 ， bao4 shen2 ren2 、 feng1 du4 wu3 yun2 shen1 。
+
+- da4 nai4 zi4 ying4 he4 gu3 ， huo2 ren2 zong3 shi4 tian1 xin1 。
+
+- shou4 pu2 xiang1 wan3 shang4 kan1 zhen1 。
+
+- wu2 zhu2 dui4 xiao1 sen1 。
+
+- zao3 wen4 dao4 yan4 cheng2 ， yi1 cai2 xiu4 gun3 ， tai2 zhu4 huang2 jin1 。
+
+- tian1 piao2 zheng4 xiao1 ji3 di1 ， hua4 zhong1 yuan2 、 jiao1 tu3 zuo4 gan1 lin2 。
+
+- que4 ban4 chi4 song1 wei4 wan3 ， bi4 tao2 hua1 xia4 heng2 qin2 。
+
+## 译文
+
+步凉飔绿色田野，钟鼓、.园林.。有骑竹再生，扶藜不老，歌舞棠阴。金鞭半横玉带，爆炸神人、风度五云深。大耐自然鹤骨，活人总是天心。寿蒲香晚上还可以考虑。梧桐竹子面对着森林。早问道燕城，衣服裁剪刺绣礼服，筑黄金台。天瓢正消几滴，教化中原、焦土作甘霖。却相伴赤松不晚，碧桃花下抚琴。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+步凉飔绿色田野，钟鼓、.园林.。有骑竹再生，扶藜不老，歌舞棠阴。金鞭半横玉带，爆炸神人、风度五云深。大耐自然鹤骨，活人总是天心。寿蒲香晚上还可以考虑。梧桐竹子面对着森林。早问道燕城，衣服裁剪刺绣礼服，筑黄金台。天瓢正消几滴，教化中原、焦土作甘霖。却相伴赤松不晚，碧桃花下抚琴。
+	* 此部分翻译来自AI，仅供参考

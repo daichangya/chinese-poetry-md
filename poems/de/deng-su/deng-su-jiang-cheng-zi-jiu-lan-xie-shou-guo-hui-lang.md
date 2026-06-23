@@ -1,0 +1,70 @@
+---
+id: deng-su-jiang-cheng-zi-jiu-lan-xie-shou-guo-hui-lang
+title: 江城子
+author: 邓肃
+authorSlug: deng-su
+dynasty: 宋
+dynastySlug: song
+titlePinyin: jiang1 cheng2 zi3
+authorPinyin: deng4 su4
+dynastyPinyin: song4
+canonicalPoemId: 524757
+canonicalAuthorId: 6101
+rhythmic: 江城子
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 酒阑携手过回廊。
+
+- 夜初凉。
+
+- 月如霜。
+
+- 笑问木樨，何日吐天香。
+
+- 待插一枝归斗帐，和云雨，𣨼襄王。
+
+- 如今满目雨新黄。
+
+- 绕高堂。
+
+- 自芬芳。
+
+- 不见堂中，携手旧鸳鸯。
+
+- 已对秋光成感慨，更夜永，漏声长。
+
+## 拼音
+
+- jiu3 lan2 xie2 shou3 guo4 hui2 lang2 。
+
+- ye4 chu1 liang2 。
+
+- yue4 ru2 shuang1 。
+
+- xiao4 wen4 mu4 xi1 ， he2 ri4 tu3 tian1 xiang1 。
+
+- dai4 cha1 yi4 zhi1 gui1 dou4 zhang4 ， he2 yun2 yu3 ， 𣨼 xiang1 wang2 。
+
+- ru2 jin1 man3 mu4 yu3 xin1 huang2 。
+
+- rao4 gao1 tang2 。
+
+- zi4 fen1 fang1 。
+
+- bu2 jian4 tang2 zhong1 ， xie2 shou3 jiu4 yuan1 yang1 。
+
+- yi3 dui4 qiu1 guang1 cheng2 gan3 kai3 ， geng4 ye4 yong3 ， lou4 sheng1 chang2 。
+
+## 译文
+
+酒阑携手走过回廊。夜初凉。明月如霜。笑着问木樨，为什么一天吐天香。待插一枝归斗帐，和云雨，𣨼襄王。如今满目雨新黄。绕高堂。自然芬芳。不见堂中，携手旧鸳鸯。已经对秋光成感慨，再晚上永，漏声长。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+酒阑携手走过回廊。夜初凉。明月如霜。笑着问木樨，为什么一天吐天香。待插一枝归斗帐，和云雨，𣨼襄王。如今满目雨新黄。绕高堂。自然芬芳。不见堂中，携手旧鸳鸯。已经对秋光成感慨，再晚上永，漏声长。
+	* 此部分翻译来自AI，仅供参考
