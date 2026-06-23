@@ -1,0 +1,37 @@
+---
+id: bai-yu-chan-xing-chun-ci-jiu-shou-zhong-ri-xun-chun-ru-zui-xiang
+title: 行春辞九首
+author: 白玉蟾
+authorSlug: bai-yu-chan
+dynasty: 宋
+dynastySlug: song
+titlePinyin: xing2 chun1 ci2 jiu3 shou3
+authorPinyin: bai2 yu4 chan2
+dynastyPinyin: song4
+canonicalPoemId: 568321
+canonicalAuthorId: 4835
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 终日寻春入醉乡，不知何处见春光。
+
+- 风条舞绿水杨柳，雨点飞红山海棠。
+
+## 拼音
+
+- zhong1 ri4 xun2 chun1 ru4 zui4 xiang1 ， bu4 zhi1 he2 chu4 jian4 chun1 guang1 。
+
+- feng1 tiao2 wu3 lü4 shui3 yang2 liu3 ， yu3 dian3 fei1 hong2 shan1 hai3 tang2 。
+
+## 译文
+
+整天寻春入醉乡，不知道是什么地方见春光。风条舞绿色水杨柳，雨点飞红山海棠。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+整天寻春入醉乡，不知道是什么地方见春光。风条舞绿色水杨柳，雨点飞红山海棠。
+	* 此部分翻译来自AI，仅供参考

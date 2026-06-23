@@ -1,0 +1,45 @@
+---
+id: bai-ju-yi-ye-song-meng-si-gong-xun-yang-bai-si-ma
+title: 夜送孟司功
+author: 白居易
+authorSlug: bai-ju-yi
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: ye4 song4 meng4 si1 gong1
+authorPinyin: bai2 ju1 yi4
+dynastyPinyin: tang2
+canonicalPoemId: 373520
+canonicalAuthorId: 227
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 浔阳白司马，夜送孟功曹。
+
+- 江暗管弦急，楼明灯火高。
+
+- 湖波翻似箭，霜草杀如刀。
+
+- 且莫开征棹，阴风正怒号。
+
+## 拼音
+
+- xun2 yang2 bai2 si1 ma3 ， ye4 song4 meng4 gong1 cao2 。
+
+- jiang1 an4 guan3 xian2 ji2 ， lou2 ming2 deng1 huo3 gao1 。
+
+- hu2 bo1 fan1 si4 jian4 ， shuang1 cao3 sha1 ru2 dao1 。
+
+- qie3 mo4 kai1 zheng1 zhao4 ， yin1 feng1 zheng4 nu4 hao2 。
+
+## 译文
+
+浔阳白司马，晚上送孟功曹。江暗管弦急，楼第二灯高。湖波翻似箭，霜草杀如刀。而且没有开征划，阴寒风怒吼。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+浔阳白司马，晚上送孟功曹。江暗管弦急，楼第二灯高。湖波翻似箭，霜草杀如刀。而且没有开征划，阴寒风怒吼。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,35 @@
+---
+id: bao-hui-he-chen-xiang-qing-yun-bi-luo-yi-you-sui-su-ben
+title: 和陈翔卿韵
+author: 包恢
+authorSlug: bao-hui
+dynasty: 宋
+dynastySlug: song
+titlePinyin: he2 chen2 xiang2 qing1 yun4
+authorPinyin: bao1 hui1
+dynastyPinyin: song4
+canonicalPoemId: 462105
+canonicalAuthorId: 12295
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 碧落宜游遂速奔，千奇万胜果中存。
+
+- 天钟神秀双瑶室，地辟高深两玉门。
+
+- 下有绀寒流水径，上垂远古断山痕。
+
+- 独怜地近人何远，久共沿流探本根。
+
+## 拼音
+
+- bi4 luo4 yi2 you2 sui4 su4 ben1 ， qian1 qi2 wan4 sheng4 guo3 zhong1 cun2 。
+
+- tian1 zhong1 shen2 xiu4 shuang1 yao2 shi4 ， di4 pi4 gao1 shen1 liang3 yu4 men2 。
+
+- xia4 you3 gan4 han2 liu2 shui3 jing4 ， shang4 chui2 yuan3 gu3 duan4 shan1 hen2 。
+
+- du2 lian2 di4 jin4 ren2 he2 yuan3 ， jiu3 gong4 yan2 liu2 tan4 ben3 gen1 。

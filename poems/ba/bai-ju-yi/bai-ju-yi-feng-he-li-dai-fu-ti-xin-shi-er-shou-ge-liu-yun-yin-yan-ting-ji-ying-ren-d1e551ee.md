@@ -1,0 +1,53 @@
+---
+id: bai-ju-yi-feng-he-li-dai-fu-ti-xin-shi-er-shou-ge-liu-yun-yin-yan-ting-ji-ying-ren-d1e551ee
+title: 奉和李大夫题新诗二首各六韵 因严亭
+author: 白居易
+authorSlug: bai-ju-yi
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: feng4 he2 li3 dai4 fu0 ti2 xin1 shi1 er4 shou3 ge4 liu4 yun4   yin1 yan2 ting2
+authorPinyin: bai2 ju1 yi4
+dynastyPinyin: tang2
+canonicalPoemId: 372877
+canonicalAuthorId: 227
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 箕颍人穷独，蓬壶路阻难。
+
+- 何如兼吏隐，复得事跻攀。
+
+- 岩树罗阶下，江云贮栋间。
+
+- 似移天目石，疑入武丘山。
+
+- 清景徒堪赏，皇恩肯放闲。
+
+- 遥知兴未足，即被诏征还。
+
+## 拼音
+
+- ji1 ying3 ren2 qiong2 du2 ， peng2 hu2 lu4 zu3 nan4 。
+
+- he2 ru2 jian1 li4 yin3 ， fu4 de2 shi4 ji1 pan1 。
+
+- yan2 shu4 luo2 jie1 xia4 ， jiang1 yun2 zhu4 dong4 jian1 。
+
+- si4 yi2 tian1 mu4 shi2 ， yi2 ru4 wu3 qiu1 shan1 。
+
+- qing1 jing3 tu2 kan1 shang3 ， huang2 en1 ken3 fang4 xian2 。
+
+- yao2 zhi1 xing1 wei4 zu2 ， ji2 bei4 zhao4 zheng1 hai2 。
+
+## 译文
+
+箕宿颖人穷困，蓬壶道路险阻难。如何兼吏隐藏，又攀登得事情。岩树罗阶下，江说贮存栋之间。像移天目山石，怀疑进入武丘山。清景只堪赏，皇恩肯放闲。遥知兴不足，即使被命令召回。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+箕宿颖人穷困，蓬壶道路险阻难。如何兼吏隐藏，又攀登得事情。岩树罗阶下，江说贮存栋之间。像移天目山石，怀疑进入武丘山。清景只堪赏，皇恩肯放闲。遥知兴不足，即使被命令召回。
+	* 此部分翻译来自AI，仅供参考

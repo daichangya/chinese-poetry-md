@@ -1,0 +1,89 @@
+---
+id: bai-ju-yi-he-wei-zhi-shi-er-shi-san-shou-he-li-shi-nu-jian-yi-fen-tai-duan
+title: 和微之诗二十三首。和李势女
+author: 白居易
+authorSlug: bai-ju-yi
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: he2 wei1 zhi1 shi1 er4 shi2 san1 shou3 。 he2 li3 shi4 nü3
+authorPinyin: bai2 ju1 yi4
+dynastyPinyin: tang2
+canonicalPoemId: 373547
+canonicalAuthorId: 227
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 减一分太短，增一分太长。
+
+- 不朱面若花，不粉肌如霜。
+
+- 色为天下艳，心乃女中郎。
+
+- 自言重不幸，家破身未亡。
+
+- 人各有一死，此死职所当。
+
+- 忍将先人体，与主为疣疮。
+
+- 妾死主意快，从此两无妨。
+
+- 愿信赤心语，速即白刃光。
+
+- 南郡忽感激，却立舍锋铓。
+
+- 抚背称阿姉，归我如归乡。
+
+- 竟以恩信待，岂止猜妒忘。
+
+- 由来几上肉，不足挥干将。
+
+- 南郡死已久，骨枯墓苍苍。
+
+- 愿于墓上头，立石镌此章。
+
+- 劝诫天下妇，不令阴胜阳。
+
+## 拼音
+
+- jian3 yi4 fen1 tai4 duan3 ， zeng1 yi4 fen1 tai4 chang2 。
+
+- bu4 zhu1 mian4 ruo4 hua1 ， bu4 fen3 ji1 ru2 shuang1 。
+
+- se4 wei4 tian1 xia4 yan4 ， xin1 nai3 nü3 zhong1 lang2 。
+
+- zi4 yan2 zhong4 bu2 xing4 ， jia1 po4 shen1 wei4 wang2 。
+
+- ren2 ge4 you3 yi4 si3 ， ci3 si3 zhi2 suo3 dang1 。
+
+- ren3 jiang1 xian1 ren2 ti3 ， yu3 zhu3 wei4 you2 chuang1 。
+
+- qie4 si3 zhu3 yi4 kuai4 ， cong2 ci3 liang3 wu2 fang2 。
+
+- yuan4 xin4 chi4 xin1 yu3 ， su4 ji2 bai2 ren4 guang1 。
+
+- nan2 jun4 hu1 gan3 ji1 ， que4 li4 she4 feng1 mang2 。
+
+- fu3 bei4 cheng1 a1 zi3 ， gui1 wo3 ru2 gui1 xiang1 。
+
+- jing4 yi3 en1 xin4 dai4 ， qi3 zhi3 cai1 du4 wang4 。
+
+- you2 lai2 ji3 shang4 rou4 ， bu4 zu2 hui1 gan1 jiang1 。
+
+- nan2 jun4 si3 yi3 jiu3 ， gu3 ku1 mu4 cang1 cang1 。
+
+- yuan4 yu2 mu4 shang4 tou2 ， li4 shi2 juan1 ci3 zhang1 。
+
+- quan4 jie4 tian1 xia4 fu4 ， bu2 ling4 yin1 sheng4 yang2 。
+
+## 译文
+
+减一分太短，增一分太长。不朱面如果花，不成肌如霜。为天下艳色，心是女儿中郎。自称重不到，家破身未亡。人人都有一死，这死职位所要。忍心将先人的身体，与主为累赘疮。妾死主欣快，从这两个没有妨碍。愿意相信真心话，很快就刀光。南郡忽然感激，退立舍前锋铓。背后称赞阿姉，回到我如同回到家乡。竟然用恩德信义等，难道只是猜疑嫉妒忘。由来案板上的肉，不能指挥干将。南郡已经死去很久了，骨枯墓苍苍。愿在墓上头，立石雕刻这一章。劝诚天下女人，不让阴胜阳。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+减一分太短，增一分太长。不朱面如果花，不成肌如霜。为天下艳色，心是女儿中郎。自称重不到，家破身未亡。人人都有一死，这死职位所要。忍心将先人的身体，与主为累赘疮。妾死主欣快，从这两个没有妨碍。愿意相信真心话，很快就刀光。南郡忽然感激，退立舍前锋铓。背后称赞阿姉，回到我如同回到家乡。竟然用恩德信义等，难道只是猜疑嫉妒忘。由来案板上的肉，不能指挥干将。南郡已经死去很久了，骨枯墓苍苍。愿在墓上头，立石雕刻这一章。劝诚天下女人，不让阴胜阳。
+	* 此部分翻译来自AI，仅供参考

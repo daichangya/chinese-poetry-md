@@ -1,0 +1,45 @@
+---
+id: bai-yu-chan-yi-shui-ci-tian-wei-yan-dan-chu-zhao-gao
+title: 易水辞
+author: 白玉蟾
+authorSlug: bai-yu-chan
+dynasty: 宋
+dynastySlug: song
+titlePinyin: yi4 shui3 ci2
+authorPinyin: bai2 yu4 chan2
+dynastyPinyin: song4
+canonicalPoemId: 569903
+canonicalAuthorId: 4835
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 天为燕丹畜赵高，风鸣易水止荆轲。
+
+- 不令刘季身秦怨，却速吴陈此水过。
+
+- 秦王环柱刘光急，尺八匕首手死执。
+
+- 伊独徙木信市人，殿下钤奴嬴得立。
+
+## 拼音
+
+- tian1 wei4 yan4 dan1 chu4 zhao4 gao1 ， feng1 ming2 yi4 shui3 zhi3 jing1 ke1 。
+
+- bu2 ling4 liu2 ji4 shen1 qin2 yuan4 ， que4 su4 wu2 chen2 ci3 shui3 guo4 。
+
+- qin2 wang2 huan2 zhu4 liu2 guang1 ji2 ， chi3 ba1 bi3 shou3 shou3 si3 zhi2 。
+
+- yi1 du2 xi3 mu4 xin4 shi4 ren2 ， dian4 xia4 qian2 nu2 ying2 de2 li4 。
+
+## 译文
+
+天为燕太子丹牲畜赵高，风叫易水停止荆轲。不让刘季身秦国怨恨，但很快吴陈这水经过。秦王环绕柱子刘光急，一手拿匕首死去。伊独自搬木信市人，殿下铃奴赢得立。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+天为燕太子丹牲畜赵高，风叫易水停止荆轲。不让刘季身秦国怨恨，但很快吴陈这水经过。秦王环绕柱子刘光急，一手拿匕首死去。伊独自搬木信市人，殿下铃奴赢得立。
+	* 此部分翻译来自AI，仅供参考

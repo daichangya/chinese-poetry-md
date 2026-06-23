@@ -1,0 +1,37 @@
+---
+id: bai-ju-yi-yu-ye-yi-yuan-jiu-tian-yin-yi-ri-bian-kan-chou
+title: 雨夜忆元九
+author: 白居易
+authorSlug: bai-ju-yi
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: yu3 ye4 yi4 yuan2 jiu3
+authorPinyin: bai2 ju1 yi4
+dynastyPinyin: tang2
+canonicalPoemId: 534085
+canonicalAuthorId: 227
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 天阴一日便堪愁，何况连宵雨不休。
+
+- 一种雨中君最苦，偏梁阁道向通州。
+
+## 拼音
+
+- tian1 yin1 yi2 ri4 bian4 kan1 chou2 ， he2 kuang4 lian2 xiao1 yu3 bu4 xiu1 。
+
+- yi4 zhong3 yu3 zhong1 jun1 zui4 ku3 ， pian1 liang2 ge2 dao4 xiang4 tong1 zhou1 。
+
+## 译文
+
+天阴一天就堪愁，何况连夜大雨不停。一种雨中你最痛苦，偏梁合道向通州。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+天阴一天就堪愁，何况连夜大雨不停。一种雨中你最痛苦，偏梁合道向通州。
+	* 此部分翻译来自AI，仅供参考

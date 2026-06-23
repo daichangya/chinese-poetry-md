@@ -1,0 +1,69 @@
+---
+id: bai-yu-chan-huang-ye-ci-nan-er-tie-shi-chang
+title: 黄叶辞
+author: 白玉蟾
+authorSlug: bai-yu-chan
+dynasty: 宋
+dynastySlug: song
+titlePinyin: huang2 ye4 ci2
+authorPinyin: bai2 yu4 chan2
+dynastyPinyin: song4
+canonicalPoemId: 569504
+canonicalAuthorId: 4835
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 男儿铁石肠，遇秋多凄凉。
+
+- 节物遽凋变，今古堪悲伤。
+
+- 西来白帝风，暗惊万叶黄。
+
+- 拚与舞零落，此意付夕阳。
+
+- 堪叹无数行子，只影天一方。
+
+- 佳人去不返，苍烟冥八荒。
+
+- 对此一黯然，两鬓沾吴霜。
+
+- 自顾蒲柳姿，眇在烟水乡。
+
+- 晚汀慨鸿雁，夜浦羞鸳鸯。
+
+- 何当从宋玉，问路游高唐。
+
+## 拼音
+
+- nan2 er2 tie3 shi2 chang2 ， yu4 qiu1 duo1 qi1 liang2 。
+
+- jie2 wu4 ju4 diao1 bian4 ， jin1 gu3 kan1 bei1 shang1 。
+
+- xi1 lai2 bai2 di4 feng1 ， an4 jing1 wan4 ye4 huang2 。
+
+- pin1 yu3 wu3 ling2 luo4 ， ci3 yi4 fu4 xi1 yang2 。
+
+- kan1 tan4 wu2 shu4 xing2 zi3 ， zhi1 ying3 tian1 yi4 fang1 。
+
+- jia1 ren2 qu4 bu4 fan3 ， cang1 yan1 ming2 ba1 huang1 。
+
+- dui4 ci3 yi2 an4 ran2 ， liang3 bin4 zhan1 wu2 shuang1 。
+
+- zi4 gu4 pu2 liu3 zi1 ， miao3 zai4 yan1 shui3 xiang1 。
+
+- wan3 ting1 kai3 hong2 yan4 ， ye4 pu3 xiu1 yuan1 yang1 。
+
+- he2 dang1 cong2 song4 yu4 ， wen4 lu4 you2 gao1 tang2 。
+
+## 译文
+
+男孩铁石肠，遇到秋季多凄凉。节物就凋变，古今忍受悲伤。西来白帝城风，暗惊万叶黄。拼和舞凋零，这个想法给夕阳。堪叹息无数行子，只影天一方。佳人去不复返，苍烟昏暗八方。回答这一暗淡，两鬓沾吴霜。看自己蒲柳姿态，高于在烟水乡。晚汀慷慨鸿雁，夜浦羞鸳鸯。为什么应当从宋玉，问路巡游高唐。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+男孩铁石肠，遇到秋季多凄凉。节物就凋变，古今忍受悲伤。西来白帝城风，暗惊万叶黄。拼和舞凋零，这个想法给夕阳。堪叹息无数行子，只影天一方。佳人去不复返，苍烟昏暗八方。回答这一暗淡，两鬓沾吴霜。看自己蒲柳姿态，高于在烟水乡。晚汀慷慨鸿雁，夜浦羞鸳鸯。为什么应当从宋玉，问路巡游高唐。
+	* 此部分翻译来自AI，仅供参考

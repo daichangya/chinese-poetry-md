@@ -1,0 +1,37 @@
+---
+id: bai-yu-chan-zan-li-dai-tian-shi-shen-shui-hua-chi-yang-bai-ya
+title: 赞历代天师·第十八代讳士元字仲良
+author: 白玉蟾
+authorSlug: bai-yu-chan
+dynasty: 宋
+dynastySlug: song
+titlePinyin: zan4 li4 dai4 tian1 shi1 · di4 shi2 ba1 dai4 hui4 shi4 yuan2 zi4 zhong4 liang2
+authorPinyin: bai2 yu4 chan2
+dynastyPinyin: song4
+canonicalPoemId: 569950
+canonicalAuthorId: 4835
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 神水华池养白鸦，玉炉进火结丹砂。
+
+- 仙家妙用无人识，顷刻能开桃李花。
+
+## 拼音
+
+- shen2 shui3 hua2 chi2 yang3 bai2 ya1 ， yu4 lu2 jin4 huo3 jie2 dan1 sha1 。
+
+- xian1 jia1 miao4 yong4 wu2 ren2 shi2 ， qing3 ke4 neng2 kai1 tao2 li3 hua1 。
+
+## 译文
+
+神仙水华池养白鸦，玉炉进火结朱砂。仙家妙用没有人认识，一会能开桃李花。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+神仙水华池养白鸦，玉炉进火结朱砂。仙家妙用没有人认识，一会能开桃李花。
+	* 此部分翻译来自AI，仅供参考

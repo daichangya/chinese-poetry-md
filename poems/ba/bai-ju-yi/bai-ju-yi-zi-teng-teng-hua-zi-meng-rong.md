@@ -1,0 +1,81 @@
+---
+id: bai-ju-yi-zi-teng-teng-hua-zi-meng-rong
+title: 紫藤
+author: 白居易
+authorSlug: bai-ju-yi
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: zi3 teng2
+authorPinyin: bai2 ju1 yi4
+dynastyPinyin: tang2
+canonicalPoemId: 373005
+canonicalAuthorId: 227
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 藤花紫蒙茸，藤叶青扶疏。
+
+- 谁谓好颜色，而为害有馀。
+
+- 下如蛇屈盘，上若绳萦纡。
+
+- 可怜中间树，束缚成枯株。
+
+- 柔蔓不自胜，袅袅挂空虚。
+
+- 岂知缠树木，千夫力不如。
+
+- 先柔后为害，有似谀佞徒。
+
+- 附著君权势，君迷不肯诛。
+
+- 又如妖妇人，绸缪蛊其夫。
+
+- 奇邪坏人室，夫惑不能除。
+
+- 寄言邦与家，所慎在其初。
+
+- 毫末不早辨，滋蔓信难图。
+
+- 愿以藤为戒，铭之于座隅。
+
+## 拼音
+
+- teng2 hua1 zi3 meng2 rong2 ， teng2 ye4 qing1 fu2 shu1 。
+
+- shui2 wei4 hao3 yan2 se4 ， er2 wei2 hai4 you3 yu2 。
+
+- xia4 ru2 she2 qu1 pan2 ， shang4 ruo4 sheng2 ying2 yu1 。
+
+- ke3 lian2 zhong1 jian1 shu4 ， shu4 fu4 cheng2 ku1 zhu1 。
+
+- rou2 man4 bu2 zi4 sheng4 ， niao3 niao3 gua4 kong1 xu1 。
+
+- qi3 zhi1 chan2 shu4 mu4 ， qian1 fu1 li4 bu4 ru2 。
+
+- xian1 rou2 hou4 wei2 hai4 ， you3 si4 yu2 ning4 tu2 。
+
+- fu4 zhu4 jun1 quan2 shi4 ， jun1 mi2 bu4 ken3 zhu1 。
+
+- you4 ru2 yao1 fu4 ren2 ， chou2 mou2 gu3 qi2 fu1 。
+
+- qi2 xie2 huai4 ren2 shi4 ， fu1 huo4 bu4 neng2 chu2 。
+
+- ji4 yan2 bang1 yu3 jia1 ， suo3 shen4 zai4 qi2 chu1 。
+
+- hao2 mo4 bu4 zao3 bian4 ， zi1 man4 xin4 nan2 tu2 。
+
+- yuan4 yi3 teng2 wei4 jie4 ， ming2 zhi1 yu2 zuo4 yu2 。
+
+## 译文
+
+藤花紫细长，藤叶青青松散。谁说喜欢颜色，而造成的损害有多。下像蛇一样弯曲盘，上如果绳心绪。可怜中间树，捆绑成枯株。柔蔓不住，袅袅挂空。怎么知道缠树，千人力不如。先柔后造成的危害，有点像小人只是。附于君主权势，你迷不肯杀。又像妖妇女，绸缪蛊她的丈夫。奇邪坏人室，那迷惑不能除去。寄语国与家，在他当初所谨慎。丝毫不及早辨，越来越多相信困难。愿以藤为戒，铭记在座位角落。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+藤花紫细长，藤叶青青松散。谁说喜欢颜色，而造成的损害有多。下像蛇一样弯曲盘，上如果绳心绪。可怜中间树，捆绑成枯株。柔蔓不住，袅袅挂空。怎么知道缠树，千人力不如。先柔后造成的危害，有点像小人只是。附于君主权势，你迷不肯杀。又像妖妇女，绸缪蛊她的丈夫。奇邪坏人室，那迷惑不能除去。寄语国与家，在他当初所谨慎。丝毫不及早辨，越来越多相信困难。愿以藤为戒，铭记在座位角落。
+	* 此部分翻译来自AI，仅供参考

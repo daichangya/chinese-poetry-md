@@ -1,0 +1,57 @@
+---
+id: bai-ju-yi-qu-jiang-zao-qiu-qiu-bo-hong-liao-shui
+title: 曲江早秋
+author: 白居易
+authorSlug: bai-ju-yi
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: qu3 jiang1 zao3 qiu1
+authorPinyin: bai2 ju1 yi4
+dynastyPinyin: tang2
+canonicalPoemId: 372198
+canonicalAuthorId: 227
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 秋波红蓼水，夕照青芜岸。
+
+- 独信马蹄行，曲江池四畔。
+
+- 早凉晴后至，残暑暝来散。
+
+- 方喜炎燠销，复嗟时节换。
+
+- 我年三十六，冉冉昏复旦。
+
+- 人寿七十稀，七十新过半。
+
+- 且当对酒笑，勿起临风叹。
+
+## 拼音
+
+- qiu1 bo1 hong2 liao3 shui3 ， xi1 zhao4 qing1 wu2 an4 。
+
+- du2 xin4 ma3 ti2 xing2 ， qu3 jiang1 chi2 si4 pan4 。
+
+- zao3 liang2 qing2 hou4 zhi4 ， can2 shu3 ming2 lai2 san4 。
+
+- fang1 xi3 yan2 yu4 xiao1 ， fu4 jie1 shi2 jie2 huan4 。
+
+- wo3 nian2 san1 shi2 liu4 ， ran3 ran3 hun1 fu4 dan4 。
+
+- ren2 shou4 qi1 shi2 xi1 ， qi1 shi2 xin1 guo4 ban4 。
+
+- qie3 dang1 dui4 jiu3 xiao4 ， wu4 qi3 lin2 feng1 tan4 。
+
+## 译文
+
+秋季波红蓼水，晚上照青芜岸。信仰马蹄走，曲江池四周。早凉天气迟到，残暑黑来散。方喜炎暖销，再次感叹季节换。我三十六岁，冉冉昏又天亮。人寿七十稀，七十岁刚刚超过一半。而且当对酒笑，不要在临风叹息。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+秋季波红蓼水，晚上照青芜岸。信仰马蹄走，曲江池四周。早凉天气迟到，残暑黑来散。方喜炎暖销，再次感叹季节换。我三十六岁，冉冉昏又天亮。人寿七十稀，七十岁刚刚超过一半。而且当对酒笑，不要在临风叹息。
+	* 此部分翻译来自AI，仅供参考

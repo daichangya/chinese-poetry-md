@@ -1,0 +1,97 @@
+---
+id: bai-ju-yi-he-da-shi-shi-shou-da-jian-zu-shi-ren-zhi-si-you
+title: 和答诗十首。答箭镞
+author: 白居易
+authorSlug: bai-ju-yi
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: he2 da2 shi1 shi2 shou3 。 da2 jian4 zu2
+authorPinyin: bai2 ju1 yi4
+dynastyPinyin: tang2
+canonicalPoemId: 372566
+canonicalAuthorId: 227
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 矢人职司忧，为箭恐不精。
+
+- 精在利其镞，错磨锋镝成。
+
+- 插以青竹簳，羽之赤雁翎。
+
+- 勿言分寸铁，为用乃长兵。
+
+- 闻有狗盗者，昼伏夜潜行。
+
+- 摩弓拭箭镞，夜射不待明。
+
+- 一盗既流血，百犬同吠声。
+
+- 狺狺嗥不已，主人为之惊。
+
+- 盗心憎主人，主人不知情。
+
+- 反责镞太利，矢人获罪名。
+
+- 寄言控弦者，愿君少留听。
+
+- 何不向西射，西天有狼星。
+
+- 何不向东射，东海有长鲸。
+
+- 不然学仁贵，三矢平虏庭。
+
+- 不然学仲连，一发下燕城。
+
+- 胡为射小盗，此用无乃轻。
+
+- 徒沾一点血，虚污箭头腥。
+
+## 拼音
+
+- shi3 ren2 zhi2 si1 you1 ， wei4 jian4 kong3 bu4 jing1 。
+
+- jing1 zai4 li4 qi2 zu2 ， cuo4 mo2 feng1 di2 cheng2 。
+
+- cha1 yi3 qing1 zhu2 gan4 ， yu3 zhi1 chi4 yan4 ling2 。
+
+- wu4 yan2 fen1 cun4 tie3 ， wei4 yong4 nai3 chang2 bing1 。
+
+- wen2 you3 gou3 dao4 zhe3 ， zhou4 fu2 ye4 qian2 xing2 。
+
+- mo2 gong1 shi4 jian4 zu2 ， ye4 she4 bu2 dai4 ming2 。
+
+- yi2 dao4 ji4 liu2 xue4 ， bai3 quan3 tong2 fei4 sheng1 。
+
+- yin2 yin2 hao2 bu4 yi3 ， zhu3 ren2 wei2 zhi1 jing1 。
+
+- dao4 xin1 zeng1 zhu3 ren2 ， zhu3 ren2 bu4 zhi1 qing2 。
+
+- fan3 ze2 zu2 tai4 li4 ， shi3 ren2 huo4 zui4 ming2 。
+
+- ji4 yan2 kong4 xian2 zhe3 ， yuan4 jun1 shao3 liu2 ting1 。
+
+- he2 bu2 xiang4 xi1 she4 ， xi1 tian1 you3 lang2 xing1 。
+
+- he2 bu2 xiang4 dong1 she4 ， dong1 hai3 you3 chang2 jing1 。
+
+- bu4 ran2 xue2 ren2 gui4 ， san1 shi3 ping2 lu3 ting2 。
+
+- bu4 ran2 xue2 zhong4 lian2 ， yi4 fa1 xia4 yan4 cheng2 。
+
+- hu2 wei4 she4 xiao3 dao4 ， ci3 yong4 wu2 nai3 qing1 。
+
+- tu2 zhan1 yi4 dian3 xue4 ， xu1 wu1 jian4 tou2 xing1 。
+
+## 译文
+
+造箭的人职责忧虑，作为箭恐怕不精。精神在锋利的箭头，晁错磨锋利的箭头成。插以青竹簳，羽毛的赤雁翎。不要说话分寸铁，作用是长兵器。听说有小偷的，昼伏夜潜行。摩弓擦箭头，夜射不需要明。一盗既流血，老狗一样叫声。大声唠叨咆哮不已，主人为之震惊。盗心憎恨主人，主人不知情人。反而责备箭头太有利，造箭的人获罪名。寄语拥有的，愿你稍微留心。为什么不向西射，西天上有狼星。为什么不向东射，东海有长鲸。不但是学习薛仁贵，三支箭平虏庭。不但是学习鲁仲连，一发下燕城。胡为射小盗，这是使用没有就轻。只沾一点血，空污染箭头腥。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+造箭的人职责忧虑，作为箭恐怕不精。精神在锋利的箭头，晁错磨锋利的箭头成。插以青竹簳，羽毛的赤雁翎。不要说话分寸铁，作用是长兵器。听说有小偷的，昼伏夜潜行。摩弓擦箭头，夜射不需要明。一盗既流血，老狗一样叫声。大声唠叨咆哮不已，主人为之震惊。盗心憎恨主人，主人不知情人。反而责备箭头太有利，造箭的人获罪名。寄语拥有的，愿你稍微留心。为什么不向西射，西天上有狼星。为什么不向东射，东海有长鲸。不但是学习薛仁贵，三支箭平虏庭。不但是学习鲁仲连，一发下燕城。胡为射小盗，这是使用没有就轻。只沾一点血，空污染箭头腥。
+	* 此部分翻译来自AI，仅供参考

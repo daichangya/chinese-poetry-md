@@ -1,0 +1,106 @@
+---
+id: bai-ju-yi-kun-ming-chun-si-wang-ze-zhi-guang-bei-ye-kun-ming-chun
+title: 昆明春－思王泽之广被也
+author: 白居易
+authorSlug: bai-ju-yi
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: kun1 ming2 chun1 － si1 wang2 ze2 zhi1 guang3 bei4 ye3
+authorPinyin: bai2 ju1 yi4
+dynastyPinyin: tang2
+canonicalPoemId: 372806
+canonicalAuthorId: 227
+tags:
+  - 诗词
+  - 御定全唐诗
+---
+
+## 正文
+
+- 昆明春，昆明春，春池岸古春流新。
+
+- 影浸南山青滉漾，
+
+- 波沉西日红奫沦。
+
+- 往年因旱池枯竭，龟尾曳涂鱼喣沫。
+
+- 诏开八水注恩波，千介万鳞同日活。
+
+- 今来净绿水照天，
+
+- 游鱼鱍鱍莲田田。
+
+- 洲香杜若抽心短，沙暖鸳鸯铺翅眠。
+
+- 动植飞沉皆遂性，皇泽如春无不被。
+
+- 渔者仍丰网罟资，
+
+- 贫人久获菰蒲利。
+
+- 诏以昆明近帝城，官家不得收其征。
+
+- 菰蒲无租鱼无税，近水之人感君惠。
+
+- 感君惠，独何人，
+
+- 吾闻率土皆王民，远民何疏近何亲。
+
+- 愿推此惠及天下，
+
+- 无远无近同欣欣。
+
+- 吴兴山中罢榷茗，鄱阳坑里休封银。
+
+- 天涯地角无禁利，熙熙同似昆明春。
+
+## 拼音
+
+- kun1 ming2 chun1 ， kun1 ming2 chun1 ， chun1 chi2 an4 gu3 chun1 liu2 xin1 。
+
+- ying3 jin4 nan2 shan1 qing1 huang4 yang4 ，
+
+- bo1 chen2 xi1 ri4 hong2 yun1 lun2 。
+
+- wang3 nian2 yin1 han4 chi2 ku1 jie2 ， gui1 wei3 ye4 tu2 yu2 xu3 mo4 。
+
+- zhao4 kai1 ba1 shui3 zhu4 en1 bo1 ， qian1 jie4 wan4 lin2 tong2 ri4 huo2 。
+
+- jin1 lai2 jing4 lü4 shui3 zhao4 tian1 ，
+
+- you2 yu2 bo1 bo1 lian2 tian2 tian2 。
+
+- zhou1 xiang1 du4 ruo4 chou1 xin1 duan3 ， sha1 nuan3 yuan1 yang1 pu4 chi4 mian2 。
+
+- dong4 zhi2 fei1 chen2 jie1 sui4 xing4 ， huang2 ze2 ru2 chun1 wu2 bu2 bei4 。
+
+- yu2 zhe3 reng2 feng1 wang3 gu3 zi1 ，
+
+- pin2 ren2 jiu3 huo4 gu1 pu2 li4 。
+
+- zhao4 yi3 kun1 ming2 jin4 di4 cheng2 ， guan1 jia1 bu4 de2 shou1 qi2 zheng1 。
+
+- gu1 pu2 wu2 zu1 yu2 wu2 shui4 ， jin4 shui3 zhi1 ren2 gan3 jun1 hui4 。
+
+- gan3 jun1 hui4 ， du2 he2 ren2 ，
+
+- wu2 wen2 lü4 tu3 jie1 wang2 min2 ， yuan3 min2 he2 shu1 jin4 he2 qin1 。
+
+- yuan4 tui1 ci3 hui4 ji2 tian1 xia4 ，
+
+- wu2 yuan3 wu2 jin4 tong2 xin1 xin1 。
+
+- wu2 xing1 shan1 zhong1 ba4 que4 ming2 ， po2 yang2 keng1 li3 xiu1 feng1 yin2 。
+
+- tian1 ya2 di4 jiao3 wu2 jin4 li4 ， xi1 xi1 tong2 si4 kun1 ming2 chun1 。
+
+## 译文
+
+昆明春，昆明春，春季池岸古春流新。影逐渐南山青荡漾，波沉西太阳红张斋沦落。去年因旱池枯竭，龟尾拖涂鱼呼吸沫。诏开八水注入恩波，一千个一万鳞同一天活。现在来干净清澈的水照天，游鱼鱍鱍莲田田。洲香杜若抽心短，沙暖鸳鸯铺翅睡觉。动植飞沉都就性，皇泽如春没有不被。渔夫仍丰网资，穷人长期获得菰蒲利。诏令以昆明近帝都，国家不能将其征。菰蒲不收鱼无税，靠近水的人感谢您惠。感谢您惠，是什么样的人，我听说全国都王民，远方的百姓何疏近什么亲人。希望把这种恩惠施及天下，没有远没有接近同高兴。吴兴山中废罢榷茶，远眺阳坑里停封银。天涯地角没有禁止利，静宜同像昆明春。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+昆明春，昆明春，春季池岸古春流新。影逐渐南山青荡漾，波沉西太阳红张斋沦落。去年因旱池枯竭，龟尾拖涂鱼呼吸沫。诏开八水注入恩波，一千个一万鳞同一天活。现在来干净清澈的水照天，游鱼鱍鱍莲田田。洲香杜若抽心短，沙暖鸳鸯铺翅睡觉。动植飞沉都就性，皇泽如春没有不被。渔夫仍丰网资，穷人长期获得菰蒲利。诏令以昆明近帝都，国家不能将其征。菰蒲不收鱼无税，靠近水的人感谢您惠。感谢您惠，是什么样的人，我听说全国都王民，远方的百姓何疏近什么亲人。希望把这种恩惠施及天下，没有远没有接近同高兴。吴兴山中废罢榷茶，远眺阳坑里停封银。天涯地角没有禁止利，静宜同像昆明春。
+	* 此部分翻译来自AI，仅供参考

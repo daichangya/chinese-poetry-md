@@ -1,0 +1,37 @@
+---
+id: bai-yu-chan-shan-ju-wu-shou-song-zhu-cheng-lin-yun-qi-shen
+title: 山居五首
+author: 白玉蟾
+authorSlug: bai-yu-chan
+dynasty: 宋
+dynastySlug: song
+titlePinyin: shan1 ju1 wu3 shou3
+authorPinyin: bai2 yu4 chan2
+dynastyPinyin: song4
+canonicalPoemId: 568474
+canonicalAuthorId: 4835
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 松竹成林云气深，洞门风冷绿苔阴。
+
+- 落花飞尽青山在，幽鸟声中野客心。
+
+## 拼音
+
+- song1 zhu2 cheng2 lin2 yun2 qi4 shen1 ， dong4 men2 feng1 leng3 lü4 tai2 yin1 。
+
+- luo4 hua1 fei1 jin4 qing1 shan1 zai4 ， you1 niao3 sheng1 zhong1 ye3 ke4 xin1 。
+
+## 译文
+
+松树竹林成林云气深，洞风冷绿苔阴。落花飞尽青山在，在鸟鸣声中野客心。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+松树竹林成林云气深，洞风冷绿苔阴。落花飞尽青山在，在鸟鸣声中野客心。
+	* 此部分翻译来自AI，仅供参考
