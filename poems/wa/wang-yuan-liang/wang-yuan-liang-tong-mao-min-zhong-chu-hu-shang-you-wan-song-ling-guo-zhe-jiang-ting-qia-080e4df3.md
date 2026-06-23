@@ -1,0 +1,45 @@
+---
+id: wang-yuan-liang-tong-mao-min-zhong-chu-hu-shang-you-wan-song-ling-guo-zhe-jiang-ting-qia-080e4df3
+title: 同毛敏仲出湖上由万松岭过浙江亭
+author: 汪元量
+authorSlug: wang-yuan-liang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: tong2 mao2 min3 zhong4 chu1 hu2 shang4 you2 wan4 song1 ling3 guo4 zhe4 jiang1 ting2
+authorPinyin: wang1 yuan2 liang2
+dynastyPinyin: song4
+canonicalPoemId: 493403
+canonicalAuthorId: 5159
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 钱塘门外看新晴，舞蜨游蜂没一星。
+
+- 风挟断云横北𪩘，烟随飞雨度南屏，
+
+- 苏隄柳树照波绿，吴苑麦苗连地青。
+
+- 邂逅寻诗过岭去，鼓鞞声震浙江亭。
+
+## 拼音
+
+- qian2 tang2 men2 wai4 kan4 xin1 qing2 ， wu3 die2 you2 feng1 mei2 yi4 xing1 。
+
+- feng1 xie2 duan4 yun2 heng2 bei3 yan3 ， yan1 sui2 fei1 yu3 du4 nan2 ping2 ，
+
+- su1 di1 liu3 shu4 zhao4 bo1 lü4 ， wu2 yuan4 mai4 miao2 lian2 di4 qing1 。
+
+- xie4 hou4 xun2 shi1 guo4 ling3 qu4 ， gu3 pi2 sheng1 zhen4 zhe4 jiang1 ting2 。
+
+## 译文
+
+钱塘门外看新晴，舞蜨游蜂消失一颗星。风挟断云横北汇，烟随飞降度南屏，苏堤柳树照耀波绿，吴苑麦苗连续地青。邂逅寻诗越过山岭离去，鼓斡声震浙江亭。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+钱塘门外看新晴，舞蜨游蜂消失一颗星。风挟断云横北汇，烟随飞降度南屏，苏堤柳树照耀波绿，吴苑麦苗连续地青。邂逅寻诗越过山岭离去，鼓斡声震浙江亭。
+	* 此部分翻译来自AI，仅供参考

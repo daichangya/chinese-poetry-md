@@ -1,0 +1,44 @@
+---
+id: wang-zhi-dao-dao-xi-jiang-yue-yi-bie-qing-feng-bei-you
+title: 西江月·一别清风北牖
+author: 王之道
+authorSlug: wang-zhi-dao-dao
+dynasty: 宋
+dynastySlug: song
+titlePinyin: xi1 jiang1 yue4 · yi4 bie2 qing1 feng1 bei3 you3
+authorPinyin: wang2 zhi1 dao4
+dynastyPinyin: song4
+canonicalPoemId: 339840
+canonicalAuthorId: 5212
+rhythmic: 西江月
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 一别清风北牖，几番明月西楼。
+
+- 断肠千里致书邮。
+
+- 借问近来安否。
+
+- 归路淮山过雨，归舟江水澄秋。
+
+- 佳人应已数程头。
+
+- 准拟到家时候。
+
+## 拼音
+
+- yi4 bie2 qing1 feng1 bei3 you3 ， ji3 fan1 ming2 yue4 xi1 lou2 。
+
+- duan4 chang2 qian1 li3 zhi4 shu1 you2 。
+
+- jie4 wen4 jin4 lai2 an1 fou3 。
+
+- gui1 lu4 huai2 shan1 guo4 yu3 ， gui1 zhou1 jiang1 shui3 cheng2 qiu1 。
+
+- jia1 ren2 ying4 yi3 shu4 cheng2 tou2 。
+
+- zhun3 ni3 dao4 jia1 shi2 hou4 。

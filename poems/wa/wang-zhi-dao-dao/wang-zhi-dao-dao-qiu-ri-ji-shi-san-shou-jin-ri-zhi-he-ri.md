@@ -1,0 +1,45 @@
+---
+id: wang-zhi-dao-dao-qiu-ri-ji-shi-san-shou-jin-ri-zhi-he-ri
+title: 秋日即事三首
+author: 王之道
+authorSlug: wang-zhi-dao-dao
+dynasty: 宋
+dynastySlug: song
+titlePinyin: qiu1 ri4 ji2 shi4 san1 shou3
+authorPinyin: wang2 zhi1 dao4
+dynastyPinyin: song4
+canonicalPoemId: 585182
+canonicalAuthorId: 5212
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 今日知何日，西风正得秋。
+
+- 天心方祚汉，人物合师留。
+
+- 才略烦威敌，声名赖镇浮。
+
+- 不妨临赋乐，泛泛有杨舟。
+
+## 拼音
+
+- jin1 ri4 zhi1 he2 ri4 ， xi1 feng1 zheng4 de2 qiu1 。
+
+- tian1 xin1 fang1 zuo4 han4 ， ren2 wu4 he2 shi1 liu2 。
+
+- cai2 lüe4 fan2 wei1 di2 ， sheng1 ming2 lai4 zhen4 fu2 。
+
+- bu4 fang2 lin2 fu4 le4 ， fan4 fan4 you3 yang2 zhou1 。
+
+## 译文
+
+现在我知道什么时候，正当秋天西风。天意正位汉，人物与老师留。才略麻烦威慑敌人，名声仰赖镇浮。不妨到赋音乐，泛泛有杨船。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+现在我知道什么时候，正当秋天西风。天意正位汉，人物与老师留。才略麻烦威慑敌人，名声仰赖镇浮。不妨到赋音乐，泛泛有杨船。
+	* 此部分翻译来自AI，仅供参考

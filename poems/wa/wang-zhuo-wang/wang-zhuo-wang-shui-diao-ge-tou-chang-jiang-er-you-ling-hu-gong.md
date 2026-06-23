@@ -1,0 +1,75 @@
+---
+id: wang-zhuo-wang-shui-diao-ge-tou-chang-jiang-er-you-ling-hu-gong
+title: 水调歌头
+author: 王灼
+authorSlug: wang-zhuo-wang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: shui3 diao4 ge1 tou2
+authorPinyin: wang2 zhuo2
+dynastyPinyin: song4
+canonicalPoemId: 433297
+canonicalAuthorId: 6064
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 长江二友令狐公才、桑仲文相继徂逝。
+
+- 七月壬午，予送客登妙高台绝顶，望明月山二十里许，有怀美人，归作此词。
+
+- 山附县郭，仲文居其下，公才居亦近之。
+
+- 贾浪仙诗云：“长江飞鸟外，主簿跨驴归。
+
+- ”又云：“长江频雨后，明月众星中。
+
+- ”予故取其语。
+
+- 长江飞鸟外，明月众星中。
+
+- 今来古往如此，人事几秋风。
+
+- 又对团团红树，独跨蹇驴归去，山水澹丰容。
+
+- 远色动愁思，不见两诗翁。
+
+- 酒如渑，谈如绮，气如虹。
+
+- 当时痛饮狂醉，只许赏心同。
+
+- 响绝光沈休问，俯仰之间陈迹，我亦老飘蓬。
+
+- 望久碧云晚，一雁度寒空。
+
+## 拼音
+
+- chang2 jiang1 er4 you3 ling2 hu2 gong1 cai2 、 sang1 zhong4 wen2 xiang1 ji4 cu2 shi4 。
+
+- qi1 yue4 ren2 wu3 ， yu3 song4 ke4 deng1 miao4 gao1 tai2 jue2 ding3 ， wang4 ming2 yue4 shan1 er4 shi2 li3 xu3 ， you3 huai2 mei3 ren2 ， gui1 zuo4 ci3 ci2 。
+
+- shan1 fu4 xian4 guo1 ， zhong4 wen2 ju1 qi2 xia4 ， gong1 cai2 ju1 yi4 jin4 zhi1 。
+
+- jia3 lang4 xian1 shi1 yun2 ： “ chang2 jiang1 fei1 niao3 wai4 ， zhu3 bo2 kua4 lü2 gui1 。
+
+- ” you4 yun2 ： “ chang2 jiang1 pin2 yu3 hou4 ， ming2 yue4 zhong4 xing1 zhong1 。
+
+- ” yu3 gu4 qu3 qi2 yu3 。
+
+- chang2 jiang1 fei1 niao3 wai4 ， ming2 yue4 zhong4 xing1 zhong1 。
+
+- jin1 lai2 gu3 wang3 ru2 ci3 ， ren2 shi4 ji3 qiu1 feng1 。
+
+- you4 dui4 tuan2 tuan2 hong2 shu4 ， du2 kua4 jian3 lü2 gui1 qu4 ， shan1 shui3 dan4 feng1 rong2 。
+
+- yuan3 se4 dong4 chou2 si1 ， bu2 jian4 liang3 shi1 weng1 。
+
+- jiu3 ru2 mian3 ， tan2 ru2 qi3 ， qi4 ru2 hong2 。
+
+- dang1 shi2 tong4 yin3 kuang2 zui4 ， zhi3 xu3 shang3 xin1 tong2 。
+
+- xiang3 jue2 guang1 shen3 xiu1 wen4 ， fu3 yang3 zhi1 jian1 chen2 ji4 ， wo3 yi4 lao3 piao1 peng2 。
+
+- wang4 jiu3 bi4 yun2 wan3 ， yi2 yan4 du4 han2 kong1 。

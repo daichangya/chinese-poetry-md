@@ -1,0 +1,65 @@
+---
+id: wang-zhi-3-man-jiang-hong-ting-qin-zhi-zhang-mei-hua
+title: 满江红（听琴）
+author: 王质
+authorSlug: wang-zhi-3
+dynasty: 宋
+dynastySlug: song
+titlePinyin: man3 jiang1 hong2 （ ting1 qin2 ）
+authorPinyin: wang2 zhi4
+dynastyPinyin: song4
+canonicalPoemId: 338187
+canonicalAuthorId: 4980
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 纸帐梅花，有丛桂、又有修竹。
+
+- 是何声、雪飘远渚，泉鸣幽谷。
+
+- 红蓼白苹须拂袖，余音尚带清香馥。
+
+- 挽素娥青女、问飞琼，谁家曲。
+
+- 韩退之，欧永叔。
+
+- 惚兮恍，恍兮惚。
+
+- 试侧耳，山常似黛，水常如玉。
+
+- 颜子操中何足怨，醉翁徽外无人续。
+
+- 正青天、明月上东南，芳时足。
+
+## 拼音
+
+- zhi3 zhang4 mei2 hua1 ， you3 cong2 gui4 、 you4 you3 xiu1 zhu2 。
+
+- shi4 he2 sheng1 、 xue3 piao1 yuan3 zhu3 ， quan2 ming2 you1 gu3 。
+
+- hong2 liao3 bai2 ping2 xu1 fu2 xiu4 ， yu2 yin1 shang4 dai4 qing1 xiang1 fu4 。
+
+- wan3 su4 e2 qing1 nü3 、 wen4 fei1 qiong2 ， shui2 jia1 qu3 。
+
+- han2 tui4 zhi1 ， ou1 yong3 shu1 。
+
+- hu1 xi1 huang3 ， huang3 xi1 hu1 。
+
+- shi4 ce4 er3 ， shan1 chang2 si4 dai4 ， shui3 chang2 ru2 yu4 。
+
+- yan2 zi3 cao1 zhong1 he2 zu2 yuan4 ， zui4 weng1 hui1 wai4 wu2 ren2 xu4 。
+
+- zheng4 qing1 tian1 、 ming2 yue4 shang4 dong1 nan2 ， fang1 shi2 zu2 。
+
+## 译文
+
+纸帐梅花，有丛桂、又有修长的竹子。是什么声音、雪花飘远洲，泉水在山谷。红蓼浮萍需要甩袖，我声音还带着清香香。拉着素娥青少女、问飞琼，谁家曲。韩退之，欧永叔。恍惚恍惚啊，恍兮惚。试着侧着耳朵，山常似黛，水常常如玉。颜子操中有什么值得抱怨，醉翁徽外没有人接。正青天、明月上东南，芳时脚。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+纸帐梅花，有丛桂、又有修长的竹子。是什么声音、雪花飘远洲，泉水在山谷。红蓼浮萍需要甩袖，我声音还带着清香香。拉着素娥青少女、问飞琼，谁家曲。韩退之，欧永叔。恍惚恍惚啊，恍兮惚。试着侧着耳朵，山常似黛，水常常如玉。颜子操中有什么值得抱怨，醉翁徽外没有人接。正青天、明月上东南，芳时脚。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,65 @@
+---
+id: wang-zhi-dao-dao-ci-yun-yuan-wang-hui-jian-zeng-jian-jian-yang-de-run-chang-di-shi-li-he-hua-yu
+title: 次韵袁望回见赠兼简杨德润
+author: 王之道
+authorSlug: wang-zhi-dao-dao
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ci4 yun4 yuan2 wang4 hui2 jian4 zeng4 jian1 jian3 yang2 de2 run4
+authorPinyin: wang2 zhi1 dao4
+dynastyPinyin: song4
+canonicalPoemId: 585733
+canonicalAuthorId: 5212
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 长堤十里荷花雨，隐约尘头南去路。
+
+- 故人恋恋不能忘，又遣长须寄新语。
+
+- 锦囊玉轴缠朱丝，开缄怳觉云烟飞。
+
+- 青山未许松柏老，绿野会致牛羊肥。
+
+- 嗟予衰滞烦訾相，十年相对江湖上，苦吟猛省爆鸭脚，剧论旋惊烂熊掌。
+
+- 分携令我重回首，日月漂流易成久。
+
+- 因风频寄数行书，毋蹈从前作诗瘦。
+
+- 比邻先生倦不出，德齿俱尊时第一。
+
+- 何妨杖屦日过逢，白酒黄难醉秋色。
+
+## 拼音
+
+- chang2 di1 shi2 li3 he2 hua1 yu3 ， yin3 yue1 chen2 tou2 nan2 qu4 lu4 。
+
+- gu4 ren2 lian4 lian4 bu4 neng2 wang4 ， you4 qian3 chang2 xu1 ji4 xin1 yu3 。
+
+- jin3 nang2 yu4 zhou2 chan2 zhu1 si1 ， kai1 jian1 huang3 jue2 yun2 yan1 fei1 。
+
+- qing1 shan1 wei4 xu3 song1 bai3 lao3 ， lü4 ye3 hui4 zhi4 niu2 yang2 fei2 。
+
+- jie1 yu3 shuai1 zhi4 fan2 zi1 xiang1 ， shi2 nian2 xiang1 dui4 jiang1 hu2 shang4 ， ku3 yin2 meng3 sheng3 bao4 ya1 jiao3 ， ju4 lun4 xuan2 jing1 lan4 xiong2 zhang3 。
+
+- fen1 xie2 ling4 wo3 zhong4 hui2 shou3 ， ri4 yue4 piao1 liu2 yi4 cheng2 jiu3 。
+
+- yin1 feng1 pin2 ji4 shu4 xing2 shu1 ， wu2 dao3 cong2 qian2 zuo4 shi1 shou4 。
+
+- bi3 lin2 xian1 sheng1 juan4 bu4 chu1 ， de2 chi3 ju4 zun1 shi2 di4 yi1 。
+
+- he2 fang2 zhang4 ju4 ri4 guo4 feng2 ， bai2 jiu3 huang2 nan2 zui4 qiu1 se4 。
+
+## 译文
+
+长堤十里荷花雨，隐约尘头南距路。所以人留恋不忘，又派遣长必须寄新语言。锦囊玉轴缠红丝带，开闭模糊发觉云烟飞。青山不允许松柏老，绿色田野会导致牛羊肥。叹我衰滞麻烦选择，十年相对江湖上，辛苦吟猛省爆鸭脚，剧论旋很烂熊掌。分带着让我重回首，时间冲走换成长期。因风频寄几行文字，不要践踏以前写的诗瘦。邻居先生疲倦不出来，德齿都尊崇时第一。不妨打鞋日日逢，白酒黄难醉秋色。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+长堤十里荷花雨，隐约尘头南距路。所以人留恋不忘，又派遣长必须寄新语言。锦囊玉轴缠红丝带，开闭模糊发觉云烟飞。青山不允许松柏老，绿色田野会导致牛羊肥。叹我衰滞麻烦选择，十年相对江湖上，辛苦吟猛省爆鸭脚，剧论旋很烂熊掌。分带着让我重回首，时间冲走换成长期。因风频寄几行文字，不要践踏以前写的诗瘦。邻居先生疲倦不出来，德齿都尊崇时第一。不妨打鞋日日逢，白酒黄难醉秋色。
+	* 此部分翻译来自AI，仅供参考

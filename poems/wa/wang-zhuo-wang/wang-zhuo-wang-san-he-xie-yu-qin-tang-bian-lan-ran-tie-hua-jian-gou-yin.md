@@ -1,0 +1,45 @@
+---
+id: wang-zhuo-wang-san-he-xie-yu-qin-tang-bian-lan-ran-tie-hua-jian-gou-yin
+title: 三和谢娱亲堂扁
+author: 王灼
+authorSlug: wang-zhuo-wang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: san1 he2 xie4 yu2 qin1 tang2 bian3
+authorPinyin: wang2 zhuo2
+dynastyPinyin: song4
+canonicalPoemId: 433423
+canonicalAuthorId: 6064
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 烂然铁画间钩银，越薄苏膏挥洒频。
+
+- 谁与钟王传妙诀，我知颜柳是前身。
+
+- 大书燕喜娱亲扁，俯念乌慈反哺仁。
+
+- 因甚衡茅光彻夜，烛围十丈许分邻。
+
+## 拼音
+
+- lan4 ran2 tie3 hua4 jian1 gou1 yin2 ， yue4 bao2 su1 gao1 hui1 sa3 pin2 。
+
+- shui2 yu3 zhong1 wang2 chuan2 miao4 jue2 ， wo3 zhi1 yan2 liu3 shi4 qian2 shen1 。
+
+- da4 shu1 yan4 xi3 yu2 qin1 bian3 ， fu3 nian4 wu1 ci2 fan3 bu3 ren2 。
+
+- yin1 shen4 heng2 mao2 guang1 che4 ye4 ， zhu2 wei2 shi2 zhang4 xu3 fen1 lin2 。
+
+## 译文
+
+灿烂铁画间钩银，越薄苏膏挥洒频繁。谁与钟王传妙诀，我知道颜柳是前身。大写燕高兴娱乐亲扁，俯念乌慈反哺仁。就很衡茅光彻夜，蜡烛围十丈许分邻。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+灿烂铁画间钩银，越薄苏膏挥洒频繁。谁与钟王传妙诀，我知道颜柳是前身。大写燕高兴娱乐亲扁，俯念乌慈反哺仁。就很衡茅光彻夜，蜡烛围十丈许分邻。
+	* 此部分翻译来自AI，仅供参考

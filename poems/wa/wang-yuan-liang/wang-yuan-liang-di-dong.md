@@ -1,0 +1,35 @@
+---
+id: wang-yuan-liang-di-dong
+title: □□□
+author: 汪元量
+authorSlug: wang-yuan-liang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: □ □ □
+authorPinyin: wang1 yuan2 liang2
+dynastyPinyin: song4
+canonicalPoemId: 493614
+canonicalAuthorId: 5159
+tags:
+  - 诗词
+---
+
+## 正文
+
+- □□□□□□□，□□□□□□□。
+
+- □□□□□地动，兵前草木挟风寒。
+
+- 计穷但觉归降易，事定方知进退难。
+
+- 献宅乞为祈请使，酣歌食肉愧田单。
+
+## 拼音
+
+- □ □ □ □ □ □ □ ， □ □ □ □ □ □ □ 。
+
+- □ □ □ □ □ di4 dong4 ， bing1 qian2 cao3 mu4 xie2 feng1 han2 。
+
+- ji4 qiong2 dan4 jue2 gui1 xiang2 yi4 ， shi4 ding4 fang1 zhi1 jin4 tui4 nan2 。
+
+- xian4 zhai2 qi3 wei4 qi2 qing3 shi3 ， han1 ge1 shi2 rou4 kui4 tian2 dan1 。
