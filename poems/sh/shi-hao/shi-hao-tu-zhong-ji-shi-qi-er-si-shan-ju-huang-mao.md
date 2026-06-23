@@ -1,0 +1,35 @@
+---
+id: shi-hao-tu-zhong-ji-shi-qi-er-si-shan-ju-huang-mao
+title: 途中即事 其二
+author: 史浩
+authorSlug: shi-hao
+dynasty: 宋
+dynastySlug: song
+titlePinyin: tu2 zhong1 ji2 shi4   qi2 er4
+authorPinyin: shi3 hao4
+dynastyPinyin: song4
+canonicalPoemId: 494676
+canonicalAuthorId: 6519
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 四山俱荒茅，松竹不露颖。
+
+- 清绝一株梅，依依秀孤岭。
+
+- 轻风引馀馨，淡月露寒影。
+
+- 东君蚤催实，待此荐金鼎。
+
+## 拼音
+
+- si4 shan1 ju4 huang1 mao2 ， song1 zhu2 bu2 lu4 ying3 。
+
+- qing1 jue2 yi4 zhu1 mei2 ， yi1 yi1 xiu4 gu1 ling3 。
+
+- qing1 feng1 yin3 yu2 xin1 ， dan4 yue4 lu4 han2 ying3 。
+
+- dong1 jun1 zao3 cui1 shi2 ， dai4 ci3 jian4 jin1 ding3 。

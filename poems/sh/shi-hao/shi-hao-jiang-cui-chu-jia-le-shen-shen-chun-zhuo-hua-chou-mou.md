@@ -1,0 +1,35 @@
+---
+id: shi-hao-jiang-cui-chu-jia-le-shen-shen-chun-zhuo-hua-chou-mou
+title: 江倅出家乐
+author: 史浩
+authorSlug: shi-hao
+dynasty: 宋
+dynastySlug: song
+titlePinyin: jiang1 cui4 chu1 jia1 le4
+authorPinyin: shi3 hao4
+dynastyPinyin: song4
+canonicalPoemId: 494551
+canonicalAuthorId: 6519
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 沈沈春酌话绸缪，花月行船看拍浮。
+
+- 手束柔荑调雁柱，袖翻纹锦出香毬。
+
+- 未攀青子犹如豆，欲脍赪鳞始上钩。
+
+- 蓬岛古来无觅处，我曹今此得真游。
+
+## 拼音
+
+- shen3 shen3 chun1 zhuo2 hua4 chou2 mou2 ， hua1 yue4 xing2 chuan2 kan4 pai1 fu2 。
+
+- shou3 shu4 rou2 yi2 tiao2 yan4 zhu4 ， xiu4 fan1 wen2 jin3 chu1 xiang1 qiu2 。
+
+- wei4 pan1 qing1 zi3 you2 ru2 dou4 ， yu4 kuai4 cheng1 lin2 shi3 shang4 gou1 。
+
+- peng2 dao3 gu3 lai2 wu2 mi4 chu4 ， wo3 cao2 jin1 ci3 de2 zhen1 you2 。

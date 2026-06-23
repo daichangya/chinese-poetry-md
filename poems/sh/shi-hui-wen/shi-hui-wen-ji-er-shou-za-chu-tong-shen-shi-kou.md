@@ -1,0 +1,37 @@
+---
+id: shi-hui-wen-ji-er-shou-za-chu-tong-shen-shi-kou
+title: 偈二首
+author: 释慧温
+authorSlug: shi-hui-wen
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ji4 er4 shou3
+authorPinyin: shi4 hui4 wen1
+dynastyPinyin: song4
+canonicalPoemId: 648090
+canonicalAuthorId: 10772
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 拶出通身是口，何妨骂雨诃风。
+
+- 昨夜前村猛虎，咬杀南山大虫。
+
+## 拼音
+
+- za1 chu1 tong1 shen1 shi4 kou3 ， he2 fang2 ma4 yu3 he1 feng1 。
+
+- zuo2 ye4 qian2 cun1 meng3 hu3 ， yao3 sha1 nan2 shan1 da4 chong2 。
+
+## 译文
+
+折出全身是口，何妨骂雨警告风。昨天前村猛虎，南山老虎咬死了。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+折出全身是口，何妨骂雨警告风。昨天前村猛虎，南山老虎咬死了。
+	* 此部分翻译来自AI，仅供参考
