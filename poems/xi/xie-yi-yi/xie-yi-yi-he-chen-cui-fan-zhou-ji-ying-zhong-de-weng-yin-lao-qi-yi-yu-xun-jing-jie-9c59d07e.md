@@ -1,0 +1,35 @@
+---
+id: xie-yi-yi-he-chen-cui-fan-zhou-ji-ying-zhong-de-weng-yin-lao-qi-yi-yu-xun-jing-jie-9c59d07e
+title: 和陈倅泛舟寄莹中德翁印老 其一
+author: 谢逸
+authorSlug: xie-yi-yi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: he2 chen2 cui4 fan4 zhou1 ji4 ying2 zhong1 de2 weng1 yin4 lao3   qi2 yi1
+authorPinyin: xie4 yi4
+dynastyPinyin: song4
+canonicalPoemId: 415248
+canonicalAuthorId: 11571
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 欲寻靖节访东皋，复忆禅翁隐妙高。
+
+- 月送征鸿遵露渚，舟随飞鹭掠云涛。
+
+- 知公气压陈惊座，顾我诗惭谢法曹。
+
+- 胆落旧闻温御史，至今蛟兽尚腾逃。
+
+## 拼音
+
+- yu4 xun2 jing4 jie2 fang3 dong1 gao1 ， fu4 yi4 chan2 weng1 yin3 miao4 gao1 。
+
+- yue4 song4 zheng1 hong2 zun1 lu4 zhu3 ， zhou1 sui2 fei1 lu4 lüe4 yun2 tao1 。
+
+- zhi1 gong1 qi4 ya1 chen2 jing1 zuo4 ， gu4 wo3 shi1 can2 xie4 fa3 cao2 。
+
+- dan3 luo4 jiu4 wen2 wen1 yu4 shi3 ， zhi4 jin1 jiao1 shou4 shang4 teng2 tao2 。

@@ -1,0 +1,35 @@
+---
+id: xie-tiao-feng-he-sui-wang-dian-xia-shi-shi-liu-shou-qi-qi-xuan-dong-ji-xiu-ye
+title: 奉和随王殿下诗十六首 其七
+author: 谢朓
+authorSlug: xie-tiao
+dynasty: 南北朝
+dynastySlug: nanbeichao
+titlePinyin: feng4 he2 sui2 wang2 dian4 xia4 shi1 shi2 liu4 shou3   qi2 qi1
+authorPinyin: xie4 tiao3
+dynastyPinyin: nan2 bei3 chao2
+canonicalPoemId: 411118
+canonicalAuthorId: 6590
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 玄冬寂修夜，天围静且开。
+
+- 亭皋霜气怆，松宇清风来。
+
+- 高琴时以思，幽人多感怀。
+
+- 幸藉汾阳想，岭首正徘徊。
+
+## 拼音
+
+- xuan2 dong1 ji4 xiu1 ye4 ， tian1 wei2 jing4 qie3 kai1 。
+
+- ting2 gao1 shuang1 qi4 chuang4 ， song1 yu3 qing1 feng1 lai2 。
+
+- gao1 qin2 shi2 yi3 si1 ， you1 ren2 duo1 gan3 huai2 。
+
+- xing4 jie4 fen2 yang2 xiang3 ， ling3 shou3 zheng4 pai2 huai2 。

@@ -1,0 +1,37 @@
+---
+id: xiao-yao-zi-bai-yun-an-si-shou-dong-di-cao-pu-lu-zuo-po
+title: 白云庵四首
+author: 逍遥子
+authorSlug: xiao-yao-zi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: bai2 yun2 an1 si4 shou3
+authorPinyin: xiao1 yao2 zi3
+dynastyPinyin: song4
+canonicalPoemId: 474048
+canonicalAuthorId: 723
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 洞底草蒲绿作坡，松根况有茯苓多。
+
+- 自能饱饭太平日，不学式微歌浩歌。
+
+## 拼音
+
+- dong4 di3 cao3 pu2 lü4 zuo4 po1 ， song1 gen1 kuang4 you3 fu2 ling2 duo1 。
+
+- zi4 neng2 bao3 fan4 tai4 ping2 ri4 ， bu4 xue2 shi4 wei1 ge1 hao4 ge1 。
+
+## 译文
+
+洞底草蒲绿作坡，松树根况有茯苓多。自能吃饱饭太平的日子，不学式微歌高歌。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+洞底草蒲绿作坡，松树根况有茯苓多。自能吃饱饭太平的日子，不学式微歌高歌。
+	* 此部分翻译来自AI，仅供参考
