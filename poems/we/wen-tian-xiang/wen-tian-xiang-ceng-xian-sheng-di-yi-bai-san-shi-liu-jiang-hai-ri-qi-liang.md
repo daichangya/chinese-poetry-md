@@ -1,0 +1,37 @@
+---
+id: wen-tian-xiang-ceng-xian-sheng-di-yi-bai-san-shi-liu-jiang-hai-ri-qi-liang
+title: 曾先生第一百三十六
+author: 文天祥
+authorSlug: wen-tian-xiang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ceng2 xian1 sheng1 di4 yi1 bai3 san1 shi2 liu4
+authorPinyin: wen2 tian1 xiang2
+dynastyPinyin: song4
+canonicalPoemId: 472300
+canonicalAuthorId: 5513
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 江海日凄凉，贤圣尽萧索。
+
+- 西河共风味，顾步涕横落。
+
+## 拼音
+
+- jiang1 hai3 ri4 qi1 liang2 ， xian2 sheng4 jin4 xiao1 suo3 。
+
+- xi1 he2 gong4 feng1 wei4 ， gu4 bu4 ti4 heng2 luo4 。
+
+## 译文
+
+海太阳凄凉，圣贤都冷落。西河共同风味，顾步流横落。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+海太阳凄凉，圣贤都冷落。西河共同风味，顾步流横落。
+	* 此部分翻译来自AI，仅供参考

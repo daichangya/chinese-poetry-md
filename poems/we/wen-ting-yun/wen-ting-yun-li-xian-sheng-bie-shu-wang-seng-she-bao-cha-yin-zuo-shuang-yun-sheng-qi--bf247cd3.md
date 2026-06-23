@@ -1,0 +1,45 @@
+---
+id: wen-ting-yun-li-xian-sheng-bie-shu-wang-seng-she-bao-cha-yin-zuo-shuang-yun-sheng-qi--bf247cd3
+title: 李先生别墅望僧舍宝刹，因作双韵声
+author: 温庭筠
+authorSlug: wen-ting-yun
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: li3 xian1 sheng1 bie2 shu4 wang4 seng1 she4 bao3 cha4 ， yin1 zuo4 shuang1 yun4 sheng1
+authorPinyin: wen1 ting2 yun2
+dynastyPinyin: tang2
+canonicalPoemId: 387754
+canonicalAuthorId: 242
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 栖息消心象，檐楹溢艳阳。
+
+- 帘栊兰露落，邻里柳林凉。
+
+- 高阁过空谷，孤竿隔古冈。
+
+- 潭庐同淡荡，仿佛复芬芳。
+
+## 拼音
+
+- qi1 xi1 xiao1 xin1 xiang4 ， yan2 ying2 yi4 yan4 yang2 。
+
+- lian2 long2 lan2 lu4 luo4 ， lin2 li3 liu3 lin2 liang2 。
+
+- gao1 ge2 guo4 kong1 gu3 ， gu1 gan1 ge2 gu3 gang1 。
+
+- tan2 lu2 tong2 dan4 dang4 ， fang3 fu2 fu4 fen1 fang1 。
+
+## 译文
+
+栖息消心象，檐间溢出艳阳。帘拢兰露落，邻居柳林凉。高阁过空旷的山谷，我根隔着古冈。潭房屋同淡荡，仿佛又芬芳。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+栖息消心象，檐间溢出艳阳。帘拢兰露落，邻居柳林凉。高阁过空旷的山谷，我根隔着古冈。潭房屋同淡荡，仿佛又芬芳。
+	* 此部分翻译来自AI，仅供参考

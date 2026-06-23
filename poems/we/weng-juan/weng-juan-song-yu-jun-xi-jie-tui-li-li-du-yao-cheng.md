@@ -1,0 +1,35 @@
+---
+id: weng-juan-song-yu-jun-xi-jie-tui-li-li-du-yao-cheng
+title: 送于君锡节推
+author: 翁卷
+authorSlug: weng-juan
+dynasty: 宋
+dynastySlug: song
+titlePinyin: song4 yu2 jun1 xi1 jie2 tui1
+authorPinyin: weng1 juan4
+dynastyPinyin: song4
+canonicalPoemId: 498628
+canonicalAuthorId: 11646
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 历历渡遥程，仙山向赤城。
+
+- 同为忆家者，岂不羡君行。
+
+- 岁晚梅花白，天寒楚塞清。
+
+- 野人诗一首，相送莫言轻。
+
+## 拼音
+
+- li4 li4 du4 yao2 cheng2 ， xian1 shan1 xiang4 chi4 cheng2 。
+
+- tong2 wei4 yi4 jia1 zhe3 ， qi3 bu2 xian4 jun1 xing2 。
+
+- sui4 wan3 mei2 hua1 bai2 ， tian1 han2 chu3 sai1 qing1 。
+
+- ye3 ren2 shi1 yi4 shou3 ， xiang1 song4 mo4 yan2 qing1 。

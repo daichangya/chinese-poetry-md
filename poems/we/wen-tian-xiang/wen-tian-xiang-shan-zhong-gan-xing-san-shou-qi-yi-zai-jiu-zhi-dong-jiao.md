@@ -1,0 +1,53 @@
+---
+id: wen-tian-xiang-shan-zhong-gan-xing-san-shou-qi-yi-zai-jiu-zhi-dong-jiao
+title: 山中感兴三首 其一
+author: 文天祥
+authorSlug: wen-tian-xiang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: shan1 zhong1 gan3 xing1 san1 shou3   qi2 yi1
+authorPinyin: wen2 tian1 xiang2
+dynastyPinyin: song4
+canonicalPoemId: 472456
+canonicalAuthorId: 5513
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 载酒之东郊，东郊草新绿。
+
+- 一雨生江波，洲渚失其足。
+
+- 青春岂不惜，行乐非所欲。
+
+- 采芝复采芝，终朝不盈掬。
+
+- 大风从何来，奇响振空谷。
+
+- 我马何玄黄，息我西山麓。
+
+## 拼音
+
+- zai3 jiu3 zhi1 dong1 jiao1 ， dong1 jiao1 cao3 xin1 lü4 。
+
+- yi4 yu3 sheng1 jiang1 bo1 ， zhou1 zhu3 shi1 qi2 zu2 。
+
+- qing1 chun1 qi3 bu4 xi1 ， xing2 le4 fei1 suo3 yu4 。
+
+- cai3 zhi1 fu4 cai3 zhi1 ， zhong1 chao2 bu4 ying2 ju1 。
+
+- da4 feng1 cong2 he2 lai2 ， qi2 xiang3 zhen4 kong1 gu3 。
+
+- wo3 ma3 he2 xuan2 huang2 ， xi1 wo3 xi1 shan1 lu4 。
+
+## 译文
+
+载酒的东郊，东郊草新绿色。一雨生红波，沙洲失去他的脚。青春岂不惜，流行音乐不是所想。采芝又采芝，始终不盈掬。大风从何来，奇响振空谷。我的马怎么黄色，息我西山山麓。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+载酒的东郊，东郊草新绿色。一雨生红波，沙洲失去他的脚。青春岂不惜，流行音乐不是所想。采芝又采芝，始终不盈掬。大风从何来，奇响振空谷。我的马怎么黄色，息我西山山麓。
+	* 此部分翻译来自AI，仅供参考

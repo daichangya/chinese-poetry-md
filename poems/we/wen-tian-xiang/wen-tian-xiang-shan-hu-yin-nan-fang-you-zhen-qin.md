@@ -1,0 +1,61 @@
+---
+id: wen-tian-xiang-shan-hu-yin-nan-fang-you-zhen-qin
+title: 珊瑚吟
+author: 文天祥
+authorSlug: wen-tian-xiang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: shan1 hu2 yin2
+authorPinyin: wen2 tian1 xiang2
+dynastyPinyin: song4
+canonicalPoemId: 602795
+canonicalAuthorId: 5513
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 南方有珍禽，鸣声天下奇。
+
+- 毛羽黑如漆，两脸凝璚脂。
+
+- 燕赵佳公子，笼槛以自随。
+
+- 童子重丁宁，饮食必以时。
+
+- 将献上林苑，来巢万年枝。
+
+- 待之岂少恩，不免加絷维。
+
+- 珊瑚真珊瑚，碎琢良自悲。
+
+- 中原寒气深，风土非所宜。
+
+## 拼音
+
+- nan2 fang1 you3 zhen1 qin2 ， ming2 sheng1 tian1 xia4 qi2 。
+
+- mao2 yu3 hei1 ru2 qi1 ， liang3 lian3 ning2 jue2 zhi1 。
+
+- yan1 zhao4 jia1 gong1 zi3 ， long2 kan3 yi3 zi4 sui2 。
+
+- tong2 zi3 zhong4 ding1 ning2 ， yin3 shi2 bi4 yi3 shi2 。
+
+- jiang1 xian4 shang4 lin2 yuan4 ， lai2 chao2 wan4 nian2 zhi1 。
+
+- dai4 zhi1 qi3 shao3 en1 ， bu4 mian3 jia1 zhi2 wei2 。
+
+- shan1 hu2 zhen1 shan1 hu2 ， sui4 zhuo2 liang2 zi4 bei1 。
+
+- zhong1 yuan2 han2 qi4 shen1 ， feng1 tu3 fei1 suo3 yi2 。
+
+## 译文
+
+南方有珍禽，鸣声天下奇。羽毛黑如漆，两个脸凝坝油脂。燕赵佳公子，笼子栏杆以跟随自己。儿童重叮嘱，饮食一定要按时。将献上林苑，来巢万年枝。待的还少恩，不免加挽留。珊瑚是珊瑚，碎雕琢好伤心。中原寒气深，风土不宜。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+南方有珍禽，鸣声天下奇。羽毛黑如漆，两个脸凝坝油脂。燕赵佳公子，笼子栏杆以跟随自己。儿童重叮嘱，饮食一定要按时。将献上林苑，来巢万年枝。待的还少恩，不免加挽留。珊瑚是珊瑚，碎雕琢好伤心。中原寒气深，风土不宜。
+	* 此部分翻译来自AI，仅供参考
