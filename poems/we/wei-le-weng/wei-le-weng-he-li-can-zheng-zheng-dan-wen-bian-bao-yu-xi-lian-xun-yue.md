@@ -1,0 +1,45 @@
+---
+id: wei-le-weng-he-li-can-zheng-zheng-dan-wen-bian-bao-yu-xi-lian-xun-yue
+title: 和李参政正旦闻边报
+author: 魏了翁
+authorSlug: wei-le-weng
+dynasty: 宋
+dynastySlug: song
+titlePinyin: he2 li3 can1 zheng4 zheng1 dan4 wen2 bian1 bao4
+authorPinyin: wei4 le0 weng1
+dynastyPinyin: song4
+canonicalPoemId: 491155
+canonicalAuthorId: 2843
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 羽檄连旬月，边尘换岁阴。
+
+- 捉弄衿忧见肘，补肉忍剜心。
+
+- 天远鸿飞急，林疏燕恨深。
+
+- 直钭归往地，都作杀胡林。
+
+## 拼音
+
+- yu3 xi2 lian2 xun2 yue4 ， bian1 chen2 huan4 sui4 yin1 。
+
+- zhuo1 nong4 jin1 you1 jian4 zhou3 ， bu3 rou4 ren3 wan1 xin1 。
+
+- tian1 yuan3 hong2 fei1 ji2 ， lin2 shu1 yan4 hen4 shen1 。
+
+- zhi2 tou3 gui1 wang3 di4 ， dou1 zuo4 sha1 hu2 lin2 。
+
+## 译文
+
+羽檄连续一个月，边境换岁阴。捉弄衿忧见肘，补肉忍受剜心。天远鸿飞急，林疏燕恨深。直钭归到地，都作杀胡林。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+羽檄连续一个月，边境换岁阴。捉弄衿忧见肘，补肉忍受剜心。天远鸿飞急，林疏燕恨深。直钭归到地，都作杀胡林。
+	* 此部分翻译来自AI，仅供参考

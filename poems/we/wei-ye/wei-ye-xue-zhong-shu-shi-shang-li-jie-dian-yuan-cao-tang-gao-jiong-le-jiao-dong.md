@@ -1,0 +1,45 @@
+---
+id: wei-ye-xue-zhong-shu-shi-shang-li-jie-dian-yuan-cao-tang-gao-jiong-le-jiao-dong
+title: 雪中书事上李阶殿院
+author: 魏野
+authorSlug: wei-ye
+dynasty: 宋
+dynastySlug: song
+titlePinyin: xue3 zhong1 shu1 shi4 shang4 li3 jie1 dian4 yuan4
+authorPinyin: wei4 ye3
+dynastyPinyin: song4
+canonicalPoemId: 577774
+canonicalAuthorId: 5012
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 草堂高逈乐郊东，西望搘筇景莫穷。
+
+- 山水城池云叶里，管弦楼阁雪花中。
+
+- 须知应瑞因仁政，不独呈祥自帝功。
+
+- 太守多才又多暇，唱酬翻怯见诗筒。
+
+## 拼音
+
+- cao3 tang2 gao1 jiong3 le4 jiao1 dong1 ， xi1 wang4 zhi1 qiong2 jing3 mo4 qiong2 。
+
+- shan1 shui3 cheng2 chi2 yun2 ye4 li3 ， guan3 xian2 lou2 ge2 xue3 hua1 zhong1 。
+
+- xu1 zhi1 ying4 rui4 yin1 ren2 zheng4 ， bu4 du2 cheng2 xiang2 zi4 di4 gong1 。
+
+- tai4 shou3 duo1 cai2 you4 duo1 xia2 ， chang4 chou2 fan1 qie4 jian4 shi1 tong3 。
+
+## 译文
+
+草堂高逈乐郊东，西望搘炸景没有尽头。山水城池说叶里，管弦乐楼阁雪花中。必须知道应瑞因仁政，不只是呈现祥瑞自帝的功劳。太守多才多艺又多时间，唱酬反而怕见诗筒。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+草堂高逈乐郊东，西望搘炸景没有尽头。山水城池说叶里，管弦乐楼阁雪花中。必须知道应瑞因仁政，不只是呈现祥瑞自帝的功劳。太守多才多艺又多时间，唱酬反而怕见诗筒。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,45 @@
+---
+id: wei-zong-wu-qing-ming-xing-yi-guo-dian-hu-zhi-wu-she-liu-zheng-qing-ming
+title: 清明行役过淀湖至吴
+author: 卫宗武
+authorSlug: wei-zong-wu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: qing1 ming2 xing2 yi4 guo4 dian4 hu2 zhi4 wu2
+authorPinyin: wei4 zong1 wu3
+dynastyPinyin: song4
+canonicalPoemId: 471340
+canonicalAuthorId: 4292
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 涉柳正清明，淀湖波更平。
+
+- 雉媒空古迹，鹤唳动乡情。
+
+- 杨柳家家插，桃花处处生。
+
+- 青山俄在望，咫尺见吴城。
+
+## 拼音
+
+- she4 liu3 zheng4 qing1 ming2 ， dian4 hu2 bo1 geng4 ping2 。
+
+- zhi4 mei2 kong1 gu3 ji4 ， he4 li4 dong4 xiang1 qing2 。
+
+- yang2 liu3 jia1 jia1 cha1 ， tao2 hua1 chu4 chu4 sheng1 。
+
+- qing1 shan1 e2 zai4 wang4 ， zhi3 chi3 jian4 wu2 cheng2 。
+
+## 译文
+
+涉柳正清明，淀湖波更平。雉媒空古迹，鹤的叫声动乡情。杨柳家插，桃花处处生。青山不久在望，近见吴城。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+涉柳正清明，淀湖波更平。雉媒空古迹，鹤的叫声动乡情。杨柳家插，桃花处处生。青山不久在望，近见吴城。
+	* 此部分翻译来自AI，仅供参考

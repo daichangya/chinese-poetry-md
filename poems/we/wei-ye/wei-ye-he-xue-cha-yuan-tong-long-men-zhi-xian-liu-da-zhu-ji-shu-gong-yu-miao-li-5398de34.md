@@ -1,0 +1,37 @@
+---
+id: wei-ye-he-xue-cha-yuan-tong-long-men-zhi-xian-liu-da-zhu-ji-shu-gong-yu-miao-li-5398de34
+title: 和薛察院同龙门知县刘大著洎数公禹庙留题
+author: 魏野
+authorSlug: wei-ye
+dynasty: 宋
+dynastySlug: song
+titlePinyin: he2 xue1 cha2 yuan4 tong2 long2 men2 zhi1 xian4 liu2 da4 zhu4 ji4 shu4 gong1 yu3 miao4 liu2 ti2
+authorPinyin: wei4 ye3
+dynastyPinyin: song4
+canonicalPoemId: 577683
+canonicalAuthorId: 5012
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 七人庙下立徘徊，相顾闲心几欲摧。
+
+- 落日堪伤四散去，再来难得一齐来。
+
+## 拼音
+
+- qi1 ren2 miao4 xia4 li4 pai2 huai2 ， xiang1 gu4 xian2 xin1 ji3 yu4 cui1 。
+
+- luo4 ri4 kan1 shang1 si4 san4 qu4 ， zai4 lai2 nan2 de2 yi4 qi2 lai2 。
+
+## 译文
+
+七人庙下站徘徊，相互之间心几乎要摧毁。落日堪伤四散离去，第二次来难得一齐来。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+七人庙下站徘徊，相互之间心几乎要摧毁。落日堪伤四散离去，第二次来难得一齐来。
+	* 此部分翻译来自AI，仅供参考

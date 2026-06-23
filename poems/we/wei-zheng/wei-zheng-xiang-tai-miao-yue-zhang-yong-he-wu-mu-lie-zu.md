@@ -1,0 +1,45 @@
+---
+id: wei-zheng-xiang-tai-miao-yue-zhang-yong-he-wu-mu-lie-zu
+title: 享太庙乐章。永和
+author: 魏征
+authorSlug: wei-zheng
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: xiang3 tai4 miao4 yue4 zhang1 。 yong3 he2
+authorPinyin: wei4 zheng1
+dynastyPinyin: tang2
+canonicalPoemId: 532815
+canonicalAuthorId: 183
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 於穆烈祖，弘此丕基。
+
+- 永言配命，子孙保之。
+
+- 百神既洽，万国在兹。
+
+- 是用孝享，神其格思。
+
+## 拼音
+
+- wu1 mu4 lie4 zu3 ， hong2 ci3 pi1 ji1 。
+
+- yong3 yan2 pei4 ming4 ， zi3 sun1 bao3 zhi1 。
+
+- bai3 shen2 ji4 qia4 ， wan4 guo2 zai4 zi1 。
+
+- shi4 yong4 xiao4 xiang3 ， shen2 qi2 ge2 si1 。
+
+## 译文
+
+在穆烈祖，弘扬这根基。永远配祀上天，子孙万代将受用无穷。百神愉悦，各国在这。因此孝享，神他的到来。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+在穆烈祖，弘扬这根基。永远配祀上天，子孙万代将受用无穷。百神愉悦，各国在这。因此孝享，神他的到来。
+	* 此部分翻译来自AI，仅供参考

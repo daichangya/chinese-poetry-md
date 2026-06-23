@@ -1,0 +1,69 @@
+---
+id: wei-le-weng-li-de-xiu-zhi-ji-xi-fu-wu-yan-shi-yun-yong-yun-da-zhi-dong-shi-you-er-yue
+title: 李德秀致即席赋五言十韵用韵答之
+author: 魏了翁
+authorSlug: wei-le-weng
+dynasty: 宋
+dynastySlug: song
+titlePinyin: li3 de2 xiu4 zhi4 ji2 xi2 fu4 wu3 yan2 shi2 yun4 yong4 yun4 da2 zhi1
+authorPinyin: wei4 le0 weng1
+dynastyPinyin: song4
+canonicalPoemId: 551151
+canonicalAuthorId: 2843
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 冬十有二月，朞三日六旬。
+
+- 高怀局宇宙，良会惜参辰。
+
+- 乘兴访安道，扣窗呼孔宾。
+
+- 袭人薰蕙若，夺目烂犀珍。
+
+- 风景干吟笔，林花眩醉裀。
+
+- 溪山逢旧识，水竹乐闲人。
+
+- 岁签逡巡换，春炜次第新。
+
+- 抚时嗟易失，涉道渺无因。
+
+- 循物探天运，冥心观我身。
+
+- 相期共无斁，不与迹同陈。
+
+## 拼音
+
+- dong1 shi2 you3 er4 yue4 ， ji1 san1 ri4 liu4 xun2 。
+
+- gao1 huai2 ju2 yu3 zhou4 ， liang2 hui4 xi1 can1 chen2 。
+
+- cheng2 xing4 fang3 an1 dao4 ， kou4 chuang1 hu1 kong3 bin1 。
+
+- xi2 ren2 xun1 hui4 ruo4 ， duo2 mu4 lan4 xi1 zhen1 。
+
+- feng1 jing3 gan1 yin2 bi3 ， lin2 hua1 xuan4 zui4 yin1 。
+
+- xi1 shan1 feng2 jiu4 shi2 ， shui3 zhu2 le4 xian2 ren2 。
+
+- sui4 qian1 qun1 xun2 huan4 ， chun1 wei3 ci4 di4 xin1 。
+
+- fu3 shi2 jie1 yi4 shi1 ， she4 dao4 miao3 wu2 yin1 。
+
+- xun2 wu4 tan4 tian1 yun4 ， ming2 xin1 guan1 wo3 shen1 。
+
+- xiang1 qi1 gong4 wu2 yi4 ， bu4 yu3 ji4 tong2 chen2 。
+
+## 译文
+
+冬季，十二月，朞三天六天。高怀局宇宙，很会珍惜星辰。乘兴访问安道，敲窗呼孔宾。继承人香蕙草杜若，夺目灿烂犀角珍品。风景干吟笔，林花眩晕喝醉垫。溪山遇到老相识，水竹林乐闲的人。岁签犹豫换，春季李炜依次新。抚时很容易失去，涉路渺无因。沿物探天运，冥心观我的身体。相约一起不厌倦，不与业绩同陈。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+冬季，十二月，朞三天六天。高怀局宇宙，很会珍惜星辰。乘兴访问安道，敲窗呼孔宾。继承人香蕙草杜若，夺目灿烂犀角珍品。风景干吟笔，林花眩晕喝醉垫。溪山遇到老相识，水竹林乐闲的人。岁签犹豫换，春季李炜依次新。抚时很容易失去，涉路渺无因。沿物探天运，冥心观我的身体。相约一起不厌倦，不与业绩同陈。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,35 @@
+---
+id: wei-xiang-xiang-jing-lin-dao-zhong-shi-sun-zhang-er-jun-xi-feng-lue-yu-zuo-chao-han
+title: 荆林道中示孙张二君
+author: 韦骧
+authorSlug: wei-xiang-xiang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: jing1 lin2 dao4 zhong1 shi4 sun1 zhang1 er4 jun1
+authorPinyin: wei2 xiang1
+dynastyPinyin: song4
+canonicalPoemId: 331106
+canonicalAuthorId: 6631
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 西风掠雨作朝寒，联马相将入乱山。
+
+- 愧从使车无补助，敢辞征驭历间关。
+
+- 日边帝阙瞻犹远，云下亲闱念未还。
+
+- 旅思纷纷何以慰，间求佳论一开颜。
+
+## 拼音
+
+- xi1 feng1 lüe4 yu3 zuo4 chao2 han2 ， lian2 ma3 xiang1 jiang1 ru4 luan4 shan1 。
+
+- kui4 cong2 shi3 che1 wu2 bu3 zhu4 ， gan3 ci2 zheng1 yu4 li4 jian1 guan1 。
+
+- ri4 bian1 di4 que1 zhan1 you2 yuan3 ， yun2 xia4 qin1 wei2 nian4 wei4 hai2 。
+
+- lü3 si1 fen1 fen1 he2 yi3 wei4 ， jian1 qiu2 jia1 lun4 yi4 kai1 yan2 。

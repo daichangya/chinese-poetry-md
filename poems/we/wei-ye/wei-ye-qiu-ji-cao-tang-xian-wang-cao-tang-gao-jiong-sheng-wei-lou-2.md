@@ -1,0 +1,45 @@
+---
+id: wei-ye-qiu-ji-cao-tang-xian-wang-cao-tang-gao-jiong-sheng-wei-lou-2
+title: 秋霁草堂闲望
+author: 魏野
+authorSlug: wei-ye
+dynasty: 宋
+dynastySlug: song
+titlePinyin: qiu1 ji4 cao3 tang2 xian2 wang4
+authorPinyin: wei4 ye3
+dynastyPinyin: song4
+canonicalPoemId: 358257
+canonicalAuthorId: 5012
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 草堂高逈胜危楼，时节残阳向晚秋。
+
+- 野色青黄禾半熟，云容黑白雨初收。
+
+- 依依永巷闻村笛，隐隐长河认客舟。
+
+- 正是诗家好风景，懒随前哲却悲愁。
+
+## 拼音
+
+- cao3 tang2 gao1 jiong3 sheng4 wei1 lou2 ， shi2 jie2 can2 yang2 xiang4 wan3 qiu1 。
+
+- ye3 se4 qing1 huang2 he2 ban4 shu2 ， yun2 rong2 hei1 bai2 yu3 chu1 shou1 。
+
+- yi1 yi1 yong3 xiang4 wen2 cun1 di2 ， yin3 yin3 chang2 he2 ren4 ke4 zhou1 。
+
+- zheng4 shi4 shi1 jia1 hao3 feng1 jing3 ， lan3 sui2 qian2 zhe2 que4 bei1 chou2 。
+
+## 译文
+
+草堂高逈住高楼，残阳向晚秋时节。野色青黄禾半成熟，说容黑白雨刚收。依依永巷听说村笛，隐隐约约长河认客船。正是诗家喜欢风景，懒随前代哲人却悲哀忧愁。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+草堂高逈住高楼，残阳向晚秋时节。野色青黄禾半成熟，说容黑白雨刚收。依依永巷听说村笛，隐隐约约长河认客船。正是诗家喜欢风景，懒随前代哲人却悲哀忧愁。
+	* 此部分翻译来自AI，仅供参考

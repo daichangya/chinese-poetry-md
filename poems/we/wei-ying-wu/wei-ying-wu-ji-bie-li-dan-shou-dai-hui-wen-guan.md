@@ -1,0 +1,61 @@
+---
+id: wei-ying-wu-ji-bie-li-dan-shou-dai-hui-wen-guan
+title: 寄别李儋
+author: 韦应物
+authorSlug: wei-ying-wu
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: ji4 bie2 li3 dan1
+authorPinyin: wei2 ying4 wu4
+dynastyPinyin: tang2
+canonicalPoemId: 462706
+canonicalAuthorId: 164
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 首戴惠文冠，心有决胜筹。
+
+- 翩翩四五骑，结束向并州。
+
+- 名在相公幕，丘山恩未酬。
+
+- 妻子不及顾，亲友安得留。
+
+- 宿昔同文翰，交分共绸缪。
+
+- 忽枉别离札，涕泪一交流。
+
+- 远郡卧残疾，凉气满西楼。
+
+- 想子临长路，时当淮海秋。
+
+## 拼音
+
+- shou3 dai4 hui4 wen2 guan1 ， xin1 you3 jue2 sheng4 chou2 。
+
+- pian1 pian1 si4 wu3 qi2 ， jie2 shu4 xiang4 bing1 zhou1 。
+
+- ming2 zai4 xiang4 gong0 mu4 ， qiu1 shan1 en1 wei4 chou2 。
+
+- qi1 zi3 bu4 ji2 gu4 ， qin1 you3 an1 de2 liu2 。
+
+- su4 xi1 tong2 wen2 han4 ， jiao1 fen1 gong4 chou2 mou2 。
+
+- hu1 wang3 bie2 li2 zha2 ， ti4 lei4 yi4 jiao1 liu2 。
+
+- yuan3 jun4 wo4 can2 ji2 ， liang2 qi4 man3 xi1 lou2 。
+
+- xiang3 zi3 lin2 chang2 lu4 ， shi2 dang1 huai2 hai3 qiu1 。
+
+## 译文
+
+头戴惠文冠，心有决胜筹。翩翩四五名，结束向并州。名称在您幕，丘山恩不报。妻子不到回头，亲爱的朋友怎么能停留。过去同文章，交分缠绵起来。忽然不分离札，流下的眼泪一交流。远郡在残疾，凉气满西楼。想儿子面临漫长的道路，当时在淮海秋季。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+头戴惠文冠，心有决胜筹。翩翩四五名，结束向并州。名称在您幕，丘山恩不报。妻子不到回头，亲爱的朋友怎么能停留。过去同文章，交分缠绵起来。忽然不分离札，流下的眼泪一交流。远郡在残疾，凉气满西楼。想儿子面临漫长的道路，当时在淮海秋季。
+	* 此部分翻译来自AI，仅供参考

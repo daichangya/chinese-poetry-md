@@ -1,0 +1,69 @@
+---
+id: wei-jian-jian-he-zhong-wan-ji-hu-guang-zhou-zi-qing
+title: 河中晚霁
+author: 韦建
+authorSlug: wei-jian-jian
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: he2 zhong1 wan3 ji4
+authorPinyin: wei2 jian4
+dynastyPinyin: tang2
+canonicalPoemId: 524365
+canonicalAuthorId: 3808
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 湖广舟自轻，江天欲澄霁。
+
+- 是时清楚望，气色犹霾曀。
+
+- 踟蹰金霞白，波上日初丽。
+
+- 烟红落镜中，树木生天际。
+
+- 杳杳涯欲斑，蒙蒙云复闭。
+
+- 言垂星汉明，又睹寰瀛势。
+
+- 微兴从此惬，悠然不知岁。
+
+- 试歌沧浪清，遂觉乾坤细。
+
+- 肯念客衣薄，将期永投袂。
+
+- 迟回渔父间，一雁声嘹唳。
+
+## 拼音
+
+- hu2 guang3 zhou1 zi4 qing1 ， jiang1 tian1 yu4 cheng2 ji4 。
+
+- shi4 shi2 qing1 chu3 wang4 ， qi4 se4 you2 mai2 yi4 。
+
+- chi2 chu2 jin1 xia2 bai2 ， bo1 shang4 ri4 chu1 li4 。
+
+- yan1 hong2 luo4 jing4 zhong1 ， shu4 mu4 sheng1 tian1 ji4 。
+
+- yao3 yao3 ya2 yu4 ban1 ， meng2 meng2 yun2 fu4 bi4 。
+
+- yan2 chui2 xing1 han4 ming2 ， you4 du3 huan2 ying2 shi4 。
+
+- wei1 xing1 cong2 ci3 qie4 ， you1 ran2 bu4 zhi1 sui4 。
+
+- shi4 ge1 cang1 lang4 qing1 ， sui4 jue2 qian2 kun1 xi4 。
+
+- ken3 nian4 ke4 yi1 bao2 ， jiang1 qi1 yong3 tou2 mei4 。
+
+- chi2 hui2 yu2 fu4 jian1 ， yi2 yan4 sheng1 liao2 li4 。
+
+## 译文
+
+湖广船轻视自己，江天想澄清晴。当时清楚望，脸色就像天气阴暗。徘徊金霞白，波上太阳刚华丽。烟红落在镜子中，树木生天际。杳杳边想斑，蒙蒙说再关闭。说垂银河光明，又见寰瀛势。微兴从此愉快，悠悠然不知道一年。试歌沧浪清，于是觉得乾坤细。肯念客衣薄，将约定永远奋起。渔夫之间徘徊，一只雁声响亮叫声。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+湖广船轻视自己，江天想澄清晴。当时清楚望，脸色就像天气阴暗。徘徊金霞白，波上太阳刚华丽。烟红落在镜子中，树木生天际。杳杳边想斑，蒙蒙说再关闭。说垂银河光明，又见寰瀛势。微兴从此愉快，悠悠然不知道一年。试歌沧浪清，于是觉得乾坤细。肯念客衣薄，将约定永远奋起。渔夫之间徘徊，一只雁声响亮叫声。
+	* 此部分翻译来自AI，仅供参考

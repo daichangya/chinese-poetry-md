@@ -1,0 +1,53 @@
+---
+id: wei-le-weng-chong-yang-fen-yun-de-fang-zi-ceng-yun-sheng-xi-fei
+title: 重阳分韵得放字
+author: 魏了翁
+authorSlug: wei-le-weng
+dynasty: 宋
+dynastySlug: song
+titlePinyin: chong2 yang2 fen1 yun4 de2 fang4 zi4
+authorPinyin: wei4 le0 weng1
+dynastyPinyin: song4
+canonicalPoemId: 491205
+canonicalAuthorId: 2843
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 层云生夕霏，寒雨湿青嶂。
+
+- 平生爱九九，谁谓不可伏。
+
+- 盈盈黄鞠华，采采郁金鬯。
+
+- 点检襟袖间，清芬固无恙。
+
+- 门前秋阴阴，席春春盎盎。
+
+- 惟余忧时心，忽忽未肯放。
+
+## 拼音
+
+- ceng2 yun2 sheng1 xi1 fei1 ， han2 yu3 shi1 qing1 zhang4 。
+
+- ping2 sheng1 ai4 jiu3 jiu3 ， shui2 wei4 bu4 ke3 fu2 。
+
+- ying2 ying2 huang2 ju1 hua2 ， cai3 cai3 yu4 jin1 chang4 。
+
+- dian3 jian3 jin1 xiu4 jian1 ， qing1 fen1 gu4 wu2 yang4 。
+
+- men2 qian2 qiu1 yin1 yin1 ， xi2 chun1 chun1 ang4 ang4 。
+
+- wei2 yu2 you1 shi2 xin1 ， hu1 hu1 wei4 ken3 fang4 。
+
+## 译文
+
+层云生晚上消散，寒雨湿青嶂。一生爱九九，谁说不能隐藏。盈盈黄鞠华，采用色彩郁金香酒。点检领袖之间，清香固然无恙。门前秋阴阴，在春天，春天盎盎。只有我忧愁时心，忽然忽然不肯放。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+层云生晚上消散，寒雨湿青嶂。一生爱九九，谁说不能隐藏。盈盈黄鞠华，采用色彩郁金香酒。点检领袖之间，清香固然无恙。门前秋阴阴，在春天，春天盎盎。只有我忧愁时心，忽然忽然不肯放。
+	* 此部分翻译来自AI，仅供参考

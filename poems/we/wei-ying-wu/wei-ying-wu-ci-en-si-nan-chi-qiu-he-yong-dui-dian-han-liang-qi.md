@@ -1,0 +1,45 @@
+---
+id: wei-ying-wu-ci-en-si-nan-chi-qiu-he-yong-dui-dian-han-liang-qi
+title: 慈恩寺南池秋荷咏
+author: 韦应物
+authorSlug: wei-ying-wu
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: ci2 en1 si4 nan2 chi2 qiu1 he2 yong3
+authorPinyin: wei2 ying4 wu4
+dynastyPinyin: tang2
+canonicalPoemId: 387375
+canonicalAuthorId: 164
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 对殿含凉气，裁规覆清沼。
+
+- 衰红受露多，馀馥依人少。
+
+- 萧萧远尘迹，飒飒凌秋晓。
+
+- 节谢客来稀，回塘方独绕。
+
+## 拼音
+
+- dui4 dian4 han2 liang2 qi4 ， cai2 gui1 fu4 qing1 zhao3 。
+
+- shuai1 hong2 shou4 lu4 duo1 ， yu2 fu4 yi1 ren2 shao3 。
+
+- xiao1 xiao1 yuan3 chen2 ji4 ， sa4 sa4 ling2 qiu1 xiao3 。
+
+- jie2 xie4 ke4 lai2 xi1 ， hui2 tang2 fang1 du2 rao4 。
+
+## 译文
+
+对殿含凉气，裁规覆盖清池。衰红接受露水多，其他馥依人少。萧萧远尘迹，飒飒凌秋明白。节感谢客人来稀，回塘正独自环绕。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+对殿含凉气，裁规覆盖清池。衰红接受露水多，其他馥依人少。萧萧远尘迹，飒飒凌秋明白。节感谢客人来稀，回塘正独自环绕。
+	* 此部分翻译来自AI，仅供参考
