@@ -1,0 +1,45 @@
+---
+id: song-zhi-wen-liu-bie-zhi-wang-she-di-tong-qi-you-san-ren
+title: 留别之望舍弟
+author: 宋之问
+authorSlug: song-zhi-wen
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: liu2 bie2 zhi1 wang4 she4 di4
+authorPinyin: song4 zhi1 wen4
+dynastyPinyin: tang2
+canonicalPoemId: 475492
+canonicalAuthorId: 247
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 同气有三人，分飞在此晨。
+
+- 西驰巴岭徼，东去洛阳滨。
+
+- 强饮离前酒，终伤别后神。
+
+- 谁怜散花萼，独赴日南春。
+
+## 拼音
+
+- tong2 qi4 you3 san1 ren2 ， fen1 fei1 zai4 ci3 chen2 。
+
+- xi1 chi2 ba1 ling3 jiao3 ， dong1 qu4 luo4 yang2 bin1 。
+
+- qiang2 yin3 li2 qian2 jiu3 ， zhong1 shang1 bie2 hou4 shen2 。
+
+- shui2 lian2 san4 hua1 e4 ， du2 fu4 ri4 nan2 chun1 。
+
+## 译文
+
+同气有三人，分别在这个早晨。向西奔驰巴岭边界，东距洛阳边。痛饮离前酒，结果伤离别后精神。谁怜散花萼，只有到日南春天。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+同气有三人，分别在这个早晨。向西奔驰巴岭边界，东距洛阳边。痛饮离前酒，结果伤离别后精神。谁怜散花萼，只有到日南春天。
+	* 此部分翻译来自AI，仅供参考

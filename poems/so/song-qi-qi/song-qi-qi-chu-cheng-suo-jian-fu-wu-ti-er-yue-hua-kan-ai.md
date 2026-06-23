@@ -1,0 +1,45 @@
+---
+id: song-qi-qi-chu-cheng-suo-jian-fu-wu-ti-er-yue-hua-kan-ai
+title: 出城所见赋五题
+author: 宋祁
+authorSlug: song-qi-qi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: chu1 cheng2 suo3 jian4 fu4 wu3 ti2
+authorPinyin: song4 qi2
+dynastyPinyin: song4
+canonicalPoemId: 604464
+canonicalAuthorId: 5844
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 二月花堪爱，全开未落时。
+
+- 香轻长抱蕊，霞破即团枝。
+
+- 舞蝶何曾定，流莺不待期。
+
+- 劳君金缕唱，更尽拍浮卮。
+
+## 拼音
+
+- er4 yue4 hua1 kan1 ai4 ， quan2 kai1 wei4 luo4 shi2 。
+
+- xiang1 qing1 chang2 bao4 rui3 ， xia2 po4 ji2 tuan2 zhi1 。
+
+- wu3 die2 he2 ceng2 ding4 ， liu2 ying1 bu2 dai4 qi1 。
+
+- lao2 jun1 jin1 lü3 chang4 ， geng4 jin4 pai1 fu2 zhi1 。
+
+## 译文
+
+二月花堪爱，全开未落时。香轻长抱着花蕊，霞破即团枝。舞蝶何曾定，流莺不等待期。劳您金丝唱，再把拍浮杯。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+二月花堪爱，全开未落时。香轻长抱着花蕊，霞破即团枝。舞蝶何曾定，流莺不等待期。劳您金丝唱，再把拍浮杯。
+	* 此部分翻译来自AI，仅供参考

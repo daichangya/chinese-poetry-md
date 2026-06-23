@@ -1,0 +1,45 @@
+---
+id: song-qi-qi-ji-ti-yuan-hua-shu-zhai-bi-ri-tou-zan-yin
+title: 寄题元华书斋
+author: 宋祁
+authorSlug: song-qi-qi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ji4 ti2 yuan2 hua2 shu1 zhai1
+authorPinyin: song4 qi2
+dynastyPinyin: song4
+canonicalPoemId: 420667
+canonicalAuthorId: 5844
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 比日投簪隐，孟逢列舍椽。
+
+- 值岩因凿牖，仍磵即疏泉。
+
+- 斧烂仙棋路，花飞佛雨天。
+
+- 谏帷他夜梦，犹在翠微颠。
+
+## 拼音
+
+- bi3 ri4 tou2 zan1 yin3 ， meng4 feng2 lie4 she4 chuan2 。
+
+- zhi2 yan2 yin1 zao2 you3 ， reng2 jian4 ji2 shu1 quan2 。
+
+- fu3 lan4 xian1 qi2 lu4 ， hua1 fei1 fo2 yu3 tian1 。
+
+- jian4 wei2 ta1 ye4 meng4 ， you2 zai4 cui4 wei1 dian1 。
+
+## 译文
+
+近来把簪子隐藏，孟苏建房椽。遇到岩就在窗户，仍然水沟就是疏通泉水。斧烂仙人棋子路，花飞佛下雨天。劝阻在其他夜梦，就像在翠微颠。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+近来把簪子隐藏，孟苏建房椽。遇到岩就在窗户，仍然水沟就是疏通泉水。斧烂仙人棋子路，花飞佛下雨天。劝阻在其他夜梦，就像在翠微颠。
+	* 此部分翻译来自AI，仅供参考

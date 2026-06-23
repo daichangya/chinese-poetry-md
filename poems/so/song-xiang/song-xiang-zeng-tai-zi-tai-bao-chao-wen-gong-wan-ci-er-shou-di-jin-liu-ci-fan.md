@@ -1,0 +1,45 @@
+---
+id: song-xiang-zeng-tai-zi-tai-bao-chao-wen-gong-wan-ci-er-shou-di-jin-liu-ci-fan
+title: 赠太子太保晁文公挽词二首
+author: 宋庠
+authorSlug: song-xiang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: zeng4 tai4 zi3 tai4 bao3 chao2 wen2 gong1 wan3 ci2 er4 shou3
+authorPinyin: song4 xiang2
+dynastyPinyin: song4
+canonicalPoemId: 578594
+canonicalAuthorId: 5045
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 帝禁留辞范，儒林老栋材。
+
+- 方期割牲礼，遽近奠楹灾。
+
+- 岁晏巢鵀逝，天秋吊鹤来。
+
+- 宗工铭盛德，千古照泉台。
+
+## 拼音
+
+- di4 jin4 liu2 ci2 fan4 ， ru2 lin2 lao3 dong4 cai2 。
+
+- fang1 qi1 ge1 sheng1 li3 ， ju4 jin4 dian4 ying2 zai1 。
+
+- sui4 yan4 chao2 ren2 shi4 ， tian1 qiu1 diao4 he4 lai2 。
+
+- zong1 gong1 ming2 sheng4 de2 ， qian1 gu3 zhao4 quan2 tai2 。
+
+## 译文
+
+皇帝禁止留辞范，儒林老栋材。方期割牲礼仪，就最近放柱火灾。岁末巢鵀消逝，天秋吊鹤来。宗工铭盛德，千古照泉台。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+皇帝禁止留辞范，儒林老栋材。方期割牲礼仪，就最近放柱火灾。岁末巢鵀消逝，天秋吊鹤来。宗工铭盛德，千古照泉台。
+	* 此部分翻译来自AI，仅供参考

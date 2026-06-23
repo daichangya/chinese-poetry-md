@@ -1,0 +1,45 @@
+---
+id: song-xiang-zeng-si-tu-jian-shi-zhong-song-xuan-xian-wan-ci-si-shou-zong-gong-tian-xia-bao
+title: 赠司徒兼侍中宋宣献挽词四首
+author: 宋庠
+authorSlug: song-xiang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: zeng4 si1 tu2 jian1 shi4 zhong1 song4 xuan1 xian4 wan3 ci2 si4 shou3
+authorPinyin: song4 xiang2
+dynastyPinyin: song4
+canonicalPoemId: 578198
+canonicalAuthorId: 5045
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 宗工天下宝，归葬国西原。
+
+- 野阔箫声苦，云愁旐影昏。
+
+- 如存三事礼，不返九京魂。
+
+- 河海空成泪，难酬国士恩。
+
+## 拼音
+
+- zong1 gong1 tian1 xia4 bao3 ， gui1 zang4 guo2 xi1 yuan2 。
+
+- ye3 kuo4 xiao1 sheng1 ku3 ， yun2 chou2 zhao4 ying3 hun1 。
+
+- ru2 cun2 san1 shi4 li3 ， bu4 fan3 jiu3 jing1 hun2 。
+
+- he2 hai3 kong1 cheng2 lei4 ， nan2 chou2 guo2 shi4 en1 。
+
+## 译文
+
+宗工天下宝，葬在国西原。野宽箫声苦，云愁臃影子昏暗。如有三件礼物，不到九京魂。河海空成泪，很难满足国人对。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+宗工天下宝，葬在国西原。野宽箫声苦，云愁臃影子昏暗。如有三件礼物，不到九京魂。河海空成泪，很难满足国人对。
+	* 此部分翻译来自AI，仅供参考
