@@ -1,0 +1,37 @@
+---
+id: cai-xiang-tai-ling-yuan-shu-shi-ying-wai-zhen-cong-dao-xia-quan
+title: 泰灵园书事
+author: 蔡襄
+authorSlug: cai-xiang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: tai4 ling2 yuan2 shu1 shi4
+authorPinyin: cai4 xiang1
+dynastyPinyin: song4
+canonicalPoemId: 438739
+canonicalAuthorId: 4839
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 楹外珍丛叨下泉，祥符天子泰灵仙。
+
+- 忽逢野老临池水，自剪残花趁岁钱。
+
+## 拼音
+
+- ying2 wai4 zhen1 cong2 dao1 xia4 quan2 ， xiang2 fu2 tian1 zi3 tai4 ling2 xian1 。
+
+- hu1 feng2 ye3 lao3 lin2 chi2 shui3 ， zi4 jian3 can2 hua1 chen4 sui4 qian2 。
+
+## 译文
+
+柱子外珍丛林享受下泉，祥符天子泰灵仙。忽然遇到村民面临池水，从剪破坏花趁年钱。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+柱子外珍丛林享受下泉，祥符天子泰灵仙。忽然遇到村民面临池水，从剪破坏花趁年钱。
+	* 此部分翻译来自AI，仅供参考

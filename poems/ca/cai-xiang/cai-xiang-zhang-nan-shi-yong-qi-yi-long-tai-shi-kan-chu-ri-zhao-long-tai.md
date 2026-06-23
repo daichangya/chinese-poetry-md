@@ -1,0 +1,35 @@
+---
+id: cai-xiang-zhang-nan-shi-yong-qi-yi-long-tai-shi-kan-chu-ri-zhao-long-tai
+title: 漳南十咏 其一 龙台
+author: 蔡襄
+authorSlug: cai-xiang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: zhang1 nan2 shi2 yong3   qi2 yi1   long2 tai2
+authorPinyin: cai4 xiang1
+dynastyPinyin: song4
+canonicalPoemId: 438785
+canonicalAuthorId: 4839
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 试看初日照龙台，白玉堂高锦障开。
+
+- 树色一番连雨净，溪光几曲抱山来。
+
+- 云归深洞天形瘦，风落前村笛弄哀。
+
+- 拟结青楼遍题咏，思王何吝斗量才。
+
+## 拼音
+
+- shi4 kan4 chu1 ri4 zhao4 long2 tai2 ， bai2 yu4 tang2 gao1 jin3 zhang4 kai1 。
+
+- shu4 se4 yi4 fan1 lian2 yu3 jing4 ， xi1 guang1 ji3 qu3 bao4 shan1 lai2 。
+
+- yun2 gui1 shen1 dong4 tian1 xing2 shou4 ， feng1 luo4 qian2 cun1 di2 nong4 ai1 。
+
+- ni3 jie2 qing1 lou2 bian4 ti2 yong3 ， si1 wang2 he2 lin4 dou4 liang2 cai2 。

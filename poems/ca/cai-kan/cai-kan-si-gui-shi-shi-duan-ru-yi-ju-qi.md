@@ -1,0 +1,35 @@
+---
+id: cai-kan-si-gui-shi-shi-duan-ru-yi-ju-qi
+title: 思归
+author: 蔡戡
+authorSlug: cai-kan
+dynasty: 宋
+dynastySlug: song
+titlePinyin: si1 gui1
+authorPinyin: cai4 kan1
+dynastyPinyin: song4
+canonicalPoemId: 454964
+canonicalAuthorId: 12044
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 世事端如一局碁，光阴还若掷梭飞。
+
+- 亡弓休问人得失，佩剑那知熟是非。
+
+- 每对西山看不厌，何当南浦送将归。
+
+- 不如从此扁舟去，江上秋高蟹正肥。
+
+## 拼音
+
+- shi4 shi4 duan1 ru2 yi1 ju2 qi2 ， guang1 yin1 hai2 ruo4 zhi4 suo1 fei1 。
+
+- wang2 gong1 xiu1 wen4 ren2 de2 shi1 ， pei4 jian4 na4 zhi1 shu2 shi4 fei1 。
+
+- mei3 dui4 xi1 shan1 kan4 bu2 yan4 ， he2 dang1 nan2 pu3 song4 jiang1 gui1 。
+
+- bu4 ru2 cong2 ci3 pian1 zhou1 qu4 ， jiang1 shang4 qiu1 gao1 xie4 zheng4 fei2 。
