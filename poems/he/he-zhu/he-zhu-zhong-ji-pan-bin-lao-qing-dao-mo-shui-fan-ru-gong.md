@@ -1,0 +1,45 @@
+---
+id: he-zhu-zhong-ji-pan-bin-lao-qing-dao-mo-shui-fan-ru-gong
+title: 重寄潘豳老
+author: 贺铸
+authorSlug: he-zhu
+dynasty: 宋
+dynastySlug: song
+titlePinyin: zhong4 ji4 pan1 bin1 lao3
+authorPinyin: he4 zhu4
+dynastyPinyin: song4
+canonicalPoemId: 539012
+canonicalAuthorId: 132
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 轻舠蓦水帆如弓，一伸臂顷来江东。
+
+- 聊持美酒致吾子，方事彩衣娱汝翁。
+
+- 悬榻可容它客坐，闭关正与无月同。
+
+- 夙兴行乐竟何有，醒醉阴晴皆梦中。
+
+## 拼音
+
+- qing1 dao1 mo4 shui3 fan1 ru2 gong1 ， yi4 shen1 bi4 qing3 lai2 jiang1 dong1 。
+
+- liao2 chi2 mei3 jiu3 zhi4 wu2 zi3 ， fang1 shi4 cai3 yi1 yu2 ru3 weng1 。
+
+- xuan2 ta4 ke3 rong2 ta1 ke4 zuo4 ， bi4 guan1 zheng4 yu3 wu2 yue4 tong2 。
+
+- su4 xing1 xing2 le4 jing4 he2 you3 ， xing3 zui4 yin1 qing2 jie1 meng4 zhong1 。
+
+## 译文
+
+轻舠熬过水帆如弓，一个伸出手臂近来江东。聊着美酒送给我儿子，当事情彩衣娱乐你父亲。悬榻可以容纳其他客人坐，关关正与无月同。早起做音乐最终会有，醒醉阴晴都在梦中。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+轻舠熬过水帆如弓，一个伸出手臂近来江东。聊着美酒送给我儿子，当事情彩衣娱乐你父亲。悬榻可以容纳其他客人坐，关关正与无月同。早起做音乐最终会有，醒醉阴晴都在梦中。
+	* 此部分翻译来自AI，仅供参考
