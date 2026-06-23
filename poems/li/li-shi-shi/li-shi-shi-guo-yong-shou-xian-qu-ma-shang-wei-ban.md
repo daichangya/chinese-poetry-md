@@ -1,0 +1,45 @@
+---
+id: li-shi-shi-guo-yong-shou-xian-qu-ma-shang-wei-ban
+title: 过永寿县
+author: 李石
+authorSlug: li-shi-shi
+dynasty: 宋
+dynastySlug: song
+titlePinyin: guo4 yong3 shou4 xian4
+authorPinyin: li3 shi2
+dynastyPinyin: song4
+canonicalPoemId: 615755
+canonicalAuthorId: 6584
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 驱马上危坂，暮鞭摇客愁。
+
+- 峰峦惊满目，咫尺拟回头。
+
+- 红树映野店，白云藏县楼。
+
+- 须知此北下，地底风豳州。
+
+## 拼音
+
+- qu1 ma3 shang4 wei1 ban3 ， mu4 bian1 yao2 ke4 chou2 。
+
+- feng1 luan2 jing1 man3 mu4 ， zhi3 chi3 ni3 hui2 tou2 。
+
+- hong2 shu4 ying4 ye3 dian4 ， bai2 yun2 cang2 xian4 lou2 。
+
+- xu1 zhi1 ci3 bei3 xia4 ， di4 di3 feng1 bin1 zhou1 。
+
+## 译文
+
+驱马上危险斜坡，晚上鞭摇客愁。峰峦惊满目，咫尺打算回头。红树照野店，白云藏县楼。必须知道这些北下，地底风豳州。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+驱马上危险斜坡，晚上鞭摇客愁。峰峦惊满目，咫尺打算回头。红树照野店，白云藏县楼。必须知道这些北下，地底风豳州。
+	* 此部分翻译来自AI，仅供参考

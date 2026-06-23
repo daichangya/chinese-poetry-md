@@ -1,0 +1,61 @@
+---
+id: li-ting-rui-qin-yan-si-shou-ti-hu-lu
+title: 禽言四首
+author: 黎廷瑞
+authorSlug: li-ting-rui
+dynasty: 宋
+dynastySlug: song
+titlePinyin: qin2 yan2 si4 shou3
+authorPinyin: li2 ting2 rui4
+dynastyPinyin: song4
+canonicalPoemId: 444441
+canonicalAuthorId: 4837
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 提壶卢，沽美酒，
+
+- 烹肥羜，剪新韭。
+
+- 琵琶胡姬玉纤手，清歌袅袅莺啭柳，
+
+- 尊前劝我千万寿。
+
+- 君不见东家逃亡西家走，
+
+- 惟我台上集亲友。
+
+- 明日得似今日否，
+
+- 酒尽无尽尽再沽。
+
+## 拼音
+
+- ti2 hu2 lu2 ， gu1 mei3 jiu3 ，
+
+- peng1 fei2 zhu4 ， jian3 xin1 jiu3 。
+
+- pi2 pa0 hu2 ji1 yu4 qian4 shou3 ， qing1 ge1 niao3 niao3 ying1 zhuan4 liu3 ，
+
+- zun1 qian2 quan4 wo3 qian1 wan4 shou4 。
+
+- jun1 bu2 jian4 dong1 jia1 tao2 wang2 xi1 jia1 zou3 ，
+
+- wei2 wo3 tai2 shang4 ji2 qin1 you3 。
+
+- ming2 ri4 de2 si4 jin1 ri4 fou3 ，
+
+- jiu3 jin4 wu2 jin4 jin4 zai4 gu1 。
+
+## 译文
+
+提壶卢，沽美酒，煮肥羜，剪新韭菜。琵琶胡姬玉纤细的手，清歌袅袅莺啭柳，尊前劝我一千万寿。君不见东家西家奔走逃亡，我台上集亲爱的朋友。明天得像今天吗？，酒完全没有尽尽再打来。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+提壶卢，沽美酒，煮肥羜，剪新韭菜。琵琶胡姬玉纤细的手，清歌袅袅莺啭柳，尊前劝我一千万寿。君不见东家西家奔走逃亡，我台上集亲爱的朋友。明天得像今天吗？，酒完全没有尽尽再打来。
+	* 此部分翻译来自AI，仅供参考

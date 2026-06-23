@@ -1,0 +1,69 @@
+---
+id: li-ting-rui-tong-qi-jie-chu-you-wu-yuan-deng-si-shi-jia-xing-lou-you-huai-zhang-shi--b5a874f0
+title: 同齐节初游吴园登四时佳兴楼有怀张史君
+author: 黎廷瑞
+authorSlug: li-ting-rui
+dynasty: 宋
+dynastySlug: song
+titlePinyin: tong2 qi2 jie2 chu1 you2 wu2 yuan2 deng1 si4 shi2 jia1 xing1 lou2 you3 huai2 zhang1 shi3 jun1
+authorPinyin: li2 ting2 rui4
+dynastyPinyin: song4
+canonicalPoemId: 444550
+canonicalAuthorId: 4837
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 澹澹池中华，离离池上树。
+
+- 缅怀龙山翁，婆娑此成趣。
+
+- 相招桃源舟，蹇予莫能赴。
+
+- 翁今为飞仙，乘云还帝所。
+
+- 归燕随秋风，翠楼渺烟雾。
+
+- 会面良独难，知心那复遇。
+
+- 空余千岁怀，冷落香碧句。
+
+- 平原若为绣，钟子安可铸。
+
+- 萧萧众芳尽，冉冉流年度。
+
+- 浮生欲如何，三叹出门去。
+
+## 拼音
+
+- dan4 dan4 chi2 zhong1 hua2 ， li2 li2 chi2 shang4 shu4 。
+
+- mian3 huai2 long2 shan1 weng1 ， po2 suo1 ci3 cheng2 qu4 。
+
+- xiang1 zhao1 tao2 yuan2 zhou1 ， jian3 yu3 mo4 neng2 fu4 。
+
+- weng1 jin1 wei4 fei1 xian1 ， cheng2 yun2 hai2 di4 suo3 。
+
+- gui1 yan4 sui2 qiu1 feng1 ， cui4 lou2 miao3 yan1 wu4 。
+
+- hui4 mian4 liang2 du2 nan2 ， zhi1 xin1 na4 fu4 yu4 。
+
+- kong4 yu2 qian1 sui4 huai2 ， leng3 luo4 xiang1 bi4 ju4 。
+
+- ping2 yuan2 ruo4 wei4 xiu4 ， zhong1 zi3 an1 ke3 zhu4 。
+
+- xiao1 xiao1 zhong4 fang1 jin4 ， ran3 ran3 liu2 nian2 du4 。
+
+- fu2 sheng1 yu4 ru2 he2 ， san1 tan4 chu1 men2 qu4 。
+
+## 译文
+
+碧波荡漾池中华，离离池边树。缅怀龙山翁，婆娑这种趣味。相招桃源船，赛我不能去。老人现在是飞仙，乘云回天庭。归燕随秋风，翠楼渺渺烟雾。会面实在更难，知道心那又遇到。空我千年怀，冷落香碧句。平原如果为刺绣，你怎么可以铸钟。萧萧众芳尽，冉冉流年度。浮生要怎么样，三地走出门去。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+碧波荡漾池中华，离离池边树。缅怀龙山翁，婆娑这种趣味。相招桃源船，赛我不能去。老人现在是飞仙，乘云回天庭。归燕随秋风，翠楼渺渺烟雾。会面实在更难，知道心那又遇到。空我千年怀，冷落香碧句。平原如果为刺绣，你怎么可以铸钟。萧萧众芳尽，冉冉流年度。浮生要怎么样，三地走出门去。
+	* 此部分翻译来自AI，仅供参考

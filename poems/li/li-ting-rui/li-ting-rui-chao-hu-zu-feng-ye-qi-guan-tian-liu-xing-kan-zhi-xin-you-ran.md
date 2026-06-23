@@ -1,0 +1,45 @@
+---
+id: li-ting-rui-chao-hu-zu-feng-ye-qi-guan-tian-liu-xing-kan-zhi-xin-you-ran
+title: 巢湖阻风夜起观天
+author: 黎廷瑞
+authorSlug: li-ting-rui
+dynasty: 宋
+dynastySlug: song
+titlePinyin: chao2 hu2 zu3 feng1 ye4 qi3 guan1 tian1
+authorPinyin: li2 ting2 rui4
+dynastyPinyin: song4
+canonicalPoemId: 444503
+canonicalAuthorId: 4837
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 流行坎止信悠然，又泊湖东两日船。
+
+- 客里风光忙似毂，梦中归路直如弦。
+
+- 西风渺渺方摇夜，北斗离离正挂天。
+
+- 寄语龙鱼莫相戏，向来此地亦桑田。
+
+## 拼音
+
+- liu2 xing2 kan3 zhi3 xin4 you1 ran2 ， you4 bo2 hu2 dong1 liang3 ri4 chuan2 。
+
+- ke4 li3 feng1 guang1 mang2 si4 gu1 ， meng4 zhong1 gui1 lu4 zhi2 ru2 xian2 。
+
+- xi1 feng1 miao3 miao3 fang1 yao2 ye4 ， bei3 dou4 li2 li2 zheng4 gua4 tian1 。
+
+- ji4 yu3 long2 yu2 mo4 xiang1 xi4 ， xiang4 lai2 ci3 di4 yi4 sang1 tian2 。
+
+## 译文
+
+流行坑只相信悠然，又在湖东两天船。客里风光忙似车轮，在梦中回到路直如弦。西风渺渺正摇夜，北斗星离离正挂在天上。寄对龙鱼没有互相开玩笑，刚才这地也桑田。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+流行坑只相信悠然，又在湖东两天船。客里风光忙似车轮，在梦中回到路直如弦。西风渺渺正摇夜，北斗星离离正挂在天上。寄对龙鱼没有互相开玩笑，刚才这地也桑田。
+	* 此部分翻译来自AI，仅供参考

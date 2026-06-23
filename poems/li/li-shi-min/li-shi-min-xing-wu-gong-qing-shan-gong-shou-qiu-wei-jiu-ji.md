@@ -1,0 +1,70 @@
+---
+id: li-shi-min-xing-wu-gong-qing-shan-gong-shou-qiu-wei-jiu-ji
+title: 幸武功庆善宫
+author: 李世民
+authorSlug: li-shi-min
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: xing4 wu3 gong1 qing4 shan4 gong1
+authorPinyin: li3 shi4 min2
+dynastyPinyin: tang2
+canonicalPoemId: 405078
+canonicalAuthorId: 3
+tags:
+  - 诗词
+  - 御定全唐诗
+---
+
+## 正文
+
+- 寿丘惟旧迹，酆邑乃前基。
+
+- 粤予承累圣，悬弧亦在兹。
+
+- 弱龄逢运改，提剑郁匡时。
+
+- 指麾八荒定，怀柔万国夷。
+
+- 梯山咸入款，驾海亦来思。
+
+- 单于陪武帐，日逐卫文㮰。
+
+- 端扆朝四岳，无为任百司。
+
+- 霜节明秋景，轻冰结水湄。
+
+- 芸黄遍原隰，禾颖积京畿。
+
+- 共乐还乡宴，欢比大风诗。
+
+## 拼音
+
+- shou4 qiu1 wei2 jiu4 ji4 ， feng1 yi4 nai3 qian2 ji1 。
+
+- yue4 yu3 cheng2 lei4 sheng4 ， xuan2 hu2 yi4 zai4 zi1 。
+
+- ruo4 ling2 feng2 yun4 gai3 ， ti2 jian4 yu4 kuang1 shi2 。
+
+- zhi3 hui1 ba1 huang1 ding4 ， huai2 rou2 wan4 guo2 yi2 。
+
+- ti1 shan1 xian2 ru4 kuan3 ， jia4 hai3 yi4 lai2 si1 。
+
+- chan2 yu2 pei2 wu3 zhang4 ， ri4 zhu2 wei4 wen2 㮰 。
+
+- duan1 yi3 chao2 si4 yue4 ， wu2 wei2 ren4 bai3 si1 。
+
+- shuang1 jie2 ming2 qiu1 jing3 ， qing1 bing1 jie2 shui3 mei2 。
+
+- yun2 huang2 bian4 yuan2 xi2 ， he2 ying3 ji1 jing1 ji1 。
+
+- gong4 le4 huan2 xiang1 yan4 ， huan1 bi3 da4 feng1 shi1 。
+
+## 译文
+
+寿丘只有过去的遗迹，酆邑就前基。粤我继承历代圣人，悬弧也在这。优异逢运改，提剑郁匡时。指挥八方定，怀柔万国夷。登山都进入到，用海也来思考。单于陪武帐，日逐卫文lq.端正屏风朝四面八方，没有被任用百官。霜节明秋景，轻冰结水湄。芸黄遍原野，禾穗积京附近。共乐回家乡宴，欢乐和大风诗。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+寿丘只有过去的遗迹，酆邑就前基。粤我继承历代圣人，悬弧也在这。优异逢运改，提剑郁匡时。指挥八方定，怀柔万国夷。登山都进入到，用海也来思考。单于陪武帐，日逐卫文lq.端正屏风朝四面八方，没有被任用百官。霜节明秋景，轻冰结水湄。芸黄遍原野，禾穗积京附近。共乐回家乡宴，欢乐和大风诗。
+	* 此部分翻译来自AI，仅供参考
