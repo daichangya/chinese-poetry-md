@@ -1,0 +1,45 @@
+---
+id: ceng-ji-ceng-ji-xin-shou-xu-zhi-shan-shi-lang-gui-qu-lai-xi-mo-wen-jin-2
+title: 寄信守徐穉山侍郎
+author: 曾几
+authorSlug: ceng-ji-ceng
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ji4 xin4 shou3 xu2 zhi4 shan1 shi4 lang2
+authorPinyin: ceng2 ji3
+dynastyPinyin: song4
+canonicalPoemId: 562401
+canonicalAuthorId: 4229
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 归去来兮莫问津，有船即买击江滨。
+
+- 自应一学陶元亮，不用更呼祁孔宾。
+
+- 已卜春前春后日，重寻水北水南人。
+
+- 使君为我新茅栋，数有书来意甚真。
+
+## 拼音
+
+- gui1 qu4 lai2 xi1 mo4 wen4 jin1 ， you3 chuan2 ji2 mai3 ji1 jiang1 bin1 。
+
+- zi4 ying4 yi4 xue2 tao2 yuan2 liang4 ， bu2 yong4 geng4 hu1 qi2 kong3 bin1 。
+
+- yi3 bu3 chun1 qian2 chun1 hou4 ri4 ， zhong4 xun2 shui3 bei3 shui3 nan2 ren2 。
+
+- shi3 jun1 wei4 wo3 xin1 mao2 dong4 ， shu4 you3 shu1 lai2 yi4 shen4 zhen1 。
+
+## 译文
+
+归去吧无人问津，有船就买攻击江滨。从响应一个学陶元亮，不用再叫祁孔宾。已经预料春季前春以后，重寻水北水往南流入。使您为我新屋栋，几个有信来心里很真。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+归去吧无人问津，有船就买攻击江滨。从响应一个学陶元亮，不用再叫祁孔宾。已经预料春季前春以后，重寻水北水往南流入。使您为我新屋栋，几个有信来心里很真。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,45 @@
+---
+id: ceng-gong-xian-shan-ting-zhi-jiu-shi-deng-suo-hui-ru-yao-ming
+title: 岘山亭置酒
+author: 曾巩
+authorSlug: ceng-gong
+dynasty: 宋
+dynastySlug: song
+titlePinyin: xian4 shan1 ting2 zhi4 jiu3
+authorPinyin: ceng2 gong3
+dynastyPinyin: song4
+canonicalPoemId: 579331
+canonicalAuthorId: 5052
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 石磴索回入杳冥，筠松高下簇虚亭。
+
+- 春归野路梅争白，雪尽沙田麦正青。
+
+- 马窟飞云临画栋，凤林斜日照疏櫺。
+
+- 长年酒量殊山简，却上篮舆恨独醒。
+
+## 拼音
+
+- shi2 deng4 suo3 hui2 ru4 yao3 ming2 ， yun2 song1 gao1 xia4 cu4 xu1 ting2 。
+
+- chun1 gui1 ye3 lu4 mei2 zheng1 bai2 ， xue3 jin4 sha1 tian2 mai4 zheng4 qing1 。
+
+- ma3 ku1 fei1 yun2 lin2 hua4 dong4 ， feng4 lin2 xie2 ri4 zhao4 shu1 ling2 。
+
+- chang2 nian2 jiu3 liang4 shu1 shan1 jian3 ， que4 shang4 lan2 yu2 hen4 du2 xing3 。
+
+## 译文
+
+石瞪索回入幽暗，筠松高低簇虚亭。春归野路梅争白，雪把沙田麦正青。马窟飞说临画栋，凤林夕阳照疏棂。长年饮酒量不同山简，但上竹轿恨独醒。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+石瞪索回入幽暗，筠松高低簇虚亭。春归野路梅争白，雪把沙田麦正青。马窟飞说临画栋，凤林夕阳照疏棂。长年饮酒量不同山简，但上竹轿恨独醒。
+	* 此部分翻译来自AI，仅供参考

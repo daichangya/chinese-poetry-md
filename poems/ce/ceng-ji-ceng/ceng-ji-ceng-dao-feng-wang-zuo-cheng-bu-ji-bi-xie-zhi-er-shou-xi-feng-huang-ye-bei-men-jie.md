@@ -1,0 +1,37 @@
+---
+id: ceng-ji-ceng-dao-feng-wang-zuo-cheng-bu-ji-bi-xie-zhi-er-shou-xi-feng-huang-ye-bei-men-jie
+title: 道逢王左丞不及避谢之二首
+author: 曾几
+authorSlug: ceng-ji-ceng
+dynasty: 宋
+dynastySlug: song
+titlePinyin: dao4 feng2 wang2 zuo3 cheng2 bu4 ji2 bi4 xie4 zhi1 er4 shou3
+authorPinyin: ceng2 ji3
+dynastyPinyin: song4
+canonicalPoemId: 562314
+canonicalAuthorId: 4229
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 西风黄叶北门街，有句无人为翦裁。
+
+- 冲突前驱公会否，要求一语定敲推。
+
+## 拼音
+
+- xi1 feng1 huang2 ye4 bei3 men2 jie1 ， you3 ju4 wu2 ren2 wei2 jian3 cai2 。
+
+- chong1 tu1 qian2 qu1 gong1 hui4 fou3 ， yao1 qiu2 yi4 yu3 ding4 qiao1 tui1 。
+
+## 译文
+
+西风黄叶北门街，有句无人为剪裁。突击先锋公会吗，要求一对定用推。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+西风黄叶北门街，有句无人为剪裁。突击先锋公会吗，要求一对定用推。
+	* 此部分翻译来自AI，仅供参考

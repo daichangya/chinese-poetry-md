@@ -1,0 +1,45 @@
+---
+id: ceng-feng-li-xi-zai-ye-ru-wei-xiao-zhuan-wei-wu-hang-jia-dian-mo-xun-gao-bao-pan-xiong
+title: 李熙载业儒未效转为五行家
+author: 曾丰
+authorSlug: ceng-feng
+dynasty: 宋
+dynastySlug: song
+titlePinyin: li3 xi1 zai3 ye4 ru2 wei4 xiao4 zhuan3 wei4 wu3 hang2 jia0
+authorPinyin: ceng2 feng1
+dynastyPinyin: song4
+canonicalPoemId: 642614
+canonicalAuthorId: 9210
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 典谟训诰饱蟠胸，一字于君未有功。
+
+- 参到五行刘子政，转为三命李虚中。
+
+- 牛毛有底事非左，蜗角孰何人不东。
+
+- 肯自戚施相从臾，片言可送半生穷。
+
+## 拼音
+
+- dian3 mo2 xun4 gao4 bao3 pan2 xiong1 ， yi2 zi4 yu2 jun1 wei4 you3 gong1 。
+
+- can1 dao4 wu3 hang2 liu2 zi3 zheng4 ， zhuan3 wei4 san1 ming4 li3 xu1 zhong1 。
+
+- niu2 mao2 you3 di3 shi4 fei1 zuo3 ， wo1 jiao3 shu2 he2 ren2 bu4 dong1 。
+
+- ken3 zi4 qi1 shi1 xiang1 cong2 yu2 ， pian4 yan2 ke3 song4 ban4 sheng1 qiong2 。
+
+## 译文
+
+经典训诰饱蟠胸，一个字在你没有成功。三到五行刘子政，转为三命李虚中。牛毛有底事不是左，蜗角谁什么人不向东。肯从驼背一起一会儿，句可以把半辈子穷。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+经典训诰饱蟠胸，一个字在你没有成功。三到五行刘子政，转为三命李虚中。牛毛有底事不是左，蜗角谁什么人不向东。肯从驼背一起一会儿，句可以把半辈子穷。
+	* 此部分翻译来自AI，仅供参考

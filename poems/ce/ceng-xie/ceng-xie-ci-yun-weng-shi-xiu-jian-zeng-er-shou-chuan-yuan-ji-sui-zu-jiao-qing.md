@@ -1,0 +1,45 @@
+---
+id: ceng-xie-ci-yun-weng-shi-xiu-jian-zeng-er-shou-chuan-yuan-ji-sui-zu-jiao-qing
+title: 次韵翁士秀见赠二首
+author: 曾协
+authorSlug: ceng-xie
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ci4 yun4 weng1 shi4 xiu4 jian4 zeng4 er4 shou3
+authorPinyin: ceng2 xie2
+dynastyPinyin: song4
+canonicalPoemId: 616436
+canonicalAuthorId: 6623
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 川原积岁阻交情，佳客常思置驿迎。
+
+- 花县论心尊俎乐，竹宫识面岁时惊。
+
+- 久知书作南征癖，更觉诗同东野清。
+
+- 却敛櫜鞬真退舍，君才屹立五言城。
+
+## 拼音
+
+- chuan1 yuan2 ji1 sui4 zu3 jiao1 qing2 ， jia1 ke4 chang2 si1 zhi4 yi4 ying2 。
+
+- hua1 xian4 lun4 xin1 zun1 zu3 le4 ， zhu2 gong1 shi2 mian4 sui4 shi2 jing1 。
+
+- jiu3 zhi1 shu1 zuo4 nan2 zheng1 pi3 ， geng4 jue2 shi1 tong2 dong1 ye3 qing1 。
+
+- que4 lian3 gao1 jian1 zhen1 tui4 she4 ， jun1 cai2 yi4 li4 wu3 yan2 cheng2 。
+
+## 译文
+
+平原多年阻挠感情，佳客常想设置驿使迎接。花县论心尊俎快乐，竹宫相识一年四季惊。久知书作南征癖，更觉得诗同东野清。却收敛携鞑真后退，你的才能屹立于五言诗城。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+平原多年阻挠感情，佳客常想设置驿使迎接。花县论心尊俎快乐，竹宫相识一年四季惊。久知书作南征癖，更觉得诗同东野清。却收敛携鞑真后退，你的才能屹立于五言诗城。
+	* 此部分翻译来自AI，仅供参考

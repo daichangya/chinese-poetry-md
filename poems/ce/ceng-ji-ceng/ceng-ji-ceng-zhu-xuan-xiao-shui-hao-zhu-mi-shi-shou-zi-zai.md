@@ -1,0 +1,45 @@
+---
+id: ceng-ji-ceng-zhu-xuan-xiao-shui-hao-zhu-mi-shi-shou-zi-zai
+title: 竹轩小睡
+author: 曾几
+authorSlug: ceng-ji-ceng
+dynasty: 宋
+dynastySlug: song
+titlePinyin: zhu2 xuan1 xiao3 shui4
+authorPinyin: ceng2 ji3
+dynastyPinyin: song4
+canonicalPoemId: 455743
+canonicalAuthorId: 4229
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 好竹迷时手自栽，一轩寒碧谢尘埃。
+
+- 清风政为我辈设，小睡忽从何许来。
+
+- 已用官茶麾得去，莫因家酿挽令回。
+
+- 呼儿静扫黄叶径，吾与此君俱快哉。
+
+## 拼音
+
+- hao3 zhu2 mi2 shi2 shou3 zi4 zai1 ， yi4 xuan1 han2 bi4 xie4 chen2 ai1 。
+
+- qing1 feng1 zheng4 wei4 wo3 bei4 she4 ， xiao3 shui4 hu1 cong2 he2 xu3 lai2 。
+
+- yi3 yong4 guan1 cha2 hui1 de2 qu4 ， mo4 yin1 jia1 niang4 wan3 ling4 hui2 。
+
+- hu1 er2 jing4 sao3 huang2 ye4 jing4 ， wu2 yu3 ci3 jun1 ju4 kuai4 zai1 。
+
+## 译文
+
+好竹迷时手自栽，一轩寒碧谢尘埃。清风政为我们设，小睡忽然从哪里来。已用官茶指挥得去，没有人在家酿造着令回。呼儿静扫黄叶经，我和这些你都快啊。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+好竹迷时手自栽，一轩寒碧谢尘埃。清风政为我们设，小睡忽然从哪里来。已用官茶指挥得去，没有人在家酿造着令回。呼儿静扫黄叶经，我和这些你都快啊。
+	* 此部分翻译来自AI，仅供参考

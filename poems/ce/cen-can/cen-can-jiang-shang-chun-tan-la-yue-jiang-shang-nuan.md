@@ -1,0 +1,46 @@
+---
+id: cen-can-jiang-shang-chun-tan-la-yue-jiang-shang-nuan
+title: 江上春叹
+author: 岑参
+authorSlug: cen-can
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: jiang1 shang4 chun1 tan4
+authorPinyin: cen2 can1
+dynastyPinyin: tang2
+canonicalPoemId: 386543
+canonicalAuthorId: 171
+tags:
+  - 诗词
+  - 御定全唐诗
+---
+
+## 正文
+
+- 腊月江上暖，南桥新柳枝。
+
+- 春风触处到，忆得故园时。
+
+- 终日不如意，出门何所之。
+
+- 从人觅颜色，自笑弱男儿。
+
+## 拼音
+
+- la4 yue4 jiang1 shang4 nuan3 ， nan2 qiao2 xin1 liu3 zhi1 。
+
+- chun1 feng1 chu4 chu4 dao4 ， yi4 de2 gu4 yuan2 shi2 。
+
+- zhong1 ri4 bu4 ru2 yi4 ， chu1 men2 he2 suo3 zhi1 。
+
+- cong2 ren2 mi4 yan2 se4 ， zi4 xiao4 ruo4 nan2 er2 。
+
+## 译文
+
+腊月江上暖，南桥新柳枝。春风到处到，忆得故园时期。整天不如意，出门什么的。从人寻找颜色，自笑着弱男子。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+腊月江上暖，南桥新柳枝。春风到处到，忆得故园时期。整天不如意，出门什么的。从人寻找颜色，自笑着弱男子。
+	* 此部分翻译来自AI，仅供参考

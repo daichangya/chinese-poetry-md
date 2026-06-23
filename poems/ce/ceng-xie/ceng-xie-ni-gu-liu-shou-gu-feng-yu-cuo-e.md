@@ -1,0 +1,45 @@
+---
+id: ceng-xie-ni-gu-liu-shou-gu-feng-yu-cuo-e
+title: 拟古六首
+author: 曾协
+authorSlug: ceng-xie
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ni3 gu3 liu4 shou3
+authorPinyin: ceng2 xie2
+dynastyPinyin: song4
+canonicalPoemId: 616344
+canonicalAuthorId: 6623
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 孤峰郁嵯峨，千古常峻峙。
+
+- 下有回环水，流浪无定止。
+
+- 如何深远意，尽寄七弦裹。
+
+- 妾意极高山，君心甚流水。
+
+## 拼音
+
+- gu1 feng1 yu4 cuo2 e2 ， qian1 gu3 chang2 jun4 zhi4 。
+
+- xia4 you3 hui2 huan2 shui3 ， liu2 lang4 wu2 ding4 zhi3 。
+
+- ru2 he2 shen1 yuan3 yi4 ， jin4 ji4 qi1 xian2 guo3 。
+
+- qie4 yi4 ji2 gao1 shan1 ， jun1 xin1 shen4 liu2 shui3 。
+
+## 译文
+
+珠峰郁嵯峨，千古常严峻对峙。下有循环水，流浪不定止。怎样深远意义，将七根弦包裹寄。妾意极高山，你心情非常流水。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+珠峰郁嵯峨，千古常严峻对峙。下有循环水，流浪不定止。怎样深远意义，将七根弦包裹寄。妾意极高山，你心情非常流水。
+	* 此部分翻译来自AI，仅供参考

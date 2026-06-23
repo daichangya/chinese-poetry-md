@@ -1,0 +1,45 @@
+---
+id: ceng-ji-ceng-song-wang-xuan-zi-fu-lu-ling-shou-qiu-feng-song-yuan-lu-ling-shou
+title: 送王宣子赴庐陵守
+author: 曾几
+authorSlug: ceng-ji-ceng
+dynasty: 宋
+dynastySlug: song
+titlePinyin: song4 wang2 xuan1 zi3 fu4 lu2 ling2 shou3
+authorPinyin: ceng2 ji3
+dynastyPinyin: song4
+canonicalPoemId: 456068
+canonicalAuthorId: 4229
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 秋风送远庐陵守，车骑光华鬓未斑。
+
+- 早岁名高天下士，同时身到海中山。
+
+- 淹回二水分流处，邂逅千岩竞秀间。
+
+- 行矣衰翁如未死，锦衣白昼候君还。
+
+## 拼音
+
+- qiu1 feng1 song4 yuan3 lu2 ling2 shou3 ， che1 qi2 guang1 hua2 bin4 wei4 ban1 。
+
+- zao3 sui4 ming2 gao1 tian1 xia4 shi4 ， tong2 shi2 shen1 dao4 hai3 zhong1 shan1 。
+
+- yan1 hui2 er4 shui3 fen4 liu2 chu4 ， xie4 hou4 qian1 yan2 jing4 xiu4 jian1 。
+
+- xing2 yi3 shuai1 weng1 ru2 wei4 si3 ， jin3 yi1 bai2 zhou4 hou4 jun1 hai2 。
+
+## 译文
+
+秋季风送远庐陵郡守，车骑光华鬓未斑。早年美名天下士，同时身到海中山。滞回两水分流处，邂逅千岩竞秀之间。行了衰翁如还没死，锦衣卫白天等你回来。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+秋季风送远庐陵郡守，车骑光华鬓未斑。早年美名天下士，同时身到海中山。滞回两水分流处，邂逅千岩竞秀之间。行了衰翁如还没死，锦衣卫白天等你回来。
+	* 此部分翻译来自AI，仅供参考

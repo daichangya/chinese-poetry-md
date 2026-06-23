@@ -1,0 +1,37 @@
+---
+id: ceng-feng-ying-cang-shi-li-jian-cheng-ba-jue-miao-ling-tu-shou-duo-ke-ming
+title: 迎仓使李监丞八绝
+author: 曾丰
+authorSlug: ceng-feng
+dynasty: 宋
+dynastySlug: song
+titlePinyin: ying2 cang1 shi3 li3 jian1 cheng2 ba1 jue2
+authorPinyin: ceng2 feng1
+dynastyPinyin: song4
+canonicalPoemId: 641157
+canonicalAuthorId: 9210
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 妙龄徒手掇科名，发轫风云九万程。
+
+- 捷径何妨聊决起，通途自分且徐行。
+
+## 拼音
+
+- miao4 ling2 tu2 shou3 duo1 ke1 ming2 ， fa1 ren4 feng1 yun2 jiu3 wan4 cheng2 。
+
+- jie2 jing4 he2 fang2 liao2 jue2 qi3 ， tong1 tu2 zi4 fen1 qie3 xu2 xing2 。
+
+## 译文
+
+妙龄只手拿科名，发端风云万程。捷径何妨暂且决定起，通道路由分而且慢行。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+妙龄只手拿科名，发端风云万程。捷径何妨暂且决定起，通道路由分而且慢行。
+	* 此部分翻译来自AI，仅供参考
