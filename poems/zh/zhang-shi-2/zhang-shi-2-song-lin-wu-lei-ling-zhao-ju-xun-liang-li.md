@@ -1,0 +1,45 @@
+---
+id: zhang-shi-2-song-lin-wu-lei-ling-zhao-ju-xun-liang-li
+title: 送临武雷令
+author: 张栻
+authorSlug: zhang-shi-2
+dynasty: 宋
+dynastySlug: song
+titlePinyin: song4 lin2 wu3 lei2 ling4
+authorPinyin: zhang1 shi4
+dynastyPinyin: song4
+canonicalPoemId: 596733
+canonicalAuthorId: 5362
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 诏举循良吏，时资抚字功。
+
+- 人情平易看，治道古今同。
+
+- 绿野新耕盛，潢池旧羽空。
+
+- 便应君课最，名姓御屏中。
+
+## 拼音
+
+- zhao4 ju3 xun2 liang2 li4 ， shi2 zi1 fu3 zi4 gong1 。
+
+- ren2 qing2 ping2 yi4 kan4 ， zhi4 dao4 gu3 jin1 tong2 。
+
+- lü4 ye3 xin1 geng1 sheng4 ， huang2 chi2 jiu4 yu3 kong1 。
+
+- bian4 ying4 jun1 ke4 zui4 ， ming2 xing4 yu4 ping2 zhong1 。
+
+## 译文
+
+下诏推举贤良官吏，当时钱抚字功。人心平易看，治道古今同。绿野新耕盛，池池旧型空。就应您课最，姓名御屏中。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+下诏推举贤良官吏，当时钱抚字功。人心平易看，治道古今同。绿野新耕盛，池池旧型空。就应您课最，姓名御屏中。
+	* 此部分翻译来自AI，仅供参考

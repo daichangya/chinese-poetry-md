@@ -1,0 +1,54 @@
+---
+id: zhang-xiao-zhong-zhe-gu-tian-dou-kou-shao-tou-chun-yi-nong
+title: 鹧鸪天·豆蔻梢头春意浓
+author: 张孝忠
+authorSlug: zhang-xiao-zhong
+dynasty: 宋
+dynastySlug: song
+titlePinyin: zhe4 gu1 tian1 · dou4 kou4 shao1 tou2 chun1 yi4 nong2
+authorPinyin: zhang1 xiao4 zhong1
+dynastyPinyin: song4
+canonicalPoemId: 337296
+canonicalAuthorId: 12004
+rhythmic: 鹧鸪天
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 豆蔻梢头春意浓。
+
+- 薄罗衫子柳腰风。
+
+- 人间乍识瑶池似，天上浑疑月殿空。
+
+- 眉黛小，髻云松。
+
+- 背人欲整又还慵。
+
+- 多应没个藏娇处，满镜桃花带雨红。
+
+## 拼音
+
+- dou4 kou4 shao1 tou2 chun1 yi4 nong2 。
+
+- bao2 luo2 shan1 zi3 liu3 yao1 feng1 。
+
+- ren2 jian1 zha4 shi2 yao2 chi2 si4 ， tian1 shang4 hun2 yi2 yue4 dian4 kong1 。
+
+- mei2 dai4 xiao3 ， ji4 yun2 song1 。
+
+- bei4 ren2 yu4 zheng3 you4 hai2 yong1 。
+
+- duo1 ying4 mei2 ge4 cang2 jiao1 chu4 ， man3 jing4 tao2 hua1 dai4 yu3 hong2 。
+
+## 译文
+
+“豆蔻”梢头春意浓。轻罗衫子柳腰风。人间瑶池似忽识，天上浑怀疑月殿空。眉黛小，发髻雪松。背人想整又慵。多响应没个藏娇处，满镜子桃花带雨红。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+“豆蔻”梢头春意浓。轻罗衫子柳腰风。人间瑶池似忽识，天上浑怀疑月殿空。眉黛小，发髻雪松。背人想整又慵。多响应没个藏娇处，满镜子桃花带雨红。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,61 @@
+---
+id: zhang-shuo-song-guo-dai-fu-yuan-zhen-zai-shi-tu-bo-quan-rong-fei-dong-xian
+title: 送郭大夫元振再使吐蕃
+author: 张说
+authorSlug: zhang-shuo
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: song4 guo1 dai4 fu0 yuan2 zhen4 zai4 shi3 tu3 bo1
+authorPinyin: zhang1 shuo1
+dynastyPinyin: tang2
+canonicalPoemId: 397826
+canonicalAuthorId: 642
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 犬戎废东献，汉使驰西极。
+
+- 长策问酋渠，猜阻自夷殛。
+
+- 容发徂边岁，旌裘敝海色。
+
+- 五年一见家，妻子不相识。
+
+- 武库兵犹动，金方事未息。
+
+- 远图待才智，苦节输筋力。
+
+- 脱刀赠分手，书带加餐食。
+
+- 知君万里侯，立功在异域。
+
+## 拼音
+
+- quan3 rong2 fei4 dong1 xian4 ， han4 shi3 chi2 xi1 ji2 。
+
+- chang2 ce4 wen4 qiu2 qu2 ， cai1 zu3 zi4 yi2 ji2 。
+
+- rong2 fa1 cu2 bian1 sui4 ， jing1 qiu2 bi4 hai3 se4 。
+
+- wu3 nian2 yi2 jian4 jia1 ， qi1 zi3 bu4 xiang1 shi2 。
+
+- wu3 ku4 bing1 you2 dong4 ， jin1 fang1 shi4 wei4 xi1 。
+
+- yuan3 tu2 dai4 cai2 zhi4 ， ku3 jie2 shu1 jin1 li4 。
+
+- tuo1 dao1 zeng4 fen1 shou3 ， shu1 dai4 jia1 can1 shi2 。
+
+- zhi1 jun1 wan4 li3 hou2 ， li4 gong1 zai4 yi4 yu4 。
+
+## 译文
+
+西戎废弃束献，汉朝使者驰西极。长策问首领，猜疑自己被杀。容发往边一年，他的大衣敝海色。五年出现一次的，妻子不认识。武库中的兵器还动，金正在事没有停止。长远打算等待才智，苦节输体力。脱刀送给分手，书带加餐吃。知道您万里侯，立功在异国他乡。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+西戎废弃束献，汉朝使者驰西极。长策问首领，猜疑自己被杀。容发往边一年，他的大衣敝海色。五年出现一次的，妻子不认识。武库中的兵器还动，金正在事没有停止。长远打算等待才智，苦节输体力。脱刀送给分手，书带加餐吃。知道您万里侯，立功在异国他乡。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,85 @@
+---
+id: zhang-shi-2-guang-han-huang-zhong-bing-ji-zhuan-yun-shi-zhi-zhi-dong-zuo-ting-bian-y-f5f0e164
+title: 广汉黄仲秉即转运使治之东作亭扁以楚翠盖取
+author: 张栻
+authorSlug: zhang-shi-2
+dynasty: 宋
+dynastySlug: song
+titlePinyin: guang3 han4 huang2 zhong4 bing3 ji2 zhuan3 yun4 shi3 zhi4 zhi1 dong1 zuo4 ting2 bian3 yi3 chu3 cui4 gai4 qu3
+authorPinyin: zhang1 shi4
+dynastyPinyin: song4
+canonicalPoemId: 597072
+canonicalAuthorId: 5362
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 维衡屹南荒，作镇自开辟。
+
+- 蟠根结地厚，面势倚空碧。
+
+- 陂陀数州境，高下相接迹。
+
+- 麓山乃其趾，神秀固未极。
+
+- 定王十里城，处长上见山色。
+
+- 知谁长在眼，嗟此尘中客。
+
+- 观风君独暇，延纳到几席。
+
+- 得句恍忘言，寄兴渺今昔。
+
+- 自君之东来，民瘼极探索。
+
+- 仁言彻九关，宁惧虎豹厄。
+
+- 诹询遍南亩，民肥吾则瘠。
+
+- 筑亭一舒啸，逮此百忧隙。
+
+- 看山傥不愧，隐几亦聊适。
+
+- 寄语后来者，此意当无斁。
+
+## 拼音
+
+- wei2 heng2 yi4 nan2 huang1 ， zuo4 zhen4 zi4 kai1 pi4 。
+
+- pan2 gen1 jie2 di4 hou4 ， mian4 shi4 yi3 kong1 bi4 。
+
+- bei1 tuo2 shu4 zhou1 jing4 ， gao1 xia4 xiang1 jie1 ji4 。
+
+- lu4 shan1 nai3 qi2 zhi3 ， shen2 xiu4 gu4 wei4 ji2 。
+
+- ding4 wang2 shi2 li3 cheng2 ， chu4 zhang3 shang4 jian4 shan1 se4 。
+
+- zhi1 shui2 chang2 zai4 yan3 ， jie1 ci3 chen2 zhong1 ke4 。
+
+- guan1 feng1 jun1 du2 xia2 ， yan2 na4 dao4 ji3 xi2 。
+
+- de2 ju4 huang3 wang4 yan2 ， ji4 xing1 miao3 jin1 xi1 。
+
+- zi4 jun1 zhi1 dong1 lai2 ， min2 mo4 ji2 tan4 suo3 。
+
+- ren2 yan2 che4 jiu3 guan1 ， ning2 ju4 hu3 bao4 e4 。
+
+- zou1 xun2 bian4 nan2 mu3 ， min2 fei2 wu2 ze2 ji2 。
+
+- zhu4 ting2 yi4 shu1 xiao4 ， dai3 ci3 bai3 you1 xi4 。
+
+- kan4 shan1 tang3 bu2 kui4 ， yin3 ji3 yi4 liao2 shi4 。
+
+- ji4 yu3 hou4 lai2 zhe3 ， ci3 yi4 dang1 wu2 yi4 。
+
+## 译文
+
+维衡屹南荒，镇守自开辟。蟠根结地丰厚，面对形势靠空碧。山坡几州境，高低相接痕迹。麓山是他的脚趾，神秀本来没有极。定王十里城，在长上看到山色。知道谁长在眼，可叹这尘世中的客。观察你只有时间，引入到几席。得到句恍惚忘言，寄兴遥远过去现在。从你的东西来，百姓的疾苦极力探索。仁说彻九关，哪怕虎豹困境。讯问遍南亩，百姓肥我就瘦。筑亭一长啸，逮捕这百忧矛盾。看山如不羞愧，隐几也聊到。寄对后来者，这种想法会不会厌烦。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+维衡屹南荒，镇守自开辟。蟠根结地丰厚，面对形势靠空碧。山坡几州境，高低相接痕迹。麓山是他的脚趾，神秀本来没有极。定王十里城，在长上看到山色。知道谁长在眼，可叹这尘世中的客。观察你只有时间，引入到几席。得到句恍惚忘言，寄兴遥远过去现在。从你的东西来，百姓的疾苦极力探索。仁说彻九关，哪怕虎豹困境。讯问遍南亩，百姓肥我就瘦。筑亭一长啸，逮捕这百忧矛盾。看山如不羞愧，隐几也聊到。寄对后来者，这种想法会不会厌烦。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,61 @@
+---
+id: zhang-shuo-song-song-xiu-yuan-zhi-shu-ren-qiu-you-shu-sun-yi
+title: 送宋休远之蜀任
+author: 张说
+authorSlug: zhang-shuo
+dynasty: 唐
+dynastySlug: tang
+titlePinyin: song4 song4 xiu1 yuan3 zhi1 shu3 ren4
+authorPinyin: zhang1 shuo1
+dynastyPinyin: tang2
+canonicalPoemId: 397886
+canonicalAuthorId: 642
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 求友殊损益，行道异穷申。
+
+- 缀我平生气，吐赠薄游人。
+
+- 结恩事明主，忍爱远辞亲。
+
+- 色丽成都俗，膏腴蜀水滨。
+
+- 如何从宦子，坚白共缁磷。
+
+- 日月千龄旦，河山万族春。
+
+- 怀铅书瑞府，横草事边尘。
+
+- 不及安人吏，能令王化淳。
+
+## 拼音
+
+- qiu2 you3 shu1 sun3 yi4 ， hang2 dao4 yi4 qiong2 shen1 。
+
+- zhui4 wo3 ping2 sheng1 qi4 ， tu3 zeng4 bao2 you2 ren2 。
+
+- jie2 en1 shi4 ming2 zhu3 ， ren3 ai4 yuan3 ci2 qin1 。
+
+- se4 li4 cheng2 du1 su2 ， gao1 yu2 shu3 shui3 bin1 。
+
+- ru2 he2 cong2 huan4 zi3 ， jian1 bai2 gong4 zi1 lin2 。
+
+- ri4 yue4 qian1 ling2 dan4 ， he2 shan1 wan4 zu2 chun1 。
+
+- huai2 qian1 shu1 rui4 fu3 ， heng2 cao3 shi4 bian1 chen2 。
+
+- bu4 ji2 an1 ren2 li4 ， neng2 ling4 wang2 hua4 chun2 。
+
+## 译文
+
+寻找朋友特别损益，行道异穷申。牵制我平生气，吐赠出游人。结恩事明主，忍爱远辞亲。色美丽成都民俗，肥沃蜀水边。如何从宦子，坚白同黑磷。日月千龄早晨，河山万族春。编撰书籍海瑞府，横草事边境。不及安吏民，能让国王教化淳厚。
+	* 此部分翻译来自AI，仅供参考
+
+## 赏析
+
+寻找朋友特别损益，行道异穷申。牵制我平生气，吐赠出游人。结恩事明主，忍爱远辞亲。色美丽成都民俗，肥沃蜀水边。如何从宦子，坚白同黑磷。日月千龄早晨，河山万族春。编撰书籍海瑞府，横草事边境。不及安吏民，能让国王教化淳厚。
+	* 此部分翻译来自AI，仅供参考

@@ -1,0 +1,35 @@
+---
+id: zhang-xiao-xiang-wu-bo-cheng-sheng-sun-jiao-you-gong-wei-zhi-xi-fan-qi-ren-fen-yun-wo-yi--1c83f148
+title: 吴伯承生孙交游共为之喜凡七人分韵我亦从来识英物试教啼看定何如某得啼定字 其一
+author: 张孝祥
+authorSlug: zhang-xiao-xiang
+dynasty: 宋
+dynastySlug: song
+titlePinyin: wu2 bo2 cheng2 sheng1 sun1 jiao1 you2 gong4 wei4 zhi1 xi3 fan2 qi1 ren2 fen1 yun4 wo3 yi4 cong2 lai2 shi2 ying1 wu4 shi4 jiao4 ti2 kan4 ding4 he2 ru2 mou3 de2 ti2 ding4 zi4   qi2 yi1
+authorPinyin: zhang1 xiao4 xiang2
+dynastyPinyin: song4
+canonicalPoemId: 515401
+canonicalAuthorId: 5217
+tags:
+  - 诗词
+---
+
+## 正文
+
+- 得孙当赞喜，唤客便分题。
+
+- 楼鼓方行夜，天星恰照奎。
+
+- 熊罴通梦寐，孔释自提携。
+
+- 汤饼那应晚，吾来为止啼。
+
+## 拼音
+
+- de2 sun1 dang1 zan4 xi3 ， huan4 ke4 bian4 fen1 ti2 。
+
+- lou2 gu3 fang1 xing2 ye4 ， tian1 xing1 qia4 zhao4 kui2 。
+
+- xiong2 pi2 tong1 meng4 mei4 ， kong3 shi4 zi4 ti2 xie2 。
+
+- tang1 bing3 na4 ying4 wan3 ， wu2 lai2 wei2 zhi3 ti2 。
